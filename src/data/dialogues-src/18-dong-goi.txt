@@ -1,0 +1,73 @@
+## dong-goi|Đóng gói, giao hàng
+
+# Cách đóng gói
+A 这些产品怎么包装？|Những sản phẩm này đóng gói thế nào?
+B 每十个放一个盒子。|Cứ mười cái cho vào một hộp.
+A 一个箱子放几个盒子？|Một thùng để mấy hộp?
+B 放十个盒子，一箱一百个。|Để mười hộp, mỗi thùng một trăm cái.
+
+# Dán nhãn thùng
+A 每个箱子都要贴标签。|Mỗi thùng đều phải dán tem.
+B 标签上写什么？|Trên tem ghi gì?
+A 产品名称、数量和生产日期。|Tên sản phẩm, số lượng và ngày sản xuất.
+B 好，我打印出来贴上。|Vâng, tôi in ra rồi dán.
+
+# Dùng băng keo
+A 箱子要用胶带封好。|Thùng phải dán kín bằng băng keo.
+B 要封几道？|Phải dán mấy lớp?
+A 上面和下面各封两道。|Phía trên và phía dưới mỗi nơi dán hai lớp.
+B 明白，这样比较结实。|Hiểu rồi, như vậy chắc hơn.
+
+# Đếm số lượng
+A 请再数一遍，这箱够一百个吗？|Xin đếm lại một lượt, thùng này đủ một trăm cái không?
+B 我数了两遍，少了两个。|Tôi đếm hai lần, thiếu hai cái.
+A 少的在哪里？|Thiếu ở đâu?
+B 可能放到别的箱子里了。|Có thể đã bỏ nhầm vào thùng khác.
+
+# Bao bì bị hỏng
+A 这个包装盒破了。|Hộp bao bì này bị rách.
+B 里面的产品有没有问题？|Sản phẩm bên trong có sao không?
+A 没有，只是盒子坏了。|Không, chỉ là hộp bị hỏng.
+B 换一个新盒子，重新包好。|Đổi hộp mới, đóng gói lại.
+
+# Xếp pallet
+A 箱子要整齐地放在托盘上。|Thùng phải xếp gọn gàng lên pallet.
+B 一个托盘放多少箱？|Một pallet xếp bao nhiêu thùng?
+A 最多四十箱，高度不能超过一米五。|Tối đa bốn mươi thùng, chiều cao không quá một mét rưỡi.
+B 好，我用薄膜把它们缠紧。|Được, tôi quấn màng bọc cho chặt.
+
+# Chuẩn bị xuất hàng
+A 明天早上八点货车来装货。|Tám giờ sáng mai xe tải đến chất hàng.
+B 货准备好了吗？|Hàng chuẩn bị xong chưa?
+A 还有两个托盘没包好。|Còn hai pallet chưa đóng xong.
+B 我下班以前一定做完。|Trước khi tan ca tôi nhất định làm xong.
+
+# Phiếu giao hàng
+A 发货单要几份？|Phiếu giao hàng cần mấy bản?
+B 三份，客户一份，司机一份，我们一份。|Ba bản, khách một bản, tài xế một bản, chúng ta một bản.
+A 数量和单子上的一样吗？|Số lượng có giống trên phiếu không?
+B 一样，我已经核对过了。|Giống, tôi đã đối chiếu rồi.
+
+# Chất hàng lên xe
+A 装车的时候要小心，不要碰坏产品。|Khi chất hàng lên xe phải cẩn thận, đừng làm hỏng sản phẩm.
+B 重的放下面，轻的放上面，对吧？|Cái nặng để dưới, cái nhẹ để trên, đúng không?
+A 对，还要用绳子固定好。|Đúng, còn phải buộc dây cố định.
+B 明白，我再检查一遍。|Hiểu rồi, tôi kiểm tra lại một lượt.
+
+# Giao hàng chậm
+A 货车晚了两个小时才到。|Xe tải đến muộn hai tiếng.
+B 现在装车还来得及吗？|Bây giờ chất hàng còn kịp không?
+A 来得及，大家加快速度。|Còn kịp, mọi người tăng tốc.
+B 好，我多叫几个人来帮忙。|Được, tôi gọi thêm mấy người đến giúp.
+
+# Xuất khẩu
+A 这批货要出口到越南。|Lô hàng này xuất khẩu sang Việt Nam.
+B 需要什么文件？|Cần những giấy tờ gì?
+A 发票、装箱单和合同。|Hóa đơn, phiếu đóng gói và hợp đồng.
+B 我现在去找业务员要。|Tôi đi xin nhân viên kinh doanh ngay.
+
+# Khách xác nhận nhận hàng
+A 客户已经收到货了。|Khách đã nhận được hàng rồi.
+B 他们有什么反馈吗？|Họ có phản hồi gì không?
+A 包装很好，数量也对。|Đóng gói rất tốt, số lượng cũng đúng.
+B 太好了，辛苦大家了。|Tốt quá, mọi người vất vả rồi.

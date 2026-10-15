@@ -1,0 +1,124 @@
+[
+  {
+    "id": "gr-001", "title": "请 + động từ", "pattern": "请 + (你/您) + V", "level": "office", "reviewed": false,
+    "explain": "Dùng 请 để đề nghị lịch sự, tương đương \"xin/vui lòng\". Đặt ngay trước động từ. Thêm 一下 sau động từ để câu nhẹ nhàng hơn.",
+    "mistake": { "wrong": "你检查一下网络。", "right": "请你检查一下网络。", "why": "Tiếng Việt chỉ cần giọng nhẹ là đủ lịch sự. Tiếng Trung công sở thiếu 请 hoặc 麻烦 nghe như ra lệnh." },
+    "examples": [
+      { "sc": "请检查一下网络。", "py": "qǐng jiǎn chá yī xià wǎng luò", "vi": "Xin kiểm tra mạng giúp." },
+      { "sc": "请稍等，我马上处理。", "py": "qǐng shāo děng wǒ mǎ shàng chǔ lǐ", "vi": "Xin chờ chút, tôi xử lý ngay." }
+    ],
+    "exercises": [
+      { "tokens": ["请", "把", "备份", "发给", "我"], "py": "qǐng bǎ bèi fèn fā gěi wǒ", "vi": "Xin gửi bản sao lưu cho tôi." },
+      { "tokens": ["请", "先", "检查", "网络"], "py": "qǐng xiān jiǎn chá wǎng luò", "vi": "Xin kiểm tra mạng trước." }
+    ]
+  },
+  {
+    "id": "gr-002", "title": "麻烦 + người + động từ", "pattern": "麻烦 + 您 + (帮我) + V", "level": "office", "reviewed": false,
+    "explain": "麻烦 ở đây là động từ \"làm phiền\", dùng để nhờ vả lịch sự trước khi người kia làm. Cảm ơn nói sau, hoặc khi việc xong.",
+    "mistake": { "wrong": "谢谢你帮我开通权限。", "right": "麻烦您帮我开通权限，谢谢。", "why": "Người Việt hay cảm ơn trước khi nhờ. Người Trung nhờ bằng 麻烦 trước, rồi mới cảm ơn." },
+    "examples": [
+      { "sc": "麻烦您帮我开通权限。", "py": "má fan nín bāng wǒ kāi tōng quán xiàn", "vi": "Phiền anh mở quyền giúp tôi." },
+      { "sc": "麻烦你再确认一下。", "py": "má fan nǐ zài què rèn yī xià", "vi": "Phiền bạn xác nhận lại một lần nữa." }
+    ],
+    "exercises": [
+      { "tokens": ["麻烦", "您", "帮", "我", "开通", "权限"], "py": "má fan nín bāng wǒ kāi tōng quán xiàn", "vi": "Phiền anh mở quyền giúp tôi." }
+    ]
+  },
+  {
+    "id": "gr-003", "title": "能不能 + động từ?", "pattern": "能不能 + (把…) + V ?", "level": "office", "reviewed": false,
+    "explain": "Hỏi xem có thể làm được không, nghe mềm hơn câu trần. 能 chỉ khả năng theo hoàn cảnh hoặc việc được phép; 会 là biết làm hoặc sẽ xảy ra.",
+    "mistake": { "wrong": "你会把日志发给我吗？", "right": "你能不能把日志发给我？", "why": "会 nghĩa là biết làm (kỹ năng) hoặc sẽ xảy ra. Nhờ ai đó làm một việc thì dùng 能 hoặc 可以." },
+    "examples": [
+      { "sc": "能不能今天修好？", "py": "néng bu néng jīn tiān xiū hǎo", "vi": "Hôm nay sửa xong được không?" },
+      { "sc": "你能不能把日志发给我？", "py": "nǐ néng bu néng bǎ rì zhì fā gěi wǒ", "vi": "Bạn gửi log cho tôi được không?" }
+    ],
+    "exercises": [
+      { "tokens": ["能不能", "把", "日志", "发给", "我"], "py": "néng bu néng bǎ rì zhì fā gěi wǒ", "vi": "Có thể gửi log cho tôi không?" }
+    ]
+  },
+  {
+    "id": "gr-004", "title": "Câu chữ 把", "pattern": "S + 把 + O + V + kết quả/了", "level": "office", "reviewed": false,
+    "explain": "Đưa đối tượng lên trước động từ để nhấn mạnh việc xử lý nó. Sau động từ luôn phải có thành phần: 了, kết quả (好, 完), hoặc hướng.",
+    "mistake": { "wrong": "我把工单提交。", "right": "我把工单提交了。", "why": "Động từ trong câu 把 không đứng trơ trọi. Phải có 了 hoặc bổ ngữ kết quả phía sau." },
+    "examples": [
+      { "sc": "我把工单提交了。", "py": "wǒ bǎ gōng dān tí jiāo le", "vi": "Tôi đã gửi lệnh sản xuất rồi." },
+      { "sc": "请把标签纸换好。", "py": "qǐng bǎ biāo qiān zhǐ huàn hǎo", "vi": "Xin thay giấy tem xong." }
+    ],
+    "exercises": [
+      { "tokens": ["我", "把", "数据库", "重启", "了"], "py": "wǒ bǎ shù jù kù chóng qǐ le", "vi": "Tôi đã khởi động lại cơ sở dữ liệu." },
+      { "tokens": ["请", "把", "标签纸", "换好"], "py": "qǐng bǎ biāo qiān zhǐ huàn hǎo", "vi": "Xin thay giấy tem xong." }
+    ]
+  },
+  {
+    "id": "gr-005", "title": "Câu bị động 被", "pattern": "O + 被 + (người) + V + 了", "level": "office", "reviewed": false,
+    "explain": "Vật bị tác động đứng đầu câu, 被 đứng trước động từ. Thường dùng cho việc không mong muốn như bị khóa, bị xóa, bị lỗi.",
+    "mistake": { "wrong": "数据误删被了。", "right": "数据被误删了。", "why": "被 luôn đứng trước động từ, không đứng sau. Chủ ngữ là thứ chịu tác động." },
+    "examples": [
+      { "sc": "账号被锁了。", "py": "zhàng hào bèi suǒ le", "vi": "Tài khoản bị khóa rồi." },
+      { "sc": "数据被误删了。", "py": "shù jù bèi wù shān le", "vi": "Dữ liệu bị xóa nhầm." }
+    ],
+    "exercises": [
+      { "tokens": ["数据", "被", "误删", "了"], "py": "shù jù bèi wù shān le", "vi": "Dữ liệu bị xóa nhầm." }
+    ]
+  },
+  {
+    "id": "gr-006", "title": "Từ chỉ thời gian đứng trước động từ", "pattern": "S + thời gian + V + O", "level": "office", "reviewed": false,
+    "explain": "Trong tiếng Trung, từ chỉ thời gian (明天, 今晚, 昨天) đứng sau chủ ngữ và trước động từ, không đặt cuối câu như tiếng Việt.",
+    "mistake": { "wrong": "我检查服务器明天上午。", "right": "我明天上午检查服务器。", "why": "Tiếng Việt nói \"tôi kiểm tra máy chủ sáng mai\". Tiếng Trung đưa thời gian lên trước động từ." },
+    "examples": [
+      { "sc": "我今晚维护数据库。", "py": "wǒ jīn wǎn wéi hù shù jù kù", "vi": "Tối nay tôi bảo trì cơ sở dữ liệu." },
+      { "sc": "他明天上午来机房。", "py": "tā míng tiān shàng wǔ lái jī fáng", "vi": "Sáng mai anh ấy đến phòng máy." }
+    ],
+    "exercises": [
+      { "tokens": ["我", "明天", "上午", "检查", "服务器"], "py": "wǒ míng tiān shàng wǔ jiǎn chá fú wù qì", "vi": "Sáng mai tôi kiểm tra máy chủ." }
+    ]
+  },
+  {
+    "id": "gr-007", "title": "已经…了 và 还没(有)…", "pattern": "已经 + V + 了  /  还没(有) + V", "level": "office", "reviewed": false,
+    "explain": "已经…了 báo việc đã xảy ra. 还没(有) báo việc chưa xảy ra. Phủ định của quá khứ dùng 没(有), không dùng 不.",
+    "mistake": { "wrong": "工单不下发到产线。", "right": "工单还没有下发到产线。", "why": "Việc chưa xảy ra phải phủ định bằng 没(有). 不 dùng cho thói quen, ý muốn hoặc tương lai." },
+    "examples": [
+      { "sc": "问题已经解决了。", "py": "wèn tí yǐ jīng jiě jué le", "vi": "Vấn đề đã giải quyết xong." },
+      { "sc": "工单还没有下发。", "py": "gōng dān hái méi yǒu xià fā", "vi": "Lệnh sản xuất chưa được phát xuống." }
+    ],
+    "exercises": [
+      { "tokens": ["工单", "还", "没有", "下发", "到", "产线"], "py": "gōng dān hái méi yǒu xià fā dào chǎn xiàn", "vi": "Lệnh sản xuất chưa phát xuống chuyền." }
+    ]
+  },
+  {
+    "id": "gr-008", "title": "先…再…", "pattern": "先 + V1，再 + V2", "level": "office", "reviewed": false,
+    "explain": "Chỉ thứ tự hai việc khi hướng dẫn hoặc đề nghị: làm việc này trước rồi mới làm việc kia.",
+    "mistake": { "wrong": "请备份然后升级。", "right": "请先备份，再升级。", "why": "Khi dặn thứ tự phải làm, dùng 先…再…. 然后 hay dùng khi kể lại việc đã xảy ra." },
+    "examples": [
+      { "sc": "先备份，再升级。", "py": "xiān bèi fèn zài shēng jí", "vi": "Sao lưu trước, rồi hãy nâng cấp." },
+      { "sc": "请先保存数据，再重启。", "py": "qǐng xiān bǎo cún shù jù zài chóng qǐ", "vi": "Xin lưu dữ liệu trước rồi hãy khởi động lại." }
+    ],
+    "exercises": [
+      { "tokens": ["请", "先", "备份", "再", "升级"], "py": "qǐng xiān bèi fèn zài shēng jí", "vi": "Xin sao lưu trước rồi hãy nâng cấp." }
+    ]
+  },
+  {
+    "id": "gr-009", "title": "如果…就…", "pattern": "如果 + điều kiện，就 + kết quả", "level": "office", "reviewed": false,
+    "explain": "Câu điều kiện \"nếu… thì…\". Vế sau cần 就 để nối với điều kiện.",
+    "mistake": { "wrong": "如果网络断了，联系我。", "right": "如果网络断了，就联系我。", "why": "Tiếng Việt có thể bỏ \"thì\". Tiếng Trung nên giữ 就 ở vế sau để câu trọn." },
+    "examples": [
+      { "sc": "如果网络断了，就联系我。", "py": "rú guǒ wǎng luò duàn le jiù lián xì wǒ", "vi": "Nếu mạng đứt thì liên hệ tôi." },
+      { "sc": "如果有问题，就马上通知我。", "py": "rú guǒ yǒu wèn tí jiù mǎ shàng tōng zhī wǒ", "vi": "Nếu có vấn đề thì báo tôi ngay." }
+    ],
+    "exercises": [
+      { "tokens": ["如果", "出错", "就", "重启", "服务"], "py": "rú guǒ chū cuò jiù chóng qǐ fú wù", "vi": "Nếu lỗi thì khởi động lại dịch vụ." }
+    ]
+  },
+  {
+    "id": "gr-010", "title": "正在 + động từ", "pattern": "S + 正在 + V (+ O)", "level": "office", "reviewed": false,
+    "explain": "Báo việc đang diễn ra ngay lúc nói. 了 báo hoàn thành, không dùng để chỉ \"đang\".",
+    "mistake": { "wrong": "我在排查了问题。", "right": "我正在排查问题。", "why": "\"Đang làm\" dùng 正在 hoặc 在, không thêm 了. 了 nghĩa là việc đã xong." },
+    "examples": [
+      { "sc": "我正在排查问题。", "py": "wǒ zhèng zài pái chá wèn tí", "vi": "Tôi đang rà soát vấn đề." },
+      { "sc": "系统正在升级，请稍等。", "py": "xì tǒng zhèng zài shēng jí qǐng shāo děng", "vi": "Hệ thống đang nâng cấp, xin chờ chút." }
+    ],
+    "exercises": [
+      { "tokens": ["系统", "正在", "升级", "请", "稍等"], "py": "xì tǒng zhèng zài shēng jí qǐng shāo děng", "vi": "Hệ thống đang nâng cấp, xin chờ chút." }
+    ]
+  }
+]

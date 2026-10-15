@@ -1,0 +1,121 @@
+## giao-ca|Đổi ca, bàn giao
+
+# Bàn giao đơn giản
+A 我来接班了，今天忙不忙？|Tôi đến nhận ca đây, hôm nay có bận không?
+B 不太忙，机器都正常。|Không bận lắm, máy móc đều bình thường.
+A 有没有什么要注意的？|Có điều gì cần chú ý không?
+B 三号机有点慢，你看一下。|Máy số 3 hơi chậm, bạn xem thử.
+
+# Hỏi tình hình ca trước
+A 上一班的情况怎么样？|Tình hình ca trước thế nào?
+B 一切顺利，产量也不错。|Mọi việc thuận lợi, sản lượng cũng tốt.
+A 有没有人请假？|Có ai xin nghỉ không?
+B 有一个，小王今天没来。|Có một người, hôm nay Tiểu Vương không đến.
+
+# Ghi sổ giao ca
+A 交接本在哪儿？|Sổ bàn giao ở đâu?
+B 在桌子上，我已经写好了。|Ở trên bàn, tôi đã ghi xong rồi.
+A 好，我来看看。|Được, để tôi xem.
+B 有问题你可以打电话给我。|Có vấn đề gì bạn có thể gọi điện cho tôi.
+
+# Đổi ca với đồng nghiệp
+A 这个星期六你能和我换班吗？|Thứ Bảy này bạn đổi ca với tôi được không?
+B 可以，你有什么事吗？|Được, bạn có việc gì à?
+A 我朋友结婚，我想去参加。|Bạn tôi cưới, tôi muốn đi dự.
+B 没问题，下次你帮我。|Không vấn đề, lần sau bạn giúp tôi nhé.
+
+# Xin quản lý duyệt đổi ca
+A 经理，我想和小李换班，可以吗？|Quản lý, tôi muốn đổi ca với Tiểu Lý, được không?
+B 你们都同意了吗？|Hai bạn đều đồng ý rồi chứ?
+A 同意了，我们已经说好了。|Đồng ý rồi, chúng tôi đã thỏa thuận xong.
+B 好，请在表上写清楚日期。|Được, hãy ghi rõ ngày tháng vào bảng.
+
+# Vật tư còn lại
+A 现在还剩多少材料？|Bây giờ còn lại bao nhiêu vật liệu?
+B 大概够用两个小时。|Khoảng đủ dùng hai tiếng.
+A 仓库什么时候送新的来？|Khi nào kho mang cái mới đến?
+B 他们说九点以前送到。|Họ nói trước chín giờ sẽ đưa tới.
+
+# Máy đang chạy lô nào
+A 这台机器现在做哪个订单？|Máy này bây giờ đang làm đơn nào?
+B 做的是一百号订单。|Đang làm đơn số một trăm.
+A 做了多少了？|Làm được bao nhiêu rồi?
+B 一千个，还要做两千个。|Một nghìn cái, còn phải làm hai nghìn cái nữa.
+
+# Báo sự cố ca trước
+A 昨天晚上有没有出问题？|Tối qua có xảy ra sự cố gì không?
+B 有，两点的时候停电了。|Có, lúc hai giờ bị mất điện.
+A 停了多长时间？|Mất điện bao lâu?
+B 大概十五分钟，现在已经恢复了。|Khoảng mười lăm phút, bây giờ đã khôi phục rồi.
+
+# Dặn dò khi bàn giao
+A 下班前我要把工作交给你。|Trước khi tan ca tôi phải bàn giao công việc cho bạn.
+B 好的，请你说一下重点。|Vâng, bạn nói qua những điểm chính nhé.
+A 第一，四号线要检查产品。|Thứ nhất, chuyền số 4 phải kiểm tra sản phẩm.
+B 第二呢？|Còn thứ hai?
+
+# Ca đêm giao lại
+A 夜班辛苦了，现在交给你们。|Ca đêm vất vả rồi, bây giờ giao lại cho các bạn.
+B 谢谢，夜里有什么特别的事吗？|Cảm ơn, ban đêm có việc gì đặc biệt không?
+A 没有，只是有台机器发出奇怪的声音。|Không, chỉ là có một cái máy phát ra tiếng lạ.
+B 好，我们会重点检查。|Được, chúng tôi sẽ kiểm tra kỹ.
+
+# Thiếu người ca sau
+A 下一班的人还没到，怎么办？|Người ca sau vẫn chưa đến, làm sao đây?
+B 你先别走，我打电话问问。|Bạn đừng đi vội, để tôi gọi điện hỏi.
+A 我已经工作十个小时了。|Tôi đã làm việc mười tiếng rồi.
+B 我知道，我马上安排人来接你。|Tôi biết, tôi sẽ sắp xếp người đến thay bạn ngay.
+
+# Kiểm tra dụng cụ khi nhận ca
+A 接班以后要先检查工具。|Sau khi nhận ca phải kiểm tra dụng cụ trước.
+B 工具都在，只是少了一把螺丝刀。|Dụng cụ đều có, chỉ thiếu một cái tua vít.
+A 你上班的时候用过吗？|Lúc bạn làm có dùng không?
+B 用过，我记得放在工具箱里了。|Có dùng, tôi nhớ đã để trong hộp dụng cụ.
+
+# Giao ca có sự cố chưa xử lý
+A 这个问题还没有处理好，交给你了。|Vấn đề này vẫn chưa xử lý xong, giao cho bạn.
+B 问题是什么？|Vấn đề là gì?
+A 五号机的温度有时候太高。|Nhiệt độ của máy số 5 đôi khi quá cao.
+B 我记下来，一会儿叫维修人员看看。|Tôi ghi lại, lát nữa gọi nhân viên bảo trì xem.
+
+# Báo số liệu sản xuất
+A 我先汇报一下本班的产量。|Tôi báo cáo sản lượng của ca này trước.
+B 好，请说。|Vâng, xin nói.
+A 一共完成了两千五百件，合格率百分之九十八。|Tổng cộng hoàn thành hai nghìn năm trăm sản phẩm, tỷ lệ đạt chín mươi tám phần trăm.
+B 不错，比昨天好。|Khá tốt, tốt hơn hôm qua.
+
+# Phân công công việc ca mới
+A 这个班你负责包装，小王负责检查。|Ca này bạn phụ trách đóng gói, Tiểu Vương phụ trách kiểm tra.
+B 明白，需要几个人帮忙？|Hiểu rồi, cần mấy người giúp?
+A 两个人就够了。|Hai người là đủ.
+B 好，我现在就去安排。|Vâng, tôi đi sắp xếp ngay.
+
+# Ca đêm cần chú ý an toàn
+A 晚上光线不好，你们要注意安全。|Buổi tối ánh sáng không tốt, các bạn phải chú ý an toàn.
+B 我们会戴好安全帽，不会乱走。|Chúng tôi sẽ đội mũ bảo hiểm, không đi lung tung.
+A 有紧急情况马上给我打电话。|Có tình huống khẩn cấp thì gọi điện cho tôi ngay.
+B 好的，您放心。|Vâng, anh yên tâm.
+
+# Xác nhận đã nhận bàn giao
+A 所有事情都交代清楚了吗？|Mọi việc đã dặn dò rõ ràng chưa?
+B 清楚了，我已经在交接本上签字。|Rõ rồi, tôi đã ký tên vào sổ bàn giao.
+A 那我先下班了。|Vậy tôi tan ca trước nhé.
+B 好，路上小心。|Vâng, đi đường cẩn thận.
+
+# Giao ca khi máy đang bảo trì
+A 六号机正在保养，大概一小时后能用。|Máy số 6 đang bảo dưỡng, khoảng một tiếng nữa dùng được.
+B 保养完了谁来试机？|Bảo dưỡng xong ai chạy thử?
+A 维修师傅会试，试好以后会通知你。|Thợ bảo trì sẽ chạy thử, thử xong sẽ báo bạn.
+B 好，我先安排其他人做别的工作。|Được, tôi sắp xếp người khác làm việc khác trước.
+
+# Giao ca trong dịp cao điểm
+A 最近订单很多，这个班要加快速度。|Gần đây đơn hàng nhiều, ca này phải tăng tốc độ.
+B 速度快了，质量会不会受影响？|Tăng tốc rồi chất lượng có bị ảnh hưởng không?
+A 质量不能降低，检查要更仔细。|Chất lượng không được giảm, kiểm tra phải kỹ hơn.
+B 明白，我马上和大家说。|Hiểu rồi, tôi nói với mọi người ngay.
+
+# Lưu ý trước khi giao ca
+A 交班前请把地面打扫干净。|Trước khi giao ca xin hãy dọn sạch sàn.
+B 好的，废料放在哪里？|Vâng, phế liệu để ở đâu?
+A 放在门口的红色箱子里。|Để vào thùng màu đỏ ở cửa.
+B 我知道了，这就去做。|Tôi biết rồi, đi làm ngay đây.

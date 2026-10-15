@@ -1,0 +1,73 @@
+## quet-ma|Quét mã, tem nhãn
+
+# Súng quét không đọc
+A 扫码枪扫不出来。|Súng quét không đọc ra.
+B 你对准条码了吗？|Bạn đã ngắm đúng mã vạch chưa?
+A 对准了，可是没有声音。|Ngắm đúng rồi, nhưng không có tiếng.
+B 可能没电了，换一个试试。|Có thể hết pin, thử đổi cái khác.
+
+# Cách quét
+A 请问，扫码枪怎么用？|Xin hỏi, súng quét dùng thế nào?
+B 按住按钮，对准条码。|Giữ nút bấm, ngắm vào mã vạch.
+A 听到“嘀”的一声就可以了吗？|Nghe tiếng “bíp” là được à?
+B 对，屏幕上也会有记录。|Đúng, trên màn hình cũng sẽ có ghi nhận.
+
+# Mã vạch bị mờ
+A 这个条码印得太淡了。|Mã vạch này in nhạt quá.
+B 能手动输入吗？|Nhập tay được không?
+A 可以，条码下面有数字。|Được, dưới mã vạch có dãy số.
+B 但是要小心，别输错。|Nhưng phải cẩn thận, đừng nhập sai.
+
+# Quét trùng
+A 系统显示这个条码已经扫过了。|Hệ thống hiển thị mã vạch này đã quét rồi.
+B 是不是重复扫了一次？|Có phải quét lặp một lần không?
+A 我没有扫两次，是新的产品。|Tôi không quét hai lần, là sản phẩm mới.
+B 那可能是标签印重复了。|Vậy có thể tem in trùng.
+
+# Quét sai thùng
+A 我扫错箱子了，怎么取消？|Tôi quét nhầm thùng, hủy thế nào?
+B 在系统里点“撤销”。|Trong hệ thống bấm “hoàn tác”.
+A 撤销以后要重新扫吗？|Hoàn tác xong có phải quét lại không?
+B 要，扫对的那个箱子。|Phải, quét đúng cái thùng cần quét.
+
+# Thay giấy tem
+A 标签纸用完了，怎么换？|Giấy tem hết rồi, thay thế nào?
+B 先打开盖子，把旧的拿出来。|Mở nắp trước, lấy cuộn cũ ra.
+A 新的放进去以后呢？|Đặt cuộn mới vào rồi sao?
+B 把纸拉出来，关好盖子，按校准键。|Kéo giấy ra, đóng nắp, bấm nút hiệu chuẩn.
+
+# In sai nội dung
+A 标签上的日期打印错了。|Ngày tháng trên tem in sai rồi.
+B 错在哪里？|Sai ở đâu?
+A 应该是五月，印成了六月。|Phải là tháng Năm, in thành tháng Sáu.
+B 先停止打印，检查系统的日期。|Dừng in trước, kiểm tra ngày của hệ thống.
+
+# Dán tem lệch
+A 这些标签贴歪了。|Những tem này dán bị lệch.
+B 客户可能会不满意。|Khách có thể không hài lòng.
+A 要撕下来重新贴吗？|Có phải bóc ra dán lại không?
+B 要，注意位置要一样。|Phải, chú ý vị trí phải giống nhau.
+
+# Máy đọc RFID
+A 门口的读卡器没有反应。|Đầu đọc thẻ ở cửa không phản ứng.
+B 你把卡放得近一点试试。|Bạn đưa thẻ lại gần hơn thử xem.
+A 还是不行，灯也不亮。|Vẫn không được, đèn cũng không sáng.
+B 可能是电源有问题，我去看看。|Có thể nguồn có vấn đề, tôi đi xem.
+
+# Nhập số lô
+A 扫描产品的时候，要先扫批号吗？|Khi quét sản phẩm, có phải quét số lô trước không?
+B 对，先扫批号，再扫产品。|Đúng, quét số lô trước rồi quét sản phẩm.
+A 如果顺序反了会怎么样？|Nếu ngược thứ tự thì sao?
+B 系统会提示错误。|Hệ thống sẽ báo lỗi.
+
+# Quét mã khi báo sản lượng
+A 每完成一箱，都要扫码报工。|Mỗi khi hoàn thành một thùng đều phải quét mã báo sản lượng.
+B 如果忘了扫，会怎么样？|Nếu quên quét thì sao?
+A 产量不会被记录，工资也会少。|Sản lượng sẽ không được ghi nhận, lương cũng bị ít đi.
+B 明白了，我一定记住。|Hiểu rồi, tôi nhất định nhớ.
+
+# Đồng bộ dữ liệu từ PDA
+A 手持终端的数据没有上传。|Dữ liệu thiết bị cầm tay chưa được tải lên.
+B 无线网络连上了吗？|Wi-Fi đã kết nối chưa?
+A 连上了，可是一直在同步。|Kết nối rồi, nhưng cứ đang đồng bộ mãi.
+B 重新启动一下，再试一次。|Khởi động lại một lần, thử lại.

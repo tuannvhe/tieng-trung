@@ -1,0 +1,127 @@
+## dao-tao|Đào tạo nhân viên mới
+
+# Ngày đầu đi làm
+A 你好，欢迎来我们公司。|Xin chào, chào mừng bạn đến công ty chúng tôi.
+B 谢谢，我是新来的。|Cảm ơn, tôi là người mới.
+A 我带你去看看工厂。|Tôi dẫn bạn đi xem nhà máy.
+B 好，请多关照。|Vâng, mong được giúp đỡ nhiều.
+
+# Giới thiệu đồng nghiệp
+A 这是我们的主管，姓李。|Đây là tổ trưởng của chúng ta, họ Lý.
+B 李主管，您好。|Chào tổ trưởng Lý.
+A 你好，欢迎你。|Chào bạn, hoan nghênh bạn.
+B 我会努力工作的。|Tôi sẽ cố gắng làm việc.
+
+# Nhận đồng phục
+A 这是你的工作服和工作牌。|Đây là đồng phục và thẻ nhân viên của bạn.
+B 工作牌要一直戴着吗？|Thẻ nhân viên có phải luôn đeo không?
+A 对，进工厂必须戴。|Đúng, vào nhà máy bắt buộc phải đeo.
+B 我明白了，谢谢。|Tôi hiểu rồi, cảm ơn.
+
+# Tham quan nhà máy
+A 这里是办公室，那边是车间。|Đây là văn phòng, bên kia là xưởng.
+B 食堂在哪里？|Căng tin ở đâu?
+A 在车间后面，中午在那儿吃饭。|Ở phía sau xưởng, buổi trưa ăn cơm ở đó.
+B 厕所呢？|Còn nhà vệ sinh?
+
+# Học vận hành
+A 今天我教你用这台机器。|Hôm nay tôi dạy bạn dùng cái máy này.
+B 好的，我先看您做。|Vâng, tôi xem anh làm trước.
+A 你看清楚了吗？|Bạn nhìn rõ chưa?
+B 看清楚了，我想试一下。|Nhìn rõ rồi, tôi muốn thử một lần.
+
+# Làm sai
+A 对不起，我做错了。|Xin lỗi, tôi làm sai rồi.
+B 没关系，新人都会犯错。|Không sao, người mới ai cũng mắc lỗi.
+A 应该怎么做才对？|Phải làm thế nào mới đúng?
+B 先按这里，再按那里。|Bấm chỗ này trước, rồi bấm chỗ kia.
+
+# Hỏi khi không hiểu
+A 请问这个词是什么意思？|Xin hỏi từ này nghĩa là gì?
+B 是“检查”的意思。|Là nghĩa “kiểm tra”.
+A 我还不太懂汉语，请慢一点。|Tôi chưa hiểu tiếng Trung lắm, xin chậm một chút.
+B 好，不要紧，我们慢慢来。|Được, không sao, chúng ta từ từ.
+
+# Phiên dịch giúp
+A 他说的我听不懂，你能帮我翻译吗？|Anh ấy nói tôi nghe không hiểu, bạn dịch giúp tôi được không?
+B 可以，他说明天早上要开会。|Được, anh ấy nói sáng mai có họp.
+A 开会在哪里？|Họp ở đâu?
+B 在二楼会议室，八点开始。|Ở phòng họp tầng hai, tám giờ bắt đầu.
+
+# Học tên các bộ phận
+A 这个部门是做什么的？|Bộ phận này làm gì?
+B 是质量部，检查产品。|Là bộ phận chất lượng, kiểm tra sản phẩm.
+A 那边呢？|Còn bên kia?
+B 那边是仓库，放材料和产品。|Bên kia là kho, chứa vật liệu và sản phẩm.
+
+# Quy tắc công ty
+A 公司有哪些规定？|Công ty có những quy định nào?
+B 不能迟到，不能玩手机。|Không được đi muộn, không được chơi điện thoại.
+A 还有吗？|Còn gì nữa không?
+B 要穿工作服，要注意安全。|Phải mặc đồng phục, phải chú ý an toàn.
+
+# Thử việc
+A 你的试用期是三个月。|Thời gian thử việc của bạn là ba tháng.
+B 试用期工资是多少？|Lương thử việc là bao nhiêu?
+A 是正式工资的百分之八十。|Là tám mươi phần trăm lương chính thức.
+B 好，我明白了。|Vâng, tôi hiểu rồi.
+
+# Học quy trình
+A 做每个产品都要按流程。|Làm mỗi sản phẩm đều phải theo quy trình.
+B 流程在哪里可以看到？|Quy trình xem ở đâu?
+A 在每台机器旁边都有。|Cạnh mỗi máy đều có.
+B 好，我先把它们读一遍。|Vâng, tôi đọc qua một lượt trước.
+
+# Kiểm tra sau đào tạo
+A 培训结束了，明天有一个考试。|Đào tạo xong rồi, mai có một bài thi.
+B 考什么内容？|Thi nội dung gì?
+A 考安全规定和机器的使用方法。|Thi quy định an toàn và cách sử dụng máy.
+B 我今天晚上要好好复习。|Tối nay tôi phải ôn bài thật kỹ.
+
+# Báo kết quả thi
+A 你的考试成绩出来了。|Điểm thi của bạn có rồi.
+B 我考了多少分？|Tôi được bao nhiêu điểm?
+A 九十分，非常好。|Chín mươi điểm, rất tốt.
+B 太好了，谢谢老师。|Tốt quá, cảm ơn thầy.
+
+# Chọn người hướng dẫn
+A 我给你安排一个师傅。|Tôi sắp xếp cho bạn một sư phụ.
+B 师傅是谁？|Sư phụ là ai?
+A 是小张，他有五年经验。|Là Tiểu Trương, anh ấy có năm năm kinh nghiệm.
+B 太好了，我可以向他学很多。|Tốt quá, tôi có thể học được nhiều từ anh ấy.
+
+# Học cách ghi chép
+A 每天下班前要写工作记录。|Mỗi ngày trước khi tan ca phải viết nhật ký công việc.
+B 写什么内容？|Viết nội dung gì?
+A 写你做了什么，遇到了什么问题。|Viết bạn đã làm gì, gặp vấn đề gì.
+B 我汉字写得不好，可以用越南语吗？|Chữ Hán tôi viết chưa tốt, có thể dùng tiếng Việt không?
+
+# Học đọc bảng thông báo
+A 墙上的通知你看了吗？|Thông báo trên tường bạn đã xem chưa?
+B 看了，但是有几个字不认识。|Xem rồi, nhưng có mấy chữ tôi không biết.
+A 哪几个？我告诉你。|Mấy chữ nào? Tôi nói cho bạn biết.
+B 这个，还有这个。|Chữ này, còn chữ này nữa.
+
+# Cách báo cáo vấn đề
+A 遇到问题，你要马上告诉主管。|Gặp vấn đề, bạn phải báo ngay cho tổ trưởng.
+B 我怎么说比较好？|Tôi nói thế nào thì tốt?
+A 先说发生了什么，再说你的想法。|Nói trước chuyện gì đã xảy ra, rồi nói suy nghĩ của bạn.
+B 我记住了，谢谢。|Tôi nhớ rồi, cảm ơn.
+
+# Được khen
+A 你这个星期做得很好。|Tuần này bạn làm rất tốt.
+B 谢谢主管，是师傅教得好。|Cảm ơn tổ trưởng, là do sư phụ dạy tốt.
+A 下个星期你可以自己操作了。|Tuần sau bạn có thể tự vận hành.
+B 我会更加努力。|Tôi sẽ cố gắng hơn nữa.
+
+# Chuyển thành nhân viên chính thức
+A 恭喜你，你可以转正了。|Chúc mừng bạn, bạn có thể thành nhân viên chính thức rồi.
+B 真的吗？太好了！|Thật à? Tốt quá!
+A 下个月开始，工资也会提高。|Từ tháng sau, lương cũng sẽ tăng.
+B 谢谢公司给我这个机会。|Cảm ơn công ty đã cho tôi cơ hội này.
+
+# Lớp tiếng Trung của công ty
+A 公司每周有汉语课，你想参加吗？|Công ty mỗi tuần có lớp tiếng Trung, bạn muốn tham gia không?
+B 想，什么时候上课？|Muốn, khi nào học?
+A 星期二和星期四晚上七点。|Thứ Ba và thứ Năm lúc bảy giờ tối.
+B 太好了，我一定来。|Tốt quá, tôi nhất định đến.

@@ -1,0 +1,121 @@
+## an-toan|An toàn lao động
+
+# Phải đội mũ bảo hộ
+A 进车间要戴安全帽。|Vào xưởng phải đội mũ bảo hộ.
+B 对不起，我忘了戴。|Xin lỗi, tôi quên đội.
+A 帽子在门口，请自己拿。|Mũ ở cửa, xin tự lấy.
+B 谢谢，我现在去拿。|Cảm ơn, tôi đi lấy ngay.
+
+# Không được hút thuốc
+A 这里不能抽烟。|Ở đây không được hút thuốc.
+B 对不起，我不知道。|Xin lỗi, tôi không biết.
+A 你看，墙上有写。|Bạn xem, trên tường có viết.
+B 我明白了，我去外面抽。|Tôi hiểu rồi, tôi ra ngoài hút.
+
+# Lối thoát hiểm
+A 你知道安全出口在哪儿吗？|Bạn có biết lối thoát hiểm ở đâu không?
+B 不知道，请你告诉我。|Không biết, xin bạn chỉ cho tôi.
+A 在那边，绿色的门就是。|Ở bên kia, cánh cửa màu xanh lá chính là lối thoát.
+B 好，我记住了。|Được, tôi nhớ rồi.
+
+# Bình chữa cháy
+A 灭火器放在哪里？|Bình chữa cháy để ở đâu?
+B 在每个门口都有一个。|Ở mỗi cửa đều có một cái.
+A 你会用吗？|Bạn biết dùng không?
+B 会，上个月学过。|Biết, tháng trước đã học.
+
+# Bị thương nhẹ
+A 你的手怎么了？|Tay bạn sao vậy?
+B 刚才被机器碰到了。|Vừa rồi bị máy chạm vào.
+A 快去医务室，让医生看看。|Mau đến phòng y tế để bác sĩ xem.
+B 好，我现在就去。|Vâng, tôi đi ngay.
+
+# Sàn nhà bị trơn
+A 小心，地上有水，很滑。|Cẩn thận, dưới sàn có nước, rất trơn.
+B 谢谢提醒，我看到了。|Cảm ơn đã nhắc, tôi thấy rồi.
+A 谁来把水擦干？|Ai lau khô nước?
+B 我来，请等一下。|Để tôi, xin chờ một chút.
+
+# Mang giày bảo hộ
+A 你穿的是拖鞋吗？|Bạn đang đi dép lê à?
+B 是的，我的皮鞋坏了。|Vâng, giày da của tôi hỏng rồi.
+A 车间里必须穿安全鞋。|Trong xưởng bắt buộc phải đi giày bảo hộ.
+B 好，我去仓库领一双。|Được, tôi đến kho lĩnh một đôi.
+
+# Dây an toàn khi làm việc trên cao
+A 你在高处工作，系好安全带了吗？|Bạn làm việc trên cao, đã thắt dây an toàn chưa?
+B 系好了，我检查过两遍。|Thắt xong rồi, tôi đã kiểm tra hai lần.
+A 工具也要用绳子固定好。|Dụng cụ cũng phải buộc dây cố định.
+B 是，掉下来会很危险。|Vâng, rơi xuống sẽ rất nguy hiểm.
+
+# Điện giật
+A 这根电线破了，千万别摸。|Sợi dây điện này bị rách, tuyệt đối đừng sờ.
+B 我马上关掉电源。|Tôi tắt nguồn điện ngay.
+A 然后通知电工来修。|Sau đó báo thợ điện đến sửa.
+B 好，我先在这里放一个警示牌。|Được, tôi đặt một biển cảnh báo ở đây trước.
+
+# Tiếng ồn lớn
+A 车间里太吵了，你要戴耳塞。|Trong xưởng ồn quá, bạn phải đeo nút tai.
+B 耳塞在哪里领？|Nút tai lĩnh ở đâu?
+A 在安全员那里，免费的。|Ở chỗ nhân viên an toàn, miễn phí.
+B 谢谢，长期的噪音对耳朵不好。|Cảm ơn, tiếng ồn lâu dài không tốt cho tai.
+
+# Diễn tập phòng cháy
+A 明天下午三点有消防演习。|Chiều mai ba giờ có diễn tập phòng cháy.
+B 所有人都要参加吗？|Tất cả mọi người đều phải tham gia à?
+A 对，听到警报就马上离开车间。|Đúng, nghe còi báo động là rời khỏi xưởng ngay.
+B 集合的地点在哪里？|Nơi tập trung ở đâu?
+
+# Máy móc phải có người trông
+A 机器运转的时候，人不能离开。|Khi máy đang chạy, người không được rời đi.
+B 我只是去喝一口水。|Tôi chỉ đi uống một ngụm nước thôi.
+A 也不行，出了事故谁负责？|Cũng không được, xảy ra tai nạn ai chịu trách nhiệm?
+B 您说得对，我以后会注意。|Anh nói đúng, sau này tôi sẽ chú ý.
+
+# Báo cáo nguy hiểm tiềm ẩn
+A 我发现那个护栏松了。|Tôi phát hiện lan can đó bị lỏng.
+B 谢谢你告诉我，很危险。|Cảm ơn bạn đã báo, rất nguy hiểm.
+A 要不要先把这个区域围起来？|Có nên rào khu vực này lại trước không?
+B 要，我马上叫维修人员来处理。|Nên, tôi gọi nhân viên bảo trì đến xử lý ngay.
+
+# Hóa chất nguy hiểm
+A 这种化学品有毒，要小心。|Loại hóa chất này có độc, phải cẩn thận.
+B 使用的时候要戴手套和口罩吗？|Khi dùng có phải đeo găng tay và khẩu trang không?
+A 对，还要在通风的地方使用。|Đúng, còn phải dùng ở nơi thông gió.
+B 用完以后放回哪里？|Dùng xong để lại chỗ nào?
+
+# Khu vực cấm
+A 这个区域只有授权的人才能进。|Khu vực này chỉ người được ủy quyền mới được vào.
+B 对不起，我走错地方了。|Xin lỗi, tôi đi nhầm chỗ.
+A 没关系，请从这边出去。|Không sao, mời đi ra lối này.
+B 好，谢谢您。|Vâng, cảm ơn anh.
+
+# Báo cáo tai nạn
+A 刚才发生了一起事故，有人受伤了。|Vừa rồi xảy ra một vụ tai nạn, có người bị thương.
+B 伤得严重吗？|Bị thương có nặng không?
+A 不严重，已经送去医院检查了。|Không nặng, đã đưa đến bệnh viện kiểm tra rồi.
+B 请把事情的经过写成报告交给我。|Hãy viết diễn biến sự việc thành báo cáo nộp cho tôi.
+
+# Đào tạo an toàn
+A 新员工必须先参加安全培训。|Nhân viên mới bắt buộc phải tham gia đào tạo an toàn trước.
+B 培训要多长时间？|Đào tạo mất bao lâu?
+A 一共两天，最后还有考试。|Tổng cộng hai ngày, cuối cùng còn có bài thi.
+B 考试不及格会怎么样？|Thi không đạt thì sẽ thế nào?
+
+# Quy định đồ cá nhân
+A 工作的时候不能玩手机。|Khi làm việc không được chơi điện thoại.
+B 可是我有一个重要电话。|Nhưng tôi có một cuộc điện thoại quan trọng.
+A 那请你到休息区去接。|Vậy xin bạn đến khu nghỉ để nghe.
+B 好的，我很快就回来。|Vâng, tôi sẽ quay lại ngay.
+
+# Vệ sinh khu vực làm việc
+A 下班前请把工作区整理干净。|Trước khi tan ca xin dọn gọn khu vực làm việc.
+B 材料和工具都要放回原来的位置吗？|Vật liệu và dụng cụ đều phải để lại vị trí cũ à?
+A 对，这样别人用的时候才容易找。|Đúng, như vậy người khác dùng mới dễ tìm.
+B 明白了，整齐也更安全。|Hiểu rồi, gọn gàng cũng an toàn hơn.
+
+# Kiểm tra an toàn hằng tuần
+A 每个星期我们都要检查安全设施。|Mỗi tuần chúng ta đều phải kiểm tra thiết bị an toàn.
+B 这个星期有没有发现问题？|Tuần này có phát hiện vấn đề gì không?
+A 有两个灭火器过期了，需要更换。|Có hai bình chữa cháy hết hạn, cần thay.
+B 我现在就去申请新的。|Tôi đi xin cái mới ngay.

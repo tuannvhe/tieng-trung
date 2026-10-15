@@ -1,0 +1,598 @@
+0001|对|đúng; đối với; về|đối
+0002|过|qua; đi qua; trải qua; (trợ từ chỉ từng làm)|quá
+0003|而|mà; và; nhưng|nhi
+0004|等|đợi; chờ; vân vân|đẳng
+0005|与|và; cùng với; với|dữ
+0006|当|đang lúc; khi; làm; đảm nhiệm|đương
+0007|之|của; (trợ từ văn viết thay cho 的)|chi
+0008|以|để; dùng; lấy; bằng|dĩ
+0009|起来|đứng dậy; dậy; bắt đầu (làm gì)|khởi lai
+0010|死|chết; đến chết; hết sức|tử
+0011|却|nhưng; lại; tuy nhiên|khước
+0012|生活|cuộc sống; sinh hoạt; sống|sinh hoạt
+0013|发生|xảy ra; phát sinh|phát sinh
+0014|不过|nhưng; chỉ là; chẳng qua|bất quá
+0015|所有|tất cả; mọi; sở hữu|sở hữu
+0016|情况|tình hình; trường hợp|tình huống
+0017|最后|cuối cùng; sau cùng|tối hậu
+0018|成为|trở thành; thành|thành vi
+0019|行|được; ổn; đi; thực hiện|hành
+0020|感觉|cảm giác; cảm thấy|cảm giác
+0021|继续|tiếp tục|kế tục
+0022|场|bãi; sân; trận (lượng từ); cảnh|trường
+0023|进行|tiến hành; thực hiện|tiến hành
+0024|内|trong; bên trong; nội|nội
+0025|通过|thông qua; đi qua; được thông qua|thông quá
+0026|无|không có; vô|vô
+0027|一切|tất cả; mọi thứ|nhất thiết
+0028|由|do; bởi; từ|do
+0029|任何|bất kỳ; bất cứ|nhiệm hà
+0030|安全|an toàn|an toàn
+0031|结果|kết quả; cuối cùng thì|kết quả
+0032|完全|hoàn toàn; toàn bộ|hoàn toàn
+0033|发|gửi; phát; phát ra; phát triển|phát
+0034|计划|kế hoạch; dự định|kế hoạch
+0035|可是|nhưng; song|khả thị
+0036|连|ngay cả; liền; nối|liên
+0037|呀|trợ từ cảm thán (biến âm của 啊)|
+0038|原因|nguyên nhân|nguyên nhân
+0039|消息|tin tức; thông tin|tiêu tức
+0040|只要|chỉ cần; miễn là|chỉ yếu
+0041|干|khô; làm; can|can
+0042|接受|chấp nhận; tiếp nhận|tiếp thụ
+0043|其中|trong đó|kỳ trung
+0044|成功|thành công|thành công
+0045|甚至|thậm chí|thậm chí
+0046|拉|kéo; lôi; kéo (đàn)|lạp
+0047|肯定|khẳng định; chắc chắn|khẳng định
+0048|当时|lúc đó; khi đó|đương thời
+0049|调查|điều tra; khảo sát|điều tra
+0050|部分|bộ phận; một phần|bộ phận
+0051|能力|năng lực; khả năng|năng lực
+0052|保护|bảo vệ|bảo hộ
+0053|真正|thật sự; chân chính|chân chính
+0054|支持|ủng hộ; hỗ trợ|chi trì
+0055|掉|rơi; rớt; mất; (bổ ngữ chỉ kết quả: mất, hết)|điệu
+0056|改变|thay đổi; biến đổi|cải biến
+0057|方法|phương pháp; cách|phương pháp
+0058|保证|bảo đảm; cam đoan|bảo chứng
+0059|直接|trực tiếp|trực tiếp
+0060|组织|tổ chức; cơ quan|tổ chức
+0061|永远|mãi mãi; vĩnh viễn|vĩnh viễn
+0062|方面|mặt; phương diện|phương diện
+0063|也许|có lẽ; có thể|dã hứa
+0064|活动|hoạt động; sinh hoạt; vận động|hoạt động
+0065|考虑|suy nghĩ; cân nhắc|khảo lự
+0066|份|phần; suất; bản (lượng từ)|phần
+0067|提供|cung cấp|đề cung
+0068|指|ngón tay; chỉ; trỏ; ám chỉ|chỉ
+0069|精神|tinh thần; tinh thần phấn chấn|tinh thần
+0070|使用|sử dụng|sử dụng
+0071|代表|đại diện; đại biểu; thể hiện|đại biểu
+0072|任务|nhiệm vụ|nhiệm vụ
+0073|联系|liên hệ; liên lạc|liên hệ
+0074|因此|do đó; vì vậy|nhân thử
+0075|台|bục; đài; chiếc (lượng từ máy móc)|đài
+0076|算|tính; coi như; kể như; tính toán|toán
+0077|获得|đạt được; giành được|hoạch đắc
+0078|留|để lại; giữ lại; ở lại|lưu
+0079|生命|sinh mệnh; sự sống|sinh mệnh
+0080|交|giao; nộp; kết giao|giao
+0081|全部|toàn bộ; tất cả|toàn bộ
+0082|刚刚|vừa mới; vừa|cương cương
+0083|正常|bình thường|chính thường
+0084|另外|ngoài ra; khác|lánh ngoại
+0085|血|máu|huyết
+0086|挺|khá; rất; ưỡn; chịu đựng|đĩnh
+0087|好像|hình như; dường như; giống như|hảo tượng
+0088|到底|rốt cuộc; cuối cùng|đáo để
+0089|感谢|cảm ơn; cảm tạ|cảm tạ
+0090|坚持|kiên trì; duy trì|kiên trì
+0091|座|tòa; ngọn; ghế; chỗ ngồi (lượng từ)|tọa
+0092|技术|kỹ thuật|kỹ thuật
+0093|往|về phía; hướng tới; đi|vãng
+0094|严重|nghiêm trọng|nghiêm trọng
+0095|包括|bao gồm; gồm có|bao quát
+0096|原来|vốn dĩ; thì ra; ban đầu|nguyên lai
+0097|光|ánh sáng; chỉ; trống không; hết sạch|quang
+0098|法律|pháp luật|pháp luật
+0099|父亲|cha; bố|phụ thân
+0100|并且|và; hơn nữa|tịnh thả
+0101|收|nhận; thu; cất|thu
+0102|社会|xã hội|xã hội
+0103|证明|chứng minh; giấy chứng nhận|chứng minh
+0104|记者|phóng viên; nhà báo|ký giả
+0105|底|đáy; cuối; nền|để
+0106|确实|quả thật; đúng là; xác thực|xác thực
+0107|不管|bất kể; mặc kệ|bất quản
+0108|受到|nhận được; chịu; bị|thụ đáo
+0109|发展|phát triển|phát triển
+0110|谈|nói chuyện; bàn; trao đổi|đàm
+0111|至少|ít nhất; tối thiểu|chí thiểu
+0112|解释|giải thích|giải thích
+0113|负责|phụ trách; chịu trách nhiệm|phụ trách
+0114|首先|trước hết; đầu tiên|thủ tiên
+0115|理解|hiểu; thấu hiểu|lý giải
+0116|报道|đưa tin; bản tin|báo đạo
+0117|安排|sắp xếp; bố trí|an bài
+0118|梦|giấc mơ; mơ|mộng
+0119|重新|lại; làm lại từ đầu|trùng tân
+0120|幸福|hạnh phúc|hạnh phúc
+0121|自然|tự nhiên; thiên nhiên; đương nhiên|tự nhiên
+0122|责任|trách nhiệm|trách nhiệm
+0123|试|thử; thi|thí
+0124|弄|làm; xoay xở; nghịch|lộng
+0125|赢|thắng; được lợi|doanh
+0126|满|đầy; thỏa mãn|mãn
+0127|说明|giải thích; chứng tỏ; thuyết minh|thuyết minh
+0128|许多|nhiều; rất nhiều|hứa đa
+0129|压力|áp lực|áp lực
+0130|由于|do; vì; bởi vì|do vu
+0131|母亲|mẹ; mẫu thân|mẫu thân
+0132|放弃|từ bỏ; bỏ cuộc|phóng khí
+0133|意见|ý kiến; sự bất đồng|ý kiến
+0134|过程|quá trình|quá trình
+0135|即使|dù cho; cho dù|tức sử
+0136|尽管|mặc dù; cứ việc|tận quản
+0137|深|sâu; đậm; sâu sắc|thâm
+0138|各|các; mỗi|các
+0139|仍然|vẫn; vẫn còn|nhưng nhiên
+0140|值得|đáng; xứng đáng|trị đắc
+0141|经历|trải qua; kinh nghiệm; trải nghiệm|kinh lịch
+0142|讨论|thảo luận|thảo luận
+0143|超过|vượt quá; hơn; vượt|siêu quá
+0144|假|giả; nghỉ; mượn|giả
+0145|后来|sau đó; về sau|hậu lai
+0146|嘴|miệng; mồm|chủy
+0147|地址|địa chỉ|địa chỉ
+0148|无论|bất luận; dù|vô luận
+0149|紧张|căng thẳng; hồi hộp; khẩn trương|khẩn trương
+0150|省|tỉnh; tiết kiệm; bỏ bớt|tỉnh
+0151|十分|rất; vô cùng|thập phân
+0152|陪|đi cùng; tiếp; bồi|bồi
+0153|挂|treo; móc; cúp (điện thoại)|quải
+0154|本来|vốn dĩ; lẽ ra|bản lai
+0155|条件|điều kiện|điều kiện
+0156|广告|quảng cáo|quảng cáo
+0157|警察|cảnh sát|cảnh sát
+0158|关键|then chốt; mấu chốt; quan trọng nhất|quan kiện
+0159|样子|dáng vẻ; kiểu dáng; bộ dạng|dạng tử
+0160|困难|khó khăn|khốn nan
+0161|专业|chuyên ngành; chuyên nghiệp|chuyên nghiệp
+0162|难道|chẳng lẽ; lẽ nào|nan đạo
+0163|规定|quy định; quy chế|quy định
+0164|于是|thế là; vì vậy|vu thị
+0165|正确|đúng đắn; chính xác|chính xác
+0166|爱情|tình yêu|ái tình
+0167|群|đàn; nhóm; bầy; đám|quần
+0168|够|đủ; đủ rồi|cấu
+0169|火|lửa; hỏa; nóng giận; gấp|hỏa
+0170|方向|phương hướng|phương hướng
+0171|市场|thị trường; chợ|thị trường
+0172|教育|giáo dục|giáo dục
+0173|取|lấy; nhận; chọn|thủ
+0174|危险|nguy hiểm|nguy hiểm
+0175|管理|quản lý|quản lý
+0176|乱|lộn xộn; loạn; bừa bãi|loạn
+0177|适合|phù hợp; thích hợp|thích hợp
+0178|正式|chính thức|chính thức
+0179|引起|gây ra; dẫn đến; khơi dậy|dẫn khởi
+0180|从来|từ trước đến nay; chưa bao giờ (khi phủ định)|tòng lai
+0181|抱|ôm; bế; ấp|bão
+0182|律师|luật sư|luật sư
+0183|内容|nội dung|nội dung
+0184|通知|thông báo; báo cho biết|thông tri
+0185|感情|tình cảm; cảm xúc|cảm tình
+0186|观众|khán giả; người xem|quan chúng
+0187|目的|mục đích|mục đích
+0188|国际|quốc tế|quốc tế
+0189|美丽|đẹp; xinh đẹp|mỹ lệ
+0190|经验|kinh nghiệm|kinh nghiệm
+0191|破|rách; vỡ; hỏng; phá|phá
+0192|推|đẩy; xô; từ chối|thôi
+0193|刀|dao|đao
+0194|科学|khoa học|khoa học
+0195|心情|tâm trạng; tâm tình|tâm tình
+0196|标准|tiêu chuẩn; chuẩn|tiêu chuẩn
+0197|职业|nghề nghiệp|chức nghiệp
+0198|精彩|đặc sắc; hay; tuyệt vời|tinh thải
+0199|范围|phạm vi|phạm vi
+0200|速度|tốc độ|tốc độ
+0201|实在|thực sự; thật là; thật thà|thực tại
+0202|效果|hiệu quả; kết quả|hiệu quả
+0203|遍|lượt; lần (đi qua toàn bộ); khắp|biến
+0204|经济|kinh tế; tiết kiệm|kinh tế
+0205|按照|theo; dựa theo|án chiếu
+0206|反对|phản đối|phản đối
+0207|竟然|không ngờ; thế mà lại|cánh nhiên
+0208|重点|trọng điểm; điểm quan trọng|trọng điểm
+0209|倍|lần (gấp bao nhiêu lần); gấp bội|bội
+0210|醒|tỉnh; thức dậy; tỉnh ngộ|tỉnh
+0211|讨厌|ghét; đáng ghét; chán ghét|thảo yếm
+0212|输|thua; vận chuyển|thâu
+0213|咱们|chúng ta (gồm cả người nghe)|ta môn
+0214|否则|nếu không thì; bằng không|phủ tắc
+0215|免费|miễn phí|miễn phí
+0216|动作|động tác; cử động|động tác
+0217|俩|hai (người); đôi|lưỡng
+0218|增加|tăng; tăng thêm|tăng gia
+0219|著名|nổi tiếng; trứ danh|trứ danh
+0220|拒绝|từ chối; khước từ|cự tuyệt
+0221|帅|đẹp trai; phong độ; thống soái|soái
+0222|不仅|không chỉ; không những|bất cận
+0223|顺利|thuận lợi; suôn sẻ|thuận lợi
+0224|艺术|nghệ thuật|nghệ thuật
+0225|麻烦|phiền phức; làm phiền; rắc rối|ma phiền
+0226|申请|xin; đăng ký; đơn xin|thân thỉnh
+0227|演出|biểu diễn; trình diễn; buổi diễn|diễn xuất
+0228|猪|heo; lợn|trư
+0229|竞争|cạnh tranh|cạnh tranh
+0230|估计|ước tính; dự đoán; phỏng đoán|ước kế
+0231|失败|thất bại; thua|thất bại
+0232|世纪|thế kỷ|thế kỷ
+0233|制造|chế tạo; sản xuất; tạo ra|chế tạo
+0234|不得不|đành phải; buộc phải|bất đắc bất
+0235|当地|địa phương; nơi đó; tại chỗ|đương địa
+0236|大概|đại khái; có lẽ; khoảng|đại khái
+0237|允许|cho phép; chấp nhận|duẫn hứa
+0238|教授|giáo sư; giảng dạy|giáo thụ
+0239|顿|bữa (ăn); lần (mắng); dừng lại|đốn
+0240|吸引|thu hút; hấp dẫn|hấp dẫn
+0241|共同|chung; cùng nhau|cộng đồng
+0242|杂志|tạp chí|tạp chí
+0243|既然|đã...thì; một khi đã|ký nhiên
+0244|停止|dừng; ngừng; đình chỉ|đình chỉ
+0245|提醒|nhắc nhở; cảnh báo|đề tỉnh
+0246|演员|diễn viên|diễn viên
+0247|态度|thái độ|thái độ
+0248|周围|xung quanh; vùng xung quanh|chu vi
+0249|丢|mất; đánh mất; vứt; ném|đâu
+0250|复杂|phức tạp|phức tạp
+0251|表达|biểu đạt; diễn đạt|biểu đạt
+0252|数字|con số; chữ số; số liệu|số tự
+0253|邀请|mời; lời mời|yêu thỉnh
+0254|交通|giao thông|giao thông
+0255|优秀|ưu tú; xuất sắc|ưu tú
+0256|亮|sáng; sáng sủa; bật sáng|lượng
+0257|篇|bài; bài viết; trang (lượng từ)|thiên
+0258|儿童|trẻ em; nhi đồng|nhi đồng
+0259|最好|tốt nhất; tốt hơn hết là|tối hảo
+0260|味道|mùi vị; hương vị; cảm giác|vị đạo
+0261|断|gãy; đứt; cắt đứt; ngừng|đoạn
+0262|千万|nhất định; ngàn vạn lần; hàng chục triệu|thiên vạn
+0263|出发|xuất phát; khởi hành|xuất phát
+0264|距离|khoảng cách; cách|cự ly
+0265|轻松|nhẹ nhàng; thoải mái; thư giãn|khinh tùng
+0266|墙|tường|tường
+0267|毕业|tốt nghiệp|tất nghiệp
+0268|怀疑|nghi ngờ; hoài nghi|hoài nghi
+0269|修|sửa; tu sửa; xây dựng|tu
+0270|价格|giá cả; giá|giá cách
+0271|戴|đội; đeo (kính, mũ, găng tay)|đới
+0272|究竟|rốt cuộc; cuối cùng; kết quả|cứu cánh
+0273|轻|nhẹ; khẽ; nhẹ nhàng|khinh
+0274|然而|tuy nhiên; nhưng mà|nhiên nhi
+0275|交流|giao lưu; trao đổi|giao lưu
+0276|兴奋|phấn khích; hưng phấn|hưng phấn
+0277|困|buồn ngủ; mệt; khốn đốn; mắc kẹt|khốn
+0278|符合|phù hợp; đúng với|phù hợp
+0279|躺|nằm|thảng
+0280|答案|đáp án; câu trả lời|đáp án
+0281|皮肤|da; làn da|bì phu
+0282|浪费|lãng phí|lãng phí
+0283|厉害|giỏi; ghê gớm; dữ dội; nghiêm trọng|lệ hại
+0284|尊重|tôn trọng|tôn trọng
+0285|激动|xúc động; kích động|kích động
+0286|骗|lừa; lừa gạt|phiến
+0287|可怜|đáng thương; tội nghiệp|khả lân
+0288|语言|ngôn ngữ|ngữ ngôn
+0289|擦|lau; chà; xoa; bôi|sát
+0290|香|thơm; hương; ngon|hương
+0291|成熟|chín; trưởng thành; thành thục|thành thục
+0292|无聊|chán; nhàm chán; vô vị|vô liêu
+0293|文章|bài văn; bài viết|văn chương
+0294|信任|tin tưởng; tín nhiệm|tín nhiệm
+0295|网站|trang web; website|võng trạm
+0296|地球|trái đất|địa cầu
+0297|实际|thực tế; thực tiễn|thực tế
+0298|年龄|tuổi; độ tuổi|niên linh
+0299|差不多|gần như; xấp xỉ; không khác mấy|sai bất đa
+0300|可惜|đáng tiếc; tiếc|khả tích
+0301|阳光|ánh nắng; ánh mặt trời; tươi sáng, cởi mở|dương quang
+0302|回忆|hồi tưởng; kỷ niệm; hồi ức|hồi ức
+0303|空气|không khí|không khí
+0304|材料|vật liệu; tài liệu; chất liệu|tài liệu
+0305|熟悉|quen thuộc; hiểu rõ|thục tất
+0306|随便|tùy ý; tùy tiện; thế nào cũng được|tùy tiện
+0307|撞|đâm; va; đụng|chàng
+0308|互相|lẫn nhau; qua lại|hỗ tương
+0309|合适|phù hợp; thích hợp|hợp thích
+0310|失望|thất vọng|thất vọng
+0311|印象|ấn tượng|ấn tượng
+0312|号码|số; dãy số|hiệu mã
+0313|出生|sinh ra; ra đời|xuất sinh
+0314|桥|cây cầu; cầu|kiều
+0315|基础|cơ sở; nền tảng; cơ bản|cơ sở
+0316|适应|thích ứng; thích nghi|thích ứng
+0317|赚|kiếm (tiền); lãi|trám
+0318|猜|đoán|sai
+0319|到处|khắp nơi; mọi nơi|đáo xứ
+0320|食品|thực phẩm|thực phẩm
+0321|大约|khoảng; ước chừng|đại ước
+0322|提前|sớm hơn; trước thời hạn; làm trước|đề tiền
+0323|暂时|tạm thời|tạm thời
+0324|积极|tích cực; hăng hái|tích cực
+0325|高级|cao cấp; cấp cao|cao cấp
+0326|汤|canh; súp; nước dùng|thang
+0327|响|kêu; vang; tiếng động|hưởng
+0328|收入|thu nhập|thu nhập
+0329|恐怕|e rằng; sợ là|khủng phạ
+0330|仔细|kỹ lưỡng; cẩn thận; tỉ mỉ|tử tế
+0331|严格|nghiêm khắc; nghiêm ngặt|nghiêm cách
+0332|及时|kịp thời|cập thời
+0333|知识|kiến thức; tri thức|tri thức
+0334|专门|chuyên; chuyên môn; chuyên dụng|chuyên môn
+0335|工具|công cụ; dụng cụ|công cụ
+0336|脱|cởi; tuột; thoát|thoát
+0337|苦|đắng; khổ; vất vả|khổ
+0338|租|thuê; cho thuê|tô
+0339|尤其|đặc biệt là; nhất là|vưu kỳ
+0340|页|trang (sách)|hiệt
+0341|扔|ném; vứt; quăng|nhưng
+0342|信心|lòng tin; sự tự tin|tín tâm
+0343|博士|tiến sĩ|bác sĩ
+0344|故意|cố ý; cố tình|cố ý
+0345|看法|cách nhìn; quan điểm; ý kiến|khán pháp
+0346|浪漫|lãng mạn|lãng mạn
+0347|减少|giảm bớt; giảm|giảm thiểu
+0348|辛苦|vất vả; cực nhọc|tân khổ
+0349|剩|thừa; còn lại; dư|thặng
+0350|正好|vừa đúng; vừa khéo; vừa vặn|chính hảo
+0351|主动|chủ động|chủ động
+0352|硬|cứng; rắn; gượng ép|ngạnh
+0353|限制|hạn chế; giới hạn|hạn chế
+0354|判断|phán đoán; nhận định|phán đoán
+0355|现代|hiện đại|hiện đại
+0356|弹|gảy (đàn); đàn; bật; nảy|đàn
+0357|有趣|thú vị; hay|hữu thú
+0358|公里|ki-lô-mét; cây số|công lý
+0359|工资|tiền lương; lương|công tư
+0360|好处|lợi ích; điểm tốt|hảo xứ
+0361|伤心|đau lòng; buồn|thương tâm
+0362|区别|khác biệt; phân biệt|khu biệt
+0363|暗|tối; mờ; ngầm; bí mật|ám
+0364|将来|tương lai; sau này|tương lai
+0365|聊天|trò chuyện; tán gẫu; chat|liêu thiên
+0366|小说|tiểu thuyết|tiểu thuyết
+0367|鼓励|khích lệ; động viên|cổ lệ
+0368|理想|lý tưởng; ước mơ|lý tưởng
+0369|后悔|hối hận; hối tiếc|hậu hối
+0370|举办|tổ chức (cuộc thi, hoạt động)|cử biện
+0371|感动|cảm động; làm cảm động|cảm động
+0372|顾客|khách hàng|cố khách
+0373|组成|hợp thành; cấu thành; tạo thành|tổ thành
+0374|流行|thịnh hành; phổ biến; lây lan|lưu hành
+0375|整理|sắp xếp; dọn dẹp; chỉnh lý|chỉnh lý
+0376|吵|ồn ào; cãi nhau|sảo
+0377|丰富|phong phú; làm phong phú|phong phú
+0378|原谅|tha thứ; thông cảm|nguyên lượng
+0379|肚子|bụng; dạ dày|đỗ tử
+0380|平时|ngày thường; lúc bình thường|bình thời
+0381|辣|cay|lạt
+0382|作者|tác giả|tác giả
+0383|质量|chất lượng; khối lượng|chất lượng
+0384|愉快|vui vẻ; dễ chịu|du khoái
+0385|寄|gửi (thư, đồ); gửi gắm|ký
+0386|准确|chính xác|chuẩn xác
+0387|详细|chi tiết; tỉ mỉ|tường tế
+0388|禁止|cấm; nghiêm cấm|cấm chỉ
+0389|圆|tròn; hình tròn|viên
+0390|冷静|bình tĩnh; điềm tĩnh|lãnh tĩnh
+0391|购物|mua sắm|cấu vật
+0392|数量|số lượng|số lượng
+0393|勇敢|dũng cảm|dũng cảm
+0394|巧克力|sô-cô-la|xảo khắc lực
+0395|富|giàu; phong phú; giàu có|phú
+0396|骄傲|kiêu ngạo; tự hào|kiêu ngạo
+0397|性格|tính cách; tính nết|tính cách
+0398|降低|hạ thấp; giảm xuống|hàng đê
+0399|果然|quả nhiên; đúng như dự đoán|quả nhiên
+0400|随着|cùng với; theo cùng; khi|tùy trước
+0401|只好|đành phải; chỉ còn cách|chỉ hảo
+0402|密码|mật khẩu; mật mã|mật mã
+0403|亚洲|châu Á|á châu
+0404|道歉|xin lỗi; tạ lỗi|đạo khiếm
+0405|趟|chuyến; lượt (đi lại)|thang
+0406|软|mềm; mềm yếu|nhuyễn
+0407|访问|thăm; phỏng vấn; truy cập|phỏng vấn
+0408|森林|rừng|sâm lâm
+0409|友好|hữu nghị; thân thiện|hữu hảo
+0410|尝|nếm; thử|thường
+0411|亿|trăm triệu; một trăm triệu|ức
+0412|对话|đối thoại; hội thoại|đối thoại
+0413|收拾|dọn dẹp; thu xếp; sắp xếp|thu thập
+0414|广播|phát thanh; đài; loa phát thanh|quảng bá
+0415|逐渐|dần dần; từ từ|trục tiệm
+0416|钥匙|chìa khóa|thược thi
+0417|酸|chua; đau nhức; chua xót|toan
+0418|污染|ô nhiễm|ô nhiễm
+0419|温度|nhiệt độ|ôn độ
+0420|孤单|cô đơn; lẻ loi|cô đơn
+0421|饮料|đồ uống; nước giải khát|ẩm liệu
+0422|宽|rộng; rộng rãi; thoải mái|khoan
+0423|例如|ví dụ; chẳng hạn|lệ như
+0424|祝贺|chúc mừng|chúc hạ
+0425|批评|phê bình; chỉ trích|phê bình
+0426|重视|coi trọng; xem trọng|trọng thị
+0427|增长|tăng trưởng; tăng lên|tăng trưởng
+0428|相反|ngược lại; trái ngược|tương phản
+0429|抬|nâng; khiêng; ngẩng|đài
+0430|主意|chủ ý; ý kiến; cách làm|chủ ý
+0431|扩大|mở rộng; phóng to|khuếch đại
+0432|奖金|tiền thưởng; học bổng|tưởng kim
+0433|盐|muối|diêm
+0434|难受|khó chịu; khổ sở; buồn|nan thụ
+0435|民族|dân tộc|dân tộc
+0436|航班|chuyến bay; chuyến tàu|hàng ban
+0437|偶尔|thỉnh thoảng; đôi khi|ngẫu nhĩ
+0438|约会|cuộc hẹn; hẹn hò|ước hội
+0439|受不了|không chịu nổi; không thể chịu đựng|thụ bất liễu
+0440|厚|dày; sâu đậm; hậu hĩnh|hậu
+0441|护士|y tá|hộ sĩ
+0442|参观|tham quan|tham quan
+0443|顺便|tiện thể; nhân tiện|thuận tiện
+0444|友谊|tình bạn; hữu nghị|hữu nghị
+0445|笨|ngốc; vụng về; ngu|bổn
+0446|沙发|ghế sofa|sa phát
+0447|耐心|kiên nhẫn; nhẫn nại|nại tâm
+0448|开玩笑|đùa; nói đùa; trêu chọc|khai ngoạn tiếu
+0449|反映|phản ánh; báo cáo; phản hồi|phản ánh
+0450|植物|thực vật; cây cối|thực vật
+0451|笔记本|vở ghi chép; máy tính xách tay|bút ký bản
+0452|对面|đối diện; phía đối diện|đối diện
+0453|信用卡|thẻ tín dụng|tín dụng tạp
+0454|减肥|giảm cân|giảm phì
+0455|其次|thứ hai; tiếp theo; sau đó|kỳ thứ
+0456|敲|gõ; đập; đánh|xao
+0457|脾气|tính khí; tính nết; nóng tính|bì khí
+0458|翻译|dịch; phiên dịch; người dịch|phiên dịch
+0459|烦恼|phiền não; buồn phiền|phiền não
+0460|特点|đặc điểm|đặc điểm
+0461|往往|thường thường; hay|vãng vãng
+0462|风景|phong cảnh; cảnh đẹp|phong cảnh
+0463|笑话|truyện cười; chuyện cười; chế giễu|tiếu thoại
+0464|海洋|biển; đại dương|hải dương
+0465|窗户|cửa sổ|song hộ
+0466|不但|không những; không chỉ|bất đãn
+0467|代替|thay thế|đại thế
+0468|家具|đồ nội thất; đồ đạc|gia cụ
+0469|棵|cây; gốc (lượng từ cho cây)|khỏa
+0470|商量|bàn bạc; thương lượng|thương lượng
+0471|狮子|sư tử|sư tử
+0472|稍微|hơi; một chút; chút ít|sảo vi
+0473|汗|mồ hôi|hãn
+0474|缺少|thiếu; thiếu hụt|khuyết thiểu
+0475|阅读|đọc; đọc hiểu|duyệt độc
+0476|穷|nghèo; cùng cực|cùng
+0477|打扮|ăn diện; trang điểm; ăn mặc|đả bạn
+0478|座位|chỗ ngồi; ghế ngồi|tọa vị
+0479|首都|thủ đô|thủ đô
+0480|吃惊|kinh ngạc; giật mình|ngật kinh
+0481|忽然|đột nhiên; bỗng nhiên|hốt nhiên
+0482|羡慕|ngưỡng mộ; thèm muốn|tiện mộ
+0483|报名|đăng ký; ghi danh|báo danh
+0484|脏|bẩn; dơ|tạng
+0485|极其|vô cùng; cực kỳ|cực kỳ
+0486|日记|nhật ký|nhật ký
+0487|同情|đồng cảm; thông cảm; thương xót|đồng tình
+0488|逛|đi dạo; dạo chơi|cuống
+0489|总结|tổng kết; tóm tắt|tổng kết
+0490|打扰|làm phiền; quấy rầy|đả nhiễu
+0491|幽默|hài hước; khiếu hài hước|u mặc
+0492|误会|hiểu lầm; sự hiểu lầm|ngộ hội
+0493|抱歉|xin lỗi; áy náy|bão khiếm
+0494|师傅|thầy; sư phụ; bác (gọi thợ, tài xế)|sư phó
+0495|朵|đóa; bông (lượng từ cho hoa, mây)|đóa
+0496|镜子|gương|kính tử
+0497|合格|đạt tiêu chuẩn; đủ điều kiện|hợp cách
+0498|亲戚|họ hàng; người thân|thân thích
+0499|力气|sức; sức lực|lực khí
+0500|缺点|khuyết điểm; nhược điểm|khuyết điểm
+0501|抽烟|hút thuốc|trừu yên
+0502|起飞|cất cánh|khởi phi
+0503|网球|quần vợt; tennis|võng cầu
+0504|老虎|hổ; con hổ|lão hổ
+0505|乘坐|đi (xe, tàu, máy bay); ngồi trên|thừa tọa
+0506|诚实|trung thực; thành thật|thành thực
+0507|集合|tập hợp; tập trung|tập hợp
+0508|孙子|cháu nội; cháu trai|tôn tử
+0509|优点|ưu điểm; điểm mạnh|ưu điểm
+0510|猴子|khỉ; con khỉ|hầu tử
+0511|来不及|không kịp; chưa kịp|lai bất cập
+0512|普遍|phổ biến; rộng rãi|phổ biến
+0513|入口|lối vào; cửa vào; nhập khẩu|nhập khẩu
+0514|加班|làm thêm giờ; tăng ca|gia ban
+0515|热闹|náo nhiệt; nhộn nhịp|nhiệt náo
+0516|散步|đi dạo; tản bộ|tản bộ
+0517|顺序|thứ tự; trình tự|thuận tự
+0518|懒|lười; lười biếng|lãn
+0519|大夫|bác sĩ; thầy thuốc|đại phu
+0520|准时|đúng giờ|chuẩn thời
+0521|盒子|cái hộp|hạp tử
+0522|得意|đắc ý; tự mãn; hài lòng|đắc ý
+0523|礼貌|lễ phép; lịch sự; phép lịch sự|lễ mạo
+0524|推迟|hoãn lại; lùi lại|thôi trì
+0525|饼干|bánh quy|bính can
+0526|中文|tiếng Trung; tiếng Hoa|trung văn
+0527|性别|giới tính|tính biệt
+0528|袜子|tất; vớ|miệt tử
+0529|气候|khí hậu|khí hậu
+0530|毛巾|khăn mặt; khăn lau|mao cân
+0531|鼓掌|vỗ tay|cổ chưởng
+0532|瓶子|cái chai; bình; lọ|bình tử
+0533|传真|fax; bản fax|truyền chân
+0534|害羞|xấu hổ; ngại ngùng|hại tu
+0535|握手|bắt tay|ác thủ
+0536|来得及|kịp; còn kịp|lai đắc cập
+0537|咳嗽|ho|khái thấu
+0538|研究生|nghiên cứu sinh; học viên cao học|nghiên cứu sinh
+0539|出差|đi công tác|xuất sai
+0540|按时|đúng giờ; đúng hạn; đúng thời hạn|án thời
+0541|流泪|rơi nước mắt; chảy nước mắt|lưu lệ
+0542|咸|mặn|hàm
+0543|加油站|trạm xăng|gia du trạm
+0544|节约|tiết kiệm|tiết ước
+0545|招聘|tuyển dụng; tuyển người|chiêu sính
+0546|活泼|hoạt bát; sôi nổi|hoạt bát
+0547|干燥|khô; hanh khô; khô ráo|can táo
+0548|签证|thị thực; visa|thiêm chứng
+0549|暖和|ấm; ấm áp|noãn hòa
+0550|打印|in (bằng máy in)|đả ấn
+0551|农村|nông thôn; làng quê|nông thôn
+0552|排列|sắp xếp; xếp theo thứ tự; hoán vị|bài liệt
+0553|窄|hẹp; chật|trách
+0554|积累|tích lũy|tích lũy
+0555|整齐|ngay ngắn; gọn gàng; đều đặn|chỉnh tề
+0556|表格|biểu mẫu; bảng biểu|biểu cách
+0557|表扬|khen ngợi; biểu dương|biểu dương
+0558|硕士|thạc sĩ|thạc sĩ
+0559|牙膏|kem đánh răng|nha cao
+0560|长城|Vạn Lý Trường Thành|trường thành
+0561|做生意|kinh doanh; buôn bán|tố sinh ý
+0562|请客|mời khách; đãi khách|thỉnh khách
+0563|请假|xin nghỉ; xin phép nghỉ|thỉnh giả
+0564|乒乓球|bóng bàn|binh bàng cầu
+0565|导游|hướng dẫn viên du lịch|đạo du
+0566|叶子|lá cây; lá|diệp tử
+0567|打折|giảm giá|đả chiết
+0568|洗衣机|máy giặt|tẩy y cơ
+0569|堵车|tắc đường; kẹt xe|đổ xa
+0570|西红柿|cà chua|tây hồng thị
+0571|个子|vóc dáng; chiều cao; dáng người|cá tử
+0572|大使馆|đại sứ quán|đại sứ quán
+0573|饺子|bánh chẻo; sủi cảo|giảo tử
+0574|垃圾桶|thùng rác|lạp ngập dũng
+0575|塑料袋|túi ni lông; túi nhựa|tố liệu đại
+0576|养成|hình thành (thói quen); nuôi dưỡng|dưỡng thành
+0577|打针|tiêm; chích|đả châm
+0578|理发|cắt tóc|lý phát
+0579|语法|ngữ pháp|ngữ pháp
+0580|干杯|cạn ly; nâng cốc|can bôi
+0581|复印|photocopy; sao chụp|phục ấn
+0582|留学|du học|lưu học
+0583|湿润|ẩm ướt; ẩm|thấp nhuận
+0584|羽毛球|cầu lông; quả cầu lông|vũ mao cầu
+0585|流利|lưu loát; trôi chảy|lưu lợi
+0586|词典|từ điển|từ điển
+0587|凉快|mát mẻ; mát|lương khoái
+0588|售货员|nhân viên bán hàng|thụ hóa viên
+0589|长江|sông Trường Giang; sông Dương Tử|trường giang
+0590|马虎|qua loa; cẩu thả; sơ suất|mã hổ
+0591|寒假|kỳ nghỉ đông|hàn giả
+0592|人民币|nhân dân tệ|nhân dân tệ
+0593|粗心|bất cẩn; vô ý; cẩu thả|thô tâm
+0594|预习|chuẩn bị bài; học trước|dự tập
+0595|京剧|kinh kịch; Bắc Kinh kịch|kinh kịch
+0596|分之|phần (dùng trong phân số: 三分之一 = một phần ba)|phân chi
+0597|填空|điền vào chỗ trống; điền khuyết|điền không
+0598|放暑假|nghỉ hè|phóng thử giả

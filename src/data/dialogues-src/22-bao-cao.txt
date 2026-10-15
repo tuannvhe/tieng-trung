@@ -1,0 +1,61 @@
+## bao-cao|Báo cáo, số liệu
+
+# Làm báo cáo ngày
+A 每天下班以前，要交生产日报。|Mỗi ngày trước khi tan ca phải nộp báo cáo sản xuất.
+B 日报上要写什么？|Trong báo cáo phải ghi gì?
+A 写产量、不良品和停机的时间。|Ghi sản lượng, hàng lỗi và thời gian dừng máy.
+B 好，我用电脑填。|Vâng, tôi điền bằng máy tính.
+
+# Số liệu không khớp
+A 这个报表的数据好像不对。|Số liệu của báo cáo này có vẻ không đúng.
+B 哪里不对？|Sai ở đâu?
+A 总数和每一行加起来不一样。|Tổng số và tổng cộng từng dòng không giống nhau.
+B 我重新核对一下，再改正。|Tôi đối chiếu lại rồi sửa.
+
+# Xuất báo cáo từ hệ thống
+A 请把本月的产量报表导出来。|Hãy xuất báo cáo sản lượng tháng này ra.
+B 导出成什么格式？|Xuất theo định dạng nào?
+A 用Excel，我要自己分析。|Dùng Excel, tôi muốn tự phân tích.
+B 好，五分钟以后发给您。|Vâng, năm phút sau gửi anh.
+
+# Biểu đồ
+A 能不能做一个图表，显示每天的变化？|Có thể làm một biểu đồ hiển thị thay đổi mỗi ngày không?
+B 用折线图还是柱状图？|Dùng biểu đồ đường hay biểu đồ cột?
+A 柱状图更清楚。|Biểu đồ cột rõ hơn.
+B 好，我现在就做。|Được, tôi làm ngay.
+
+# So sánh tháng
+A 这个月的产量比上个月怎么样？|Sản lượng tháng này so với tháng trước thế nào?
+B 增加了百分之八。|Tăng tám phần trăm.
+A 主要是哪条线增加了？|Chủ yếu chuyền nào tăng?
+B 二号线增加得最多。|Chuyền số 2 tăng nhiều nhất.
+
+# Phân tích nguyên nhân
+A 为什么三号线的效率比较低？|Vì sao hiệu suất chuyền số 3 thấp hơn?
+B 因为机器经常停，我统计了一下。|Vì máy hay dừng, tôi đã thống kê.
+A 一共停了多长时间？|Tổng cộng dừng bao lâu?
+B 这个月累计停了二十个小时。|Tháng này tích lũy dừng hai mươi tiếng.
+
+# Báo cáo tỷ lệ hoàn thành
+A 订单的完成率现在是多少？|Tỷ lệ hoàn thành đơn hàng bây giờ là bao nhiêu?
+B 百分之七十五，还剩两千个。|Bảy mươi lăm phần trăm, còn lại hai nghìn cái.
+A 预计什么时候做完？|Dự kiến khi nào làm xong?
+B 如果没有问题，后天就能完成。|Nếu không có vấn đề, ngày kia là hoàn thành.
+
+# Gửi báo cáo cho cấp trên
+A 请把这份报告发给经理。|Hãy gửi bản báo cáo này cho quản lý.
+B 要写一个简单的说明吗？|Có cần viết lời giải thích ngắn gọn không?
+A 要，写清楚这个月的重点。|Cần, ghi rõ những điểm chính tháng này.
+B 好，我写完以后请您先看一遍。|Vâng, viết xong tôi nhờ anh xem qua trước.
+
+# Sai sót nhập liệu
+A 我发现有一个数字多输了一个零。|Tôi phát hiện có một con số nhập thừa một số không.
+B 现在需要马上修改吗？|Bây giờ có cần sửa ngay không?
+A 要，不然会影响财务的数据。|Cần, nếu không sẽ ảnh hưởng đến số liệu tài chính.
+B 我马上改，下次一定检查两遍。|Tôi sửa ngay, lần sau nhất định kiểm tra hai lần.
+
+# Họp tổng kết tháng
+A 月底的总结会，你要汇报生产的情况。|Họp tổng kết cuối tháng, bạn phải báo cáo tình hình sản xuất.
+B 汇报多长时间？|Báo cáo bao lâu?
+A 十分钟，最好有图表。|Mười phút, tốt nhất có biểu đồ.
+B 好，我提前做好演示文稿。|Vâng, tôi làm sẵn bản trình chiếu.

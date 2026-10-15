@@ -1,0 +1,121 @@
+## cham-cong|Chấm công, đi làm
+
+# Chào buổi sáng
+A 你好！你今天来工作吗？|Chào bạn! Hôm nay bạn đến làm việc à?
+B 来，我八点来。|Có, tôi tám giờ đến.
+A 好，我们在前面见。|Được, chúng ta gặp nhau ở phía trước.
+B 好，再见。|Được, hẹn gặp lại.
+
+# Bạn ở đâu?
+A 喂，你在哪儿？|A lô, bạn đang ở đâu?
+B 我在学校，不在家。|Tôi ở trường, không ở nhà.
+A 你几点来工作？|Mấy giờ bạn đến làm việc?
+B 我下午来。|Chiều tôi đến.
+
+# Hôm nay là thứ mấy
+A 今天星期几？|Hôm nay là thứ mấy?
+B 今天星期三。|Hôm nay là thứ Tư.
+A 明天我们工作吗？|Ngày mai chúng ta có làm việc không?
+B 工作，明天星期四。|Có, mai là thứ Năm.
+
+# Tên bạn là gì
+A 你好，你叫什么名字？|Xin chào, bạn tên là gì?
+B 我叫小王，你呢？|Tôi tên Tiểu Vương, còn bạn?
+A 我叫小李，我是新同学。|Tôi tên Tiểu Lý, tôi là bạn học mới.
+B 认识你很高兴。|Rất vui được làm quen với bạn.
+
+# Đến muộn rồi
+A 你怎么现在才来？|Sao bây giờ bạn mới đến?
+B 对不起，我坐出租车来。|Xin lỗi, tôi đi taxi đến.
+A 没关系，快进来吧。|Không sao, mau vào đi.
+B 谢谢你。|Cảm ơn bạn.
+
+# Có mấy người
+A 今天几个人来工作？|Hôm nay mấy người đến làm việc?
+B 十个人，三个人没来。|Mười người, ba người không đến.
+A 谁没来？|Ai không đến?
+B 小张、小李和小王。|Tiểu Trương, Tiểu Lý và Tiểu Vương.
+
+# Chấm công buổi sáng
+A 早上好！你打卡了吗？|Chào buổi sáng! Bạn đã chấm công chưa?
+B 还没有，卡在哪儿？|Chưa, thẻ ở đâu rồi?
+A 在你的桌子上。|Ở trên bàn của bạn.
+B 找到了，谢谢！|Tìm thấy rồi, cảm ơn!
+
+# Quên thẻ
+A 我忘了带卡，怎么办？|Tôi quên mang thẻ, làm sao đây?
+B 你去找主管，他有办法。|Bạn đi tìm tổ trưởng, anh ấy có cách.
+A 主管现在在哪儿？|Bây giờ tổ trưởng ở đâu?
+B 他在办公室，你快去。|Anh ấy ở văn phòng, bạn mau đi.
+
+# Mấy giờ tan ca
+A 我们几点下班？|Mấy giờ chúng ta tan ca?
+B 下午五点半下班。|Năm rưỡi chiều tan ca.
+A 现在几点？|Bây giờ mấy giờ?
+B 现在四点，还有一个半小时。|Bây giờ bốn giờ, còn một tiếng rưỡi.
+
+# Đi làm bằng gì
+A 你怎么来工厂？|Bạn đến nhà máy bằng cách nào?
+B 我骑自行车来。|Tôi đạp xe đến.
+A 远不远？|Có xa không?
+B 不太远，二十分钟就到。|Không xa lắm, hai mươi phút là đến.
+
+# Chấm công bị lỗi
+A 打卡机坏了，打不了卡。|Máy chấm công hỏng rồi, không chấm được.
+B 没关系，你先写在本子上。|Không sao, bạn ghi vào sổ trước.
+A 我写今天的日期和时间吗？|Tôi ghi ngày và giờ hôm nay à?
+B 对，还要写你的名字。|Đúng, còn phải ghi tên bạn.
+
+# Ca sáng hay ca chiều
+A 你上早班还是晚班？|Bạn làm ca sáng hay ca tối?
+B 这个星期我上早班。|Tuần này tôi làm ca sáng.
+A 下个星期呢？|Tuần sau thì sao?
+B 下个星期上晚班。|Tuần sau làm ca tối.
+
+# Hỏi đường vào xưởng
+A 请问，车间怎么走？|Xin hỏi, đi đến xưởng thế nào?
+B 一直往前走，然后右转。|Cứ đi thẳng, sau đó rẽ phải.
+A 大门在哪儿？|Cổng chính ở đâu?
+B 就在你的左边。|Ngay bên trái bạn.
+
+# Giờ làm việc
+A 这里几点开始工作？|Ở đây mấy giờ bắt đầu làm việc?
+B 早上八点开始，中午十二点休息。|Tám giờ sáng bắt đầu, mười hai giờ trưa nghỉ.
+A 休息多长时间？|Nghỉ bao lâu?
+B 一个小时，一点继续工作。|Một tiếng, một giờ làm tiếp.
+
+# Điểm danh đầu ca
+A 请大家排好队，我点名。|Mọi người xếp hàng, tôi điểm danh.
+B 老师，不对，应该叫主管。|Thầy ơi, không đúng, phải gọi là tổ trưởng.
+A 哈哈，对，我习惯了。|Ha ha, đúng rồi, tôi quen miệng.
+B 人都到齐了，可以开始了。|Mọi người đến đủ rồi, có thể bắt đầu.
+
+# Đổi giờ vào ca
+A 明天开始，上班时间改了。|Từ mai, giờ đi làm thay đổi rồi.
+B 改成几点？|Đổi thành mấy giờ?
+A 改成早上七点半。|Đổi thành bảy rưỡi sáng.
+B 太早了，我得早点起床。|Sớm quá, tôi phải dậy sớm hơn.
+
+# Quên chấm công khi tan ca
+A 昨天下班你打卡了吗？|Hôm qua tan ca bạn có chấm công không?
+B 我忘了，系统里没有记录。|Tôi quên, trong hệ thống không có ghi nhận.
+A 你要写一份说明交给主管。|Bạn phải viết bản giải trình nộp cho tổ trưởng.
+B 好的，我今天就写。|Vâng, hôm nay tôi viết ngay.
+
+# Đi muộn do kẹt xe
+A 你迟到了二十分钟。|Bạn đến muộn hai mươi phút.
+B 路上堵车，真对不起。|Trên đường kẹt xe, thật xin lỗi.
+A 下次请提前出门，好吗？|Lần sau xin hãy ra khỏi nhà sớm hơn nhé?
+B 我明白了，以后一定注意。|Tôi hiểu rồi, sau này nhất định chú ý.
+
+# Cuối tháng tổng hợp chấm công
+A 这个月的考勤表，你检查了吗？|Bảng chấm công tháng này bạn đã kiểm tra chưa?
+B 检查了，有三个人的记录不对。|Kiểm tra rồi, có ba người ghi nhận không đúng.
+A 请你问清楚原因，再改过来。|Bạn hãy hỏi rõ nguyên nhân rồi sửa lại.
+B 好，下班前我给您答复。|Vâng, trước khi tan ca tôi sẽ trả lời anh.
+
+# Máy chấm công vân tay
+A 指纹打卡机怎么用？|Máy chấm công vân tay dùng thế nào?
+B 把手指放在上面，等一下就好。|Đặt ngón tay lên trên, chờ một chút là xong.
+A 为什么红灯一直亮着？|Sao đèn đỏ cứ sáng mãi?
+B 你的手太湿了，擦干再试一次。|Tay bạn ướt quá, lau khô rồi thử lại.

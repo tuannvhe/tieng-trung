@@ -1,0 +1,61 @@
+## khach-hang|Khách kiểm hàng
+
+# Khách đến thăm
+A 欢迎，客户明天上午来工厂参观。|Hoan nghênh, sáng mai khách hàng đến tham quan nhà máy.
+B 我们需要准备什么？|Chúng ta cần chuẩn bị gì?
+A 把车间打扫干净，产品摆整齐。|Dọn sạch xưởng, xếp sản phẩm gọn gàng.
+B 好，我现在通知大家。|Vâng, tôi thông báo mọi người ngay.
+
+# Dẫn khách tham quan
+A 这边请，这是我们的生产线。|Mời đi lối này, đây là chuyền sản xuất của chúng tôi.
+B 你们一天能生产多少？|Một ngày các bạn sản xuất được bao nhiêu?
+A 大概四千个，质量都经过检查。|Khoảng bốn nghìn cái, chất lượng đều qua kiểm tra.
+B 我可以看一下检验的记录吗？|Tôi xem biên bản kiểm nghiệm được không?
+
+# Khách kiểm mẫu
+A 请看一下这个样品，有什么意见？|Xin xem mẫu này, có ý kiến gì không?
+B 外观很好，尺寸也对。|Ngoại quan rất tốt, kích thước cũng đúng.
+A 您还有别的要求吗？|Anh còn yêu cầu nào khác không?
+B 包装要再结实一点。|Bao bì cần chắc chắn hơn một chút.
+
+# Khách phát hiện vấn đề
+A 这几个产品表面有点问题。|Mấy sản phẩm này bề mặt có chút vấn đề.
+B 非常抱歉，我们马上处理。|Rất xin lỗi, chúng tôi xử lý ngay.
+A 是偶然的，还是经常有？|Là ngẫu nhiên hay thường xuyên có?
+B 是偶然的，我们会找出原因。|Là ngẫu nhiên, chúng tôi sẽ tìm ra nguyên nhân.
+
+# Kiểm tra tại chỗ
+A 我想抽检一百个产品。|Tôi muốn lấy mẫu kiểm một trăm sản phẩm.
+B 没问题，您想从哪一批抽？|Không vấn đề, anh muốn lấy từ lô nào?
+A 最新的这批，请打开箱子。|Lô mới nhất này, xin mở thùng ra.
+B 好的，请您自己选。|Vâng, mời anh tự chọn.
+
+# Đàm phán giá
+A 这个价格有点高，能不能便宜一些？|Giá này hơi cao, có thể rẻ hơn không?
+B 如果订单增加，我们可以考虑。|Nếu đơn hàng tăng thì chúng tôi có thể xem xét.
+A 订多少可以降价？|Đặt bao nhiêu thì giảm giá?
+B 十万个以上，可以便宜百分之五。|Từ mười vạn cái trở lên, có thể rẻ hơn năm phần trăm.
+
+# Xác nhận thời gian giao
+A 请问最晚什么时候能发货？|Xin hỏi chậm nhất khi nào có thể xuất hàng?
+B 下个月五号，我们保证按时。|Ngày mùng năm tháng sau, chúng tôi đảm bảo đúng hạn.
+A 如果晚了怎么办？|Nếu muộn thì sao?
+B 我们会承担相应的责任。|Chúng tôi sẽ chịu trách nhiệm tương ứng.
+
+# Khách yêu cầu thay đổi
+A 我们想把颜色从白色改成灰色。|Chúng tôi muốn đổi màu từ trắng sang xám.
+B 需要重新做样品，要三天。|Cần làm lại mẫu, mất ba ngày.
+A 可以，但是交货时间不能变。|Được, nhưng thời gian giao hàng không được đổi.
+B 我们会尽量安排。|Chúng tôi sẽ cố gắng sắp xếp.
+
+# Khách hài lòng
+A 今天参观以后，我们很满意。|Sau buổi tham quan hôm nay, chúng tôi rất hài lòng.
+B 谢谢，我们会继续努力。|Cảm ơn, chúng tôi sẽ tiếp tục cố gắng.
+A 希望以后长期合作。|Hy vọng sau này hợp tác lâu dài.
+B 我们也有这样的愿望。|Chúng tôi cũng có mong muốn đó.
+
+# Tiễn khách
+A 谢谢您今天来，路上小心。|Cảm ơn anh hôm nay đã đến, đi đường cẩn thận.
+B 谢谢你们的招待。|Cảm ơn sự tiếp đón của các bạn.
+A 有问题请随时联系我们。|Có vấn đề xin liên hệ chúng tôi bất cứ lúc nào.
+B 好，下次再见。|Được, lần sau gặp lại.

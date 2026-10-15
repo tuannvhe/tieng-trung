@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3526C27D-81AA-48EE-9B6C-AAA34ADEE287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocTrungIt.Api", "src\HocTrungIt.Api\HocTrungIt.Api.csproj", "{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1B48BB70-1C73-4248-8523-703CC6F4DEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocTrungIt.Tests", "tests\HocTrungIt.Tests\HocTrungIt.Tests.csproj", "{DD71E163-7E53-4089-84AB-8D2473B0CE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD71E163-7E53-4089-84AB-8D2473B0CE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD71E163-7E53-4089-84AB-8D2473B0CE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD71E163-7E53-4089-84AB-8D2473B0CE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD71E163-7E53-4089-84AB-8D2473B0CE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{48E108E2-E7E5-4A3F-AF08-BABFE6116D0D} = {3526C27D-81AA-48EE-9B6C-AAA34ADEE287}
+		{DD71E163-7E53-4089-84AB-8D2473B0CE74} = {1B48BB70-1C73-4248-8523-703CC6F4DEA8}
+	EndGlobalSection
+EndGlobal

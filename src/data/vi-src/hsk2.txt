@@ -1,0 +1,147 @@
+0001|就|thì; liền; ngay; chỉ; chính là|tựu
+0002|要|muốn; cần; sắp; phải|yếu
+0003|也|cũng|dã
+0004|到|đến; tới; đạt|đáo
+0005|还|vẫn; còn; còn nữa|hoàn
+0006|着|trợ từ chỉ trạng thái đang tiếp diễn|trước
+0007|给|cho; đưa cho; cho (ai làm gì)|cấp
+0008|让|để; cho phép; nhường; bảo (ai làm gì)|nhượng
+0009|吧|nhé; đi; nhỉ (trợ từ đề nghị, phỏng đoán)|
+0010|得|được; phải; (trợ từ bổ ngữ mức độ)|đắc
+0011|可以|có thể; được phép|khả dĩ
+0012|为|vì; cho; để|vị
+0013|从|từ; theo|tòng
+0014|真|thật; thực sự|chân
+0015|两|hai; đôi; vài|lưỡng
+0016|出|ra; xuất hiện; phát sinh|xuất
+0017|已经|đã; đã rồi|dĩ kinh
+0018|最|nhất; hơn hết|tối
+0019|因为|vì; bởi vì|nhân vi
+0020|再|lại; nữa; rồi mới|tái
+0021|次|lần; thứ hai; kế tiếp|thứ
+0022|知道|biết|tri đạo
+0023|问题|câu hỏi; vấn đề|vấn đề
+0024|走|đi; đi bộ; rời đi|tẩu
+0025|它|nó (chỉ vật)|tha
+0026|但是|nhưng; tuy nhiên|đãn thị
+0027|可能|có thể; có khả năng|khả năng
+0028|时间|thời gian|thời gian
+0029|开始|bắt đầu|khai thủy
+0030|新|mới|tân
+0031|找|tìm; kiếm|trảo
+0032|快|nhanh; mau|khoái
+0033|比|so với; so sánh|tỉ
+0034|所以|cho nên; vì vậy|sở dĩ
+0035|觉得|cảm thấy; thấy rằng|giác đắc
+0036|向|hướng về; về phía; đối với|hướng
+0037|一起|cùng nhau; cùng|nhất khởi
+0038|希望|hy vọng; mong|hy vọng
+0039|大家|mọi người; mọi người cùng|đại gia
+0040|非常|rất; vô cùng|phi thường
+0041|孩子|đứa trẻ; con cái|hài tử
+0042|别|đừng; khác; chia tay|biệt
+0043|公司|công ty|công ti
+0044|第一|thứ nhất; đầu tiên; số một|đệ nhất
+0045|问|hỏi|vấn
+0046|长|dài; lâu; lớn lên|trường
+0047|告诉|nói cho biết; bảo|cáo tố
+0048|事情|việc; sự việc|sự tình
+0049|号|ngày (trong tháng); số; cỡ|hiệu
+0050|高|cao|cao
+0051|件|cái; việc (lượng từ cho áo, việc)|kiện
+0052|张|tờ; tấm; cái (lượng từ)|trương
+0053|准备|chuẩn bị; dự định|chuẩn bị
+0054|进|vào; tiến|tiến
+0055|每|mỗi; từng|mỗi
+0056|您|ngài; ông; bà (cách gọi lịch sự)|nâm
+0057|送|tặng; đưa; tiễn; giao|tống
+0058|笑|cười|tiếu
+0059|女人|phụ nữ; đàn bà|nữ nhân
+0060|小时|giờ; tiếng đồng hồ|tiểu thời
+0061|完|xong; hết; hoàn thành|hoàn
+0062|路|đường; con đường|lộ
+0063|男人|đàn ông|nam nhân
+0064|玩|chơi; giải trí|ngoạn
+0065|正在|đang (làm gì)|chính tại
+0066|门|cửa; cổng|môn
+0067|穿|mặc; xỏ; đi (giày)|xuyên
+0068|外|ngoài; bên ngoài; nước ngoài|ngoại
+0069|帮助|giúp đỡ; sự giúp đỡ|bang trợ
+0070|晚上|buổi tối; ban đêm|vãn thượng
+0071|错|sai; nhầm; lỗi|thác
+0072|卖|bán|mại
+0073|远|xa|viễn
+0074|快乐|vui vẻ; hạnh phúc|khoái lạc
+0075|懂|hiểu; biết|đổng
+0076|药|thuốc|dược
+0077|黑|đen; tối|hắc
+0078|身体|cơ thể; sức khỏe|thân thể
+0079|元|đồng (đơn vị tiền Trung Quốc); nguyên|nguyên
+0080|介绍|giới thiệu|giới thiệu
+0081|红|đỏ; nổi tiếng|hồng
+0082|欢迎|hoan nghênh; chào mừng|hoan nghênh
+0083|眼睛|mắt|nhãn tinh
+0084|近|gần|cận
+0085|手机|điện thoại di động|thủ cơ
+0086|忙|bận; vội|mang
+0087|离|cách; rời xa; tách khỏi|ly
+0088|白|trắng; sáng|bạch
+0089|去年|năm ngoái|khứ niên
+0090|票|vé; phiếu|phiếu
+0091|意思|ý nghĩa; ý; thú vị|ý tư
+0092|早上|buổi sáng sớm|tảo thượng
+0093|回答|trả lời; câu trả lời|hồi đáp
+0094|运动|vận động; tập thể thao; thể thao|vận động
+0095|妻子|vợ|thê tử
+0096|鱼|cá|ngư
+0097|累|mệt; mệt mỏi|lụy
+0098|休息|nghỉ ngơi|hưu tức
+0099|洗|rửa; giặt; tắm|tẩy
+0100|船|thuyền; tàu thủy|thuyền
+0101|房间|phòng; căn phòng|phòng gian
+0102|丈夫|chồng|trượng phu
+0103|上班|đi làm; làm việc (ở cơ quan)|thượng ban
+0104|生日|sinh nhật|sinh nhật
+0105|姐姐|chị gái|thư thư
+0106|课|bài học; môn học; tiết học|khóa
+0107|哥哥|anh trai|ca ca
+0108|咖啡|cà phê|ca phê
+0109|考试|thi; kỳ thi|khảo thí
+0110|千|nghìn; một nghìn|thiên
+0111|慢|chậm|mạn
+0112|旁边|bên cạnh; cạnh|bàng biên
+0113|颜色|màu sắc|nhan sắc
+0114|雪|tuyết|tuyết
+0115|妹妹|em gái|muội muội
+0116|报纸|báo; tờ báo|báo chỉ
+0117|贵|đắt; quý|quý
+0118|机场|sân bay|cơ trường
+0119|踢|đá (chân); chơi (bóng đá)|thích
+0120|弟弟|em trai|đệ đệ
+0121|百|trăm; một trăm|bách
+0122|好吃|ngon|hảo ngật
+0123|旅游|du lịch|lữ du
+0124|起床|ngủ dậy; thức dậy|khởi sàng
+0125|题|đề; câu hỏi; đề bài|đề
+0126|便宜|rẻ|tiện nghi
+0127|唱歌|hát|xướng ca
+0128|右边|bên phải|hữu biên
+0129|牛奶|sữa bò|ngưu nãi
+0130|自行车|xe đạp|tự hành xa
+0131|鸡蛋|trứng gà|kê đản
+0132|姓|họ; mang họ|tính
+0133|游泳|bơi; bơi lội|du vịnh
+0134|跳舞|nhảy múa; khiêu vũ|khiêu vũ
+0135|阴|âm u; có mây; râm|âm
+0136|生病|ốm; bị bệnh|sinh bệnh
+0137|左边|bên trái|tả biên
+0138|公斤|kilôgam; cân (kg)|công cân
+0139|教室|phòng học; lớp học|giáo thất
+0140|服务员|nhân viên phục vụ|phục vụ viên
+0141|手表|đồng hồ đeo tay|thủ biểu
+0142|跑步|chạy bộ|bào bộ
+0143|西瓜|dưa hấu|tây qua
+0144|晴|trời nắng; trời quang|tình
+0145|羊肉|thịt cừu; thịt dê|dương nhục
+0146|公共汽车|xe buýt|công cộng khí xa
+0147|打篮球|chơi bóng rổ|đả lam cầu

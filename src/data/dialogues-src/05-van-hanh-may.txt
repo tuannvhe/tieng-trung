@@ -1,0 +1,121 @@
+## van-hanh-may|Vận hành máy
+
+# Bật máy
+A 请问，这台机器怎么开？|Xin hỏi, cái máy này mở thế nào?
+B 先按绿色的按钮。|Trước tiên bấm nút màu xanh lá.
+A 然后呢？|Sau đó thì sao?
+B 等屏幕亮了，再输入密码。|Chờ màn hình sáng rồi nhập mật khẩu.
+
+# Tắt máy
+A 下班以后机器要关吗？|Tan ca xong máy có phải tắt không?
+B 要，先停止生产，再关电源。|Phải, dừng sản xuất trước rồi mới tắt nguồn.
+A 红色的按钮是做什么的？|Nút màu đỏ dùng làm gì?
+B 那是紧急停止，只有出事的时候才按。|Đó là nút dừng khẩn cấp, chỉ bấm khi có sự cố.
+
+# Cài đặt thông số
+A 这个参数应该设成多少？|Thông số này nên đặt bao nhiêu?
+B 温度设成一百八十度。|Nhiệt độ đặt một trăm tám mươi độ.
+A 速度呢？|Còn tốc độ?
+B 速度不用改，保持原来的。|Tốc độ không cần đổi, giữ như cũ.
+
+# Thay khuôn
+A 今天要换模具，你准备好了吗？|Hôm nay phải thay khuôn, bạn chuẩn bị xong chưa?
+B 准备好了，新模具已经拿过来了。|Xong rồi, khuôn mới đã mang đến.
+A 换模具的时候一定要停机。|Khi thay khuôn nhất định phải dừng máy.
+B 我知道，安全第一。|Tôi biết, an toàn là trên hết.
+
+# Chạy thử
+A 参数改完了，先试一下。|Chỉnh xong thông số rồi, chạy thử trước.
+B 好，我先做五个。|Được, tôi làm thử năm cái trước.
+A 产品的尺寸怎么样？|Kích thước sản phẩm thế nào?
+B 尺寸都在标准范围内。|Kích thước đều nằm trong phạm vi tiêu chuẩn.
+
+# Thêm nguyên liệu
+A 原料快用完了，需要加料。|Nguyên liệu sắp hết, cần thêm.
+B 加在哪里？|Thêm vào đâu?
+A 打开上面的盖子，倒进去就行。|Mở nắp phía trên, đổ vào là được.
+B 倒多少？|Đổ bao nhiêu?
+
+# Đọc bảng điều khiển
+A 屏幕上的数字是什么意思？|Con số trên màn hình nghĩa là gì?
+B 左边是温度，右边是压力。|Bên trái là nhiệt độ, bên phải là áp suất.
+A 压力现在正常吗？|Áp suất bây giờ có bình thường không?
+B 正常，保持在这个范围就好。|Bình thường, giữ trong khoảng này là được.
+
+# Điều chỉnh tốc độ băng chuyền
+A 传送带有点快，产品容易掉下来。|Băng chuyền hơi nhanh, sản phẩm dễ rơi xuống.
+B 我把速度调慢一点。|Tôi chỉnh chậm lại một chút.
+A 慢了以后产量会不会少？|Chậm đi sản lượng có giảm không?
+B 会少一点，但是质量更稳定。|Giảm một chút, nhưng chất lượng ổn định hơn.
+
+# Bôi trơn máy
+A 机器的声音不太对，是不是缺油了？|Tiếng máy không đúng lắm, có phải thiếu dầu không?
+B 可能是，我马上检查一下。|Có thể, tôi kiểm tra ngay.
+A 加油的时候要先关机吗？|Khi tra dầu có phải tắt máy trước không?
+B 当然，不能边运转边加油。|Đương nhiên, không được vừa chạy vừa tra dầu.
+
+# Làm sạch máy
+A 每天用完机器都要清洁。|Mỗi ngày dùng máy xong đều phải vệ sinh.
+B 用什么清洁？|Dùng gì để vệ sinh?
+A 用专门的布和清洁剂，不要用水冲。|Dùng khăn và chất tẩy chuyên dụng, đừng xối nước.
+B 好的，里面的灰尘也要擦吗？|Vâng, bụi bên trong cũng phải lau à?
+
+# Báo động trên máy
+A 机器一直在响，怎么回事？|Máy cứ kêu mãi, chuyện gì vậy?
+B 屏幕上显示温度过高。|Trên màn hình hiển thị nhiệt độ quá cao.
+A 要不要先停下来？|Có nên dừng lại trước không?
+B 要，让它冷却十分钟再看。|Nên, để nó nguội mười phút rồi xem.
+
+# Chuyển sản phẩm mới
+A 下午要换生产新产品。|Chiều nay phải chuyển sang sản xuất sản phẩm mới.
+B 需要调整哪些设置？|Cần điều chỉnh những cài đặt nào?
+A 程序、模具和材料都要换。|Chương trình, khuôn và vật liệu đều phải đổi.
+B 大概需要多长时间？|Khoảng cần bao lâu?
+
+# Nạp chương trình
+A 新程序在哪里？|Chương trình mới ở đâu?
+B 在电脑的桌面上，叫“五号产品”。|Trên màn hình nền máy tính, tên là “sản phẩm số năm”.
+A 怎么把它传到机器里？|Làm sao chuyển nó vào máy?
+B 用U盘导入就可以了。|Dùng USB nhập vào là được.
+
+# Máy dừng bất ngờ
+A 刚才机器突然停了。|Vừa rồi máy đột nhiên dừng.
+B 屏幕上有没有提示？|Trên màn hình có thông báo gì không?
+A 有，显示“缺料”。|Có, hiển thị “thiếu liệu”.
+B 那就是原料用完了，加料就可以了。|Vậy là nguyên liệu hết rồi, thêm liệu là được.
+
+# Hiệu chuẩn máy
+A 这台机器需要重新校准。|Máy này cần hiệu chuẩn lại.
+B 为什么？产品的尺寸不对吗？|Vì sao? Kích thước sản phẩm không đúng à?
+A 对，每个都大了零点二毫米。|Đúng, mỗi cái đều lớn hơn 0,2 milimet.
+B 好，我现在就联系技术人员。|Được, tôi liên hệ kỹ thuật viên ngay.
+
+# Làm việc theo quy trình
+A 操作之前请先看作业指导书。|Trước khi vận hành xin xem hướng dẫn công việc trước.
+B 作业指导书在哪里？|Hướng dẫn công việc ở đâu?
+A 就贴在机器旁边的墙上。|Dán ngay trên tường cạnh máy.
+B 看到了，我会按步骤做。|Thấy rồi, tôi sẽ làm theo từng bước.
+
+# Ghi nhật ký vận hành
+A 每次开机都要填运行记录。|Mỗi lần bật máy đều phải điền nhật ký vận hành.
+B 要填什么内容？|Phải điền nội dung gì?
+A 开机时间、温度、操作人，还有产品型号。|Giờ bật máy, nhiệt độ, người vận hành và mã sản phẩm.
+B 好，我现在补上。|Vâng, tôi bổ sung ngay.
+
+# Phát hiện sản phẩm có vết
+A 这批产品表面有划痕。|Lô sản phẩm này bề mặt có vết xước.
+B 是不是机器的问题？|Có phải do máy không?
+A 可能是传送带上有硬东西。|Có thể trên băng chuyền có vật cứng.
+B 我先把传送带检查一遍。|Tôi kiểm tra băng chuyền một lượt trước.
+
+# Máy tự động
+A 这台是全自动的吗？|Máy này là tự động hoàn toàn à?
+B 不是，还要人工放料。|Không phải, còn phải đặt liệu thủ công.
+A 一次可以放多少？|Mỗi lần đặt được bao nhiêu?
+B 最多五十个，放多了会卡住。|Tối đa năm mươi cái, đặt nhiều sẽ bị kẹt.
+
+# Hướng dẫn người mới
+A 我是新来的，不会用这台机器。|Tôi là người mới, chưa biết dùng máy này.
+B 别着急，我先做一遍给你看。|Đừng vội, tôi làm một lần cho bạn xem.
+A 我可以自己试试吗？|Tôi tự thử được không?
+B 可以，有问题随时问我。|Được, có vấn đề cứ hỏi tôi bất cứ lúc nào.

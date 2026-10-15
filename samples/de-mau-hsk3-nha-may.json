@@ -1,0 +1,34 @@
+{
+  "title": "Đề mẫu HSK 3 – nhà máy (tự soạn)",
+  "level": 3,
+  "pass": 120,
+  "source": "tự soạn cho ứng dụng, dùng tự do",
+  "sections": [
+    {
+      "skill": "listening",
+      "minutes": 10,
+      "questions": [
+        { "kind": "hear-passage", "audio": "女：喂，机器又停了，你能来看看吗？男：好的，我马上到。你先关掉电源，别碰里面的东西。", "mp3": "nghe01.mp3", "ask": "Nghe đoạn hội thoại và chọn câu đúng.", "options": ["Người nam dặn người nữ tắt nguồn trước.", "Người nam đang nghỉ phép.", "Máy đã sửa xong."], "answer": 0 },
+        { "kind": "hear-reply", "audio": "你们今天几点下班？", "mp3": "nghe02.mp3", "ask": "Nghe câu hỏi và chọn câu trả lời phù hợp.", "options": ["五点半。", "我是工程师。", "在三楼。"], "answer": 0 },
+        { "kind": "hear-meaning", "audio": "请把这个零件放在桌子上。", "ask": "Nghe và chọn nghĩa đúng.", "options": ["Hãy đặt linh kiện này lên bàn.", "Hãy mang linh kiện này đi.", "Linh kiện này bị hỏng rồi."], "answer": 0 }
+      ]
+    },
+    {
+      "skill": "reading",
+      "minutes": 12,
+      "questions": [
+        { "kind": "read-passage", "text": "小李在工厂做电脑维修。每天早上八点，他先检查办公室的电脑，再去车间看看机器的网络有没有问题。昨天下午网络突然断了，他花了两个小时才找到原因：一根网线坏了。", "ask": "Đọc đoạn văn và chọn câu đúng.", "options": ["Nguyên nhân là một sợi dây mạng bị hỏng.", "Mạng bị đứt vào buổi sáng.", "Tiểu Lý làm ở bộ phận bán hàng."], "answer": 0 },
+        { "kind": "fill-blank", "text": "这台机器的声音太大，我们得____检查一下。", "ask": "Chọn từ điền vào chỗ trống.", "options": ["马上", "已经", "刚才", "以前"], "answer": 0 },
+        { "kind": "read-reply", "text": "你的电脑为什么打不开？", "ask": "Chọn câu trả lời phù hợp.", "options": ["可能是没有电了。", "我昨天去北京。", "这是我的书。"], "answer": 0 }
+      ]
+    },
+    {
+      "skill": "writing",
+      "minutes": 5,
+      "questions": [
+        { "kind": "reorder", "ask": "Sắp xếp các từ thành câu hoàn chỉnh.", "tokens": ["请", "你", "把", "门", "关", "上"] },
+        { "kind": "reorder", "ask": "Sắp xếp các từ thành câu hoàn chỉnh.", "tokens": ["机器", "已经", "修好", "了"] }
+      ]
+    }
+  ]
+}

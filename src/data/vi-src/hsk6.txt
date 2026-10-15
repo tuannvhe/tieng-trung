@@ -1,0 +1,2500 @@
+0001|呵|hà (thở ra hơi); trợ từ cảm thán; ha|ha
+0002|哎哟|ôi chao; ái chà; ui da|ai yêu
+0003|挨|sát; kề; lần lượt; gần|ai
+0004|癌症|ung thư|nham chứng
+0005|爱不释手|yêu thích đến mức không rời tay|ái bất thích thủ
+0006|爱戴|yêu mến và kính trọng; mến mộ|ái đới
+0007|暧昧|mập mờ; không rõ ràng; mờ ám|ái muội
+0008|安居乐业|an cư lạc nghiệp|an cư lạc nghiệp
+0009|安宁|yên ổn; yên bình; thanh bình|an ninh
+0010|安详|thanh thản; yên tĩnh; ung dung|an tường
+0011|安置|sắp xếp chỗ ở; bố trí; ổn định|an trí
+0012|按摩|xoa bóp; massage|án ma
+0013|案件|vụ án; vụ việc|án kiện
+0014|案例|ví dụ điển hình; trường hợp; vụ việc|án lệ
+0015|暗示|ám chỉ; gợi ý; lời ám chỉ|ám thị
+0016|昂贵|đắt đỏ; đắt tiền|ngang quý
+0017|凹凸|lồi lõm; gồ ghề|ao đột
+0018|熬|ninh; nấu lâu; chịu đựng; thức khuya|ngao
+0019|奥秘|điều huyền bí; bí ẩn; điều bí mật|áo bí
+0020|扒|bóc; lột; bới; bám vào|bát
+0021|疤|sẹo; vết sẹo|ba
+0022|拔苗助长|nóng vội làm hỏng việc (nhổ mạ cho lúa nhanh lớn)|bạt miêu trợ trưởng
+0023|把关|kiểm soát; kiểm tra gác cửa; giữ cửa ải|bả quan
+0024|把手|tay nắm; tay cầm; bắt tay|bả thủ
+0025|把戏|trò ảo thuật; trò bịp; mánh khóe|bả hí
+0026|霸道|ngang ngược; độc đoán; bá đạo; mạnh (thuốc)|bá đạo
+0027|巴不得|mong mỏi; ước gì; chỉ mong|ba bất đắc
+0028|巴结|nịnh bợ; xu nịnh; lấy lòng|ba kết
+0029|罢工|đình công; bãi công|bãi công
+0030|掰|bẻ; tách; bẻ gãy|bái
+0031|百分点|điểm phần trăm|bách phân điểm
+0032|摆脱|thoát khỏi; thoát ly; gạt bỏ|bãi thoát
+0033|败坏|làm hỏng; làm suy đồi; làm bại hoại|bại hoại
+0034|拜访|thăm; thăm viếng; bái phỏng|bái phỏng
+0035|拜年|chúc Tết; đi chúc Tết|bái niên
+0036|拜托|nhờ; làm ơn; xin nhờ cậy|bái thác
+0037|颁布|ban hành; công bố (luật, lệnh)|ban bố
+0038|颁发|ban hành; trao tặng; cấp (giải thưởng, giấy tờ)|ban phát
+0039|斑纹|vằn; sọc; đốm|ban văn
+0040|版本|phiên bản; ấn bản|bản bản
+0041|半途而废|bỏ dở nửa chừng; bỏ cuộc giữa chừng|bán đồ nhi phế
+0042|伴侣|bạn đời; bạn đồng hành; người bạn|bạn lữ
+0043|伴随|đi cùng; kèm theo; đồng hành|bạn tùy
+0044|扮演|đóng vai; thủ vai|bạn diễn
+0045|绑架|bắt cóc; cướp (máy bay)|bảng giá
+0046|榜样|tấm gương; mẫu mực|bảng dạng
+0047|磅|cân; pound (đơn vị); cân bàn|bàng
+0048|包庇|che chở; bao che; dung túng|bao tí
+0049|包袱|bọc vải; gánh nặng; gánh nặng tâm lý|bao phục
+0050|包围|bao vây; vây quanh|bao vi
+0051|包装|đóng gói; bao bì; đóng gói bao bì|bao trang
+0052|薄弱|yếu kém; mỏng manh; yếu ớt|bạc nhược
+0053|饱和|bão hòa; no đủ; đã đầy|bão hòa
+0054|饱经沧桑|từng trải qua nhiều biến thiên của cuộc đời|bão kinh thương tang
+0055|保管|bảo quản; giữ gìn; chắc chắn bảo đảm|bảo quản
+0056|保密|giữ bí mật; bảo mật|bảo mật
+0057|保姆|bảo mẫu; người giúp việc; vú em|bảo mẫu
+0058|保守|bảo thủ; giữ kín; bảo vệ|bảo thủ
+0059|保卫|bảo vệ; giữ gìn; phòng thủ|bảo vệ
+0060|保养|bảo dưỡng; chăm sóc sức khỏe|bảo dưỡng
+0061|保障|đảm bảo; bảo đảm; sự bảo đảm|bảo chướng
+0062|保重|bảo trọng; giữ gìn sức khỏe|bảo trọng
+0063|报仇|báo thù; trả thù|báo cừu
+0064|报酬|thù lao; tiền công; đãi ngộ|báo thù
+0065|报答|báo đáp; đền đáp|báo đáp
+0066|报到|trình diện; đăng ký nhận việc; điểm danh|báo đáo
+0067|报复|trả thù; trả đũa; sự trả đũa|báo phục
+0068|报社|tòa soạn báo; cơ quan báo chí|báo xã
+0069|报销|thanh toán chi phí; quyết toán; thanh lý|báo tiêu
+0070|抱负|hoài bão; khát vọng; chí hướng|bão phụ
+0071|抱怨|than phiền; oán trách; càu nhàu|bão oán
+0072|暴力|bạo lực|bạo lực
+0073|暴露|bộc lộ; để lộ; phơi bày|bộc lộ
+0074|爆发|bùng nổ; nổ ra; bộc phát|bạo phát
+0075|爆炸|nổ; vụ nổ; bùng nổ|bạo tạc
+0076|卑鄙|đê tiện; hèn hạ; bỉ ổi|ti bỉ
+0077|悲哀|buồn thương; đau buồn; bi ai|bi ai
+0078|悲惨|bi thảm; thảm thương|bi thảm
+0079|北极|Bắc Cực|bắc cực
+0080|贝壳|vỏ sò; vỏ ốc; vỏ sò hến|bối xác
+0081|备份|sao lưu; bản sao dự phòng|bị phận
+0082|备忘录|bản ghi nhớ; sổ ghi nhớ; công hàm|bị vong lục
+0083|背叛|phản bội; phản lại|bối phản
+0084|背诵|đọc thuộc lòng; học thuộc|bối tụng
+0085|被动|bị động|bị động
+0086|被告|bị cáo|bị cáo
+0087|奔波|bôn ba; chạy ngược chạy xuôi|bôn ba
+0088|奔驰|chạy nhanh; phi nước đại; lao nhanh|bôn trì
+0089|本能|bản năng|bản năng
+0090|本钱|vốn liếng; vốn; lợi thế; tiền vốn|bản tiền
+0091|本人|bản thân; chính tôi; đương sự; người đó|bản nhân
+0092|本身|bản thân; chính nó|bản thân
+0093|本事|bản lĩnh; tài năng; năng lực|bản sự
+0094|本着|dựa trên; căn cứ theo; theo nguyên tắc|bản trước
+0095|笨拙|vụng về; ngốc nghếch; lóng ngóng|bổn chuyết
+0096|崩溃|sụp đổ; tan vỡ; suy sụp|băng hội
+0097|甭|khỏi cần; không cần|bằng
+0098|迸发|bật ra; tuôn trào; bùng lên|bính phát
+0099|蹦|nhảy; bật; nhảy cẫng|bính
+0100|逼迫|ép buộc; bức bách; cưỡng ép|bức bách
+0101|鼻涕|nước mũi|tị thế
+0102|比方|ví dụ; ví như; thí dụ|tỉ phương
+0103|比喻|ví von; so sánh; phép ẩn dụ|tỉ dụ
+0104|比重|tỷ trọng; tỷ lệ|tỉ trọng
+0105|必定|nhất định; chắc chắn|tất định
+0106|闭塞|bế tắc; tắc nghẽn; hẻo lánh; kém thông tin|bế tắc
+0107|弊病|tệ nạn; khuyết điểm; điểm xấu; nhược điểm|tệ bệnh
+0108|弊端|mặt xấu; điều tệ hại; tệ nạn|tệ đoan
+0109|碧玉|ngọc bích|bích ngọc
+0110|臂|cánh tay; tay|tý
+0111|边疆|biên cương; vùng biên giới|biên cương
+0112|边界|biên giới; ranh giới|biên giới
+0113|边境|biên giới; vùng biên|biên cảnh
+0114|边缘|rìa; mép; bờ; ngoài lề|biên duyên
+0115|编织|đan; dệt; bện; (nghĩa bóng) dệt nên|biên chức
+0116|鞭策|thúc giục; khích lệ; đốc thúc|tiên sách
+0117|贬低|hạ thấp; xem thường; hạ giá trị|biếm đê
+0118|贬义|nghĩa xấu; nghĩa chê bai; nghĩa tiêu cực|biếm nghĩa
+0119|扁|dẹt; bẹp; dẹp|biển
+0120|变故|biến cố; sự cố bất ngờ; tai họa|biến cố
+0121|变迁|thay đổi; biến thiên; thăng trầm|biến thiên
+0122|变质|biến chất; hư hỏng; ôi thiu|biến chất
+0123|便利|tiện lợi; thuận tiện; tạo điều kiện|tiện lợi
+0124|便条|giấy ghi chú; mẩu giấy nhắn; tờ ghi|tiện điều
+0125|便于|dễ; thuận tiện cho; tiện cho|tiện vu
+0126|遍布|có mặt khắp nơi; trải khắp; rải rác khắp|biến bố
+0127|辨认|nhận ra; phân biệt; nhận dạng|biện nhận
+0128|辩护|biện hộ; bào chữa|biện hộ
+0129|辩解|biện bạch; giải thích bào chữa; thanh minh|biện giải
+0130|辩证|biện chứng|biện chứng
+0131|辫子|bím tóc; đuôi sam; điểm yếu bị nắm|biện tử
+0132|标本|tiêu bản; mẫu vật; gốc và ngọn|tiêu bản
+0133|标记|dấu hiệu; ký hiệu; nhãn; đánh dấu|tiêu ký
+0134|标题|tiêu đề; đầu đề; tít|tiêu đề
+0135|飙升|tăng vọt; tăng nhanh; leo thang|phiêu thăng
+0136|表决|biểu quyết; bỏ phiếu|biểu quyết
+0137|表态|bày tỏ thái độ; tỏ rõ lập trường|biểu thái
+0138|表彰|biểu dương; tuyên dương; khen thưởng|biểu chương
+0139|憋|nín; nén; bị ngột ngạt; ức chế|biết
+0140|别扭|khó chịu; gượng gạo; trái ý; bất hòa|biệt nữu
+0141|别墅|biệt thự|biệt thự
+0142|别致|độc đáo; lạ mắt; khác lạ; có phong cách riêng|biệt trí
+0143|濒临|giáp với; sắp; cận kề; sát bên|tần lâm
+0144|冰雹|mưa đá; hạt mưa đá|băng bạc
+0145|并存|cùng tồn tại; tồn tại song song|tịnh tồn
+0146|并非|không hề là; hoàn toàn không phải|tịnh phi
+0147|并列|song song; ngang hàng; đứng cạnh nhau|tịnh liệt
+0148|拨打|gọi (điện thoại); bấm số|bát đả
+0149|波浪|sóng; làn sóng|ba lãng
+0150|波涛汹涌|sóng dữ cuộn trào; sóng cả ào ạt|ba đào hung dũng
+0151|剥削|bóc lột; sự bóc lột|bác tước
+0152|播放|phát; phát sóng; phát (nhạc, phim)|bá phóng
+0153|播种|gieo hạt; gieo trồng|bá chủng
+0154|伯母|bác gái (vợ anh của cha); bác (xưng hô với phụ nữ tuổi như mẹ)|bá mẫu
+0155|博大精深|rộng lớn và sâu sắc; uyên thâm|bác đại tinh thâm
+0156|博览会|hội chợ triển lãm; triển lãm lớn|bác lãm hội
+0157|搏斗|vật lộn; đấu tranh; giằng co; đánh nhau|bác đấu
+0158|补偿|bồi thường; đền bù|bổ thường
+0159|补救|cứu vãn; bổ cứu; khắc phục|bổ cứu
+0160|补贴|trợ cấp; phụ cấp; bù thêm|bổ thiếp
+0161|哺乳|cho bú; nuôi bằng sữa; cho con bú|bộ nhũ
+0162|捕捉|bắt; nắm bắt; bắt giữ|bộ tróc
+0163|不得已|bất đắc dĩ|bất đắc dĩ
+0164|不妨|không sao; cứ việc; chẳng ngại|bất phương
+0165|不敢当|không dám nhận; không dám|bất cảm đương
+0166|不顾|bất chấp; không màng; mặc kệ|bất cố
+0167|不禁|không nhịn được; không kìm được|bất cấm
+0168|不堪|không chịu nổi; không thể chịu đựng; hết sức (nghĩa xấu)|bất kham
+0169|不可思议|không thể tưởng tượng nổi; kỳ lạ khó tin|bất khả tư nghị
+0170|不愧|xứng đáng; không hổ là|bất quý
+0171|不料|không ngờ; ai ngờ|bất liệu
+0172|不时|thỉnh thoảng; luôn luôn; lúc nào cũng|bất thời
+0173|不惜|không tiếc; không ngại; sẵn sàng hy sinh|bất tích
+0174|不相上下|ngang nhau; không hơn không kém|bất tương thượng hạ
+0175|不像话|không ra thể thống gì; quá đáng; vô lý|bất tượng thoại
+0176|不屑一顾|không thèm liếc mắt; coi khinh|bất tiết nhất cố
+0177|不言而喻|không cần nói cũng hiểu; rõ như ban ngày|bất ngôn nhi dụ
+0178|不由得|không thể không; không kìm được|bất do đắc
+0179|不择手段|không từ thủ đoạn nào|bất trạch thủ đoạn
+0180|不止|không ngừng; hơn; không chỉ|bất chỉ
+0181|布告|bố cáo; thông cáo; thông báo|bố cáo
+0182|布局|bố cục; sự sắp xếp; bố trí|bố cục
+0183|布置|bố trí; sắp xếp; trang trí; giao (bài tập, nhiệm vụ)|bố trí
+0184|步伐|bước chân; nhịp bước; bước tiến|bộ phạt
+0185|部署|bố trí; triển khai; sắp đặt|bộ thự
+0186|部位|bộ phận; vị trí (trên cơ thể)|bộ vị
+0187|才干|tài cán; năng lực; tài năng|tài cán
+0188|财富|của cải; tài sản; sự giàu có|tài phú
+0189|财务|tài vụ; tài chính (của đơn vị)|tài vụ
+0190|财政|tài chính (công); tài chính nhà nước|tài chính
+0191|裁缝|thợ may; thợ cắt may|tài phùng
+0192|裁判|trọng tài; phán quyết; xét xử|tài phán
+0193|裁员|cắt giảm nhân sự; sa thải nhân viên|tài viên
+0194|采购|mua sắm; thu mua; mua hàng|thải cấu
+0195|采集|thu thập; hái lượm; sưu tầm|thải tập
+0196|采纳|tiếp nhận; chấp nhận; thu nhận (ý kiến)|thải nạp
+0197|彩票|vé số; xổ số|thải phiếu
+0198|参谋|tham mưu; góp ý; cố vấn|tham mưu
+0199|参照|tham chiếu; tham khảo; đối chiếu|tham chiếu
+0200|残酷|tàn khốc; tàn nhẫn|tàn khốc
+0201|残留|còn sót lại; tồn dư; di tích|tàn lưu
+0202|残忍|tàn nhẫn; độc ác|tàn nhẫn
+0203|灿烂|rực rỡ; xán lạn; lộng lẫy|xán lạn
+0204|仓促|vội vàng; hấp tấp; gấp gáp|thương xúc
+0205|仓库|kho; nhà kho; kho hàng|thương khố
+0206|苍白|tái nhợt; nhợt nhạt; yếu ớt; nghèo nàn|thương bạch
+0207|舱|khoang (tàu, máy bay)|thương
+0208|操劳|vất vả lao lực; lo toan; bận rộn|thao lao
+0209|操练|luyện tập; huấn luyện; thao diễn|thao luyện
+0210|操纵|điều khiển; thao túng|thao túng
+0211|操作|thao tác; vận hành; điều khiển|thao tác
+0212|嘈杂|ồn ào; huyên náo|tào tạp
+0213|草案|bản dự thảo; dự án (luật)|thảo án
+0214|草率|cẩu thả; qua loa; hời hợt|thảo suất
+0215|侧面|mặt bên; mặt nghiêng; khía cạnh|trắc diện
+0216|测量|đo lường; đo đạc; trắc địa|trắc lượng
+0217|策略|sách lược; chiến lược; khéo léo|sách lược
+0218|策划|lập kế hoạch; trù tính; bày mưu|sách hoạch
+0219|层出不穷|xuất hiện liên tiếp không dứt; liên tục xuất hiện|tằng xuất bất cùng
+0220|层次|tầng lớp; cấp độ; trật tự|tằng thứ
+0221|查获|tìm ra và thu giữ; bắt giữ (tang vật, tội phạm)|tra hoạch
+0222|岔|ngã ba; chỗ rẽ; nhánh; chia nhánh|xá
+0223|诧异|ngạc nhiên; kinh ngạc; lấy làm lạ|sá dị
+0224|差距|khoảng cách; sự chênh lệch|sai cự
+0225|柴油|dầu diesel; dầu đi-ê-den|sài du
+0226|搀|đỡ; dìu; pha trộn|sàm
+0227|馋|thèm; tham ăn; háu ăn|sàm
+0228|缠绕|quấn; quấn quanh; vướng víu|triền nhiễu
+0229|产业|ngành nghề; ngành công nghiệp; tài sản|sản nghiệp
+0230|阐述|trình bày; giải thích; luận giải|xiển thuật
+0231|颤抖|run rẩy; rung; run|chiến đẩu
+0232|昌盛|thịnh vượng; hưng thịnh; phồn vinh|xương thịnh
+0233|猖狂|hung hăng; ngang ngược; càn rỡ|xương cuồng
+0234|尝试|thử; thử nghiệm; cố thử|thường thí
+0235|偿还|hoàn trả; trả nợ; bồi hoàn|thường hoàn
+0236|常年|quanh năm; nhiều năm liền; bình thường hàng năm|thường niên
+0237|常务|thường vụ; công việc hằng ngày|thường vụ
+0238|场合|trường hợp; hoàn cảnh; dịp|trường hợp
+0239|场面|cảnh tượng; quang cảnh; khung cảnh|trường diện
+0240|场所|nơi chốn; địa điểm|trường sở
+0241|畅通|thông suốt; không bị cản trở|sướng thông
+0242|畅销|bán chạy; bán đắt hàng|sướng tiêu
+0243|倡导|đề xướng; khởi xướng; ủng hộ|xướng đạo
+0244|倡议|đề xuất; khởi xướng; sáng kiến|xướng nghị
+0245|敞开|mở rộng; mở toang; không hạn chế|sưởng khai
+0246|钞票|tiền giấy; giấy bạc|sao phiếu
+0247|超级|siêu; siêu cấp|siêu cấp
+0248|超越|vượt qua; vượt lên; siêu việt|siêu việt
+0249|朝气蓬勃|tràn đầy sức sống; hăng hái; sôi nổi|triêu khí bồng bột
+0250|嘲笑|chế nhạo; chế giễu; cười nhạo|trào tiếu
+0251|潮流|trào lưu; xu hướng; dòng nước|triều lưu
+0252|潮湿|ẩm ướt; ẩm|triều thấp
+0253|撤退|rút lui; triệt thoái|triệt thoái
+0254|撤销|hủy bỏ; bãi bỏ; thu hồi; hoàn tác (máy tính)|triệt tiêu
+0255|沉淀|lắng đọng; kết tủa; trầm tích; tích lũy|trầm điện
+0256|沉闷|nặng nề; ngột ngạt; buồn tẻ; tù túng|trầm muộn
+0257|沉思|trầm ngâm; suy ngẫm; suy tư|trầm tư
+0258|沉着|bình tĩnh; điềm tĩnh; trầm tĩnh|trầm trước
+0259|沉重|nặng nề; nặng trĩu; nghiêm trọng|trầm trọng
+0260|陈旧|cũ kỹ; lạc hậu; lỗi thời|trần cựu
+0261|陈列|trưng bày; bày biện|trần liệt
+0262|陈述|trình bày; thuật lại; phát biểu|trần thuật
+0263|称号|danh hiệu; tên gọi; xưng hiệu|xưng hiệu
+0264|称心如意|vừa lòng đẹp ý; như ý muốn|xứng tâm như ý
+0265|成本|chi phí; giá thành; vốn|thành bản
+0266|成交|chốt giao dịch; thành giao; giao dịch thành công|thành giao
+0267|成天|suốt ngày; cả ngày|thành thiên
+0268|成效|hiệu quả; kết quả; thành quả|thành hiệu
+0269|成心|cố ý; cố tình|thành tâm
+0270|成员|thành viên|thành viên
+0271|呈现|hiện ra; xuất hiện; thể hiện ra|trình hiện
+0272|承办|đảm nhận; nhận làm; tổ chức|thừa biện
+0273|承包|nhận thầu; khoán; nhận khoán|thừa bao
+0274|承诺|cam kết; hứa hẹn; lời hứa|thừa nặc
+0275|诚挚|chân thành; thành khẩn|thành chí
+0276|城堡|lâu đài; thành lũy; quân xe (cờ vua)|thành bảo
+0277|乘务员|tiếp viên (tàu, máy bay); nhân viên phục vụ trên xe|thừa vụ viên
+0278|惩罚|trừng phạt; hình phạt; xử phạt|trừng phạt
+0279|澄清|làm sáng tỏ; làm rõ; trong vắt|trừng thanh
+0280|橙|cam; cây cam; màu cam|chanh
+0281|秤|cái cân; cân|xứng
+0282|吃苦|chịu khổ; chịu gian khổ|ngật khổ
+0283|吃力|vất vả; nặng nhọc; khó nhọc|ngật lực
+0284|池塘|ao; hồ nhỏ; cái ao|trì đường
+0285|迟缓|chậm chạp; chậm trễ; trì trệ|trì hoãn
+0286|迟疑|do dự; lưỡng lự|trì nghi
+0287|持久|lâu dài; bền bỉ; kéo dài|trì cửu
+0288|赤道|xích đạo|xích đạo
+0289|赤字|thâm hụt; bội chi; thâm hụt tài chính|xích tự
+0290|充当|đóng vai; đảm nhiệm; làm|sung đương
+0291|充沛|dồi dào; sung mãn; dư dả|sung bái
+0292|充实|phong phú; đầy đủ; làm cho phong phú|sung thực
+0293|充足|đầy đủ; dồi dào; sung túc|sung túc
+0294|冲动|kích động; bốc đồng; sự thúc đẩy|xung động
+0295|冲击|xung kích; tấn công; va đập; tác động mạnh|xung kích
+0296|冲突|xung đột; mâu thuẫn|xung đột
+0297|崇拜|sùng bái; ngưỡng mộ|sùng bái
+0298|崇高|cao cả; cao thượng; sùng cao|sùng cao
+0299|崇敬|kính trọng; sùng kính|sùng kính
+0300|抽空|tranh thủ thời gian; dành chút thời gian|trừu không
+0301|稠密|dày đặc; đông đúc; mật độ cao|trù mật
+0302|筹备|chuẩn bị; trù bị; lên kế hoạch|trù bị
+0303|踌躇|do dự; chần chừ; lưỡng lự|trù trừ
+0304|丑恶|xấu xa; đáng ghét; xấu xí|xú ác
+0305|出路|lối thoát; con đường ra; tiền đồ; đầu ra|xuất lộ
+0306|出卖|bán; phản bội; bán đứng|xuất mại
+0307|出身|xuất thân; gia cảnh; lý lịch|xuất thân
+0308|出神|xuất thần; mê mẩn; thẫn thờ|xuất thần
+0309|出息|triển vọng; tiền đồ; tiến bộ|xuất tức
+0310|出洋相|bêu xấu; làm trò cười; xấu mặt|xuất dương tướng
+0311|初步|sơ bộ; bước đầu|sơ bộ
+0312|储备|dự trữ; dự phòng; lượng dự trữ|trữ bị
+0313|储存|tích trữ; lưu trữ; cất giữ|trữ tồn
+0314|储蓄|tiết kiệm; gửi tiết kiệm; tiền tiết kiệm|trữ súc
+0315|处分|xử phạt; kỷ luật; hình thức kỷ luật|xử phân
+0316|处境|hoàn cảnh; cảnh ngộ; tình cảnh|xử cảnh
+0317|处置|xử lý; xử trí; giải quyết|xử trí
+0318|畜牧|chăn nuôi; súc mục|súc mục
+0319|触犯|vi phạm; xâm phạm; xúc phạm|xúc phạm
+0320|川流不息|dòng chảy không ngừng; nườm nượp không dứt|xuyên lưu bất tức
+0321|穿越|xuyên qua; băng qua; đi qua|xuyên việt
+0322|传达|truyền đạt; chuyển lời; thông báo|truyền đạt
+0323|传单|tờ rơi; truyền đơn|truyền đơn
+0324|传记|tiểu sử; truyện ký|truyện ký
+0325|传授|truyền thụ; dạy; truyền dạy|truyền thụ
+0326|船舶|tàu thuyền; thuyền bè|thuyền bạc
+0327|喘气|thở dốc; thở hổn hển; nghỉ lấy hơi|suyễn khí
+0328|串|xâu; chuỗi; xiên; nối liền; lẫn lộn|xuyến
+0329|床单|ga trải giường; khăn trải giường|sàng đơn
+0330|幢|tòa (lượng từ cho nhà); màn xe|tràng
+0331|创立|sáng lập; thành lập; gây dựng|sáng lập
+0332|创新|đổi mới; sáng tạo; sự đổi mới|sáng tân
+0333|创业|khởi nghiệp; lập nghiệp|sáng nghiệp
+0334|创作|sáng tác; sáng tạo (tác phẩm)|sáng tác
+0335|吹牛|nói khoác; khoác lác; tán gẫu|xuy ngưu
+0336|吹捧|tâng bốc; nịnh nọt; ca tụng quá mức|xuy phủng
+0337|垂直|thẳng đứng; vuông góc; chiều dọc|thùy trực
+0338|锤|cái búa; đập búa; quả cân|chùy
+0339|纯粹|thuần túy; hoàn toàn; chỉ là|thuần túy
+0340|纯洁|trong sáng; thuần khiết; trong trắng|thuần khiết
+0341|词汇|từ vựng; vốn từ|từ vựng
+0342|慈祥|hiền từ; từ tường; nhân hậu|từ tường
+0343|雌雄|đực và cái; trống mái; hơn thua|thư hùng
+0344|次品|hàng kém chất lượng; hàng lỗi|thứ phẩm
+0345|次序|thứ tự; trật tự|thứ tự
+0346|伺候|hầu hạ; chăm sóc; phục vụ|tứ hậu
+0347|刺|gai; châm; đâm; chọc|thích
+0348|从容不迫|ung dung bình tĩnh; thong thả không vội|thung dung bất bách
+0349|丛|bụi; cụm; lùm|tùng
+0350|凑合|gom lại; tạm bợ; cứ tạm; chấp nhận|thấu hợp
+0351|粗鲁|thô lỗ; cục mằn; thô bạo|thô lỗ
+0352|窜|chạy trốn; chạy tán loạn; trốn chạy|thoán
+0353|摧残|hủy hoại; tàn phá; giày vò|tồi tàn
+0354|脆弱|mong manh; yếu ớt; dễ tổn thương|thúy nhược
+0355|搓|xoa; vò; se (sợi)|tha
+0356|磋商|bàn bạc; thương lượng; trao đổi|tha thương
+0357|挫折|thất bại; trắc trở; khó khăn; thất bại bước đầu|tỏa chiết
+0358|搭|dựng; bắc; đáp; đi nhờ (xe); mắc|đáp
+0359|搭档|cộng tác; cộng sự; đồng đội|đáp đương
+0360|搭配|kết hợp; phối hợp; cặp đôi|đáp phối
+0361|达成|đạt được (thỏa thuận); đi đến|đạt thành
+0362|答辩|bảo vệ luận văn; bào chữa; đáp lời|đáp biện
+0363|答复|trả lời; hồi đáp; câu trả lời|đáp phục
+0364|打包|gói; đóng gói; mang đồ ăn thừa về; nén tệp|đả bao
+0365|打官司|kiện tụng; thưa kiện|đả quan ti
+0366|打击|đánh; tấn công; đả kích; đòn giáng|đả kích
+0367|打架|đánh nhau; ẩu đả|đả giá
+0368|打量|đánh giá; nhìn từ đầu đến chân; xem xét|đả lượng
+0369|打猎|đi săn|đả liệp
+0370|打仗|đánh nhau; đánh trận; chiến đấu|đả trượng
+0371|大不了|cùng lắm; to tát; nghiêm trọng|đại bất liễu
+0372|大臣|đại thần; bộ trưởng|đại thần
+0373|大伙儿|mọi người; tất cả mọi người|đại hỏa nhi
+0374|大厦|tòa nhà lớn; cao ốc|đại hạ
+0375|大肆|tha hồ; bừa bãi; thả sức (nghĩa xấu)|đại tứ
+0376|大体|đại thể; nhìn chung; đại khái|đại thể
+0377|大意|đại ý; nội dung chính; sơ suất, chủ quan|đại ý
+0378|大致|đại khái; đại thể; xấp xỉ|đại trí
+0379|歹徒|kẻ gian; côn đồ; tên cướp|đãi đồ
+0380|逮捕|bắt giữ; bắt; sự bắt giữ|đãi bộ
+0381|代价|cái giá; giá phải trả; đại giá|đại giá
+0382|代理|đại lý; thay mặt; quyền (chức vụ)|đại lý
+0383|带领|dẫn dắt; dẫn đầu; hướng dẫn|đái lĩnh
+0384|怠慢|thất lễ; tiếp đãi không chu đáo; lơ là|đãi mạn
+0385|担保|bảo đảm; bảo lãnh; cam đoan|đảm bảo
+0386|胆怯|nhát gan; sợ sệt; rụt rè|đảm khiếp
+0387|诞辰|ngày sinh; ngày sinh nhật (trang trọng)|đản thần
+0388|诞生|ra đời; chào đời; sinh ra|đản sinh
+0389|弹性|tính đàn hồi; độ co giãn; linh hoạt|đàn tính
+0390|淡季|mùa vắng khách; mùa ế ẩm|đạm quý
+0391|淡水|nước ngọt|đạm thủy
+0392|蛋白质|chất đạm; prô-tê-in|đản bạch chất
+0393|当场|tại chỗ; ngay tại chỗ; ngay lúc đó|đương trường
+0394|当初|lúc đầu; hồi đó; ban đầu|đương sơ
+0395|当面|trực tiếp; trước mặt; mặt đối mặt|đương diện
+0396|当前|trước mắt; hiện nay; đối mặt|đương tiền
+0397|当事人|đương sự; người trong cuộc|đương sự nhân
+0398|当务之急|việc cấp bách nhất; việc trước mắt cần làm|đương vụ chi cấp
+0399|当心|cẩn thận; coi chừng|đương tâm
+0400|当选|trúng cử; được bầu|đương tuyển
+0401|党|đảng; phe phái|đảng
+0402|档案|hồ sơ; tài liệu lưu trữ; tệp|đương án
+0403|档次|đẳng cấp; hạng; cấp độ|đương thứ
+0404|导弹|tên lửa dẫn đường; tên lửa|đạo đạn
+0405|导航|dẫn đường; định vị; dẫn hướng|đạo hàng
+0406|导向|hướng tới; định hướng; dẫn tới|đạo hướng
+0407|岛屿|đảo; hòn đảo; quần đảo|đảo tự
+0408|捣乱|quấy rối; gây rối; phá rối|đảo loạn
+0409|倒闭|phá sản; đóng cửa; sụp đổ (công ty)|đảo bế
+0410|盗窃|trộm cắp; ăn trộm|đạo thiết
+0411|稻谷|thóc; lúa|đạo cốc
+0412|地步|tình trạng; mức độ; hoàn cảnh|địa bộ
+0413|地势|địa thế; địa hình|địa thế
+0414|地质|địa chất|địa chất
+0415|得不偿失|lợi không bù hại; được không bằng mất|đắc bất thường thất
+0416|得力|đắc lực; giỏi; hiệu quả|đắc lực
+0417|得天独厚|được thiên nhiên ưu đãi; có điều kiện đặc biệt thuận lợi|đắc thiên độc hậu
+0418|得罪|đắc tội; làm mích lòng; xúc phạm|đắc tội
+0419|灯笼|đèn lồng|đăng lung
+0420|登陆|đổ bộ; lên bờ; cập bờ|đăng lục
+0421|登录|đăng nhập; đăng ký; ghi danh|đăng lục
+0422|蹬|đạp; giẫm; đi (giày)|đặng
+0423|等级|đẳng cấp; cấp bậc; thứ hạng|đẳng cấp
+0424|瞪|trừng mắt; nhìn trừng trừng; mở to mắt|trừng
+0425|堤坝|đê đập; đê; đập nước|đê bá
+0426|敌视|thù địch; coi như kẻ thù; thù ghét|địch thị
+0427|抵达|đến nơi; tới (nơi đến)|để đạt
+0428|抵抗|chống cự; kháng cự; sức đề kháng|để kháng
+0429|抵制|tẩy chay; ngăn cản; chống lại|để chế
+0430|递增|tăng dần; tăng lên dần|đệ tăng
+0431|颠簸|xóc nảy; lắc lư; chao đảo; gập ghềnh|điên bả
+0432|颠倒|đảo lộn; lộn ngược; đảo ngược|điên đảo
+0433|典礼|lễ; nghi lễ; buổi lễ|điển lễ
+0434|典型|điển hình; tiêu biểu; mẫu mực|điển hình
+0435|点缀|tô điểm; điểm xuyết; trang điểm|điểm chuế
+0436|电源|nguồn điện|điện nguyên
+0437|垫|đệm; lót; kê; ứng trước (tiền)|điếm
+0438|惦记|nhớ; lo lắng; nhớ nhung|điếm ký
+0439|奠定|đặt nền móng; xác lập; thiết lập|điện định
+0440|叼|ngậm; cắp; tha (bằng miệng)|điêu
+0441|雕刻|điêu khắc; chạm khắc; tác phẩm chạm|điêu khắc
+0442|雕塑|điêu khắc; tượng; nghệ thuật điêu khắc|điêu tố
+0443|吊|treo; móc; thắt cổ; điếu|điếu
+0444|调动|điều động; điều chuyển; huy động|điều động
+0445|调和|điều hòa; hòa giải; hài hòa; dung hòa|điều hòa
+0446|调剂|điều chỉnh; cân đối; bào chế thuốc|điều tễ
+0447|调节|điều tiết; điều chỉnh|điều tiết
+0448|调解|hòa giải; dàn xếp|điều giải
+0449|调料|gia vị; đồ gia vị|điều liệu
+0450|跌|ngã; rớt; giảm giá; té|điệt
+0451|叮嘱|dặn dò; căn dặn nhiều lần|đinh chúc
+0452|盯|nhìn chằm chằm; dõi theo; bám sát|đinh
+0453|定期|định kỳ; theo kỳ hạn|định kỳ
+0454|定义|định nghĩa|định nghĩa
+0455|丢人|mất mặt; xấu hổ; bẽ mặt|đâu nhân
+0456|丢三落四|đãng trí; hay quên; trước quên sau|đâu tam lạc tứ
+0457|东道主|chủ nhà; nước chủ nhà; bên đăng cai|đông đạo chủ
+0458|东张西望|ngó nghiêng; nhìn ngang nhìn dọc|đông trương tây vọng
+0459|董事长|chủ tịch hội đồng quản trị|đổng sự trưởng
+0460|动荡|bất ổn; chao đảo; rối ren|động đãng
+0461|动机|động cơ; động lực; mục đích|động cơ
+0462|动静|động tĩnh; tiếng động; động tĩnh (tin tức)|động tĩnh
+0463|动力|động lực; năng lượng; lực đẩy|động lực
+0464|动脉|động mạch|động mạch
+0465|动身|lên đường; khởi hành; xuất phát|động thân
+0466|动手|bắt tay làm; ra tay; đánh|động thủ
+0467|动态|động thái; diễn biến; động|động thái
+0468|动员|động viên; huy động|động viên
+0469|冻结|đóng băng; đông cứng; phong tỏa (tài sản)|đống kết
+0470|栋|tòa; ngôi (lượng từ cho nhà); xà nhà|đống
+0471|洞穴|hang động; hang|động huyệt
+0472|都市|đô thị; thành phố lớn|đô thị
+0473|兜|túi; vòng quanh; bọc lại; đựng|đâu
+0474|陡峭|dốc đứng; hiểm trở|đẩu tiêu
+0475|斗争|đấu tranh; cuộc đấu tranh|đấu tranh
+0476|督促|đốc thúc; thúc giục; giám sát|đốc xúc
+0477|毒品|ma túy; chất độc|độc phẩm
+0478|独裁|độc tài|độc tài
+0479|堵塞|tắc nghẽn; bịt kín; ùn tắc|đổ tắc
+0480|赌博|đánh bạc; cờ bạc|đổ bác
+0481|杜绝|chấm dứt hẳn; ngăn chặn triệt để|đỗ tuyệt
+0482|端|đầu; đầu mút; bưng; cầm (bằng hai tay)|đoan
+0483|端午节|Tết Đoan Ngọ|đoan ngọ tiết
+0484|端正|đoan chính; ngay ngắn; chỉnh tề; nghiêm chỉnh|đoan chính
+0485|短促|ngắn ngủi; gấp gáp; dồn dập|đoản xúc
+0486|断定|kết luận; khẳng định; xác định|đoạn định
+0487|断断续续|đứt quãng; ngắt quãng; lúc có lúc không|đoạn đoạn tục tục
+0488|断绝|cắt đứt; đoạn tuyệt; chấm dứt|đoạn tuyệt
+0489|堆积|chất đống; tích tụ; chồng chất|đôi tích
+0490|队伍|đội ngũ; hàng ngũ; đoàn; hàng người|đội ngũ
+0491|对策|đối sách; biện pháp đối phó|đối sách
+0492|对称|đối xứng|đối xứng
+0493|对付|đối phó; ứng phó; tạm được; xoay xở|đối phó
+0494|对抗|đối kháng; chống lại; đối đầu|đối kháng
+0495|对立|đối lập; chống đối|đối lập
+0496|对联|câu đối (hai bên cửa)|đối liên
+0497|对应|tương ứng; đối ứng|đối ứng
+0498|对照|đối chiếu; so sánh; tương phản|đối chiếu
+0499|兑换|đổi (tiền); quy đổi; trao đổi|đoái hoán
+0500|兑现|đổi ra tiền mặt; thực hiện (lời hứa)|đoái hiện
+0501|顿时|lập tức; ngay tức khắc; chợt|đốn thời
+0502|多元化|đa dạng hóa; đa nguyên hóa|đa nguyên hóa
+0503|哆嗦|run rẩy; run lẩy bẩy; rùng mình|đa sách
+0504|堕落|sa đọa; sa ngã; suy đồi|đọa lạc
+0505|额外|ngoài ra; thêm; phụ thêm|ngạch ngoại
+0506|恶化|xấu đi; trở nên tồi tệ; ác hóa|ác hóa
+0507|恶心|buồn nôn; ghê tởm; kinh tởm|ố tâm
+0508|掠夺|cướp bóc; cướp đoạt; bóc lột|lược đoạt
+0509|略微|hơi hơi; một chút; chút ít|lược vi
+0510|遏制|ngăn chặn; kiềm chế; khống chế|át chế
+0511|恩怨|ân oán; thù hận và ơn nghĩa|ân oán
+0512|而已|mà thôi; thế thôi|nhi dĩ
+0513|耳环|hoa tai; khuyên tai|nhĩ hoàn
+0514|二氧化碳|khí cacbonic; carbon dioxide|nhị dưỡng hóa thán
+0515|发布|công bố; ban bố; phát hành; đưa ra|phát bố
+0516|发财|phát tài; làm giàu|phát tài
+0517|发呆|ngẩn ngơ; ngây người; đờ đẫn|phát ngai
+0518|发动|phát động; khởi động; khởi xướng|phát động
+0519|发火|nổi giận; nổi cáu; bốc cháy|phát hỏa
+0520|发觉|phát giác; nhận ra; phát hiện|phát giác
+0521|发射|phóng; bắn; phát sóng|phát xạ
+0522|发誓|thề; nguyện thề|phát thệ
+0523|发行|phát hành; xuất bản|phát hành
+0524|发炎|viêm; bị viêm; sưng tấy|phát viêm
+0525|发扬|phát huy; phát huy quang đại|phát dương
+0526|发育|phát triển; lớn lên; dậy thì|phát dục
+0527|法人|pháp nhân|pháp nhân
+0528|番|lần; lượt (lượng từ); ngoại (người nước ngoài)|phiên
+0529|繁华|phồn hoa; náo nhiệt; sầm uất|phồn hoa
+0530|繁忙|bận rộn; tấp nập|phồn mang
+0531|繁体字|chữ phồn thể|phồn thể tự
+0532|繁殖|sinh sản; sinh sôi; nhân giống|phồn thực
+0533|反驳|phản bác; bác bỏ|phản bác
+0534|反常|khác thường; bất thường|phản thường
+0535|反倒|ngược lại; trái lại; lại còn|phản đảo
+0536|反动|phản động; phản ứng|phản động
+0537|反感|phản cảm; ác cảm; khó chịu|phản cảm
+0538|反抗|phản kháng; chống lại; nổi dậy|phản kháng
+0539|反馈|phản hồi; thông tin phản hồi|phản quỹ
+0540|反面|mặt trái; mặt tiêu cực; mặt trái của vấn đề|phản diện
+0541|反射|phản xạ; phản chiếu|phản xạ
+0542|反思|suy ngẫm lại; nhìn lại; phản tư|phản tư
+0543|反问|hỏi vặn lại; câu hỏi tu từ|phản vấn
+0544|反之|ngược lại; trái lại|phản chi
+0545|泛滥|tràn lan; ngập lụt; lan tràn|phiếm lạm
+0546|范畴|phạm trù|phạm trù
+0547|贩卖|buôn bán; bán rong; buôn|phiến mại
+0548|方位|phương vị; phương hướng|phương vị
+0549|方言|phương ngữ; tiếng địa phương|phương ngôn
+0550|方针|phương châm; chính sách; đường lối|phương châm
+0551|防守|phòng thủ; bảo vệ; phòng ngự|phòng thủ
+0552|防疫|phòng dịch|phòng dịch
+0553|防御|phòng ngự; phòng thủ|phòng ngự
+0554|防止|ngăn ngừa; phòng ngừa; ngăn chặn|phòng chỉ
+0555|防治|phòng và trị; phòng chống|phòng trị
+0556|纺织|dệt; kéo sợi và dệt|phưởng chức
+0557|放大|phóng to; mở rộng; khuếch đại|phóng đại
+0558|放射|phóng xạ; bức xạ; tỏa ra|phóng xạ
+0559|放手|buông tay; thả tay; mạnh dạn|phóng thủ
+0560|飞禽走兽|chim muông; thú rừng; cầm thú|phi cầm tẩu thú
+0561|飞翔|bay lượn; bay liệng|phi tường
+0562|飞跃|nhảy vọt; bước nhảy vọt|phi dược
+0563|非法|bất hợp pháp; phi pháp|phi pháp
+0564|肥沃|màu mỡ; phì nhiêu|phì ốc
+0565|匪徒|thổ phỉ; kẻ cướp; bọn cướp|phỉ đồ
+0566|诽谤|phỉ báng; vu khống; bôi nhọ|phỉ báng
+0567|废除|bãi bỏ; hủy bỏ; xóa bỏ|phế trừ
+0568|废墟|đống đổ nát; phế tích|phế khư
+0569|沸腾|sôi sục; sôi lên; sôi nổi|phí đằng
+0570|分辨|phân biệt; nhận rõ|phân biện
+0571|分寸|chừng mực; mức độ vừa phải; đúng mực|phân thốn
+0572|分红|chia lãi; chia cổ tức; thưởng|phân hồng
+0573|分解|phân giải; phân tích; phân rã; giải thích|phân giải
+0574|分量|trọng lượng; khối lượng; sức nặng; phân lượng|phân lượng
+0575|分裂|chia rẽ; phân liệt; tách ra|phân liệt
+0576|分泌|tiết ra; bài tiết|phân bí
+0577|分明|rõ ràng; rành mạch; hiển nhiên|phân minh
+0578|分歧|bất đồng; sự khác biệt; chia ngả|phân kỳ
+0579|分散|phân tán; rải rác; phân phát|phân tán
+0580|分手|chia tay; chia ly|phân thủ
+0581|吩咐|dặn dò; sai bảo; căn dặn|phân phó
+0582|坟墓|mồ mả; phần mộ; nấm mồ|phần mộ
+0583|粉末|bột; phấn; bụi|phấn mạt
+0584|粉色|màu hồng|phấn sắc
+0585|粉碎|nghiền nát; đập tan; bẻ gãy|phấn toái
+0586|丰满|đầy đặn; phong phú; đầy đủ|phong mãn
+0587|丰盛|thịnh soạn; phong phú; dồi dào|phong thịnh
+0588|丰收|được mùa; bội thu|phong thu
+0589|风暴|bão tố; giông bão; cơn bão (nghĩa bóng: phong ba)|phong bạo
+0590|风度|phong độ; dáng vẻ; phong thái|phong độ
+0591|风光|phong cảnh; cảnh sắc; vẻ vang|phong quang
+0592|风气|phong khí; không khí xã hội; tập tục|phong khí
+0593|风趣|hóm hỉnh; dí dỏm; thú vị|phong thú
+0594|风土人情|phong thổ nhân tình; phong tục tập quán địa phương|phong thổ nhân tình
+0595|风味|hương vị đặc trưng; phong vị; đặc sản|phong vị
+0596|封闭|phong bế; đóng kín; khép kín; niêm phong|phong bế
+0597|封建|phong kiến|phong kiến
+0598|封锁|phong tỏa; bao vây|phong tỏa
+0599|锋利|sắc bén; sắc sảo|phong lợi
+0600|逢|gặp; gặp phải; nhằm lúc|phùng
+0601|奉献|cống hiến; dâng hiến; hiến dâng|phụng hiến
+0602|否决|phủ quyết; bác bỏ|phủ quyết
+0603|敷衍|đối phó qua loa; làm cho qua chuyện; hời hợt|phu diễn
+0604|服气|tâm phục khẩu phục; chịu phục|phục khí
+0605|俘虏|tù binh; bắt làm tù binh|phu lỗ
+0606|符号|ký hiệu; biểu tượng; dấu hiệu|phù hiệu
+0607|幅度|biên độ; mức độ; quy mô|phúc độ
+0608|福利|phúc lợi|phúc lợi
+0609|福气|phúc phận; may mắn|phúc khí
+0610|辐射|bức xạ; phát tán|phúc xạ
+0611|抚养|nuôi dưỡng; nuôi nấng|phủ dưỡng
+0612|俯仰|cúi ngẩng; ngẩng lên cúi xuống; chao nghiêng|phủ ngưỡng
+0613|辅助|hỗ trợ; phụ trợ; phụ|phụ trợ
+0614|腐败|thối nát; tham nhũng; mục nát|hủ bại
+0615|腐烂|thối rữa; mục nát; hư thối|hủ lạn
+0616|腐蚀|ăn mòn; làm mục; làm hư hỏng|hủ thực
+0617|腐朽|mục nát; thối nát; hủ bại|hủ hủ
+0618|负担|gánh nặng; gánh vác; chịu (chi phí)|phụ đảm
+0619|附和|hùa theo; a dua; phụ họa|phụ họa
+0620|附件|tệp đính kèm; phụ kiện; phụ lục|phụ kiện
+0621|附属|trực thuộc; phụ thuộc; phụ|phụ thuộc
+0622|复活|hồi sinh; sống lại; phục sinh|phục hoạt
+0623|复兴|phục hưng; hồi sinh|phục hưng
+0624|副|phó; phụ; bộ; cặp (lượng từ)|phó
+0625|副作用|tác dụng phụ|phó tác dụng
+0626|富裕|giàu có; sung túc; khá giả|phú dụ
+0627|赋予|giao cho; ban cho; trao cho|phú dư
+0628|腹泻|tiêu chảy; ỉa chảy|phúc tả
+0629|覆盖|che phủ; bao phủ; phủ|phúc cái
+0630|夫妇|vợ chồng; cặp vợ chồng|phu phụ
+0631|夫人|phu nhân; bà; vợ|phu nhân
+0632|改良|cải tiến; cải lương; cải thiện|cải lương
+0633|盖章|đóng dấu; ký xác nhận|cái chương
+0634|甘心|cam lòng; bằng lòng; cam tâm|cam tâm
+0635|尴尬|khó xử; ngượng ngùng; lúng túng|giam giới
+0636|感慨|cảm khái; xúc động; thở than|cảm khái
+0637|感染|lây nhiễm; nhiễm trùng; truyền cảm|cảm nhiễm
+0638|干旱|hạn hán; khô hạn|can hạn
+0639|干劲|nhiệt huyết; sức hăng; hăng hái làm việc|cán kính
+0640|干扰|can nhiễu; gây nhiễu; quấy rầy|can nhiễu
+0641|干涉|can thiệp; xen vào|can thiệp
+0642|干预|can dự; can thiệp|can dự
+0643|杠杆|đòn bẩy; cái đòn|giang can
+0644|纲领|cương lĩnh; đường lối|cương lĩnh
+0645|岗位|vị trí công tác; cương vị; chức vụ|cương vị
+0646|港口|cảng; bến cảng|cảng khẩu
+0647|港湾|vịnh cảng; bến cảng|cảng loan
+0648|高超|siêu việt; cao siêu; điêu luyện|cao siêu
+0649|高潮|cao trào; đỉnh điểm; triều cao|cao triều
+0650|高峰|đỉnh cao; cao điểm; đỉnh núi|cao phong
+0651|高考|kỳ thi đại học; thi đại học|cao khảo
+0652|高明|cao minh; giỏi; tài giỏi|cao minh
+0653|高尚|cao thượng; cao quý; thanh cao|cao thượng
+0654|高涨|dâng cao; lên cao; tăng cao|cao trướng
+0655|稿件|bản thảo; bài gửi đăng|cảo kiện
+0656|告辞|cáo từ; xin phép ra về; từ biệt|cáo từ
+0657|告诫|cảnh cáo; răn dạy; khuyên răn|cáo giới
+0658|疙瘩|mụn cục; nốt sần; cục u; vướng mắc; nút thắt|ngật đáp
+0659|割|cắt; gặt; cắt đứt|cát
+0660|搁|đặt; để; gác lại; hoãn lại|các
+0661|歌颂|ca ngợi; ca tụng; tụng ca|ca tụng
+0662|格局|cục diện; cơ cấu; bố cục|cách cục
+0663|格式|định dạng; mẫu; quy cách; thể thức|cách thức
+0664|隔阂|bất hòa; xa cách; rào cản; hiềm khích|cách hạt
+0665|隔离|cách ly; ngăn cách|cách ly
+0666|个体|cá thể; cá nhân; cá thể (kinh tế)|cá thể
+0667|各抒己见|mỗi người nêu ý kiến riêng|các thư kỷ kiến
+0668|给予|trao cho; cho; dành cho; ban cho|cấp dư
+0669|根深蒂固|ăn sâu bám rễ; căn sâu đế vững|căn thâm đế cố
+0670|根源|nguồn gốc; căn nguyên|căn nguyên
+0671|跟前|trước mặt; bên cạnh; sát bên|ngân tiền
+0672|跟随|đi theo; theo sau; bám theo|ngân tùy
+0673|跟踪|theo dõi; bám theo; truy tìm dấu vết|ngân tung
+0674|耕地|đất canh tác; đất trồng trọt; cày đất|canh địa
+0675|更新|đổi mới; cập nhật; thay mới|canh tân
+0676|更正|đính chính; sửa lại; cải chính|canh chính
+0677|工夫|thời gian; công phu; thời giờ rảnh|công phu
+0678|工艺品|đồ thủ công mỹ nghệ; hàng thủ công|công nghệ phẩm
+0679|公安局|cục công an; sở công an|công an cục
+0680|公道|công bằng; đạo lý; lẽ công bằng|công đạo
+0681|公告|thông báo; công bố; thông cáo|công cáo
+0682|公关|quan hệ công chúng; PR|công quan
+0683|公民|công dân|công dân
+0684|公婆|bố mẹ chồng; cha mẹ chồng|công bà
+0685|公然|công khai; trắng trợn; ngang nhiên|công nhiên
+0686|公认|công nhận; được thừa nhận rộng rãi|công nhận
+0687|公式|công thức|công thức
+0688|公务|công vụ; việc công|công vụ
+0689|公正|công bằng; công chính; chính trực|công chính
+0690|公证|công chứng|công chứng
+0691|功课|bài tập; bài vở; môn học|công khóa
+0692|功劳|công lao; thành tích|công lao
+0693|功效|công hiệu; hiệu quả; tác dụng|công hiệu
+0694|攻击|tấn công; công kích; công kích|công kích
+0695|攻克|đánh chiếm; chiếm được; công phá; vượt qua|công khắc
+0696|供不应求|cung không đủ cầu|cung bất ứng cầu
+0697|供给|cung cấp; cung ứng|cung cấp
+0698|宫殿|cung điện; điện|cung điện
+0699|恭敬|cung kính; kính cẩn|cung kính
+0700|巩固|củng cố; vững chắc|củng cố
+0701|共和国|nước cộng hòa|cộng hòa quốc
+0702|共计|tổng cộng; cộng lại|cộng kế
+0703|共鸣|cộng hưởng; đồng cảm; cộng minh|cộng minh
+0704|勾结|cấu kết; móc ngoặc; thông đồng|câu kết
+0705|钩子|cái móc; cái câu; lưỡi câu|câu tử
+0706|构思|hình thành ý tưởng; cấu tứ; phác thảo|cấu tư
+0707|姑且|tạm thời; cứ tạm; tạm|cô thả
+0708|孤独|cô đơn; lẻ loi; cô độc|cô độc
+0709|孤立|cô lập; đơn độc|cô lập
+0710|辜负|phụ lòng; phụ; có lỗi với|cô phụ
+0711|古董|đồ cổ; cổ vật|cổ đổng
+0712|古怪|kỳ quặc; kỳ dị; lạ lùng|cổ quái
+0713|股东|cổ đông|cổ đông
+0714|股份|cổ phần|cổ phần
+0715|骨干|nòng cốt; trụ cột; cán bộ chủ chốt|cốt cán
+0716|鼓动|cổ động; xúi giục; kích động; vỗ|cổ động
+0717|固然|thật ra thì; đúng là; tuy nhiên|cố nhiên
+0718|固有|vốn có; cố hữu|cố hữu
+0719|固执|cố chấp; bướng bỉnh; ngoan cố|cố chấp
+0720|故乡|quê hương; quê nhà|cố hương
+0721|故障|sự cố; hỏng hóc; trục trặc|cố chướng
+0722|顾虑|băn khoăn; lo ngại; e dè|cố lự
+0723|顾问|cố vấn; tư vấn|cố vấn
+0724|拐杖|cái nạng; gậy chống|quải trượng
+0725|关照|chiếu cố; chăm sóc; quan tâm; dặn dò|quan chiếu
+0726|观光|tham quan; ngắm cảnh; du lịch|quan quang
+0727|官方|chính thức; chính quyền; phía nhà nước|quan phương
+0728|管辖|quản lý; cai quản; thuộc quyền|quản hạt
+0729|贯彻|quán triệt; thực hiện triệt để; thực thi|quán triệt
+0730|惯例|thông lệ; lệ thường; tiền lệ|quán lệ
+0731|灌溉|tưới tiêu; tưới nước|quán khái
+0732|罐|lon; hộp; bình; lọ; chum|quán
+0733|光彩|sắc thái rực rỡ; vẻ vang; huy hoàng|quang thái
+0734|光辉|rực rỡ; huy hoàng; ánh sáng chói lọi|quang huy
+0735|光芒|tia sáng; hào quang; ánh sáng chói|quang mang
+0736|广阔|rộng lớn; bao la; rộng rãi|quảng khoát
+0737|归根到底|rốt cuộc; suy cho cùng; xét đến cùng|quy căn đáo để
+0738|归还|trả lại; hoàn lại|quy hoàn
+0739|归纳|quy nạp; tóm tắt; khái quát|quy nạp
+0740|规范|quy phạm; chuẩn mực; chuẩn hóa; đúng quy cách|quy phạm
+0741|规格|quy cách; tiêu chuẩn; kích cỡ|quy cách
+0742|规划|quy hoạch; kế hoạch tổng thể; hoạch định|quy hoạch
+0743|规章|quy chế; điều lệ; quy định|quy chương
+0744|轨道|đường ray; quỹ đạo; con đường|quỹ đạo
+0745|贵族|quý tộc|quý tộc
+0746|跪|quỳ|quỵ
+0747|棍棒|gậy gộc; dùi cui; côn bổng|côn bổng
+0748|国防|quốc phòng|quốc phòng
+0749|国务院|quốc vụ viện; chính phủ (Trung Quốc)|quốc vụ viện
+0750|果断|quyết đoán; dứt khoát|quả đoán
+0751|过度|quá mức; quá độ|quá độ
+0752|过渡|quá độ; chuyển tiếp; vượt qua|quá độ
+0753|过奖|quá khen; khen quá lời|quá tưởng
+0754|过滤|lọc; chắt lọc; bộ lọc|quá lự
+0755|过失|sai sót; lỗi lầm; lỗi vô ý|quá thất
+0756|过问|hỏi đến; can dự; quan tâm|quá vấn
+0757|过瘾|đã ghiền; thỏa thích; sướng|quá nghiện
+0758|过于|quá; quá mức|quá vu
+0759|嗨|này; chào; ôi (thán từ)|
+0760|还原|khôi phục nguyên trạng; hoàn nguyên; khử|hoàn nguyên
+0761|海拔|độ cao so với mực nước biển|hải bạt
+0762|海滨|bờ biển; ven biển|hải tân
+0763|含糊|mơ hồ; lờ mờ; cẩu thả; qua loa|hàm hồ
+0764|含义|hàm ý; ý nghĩa; nghĩa|hàm nghĩa
+0765|寒暄|hàn huyên; chào hỏi xã giao|hàn huyên
+0766|罕见|hiếm thấy; hiếm có|hãn kiến
+0767|捍卫|bảo vệ; giữ gìn; hộ vệ|hãn vệ
+0768|航空|hàng không|hàng không
+0769|航天|hàng thiên; du hành vũ trụ|hàng thiên
+0770|航行|đi biển; đi tàu; bay; hàng hành|hàng hành
+0771|毫米|mi-li-mét; milimét|hào mễ
+0772|毫无|hoàn toàn không; không hề|hào vô
+0773|豪迈|hào hùng; hào sảng; khí phách|hào mại
+0774|好客|hiếu khách|hiếu khách
+0775|号召|kêu gọi; hiệu triệu|hiệu triệu
+0776|耗费|tiêu hao; tốn; hao phí|hao phí
+0777|合并|sáp nhập; hợp nhất; gộp|hợp tịnh
+0778|合成|tổng hợp; hợp thành; ghép lại|hợp thành
+0779|合乎|phù hợp; hợp với|hợp hồ
+0780|合伙|hùn; kết hợp; cùng nhau (làm ăn)|hợp hỏa
+0781|合身|vừa người; vừa vặn (quần áo)|hợp thân
+0782|合算|có lợi; đáng; tính gộp|hợp toán
+0783|和蔼|hòa nhã; niềm nở; hiền hòa|hòa ái
+0784|和解|hòa giải; làm lành|hòa giải
+0785|和睦|hòa thuận; êm ấm|hòa mục
+0786|和气|hòa nhã; thân thiện; hòa khí|hòa khí
+0787|和谐|hài hòa; hòa hợp|hòa hài
+0788|嘿|này; ê (thán từ gọi)|
+0789|痕迹|dấu vết; vết tích|ngân tích
+0790|狠心|nhẫn tâm; quyết tâm; độc ác|ngận tâm
+0791|恨不得|chỉ muốn; ước gì có thể|hận bất đắc
+0792|哼|hừ; ư ử; rên rỉ; ngân nga|hanh
+0793|轰动|gây chấn động; náo động; làm xôn xao|hoanh động
+0794|哄|dỗ dành; lừa gạt; dụ dỗ|hống
+0795|烘|hơ; sấy; nướng; tô đậm|hồng
+0796|红包|bao lì xì; tiền thưởng; hoa hồng|hồng bao
+0797|宏观|vĩ mô|hoành quan
+0798|宏伟|hùng vĩ; đồ sộ; to lớn|hoằng vĩ
+0799|洪水|lũ lụt; lũ; nước lũ|hồng thủy
+0800|喉咙|cổ họng; họng|hầu lung
+0801|吼|gầm; rống; gào|hống
+0802|后代|đời sau; hậu thế; con cháu|hậu đại
+0803|后顾之忧|nỗi lo về sau; lo lắng phía sau|hậu cố chi ưu
+0804|后勤|hậu cần|hậu cần
+0805|候选|ứng cử; ứng viên; dự tuyển|hậu tuyển
+0806|呼啸|rít; hú; gào thét; vút|hô khiếu
+0807|呼吁|kêu gọi; thỉnh cầu; lời kêu gọi|hô hu
+0808|忽略|bỏ qua; xem nhẹ; sơ suất|hốt lược
+0809|胡乱|bừa bãi; lung tung; tùy tiện|hồ loạn
+0810|湖泊|hồ; hồ nước|hồ bạc
+0811|互联网|Internet; mạng toàn cầu|hỗ liên võng
+0812|花瓣|cánh hoa|hoa biện
+0813|华丽|lộng lẫy; hoa lệ; tráng lệ|hoa lệ
+0814|华侨|Hoa kiều; người Hoa ở nước ngoài|hoa kiều
+0815|化肥|phân hóa học|hóa phì
+0816|化石|hóa thạch|hóa thạch
+0817|化验|xét nghiệm; phân tích hóa nghiệm|hóa nghiệm
+0818|化妆|trang điểm; hóa trang|hóa trang
+0819|划分|phân chia; phân định; phân biệt|hoa phân
+0820|画蛇添足|vẽ rắn thêm chân; làm thừa mà hỏng việc|họa xà thiêm túc
+0821|话筒|micrô; ống nghe điện thoại|thoại đồng
+0822|怀孕|có thai; mang thai|hoài dựng
+0823|环节|khâu; mắt xích; vòng; đốt (giun)|hoàn tiết
+0824|缓和|làm dịu; hòa hoãn; xoa dịu|hoãn hòa
+0825|患者|bệnh nhân; người bệnh|hoạn giả
+0826|欢乐|vui vẻ; hân hoan; niềm vui|hoan lạc
+0827|荒凉|hoang vắng; hoang vu; vắng vẻ|hoang lương
+0828|荒谬|vô lý; phi lý; hoang đường|hoang mậu
+0829|荒唐|hoang đường; vô lý; bừa bãi|hoang đường
+0830|慌忙|vội vàng; cuống cuồng; hấp tấp|hoảng mang
+0831|黄昏|hoàng hôn; chạng vạng|hoàng hôn
+0832|恍然大悟|chợt hiểu ra; sực tỉnh ngộ|hoảng nhiên đại ngộ
+0833|挥霍|tiêu xài hoang phí; vung tay quá trán|huy hoắc
+0834|辉煌|huy hoàng; rực rỡ; lộng lẫy|huy hoàng
+0835|回报|báo đáp; đền đáp; phản hồi|hồi báo
+0836|回避|né tránh; lảng tránh; tránh mặt|hồi tị
+0837|回顾|nhìn lại; ôn lại; hồi tưởng|hồi cố
+0838|回收|thu hồi; tái chế; thu về|hồi thu
+0839|悔恨|hối hận; ân hận|hối hận
+0840|毁灭|hủy diệt; tiêu diệt; diệt vong|hủy diệt
+0841|汇报|báo cáo; tổng hợp báo cáo|hối báo
+0842|会晤|gặp gỡ; hội kiến; hội đàm|hội ngộ
+0843|贿赂|hối lộ; đút lót|hối lộ
+0844|昏迷|hôn mê; bất tỉnh|hôn mê
+0845|浑身|toàn thân; cả người|hồn thân
+0846|混合|trộn; hỗn hợp; pha trộn|hỗn hợp
+0847|混乱|hỗn loạn; rối loạn; lộn xộn|hỗn loạn
+0848|混淆|nhầm lẫn; làm lẫn lộn; xáo trộn|hỗn hào
+0849|混浊|đục; vẩn đục; đục ngầu|hỗn trọc
+0850|活该|đáng đời; đáng kiếp; đáng|hoạt cai
+0851|活力|sức sống; sinh lực; sự năng động|hoạt lực
+0852|火箭|tên lửa; hỏa tiễn|hỏa tiễn
+0853|火焰|ngọn lửa; hỏa diệm|hỏa diễm
+0854|火药|thuốc súng; hỏa dược|hỏa dược
+0855|或许|có lẽ; có thể|hoặc hứa
+0856|货币|tiền tệ; tiền|hóa tệ
+0857|讥笑|chế giễu; nhạo báng; cười nhạo|cơ tiếu
+0858|饥饿|đói; nạn đói; đói khát|cơ ngạ
+0859|机动|cơ động; linh hoạt; chạy bằng máy|cơ động
+0860|机构|cơ quan; tổ chức; cơ cấu|cơ cấu
+0861|机关|cơ quan; cơ cấu máy; mưu mẹo|cơ quan
+0862|机灵|lanh lợi; nhanh trí; thông minh|cơ linh
+0863|机密|bí mật; cơ mật; tuyệt mật|cơ mật
+0864|机械|máy móc; cơ khí; máy; cứng nhắc|cơ giới
+0865|机遇|cơ hội; thời cơ; vận may|cơ ngộ
+0866|机智|nhanh trí; khôn khéo; linh hoạt|cơ trí
+0867|迹象|dấu hiệu; dấu vết; manh mối|tích tượng
+0868|基地|căn cứ; cơ sở; trung tâm|cơ địa
+0869|基金|quỹ; tiền quỹ|cơ kim
+0870|基因|gen; gien|cơ nhân
+0871|激发|khơi dậy; kích thích; khơi gợi|kích phát
+0872|激励|khích lệ; động viên; thúc đẩy|kích lệ
+0873|激情|đam mê; nhiệt huyết; cảm xúc mãnh liệt|kích tình
+0874|及早|sớm; kịp thời; càng sớm càng tốt|cập tảo
+0875|吉祥|cát tường; may mắn; tốt lành|cát tường
+0876|级别|cấp bậc; cấp độ; thứ hạng|cấp biệt
+0877|即便|cho dù; dù cho; ngay cả khi|tức tiện
+0878|即将|sắp; sắp sửa; sắp tới|tức tương
+0879|极端|cực đoan; cực độ; vô cùng|cực đoan
+0880|极限|cực hạn; giới hạn tối đa|cực hạn
+0881|急功近利|nóng vội cầu lợi trước mắt; thiển cận|cấp công cận lợi
+0882|急剧|đột ngột; nhanh chóng; mạnh mẽ|cấp kịch
+0883|急切|nôn nóng; khẩn thiết; cấp thiết|cấp thiết
+0884|急于求成|nóng vội muốn thành công nhanh|cấp vu cầu thành
+0885|急躁|nóng nảy; nóng vội; thiếu kiên nhẫn|cấp táo
+0886|疾病|bệnh tật; bệnh|tật bệnh
+0887|集团|tập đoàn; nhóm; khối|tập đoàn
+0888|嫉妒|ghen tị; đố kỵ; ganh ghét|tật đố
+0889|籍贯|quê quán; nguyên quán|tịch quán
+0890|计较|so đo; tính toán; tranh cãi|kế giảo
+0891|记性|trí nhớ; khả năng ghi nhớ|ký tính
+0892|记载|ghi chép; ghi lại; bản ghi|ký tái
+0893|纪要|biên bản tóm tắt; kỷ yếu|kỷ yếu
+0894|忌讳|kiêng kỵ; điều cấm kỵ; kiêng|kỵ húy
+0895|技能|kỹ năng; năng lực chuyên môn|kỹ năng
+0896|技巧|kỹ xảo; kỹ thuật; mẹo|kỹ xảo
+0897|季度|quý (trong năm); quý|quý độ
+0898|季军|á quân hạng ba; huy chương đồng|quý quân
+0899|继承|kế thừa; thừa kế; tiếp nối|kế thừa
+0900|继往开来|kế thừa quá khứ và mở ra tương lai|kế vãng khai lai
+0901|寂静|yên lặng; tĩnh lặng; vắng lặng|tịch tĩnh
+0902|寄托|gửi gắm; ký thác; nơi gửi gắm|ký thác
+0903|加工|gia công; chế biến; xử lý|gia công
+0904|加剧|trầm trọng thêm; tăng nặng; tăng cường|gia kịch
+0905|夹杂|lẫn lộn; xen lẫn; pha tạp|giáp tạp
+0906|佳肴|món ngon; món ăn ngon; cao lương mỹ vị|giai hào
+0907|家常|chuyện nhà; bình thường; cơm nhà|gia thường
+0908|家伙|gã; thằng; đồ đạc; vật dụng; dụng cụ|gia hỏa
+0909|家属|thân nhân; người nhà; gia đình|gia thuộc
+0910|家喻户晓|nhà nhà đều biết; ai ai cũng biết|gia dụ hộ hiểu
+0911|假设|giả sử; giả thiết|giả thiết
+0912|假使|nếu như; giả sử; ví như|giả sử
+0913|尖端|tiên tiến; mũi nhọn; đỉnh cao; đầu nhọn|tiêm đoan
+0914|坚定|kiên định; vững vàng|kiên định
+0915|坚固|kiên cố; vững chắc|kiên cố
+0916|坚韧|bền bỉ; dẻo dai; kiên cường|kiên nhận
+0917|坚实|chắc chắn; vững chắc; kiên cố|kiên thực
+0918|坚硬|cứng; rắn chắc|kiên ngạnh
+0919|间谍|gián điệp; điệp viên|gián điệp
+0920|间隔|khoảng cách; cách quãng; khoảng cách thời gian|gián cách
+0921|间接|gián tiếp|gián tiếp
+0922|艰难|khó khăn; gian nan; vất vả|gian nan
+0923|兼职|kiêm nhiệm; làm thêm; công việc làm thêm|kiêm chức
+0924|监督|giám sát; kiểm soát; giám thị|giám đốc
+0925|监视|theo dõi; giám sát; canh chừng|giám thị
+0926|监狱|nhà tù; trại giam|giam ngục
+0927|拣|chọn; nhặt; lựa|giản
+0928|剪彩|cắt băng khánh thành|tiễn thái
+0929|检讨|kiểm điểm; nhìn lại; tự phê bình|kiểm thảo
+0930|检验|kiểm nghiệm; kiểm tra; xét nghiệm|kiểm nghiệm
+0931|简化|đơn giản hóa; giản lược|giản hóa
+0932|简陋|sơ sài; đơn sơ; thô sơ|giản lậu
+0933|简体字|chữ giản thể|giản thể tự
+0934|简要|ngắn gọn; vắn tắt; tóm lược|giản yếu
+0935|见多识广|từng trải và hiểu biết rộng|kiến đa thức quảng
+0936|见解|quan điểm; kiến giải; ý kiến|kiến giải
+0937|见闻|điều mắt thấy tai nghe; kiến thức|kiến văn
+0938|见义勇为|thấy việc nghĩa hăng hái làm; dũng cảm vì chính nghĩa|kiến nghĩa dũng vi
+0939|健全|lành mạnh; kiện toàn; đầy đủ; hoàn thiện|kiện toàn
+0940|舰艇|tàu chiến; tàu quân sự|hạm đĩnh
+0941|溅|bắn tung tóe; văng; bắn|tiễn
+0942|践踏|giẫm đạp; chà đạp; xâm phạm|tiễn đạp
+0943|鉴别|phân biệt; giám định; nhận định|giám biệt
+0944|鉴定|giám định; thẩm định; nhận xét|giám định
+0945|鉴于|xét thấy; vì; do xem xét|giám vu
+0946|将近|gần; xấp xỉ; sắp tới|tương cận
+0947|将军|tướng quân; tướng; chiếu tướng|tướng quân
+0948|僵硬|cứng đờ; cứng nhắc; đơ|cương ngạnh
+0949|奖励|khen thưởng; thưởng; khuyến khích|tưởng lệ
+0950|奖赏|ban thưởng; phần thưởng; giải thưởng|tưởng thưởng
+0951|桨|mái chèo; cái chèo|tưởng
+0952|降临|đến; giáng xuống; ập đến|giáng lâm
+0953|交叉|giao nhau; đan xen; chéo|giao xoa
+0954|交代|giao phó; dặn dò; khai báo; giải thích; bàn giao|giao đại
+0955|交涉|đàm phán; thương thuyết; giao thiệp|giao thiệp
+0956|交往|giao thiệp; qua lại; kết giao|giao vãng
+0957|交易|giao dịch; trao đổi|giao dịch
+0958|娇气|mong manh; yếu đuối; làm nũng; kiểu cách|kiều khí
+0959|焦点|tiêu điểm; trọng tâm; điểm nóng|tiêu điểm
+0960|焦急|sốt ruột; nóng ruột; lo lắng|tiêu cấp
+0961|角落|góc; xó; xó xỉnh|giác lạc
+0962|搅拌|khuấy; trộn; quấy đều|giảo bạn
+0963|缴纳|nộp (thuế, phí); đóng|giảo nạp
+0964|较量|đọ sức; so tài; thi đấu|giảo lượng
+0965|教养|giáo dưỡng; dạy dỗ; sự giáo dục; phép tắc|giáo dưỡng
+0966|阶层|tầng lớp; giai tầng|giai tầng
+0967|皆|đều; tất cả; toàn|giai
+0968|接连|liên tiếp; liên tục; nối tiếp|tiếp liên
+0969|揭发|tố cáo; vạch trần; phơi bày|yết phát
+0970|揭露|vạch trần; phơi bày; vạch mặt|yết lộ
+0971|节奏|nhịp điệu; tiết tấu; nhịp độ|tiết tấu
+0972|杰出|xuất sắc; kiệt xuất; nổi bật|kiệt xuất
+0973|结晶|kết tinh; tinh thể; thành quả kết tinh|kết tinh
+0974|结局|kết cục; kết thúc; hồi kết|kết cục
+0975|结算|thanh toán; quyết toán; tất toán|kết toán
+0976|截至|tính đến; đến hết; cho đến|tiệt chí
+0977|竭尽全力|dốc hết sức lực; hết sức mình|kiệt tận toàn lực
+0978|解除|giải trừ; hủy bỏ; gỡ bỏ; xóa|giải trừ
+0979|解雇|sa thải; đuổi việc|giải cố
+0980|解剖|giải phẫu; mổ xẻ; phân tích|giải phẫu
+0981|解散|giải tán; giải thể|giải tán
+0982|解体|tan rã; sụp đổ; tháo rời|giải thể
+0983|戒备|đề phòng; cảnh giới; phòng bị|giới bị
+0984|界限|ranh giới; giới hạn|giới hạn
+0985|借鉴|tham khảo; rút kinh nghiệm; học hỏi|tá giám
+0986|借助|nhờ vào; dựa vào; tranh thủ sự giúp đỡ|tá trợ
+0987|金融|tài chính; tiền tệ; ngân hàng|kim dung
+0988|津津有味|say sưa; thích thú; ngon lành|tân tân hữu vị
+0989|尽快|càng nhanh càng tốt; sớm nhất có thể|tận khoái
+0990|紧密|chặt chẽ; mật thiết; khít|khẩn mật
+0991|紧迫|cấp bách; khẩn cấp; gấp gáp|khẩn bách
+0992|锦绣前程|tiền đồ rực rỡ; tương lai xán lạn|cẩm tú tiền trình
+0993|劲头|sức lực; hăng hái; khí thế|kính đầu
+0994|近来|gần đây; dạo này|cận lai
+0995|近视|cận thị; thiển cận|cận thị
+0996|进而|tiến tới; và tiếp đó; hơn nữa|tiến nhi
+0997|进攻|tấn công; tiến công|tiến công
+0998|进化|tiến hóa|tiến hóa
+0999|进展|tiến triển; tiến bộ|tiến triển
+1000|晋升|thăng chức; thăng cấp; lên cấp|tấn thăng
+1001|浸泡|ngâm; nhúng|tẩm bào
+1002|经费|kinh phí; chi phí|kinh phí
+1003|经商|kinh doanh; buôn bán|kinh thương
+1004|经纬|kinh tuyến và vĩ tuyến; trật tự; đầu mối|kinh vĩ
+1005|茎|thân; cuống; cọng (cây)|hành
+1006|惊动|làm kinh động; làm xôn xao; quấy rầy|kinh động
+1007|惊奇|ngạc nhiên; kinh ngạc; lấy làm lạ|kinh kỳ
+1008|惊讶|kinh ngạc; ngạc nhiên|kinh nhạ
+1009|兢兢业业|cần mẫn; chăm chỉ tận tụy; miệt mài|căng căng nghiệp nghiệp
+1010|精打细算|tính toán chi li; tính toán kỹ lưỡng|tinh đả tế toán
+1011|精华|tinh hoa; phần tinh túy|tinh hoa
+1012|精简|tinh giản; rút gọn; giảm bớt|tinh giản
+1013|精密|tinh vi; chính xác cao; tỉ mỉ|tinh mật
+1014|精确|chính xác; tinh xác|tinh xác
+1015|精通|tinh thông; thành thạo; am hiểu|tinh thông
+1016|精心|tỉ mỉ; công phu; chu đáo|tinh tâm
+1017|精益求精|tốt rồi còn muốn tốt hơn; luôn cầu tiến|tinh ích cầu tinh
+1018|精致|tinh xảo; tinh tế; tỉ mỉ|tinh trí
+1019|井|cái giếng; giếng; ngăn nắp|tỉnh
+1020|颈椎|đốt sống cổ; xương cổ|cảnh chùy
+1021|警告|cảnh cáo; cảnh báo|cảnh cáo
+1022|警惕|cảnh giác; đề cao cảnh giác|cảnh dịch
+1023|竞赛|thi đua; cuộc thi; thi đấu|cạnh tái
+1024|竞选|tranh cử; ra ứng cử|cạnh tuyển
+1025|敬礼|chào; kính chào; nghi lễ chào|kính lễ
+1026|境界|cảnh giới; mức độ; ranh giới|cảnh giới
+1027|镜头|ống kính; cảnh quay; cảnh|kính đầu
+1028|纠纷|tranh chấp; bất hòa; rắc rối|củ phân
+1029|纠正|sửa chữa; uốn nắn; chỉnh sửa|củ chính
+1030|酒精|cồn; rượu etylic|tửu tinh
+1031|救济|cứu trợ; cứu tế; giúp đỡ|cứu tế
+1032|就近|gần đây; ở gần; tiện nơi gần|tựu cận
+1033|就业|có việc làm; tìm việc; việc làm|tựu nghiệp
+1034|就职|nhậm chức; nhận chức|tựu chức
+1035|居住|cư trú; sinh sống; ở|cư trú
+1036|拘留|tạm giữ; giam giữ|câu lưu
+1037|拘束|gò bó; câu nệ; ràng buộc|câu thúc
+1038|鞠躬|cúi chào; cúi mình; khom lưng|cúc cung
+1039|局部|cục bộ; bộ phận; một phần|cục bộ
+1040|局面|cục diện; tình hình; thế cuộc|cục diện
+1041|局势|tình thế; tình hình; thế cuộc|cục thế
+1042|局限|hạn chế; giới hạn; bó hẹp|cục hạn
+1043|咀嚼|nhai; nghiền ngẫm; nhai kỹ|tư tước
+1044|沮丧|chán nản; ủ rũ; thất vọng|tự táng
+1045|举动|hành động; cử động; cử chỉ|cử động
+1046|举世闻名|nổi tiếng thế giới; lừng danh toàn cầu|cử thế văn danh
+1047|举世瞩目|cả thế giới chú ý; được thế giới quan tâm|cử thế chúc mục
+1048|举足轻重|có vai trò then chốt; có sức ảnh hưởng quyết định|cử túc khinh trọng
+1049|剧本|kịch bản; vở kịch; kịch bản phim|kịch bản
+1050|剧烈|kịch liệt; dữ dội; mạnh mẽ|kịch liệt
+1051|据悉|theo được biết; nghe nói|cứ tất
+1052|聚精会神|tập trung tinh thần; chăm chú|tụ tinh hội thần
+1053|决策|quyết sách; ra quyết định|quyết sách
+1054|绝望|tuyệt vọng; hết hy vọng|tuyệt vọng
+1055|觉悟|giác ngộ; nhận thức; ý thức|giác ngộ
+1056|觉醒|thức tỉnh; tỉnh ngộ|giác tỉnh
+1057|军队|quân đội|quân đội
+1058|卡通|phim hoạt hình; hoạt hình|ca thông
+1059|开采|khai thác (mỏ); khai khoáng|khai thải
+1060|开除|đuổi học; sa thải; khai trừ|khai trừ
+1061|开阔|rộng rãi; thoáng đãng; mở rộng|khai khoát
+1062|开朗|vui vẻ cởi mở; sáng sủa; rộng rãi|khai lãng
+1063|开明|cởi mở; tiến bộ; khai sáng|khai minh
+1064|开辟|khai phá; mở ra; thiết lập|khai tịch
+1065|开水|nước sôi; nước đun sôi|khai thủy
+1066|开拓|khai thác; mở mang; khai phá|khai thác
+1067|开展|triển khai; tiến hành; mở rộng|khai triển
+1068|开支|chi tiêu; khoản chi; chi phí|khai chi
+1069|刊登|đăng (báo, tạp chí)|san đăng
+1070|刊物|tạp chí; ấn phẩm định kỳ|san vật
+1071|勘探|thăm dò; khảo sát (tài nguyên)|khám thám
+1072|看待|nhìn nhận; coi; đối xử|khán đãi
+1073|看望|thăm hỏi; đi thăm|khán vọng
+1074|慷慨|hào phóng; hào sảng; rộng rãi|khẳng khái
+1075|扛|khiêng; vác; gánh vác|giang
+1076|考察|khảo sát; thị sát; tìm hiểu thực địa|khảo sát
+1077|考古|khảo cổ|khảo cổ
+1078|考核|kiểm tra; đánh giá; sát hạch|khảo hạch
+1079|考验|thử thách; kiểm nghiệm; sự thử thách|khảo nghiệm
+1080|靠拢|tiến sát; xích lại gần; áp sát|kháo lũng
+1081|科目|môn học; môn thi; khoản mục|khoa mục
+1082|颗粒|hạt; viên nhỏ; hạt nhỏ|khỏa lạp
+1083|磕|va; đập; gõ; cộc|khái
+1084|可恶|đáng ghét; đáng căm ghét|khả ố
+1085|可观|đáng kể; đáng xem; lớn|khả quan
+1086|可口|ngon miệng; hợp khẩu vị|khả khẩu
+1087|可笑|buồn cười; nực cười; lố bịch|khả tiếu
+1088|可行|khả thi; có thể thực hiện|khả hành
+1089|渴望|khao khát; mong mỏi; ước ao|khát vọng
+1090|刻不容缓|không thể chậm trễ phút nào; cấp bách|khắc bất dung hoãn
+1091|客户|khách hàng; đối tác|khách hộ
+1092|课题|đề tài; vấn đề nghiên cứu; chủ đề|khóa đề
+1093|恳切|khẩn thiết; chân thành|khẩn thiết
+1094|啃|gặm; nhấm; nghiền ngẫm|khẳng
+1095|坑|hố; vũng; hầm; lừa gạt|khanh
+1096|空白|chỗ trống; trang trắng; khoảng trống|không bạch
+1097|空洞|rỗng tuếch; trống rỗng; hang rỗng|không động
+1098|空前绝后|chưa từng có và sẽ không có nữa; vô tiền khoáng hậu|không tiền tuyệt hậu
+1099|空隙|khoảng trống; khe hở; kẽ hở|không khích
+1100|空想|mơ tưởng; viển vông; ảo tưởng|không tưởng
+1101|空虚|trống rỗng; hư không; trống trải|không hư
+1102|孔|lỗ; khổng; hang (lượng từ)|khổng
+1103|恐惧|sợ hãi; khiếp sợ; nỗi sợ|khủng cụ
+1104|恐吓|đe dọa; dọa nạt|khủng hách
+1105|口气|giọng điệu; khẩu khí; ngữ khí|khẩu khí
+1106|口腔|khoang miệng|khẩu xoang
+1107|口头|bằng miệng; nói miệng; khẩu ngữ|khẩu đầu
+1108|口音|giọng; giọng nói; khẩu âm|khẩu âm
+1109|枯竭|cạn kiệt; khô cạn; kiệt quệ|khô kiệt
+1110|枯燥|khô khan; tẻ nhạt; nhàm chán|khô táo
+1111|苦尽甘来|khổ tận cam lai; hết khổ đến sướng|khổ tận cam lai
+1112|挎|đeo; khoác (trên vai, tay); xách|khóa
+1113|跨|bước qua; vượt; cưỡi; kéo dài qua|khóa
+1114|快活|vui vẻ; sung sướng; hoạt bát|khoái hoạt
+1115|宽敞|rộng rãi; thoáng đãng|khoan sưởng
+1116|款待|khoản đãi; tiếp đãi nhiệt tình|khoản đãi
+1117|款式|kiểu dáng; mẫu mã; kiểu cách|khoản thức
+1118|框架|khung; sườn; khuôn khổ|khuông giá
+1119|筐|cái giỏ; cái sọt; cái rổ|khuông
+1120|况且|vả lại; hơn nữa; huống chi|huống thả
+1121|旷课|trốn học; nghỉ học không phép|khoáng khóa
+1122|亏待|đối xử tệ bạc; bạc đãi; thiệt thòi|khuy đãi
+1123|亏损|thua lỗ; thâm hụt; hao hụt|khuy tổn
+1124|昆虫|côn trùng|côn trùng
+1125|捆绑|trói; buộc; bó lại|khổn bảng
+1126|扩充|mở rộng; bổ sung; tăng cường|khuếch sung
+1127|扩散|lan rộng; khuếch tán; lan tỏa|khuếch tán
+1128|扩张|mở rộng; bành trướng; khuếch trương|khuếch trương
+1129|喇叭|loa; còi; kèn|lạt bá
+1130|啦|trợ từ (dạng gộp của 了 và 啊); tiếng la hét|
+1131|来历|lai lịch; nguồn gốc; xuất xứ|lai lịch
+1132|来源|nguồn gốc; nguồn; xuất xứ|lai nguyên
+1133|栏目|chuyên mục; mục (báo, chương trình)|lan mục
+1134|懒惰|lười biếng; biếng nhác|lãn đọa
+1135|狼狈|chật vật; khốn đốn; nhếch nhác|lang bái
+1136|朗读|đọc to; đọc diễn cảm|lãng độc
+1137|捞|vớt; kiếm chác; mò|lao
+1138|牢固|vững chắc; chắc chắn; kiên cố|lao cố
+1139|牢骚|lời phàn nàn; sự bất mãn; than vãn|lao tao
+1140|唠叨|lải nhải; cằn nhằn; nói luyên thuyên|lao thao
+1141|乐谱|bản nhạc; nhạc phổ|nhạc phổ
+1142|乐趣|niềm vui; thú vui; lạc thú|lạc thú
+1143|乐意|vui lòng; sẵn lòng; bằng lòng|lạc ý
+1144|雷达|ra-đa|lôi đạt
+1145|类似|tương tự; giống nhau|loại tự
+1146|冷淡|lạnh nhạt; thờ ơ; hờ hững|lãnh đạm
+1147|冷酷|lạnh lùng; tàn nhẫn; nhẫn tâm|lãnh khốc
+1148|冷却|làm nguội; nguội đi; hạ nhiệt|lãnh khước
+1149|愣|ngẩn ra; ngây người; sững sờ|lăng
+1150|黎明|bình minh; rạng đông|lê minh
+1151|礼节|lễ nghi; nghi thức; phép tắc|lễ tiết
+1152|里程碑|cột mốc; mốc lịch sử; cột cây số|lý trình bi
+1153|理睬|để ý; quan tâm; đoái hoài|lý thái
+1154|理所当然|đương nhiên; lẽ đương nhiên|lý sở đương nhiên
+1155|理直气壮|có lý nên mạnh dạn; đường hoàng có lý|lý trực khí tráng
+1156|理智|lý trí; sáng suốt; tỉnh táo|lý trí
+1157|力所能及|trong khả năng của mình; làm được trong khả năng|lực sở năng cập
+1158|力图|ra sức; cố gắng hết sức; tìm cách|lực đồ
+1159|力争|ra sức giành; cố gắng giành; phấn đấu|lực tranh
+1160|历代|các đời; các triều đại; qua các thời kỳ|lịch đại
+1161|历来|xưa nay; từ trước đến nay|lịch lai
+1162|立场|lập trường; quan điểm|lập trường
+1163|立交桥|cầu vượt; cầu lập thể|lập giao kiều
+1164|立体|lập thể; ba chiều; hình khối|lập thể
+1165|立足|đứng vững; đặt chân; dựa vào|lập túc
+1166|利害|lợi hại; lợi và hại; được mất|lợi hại
+1167|利率|lãi suất|lợi suất
+1168|例外|ngoại lệ|lệ ngoại
+1169|连年|liên tiếp nhiều năm; nhiều năm liền|liên niên
+1170|连锁|chuỗi; dây chuyền; liên hoàn|liên tỏa
+1171|连同|cùng với; kể cả; gồm cả|liên đồng
+1172|联欢|liên hoan; họp mặt vui vẻ|liên hoan
+1173|联络|liên lạc; liên hệ|liên lạc
+1174|联盟|liên minh; liên hiệp|liên minh
+1175|联想|liên tưởng|liên tưởng
+1176|廉洁|liêm khiết; trong sạch; thanh liêm|liêm khiết
+1177|良心|lương tâm|lương tâm
+1178|谅解|thông cảm; lượng thứ; thông hiểu|lượng giải
+1179|晾|phơi; hong; bỏ mặc; lạnh nhạt|lượng
+1180|辽阔|bao la; mênh mông; rộng lớn|liêu khoát
+1181|列举|liệt kê; nêu ra|liệt cử
+1182|临床|lâm sàng|lâm sàng
+1183|淋|dội; xối; dầm; ướt sũng|lâm
+1184|吝啬|keo kiệt; bủn xỉn; hà tiện|lận sắc
+1185|灵感|cảm hứng; linh cảm; nguồn cảm hứng|linh cảm
+1186|灵魂|linh hồn; tâm hồn|linh hồn
+1187|灵敏|nhạy bén; nhạy; linh hoạt|linh mẫn
+1188|凌晨|rạng sáng; sáng tinh mơ; hừng đông|lăng thần
+1189|零星|lẻ tẻ; rải rác; vụn vặt; lác đác|linh tinh
+1190|领会|lĩnh hội; hiểu rõ; nắm bắt|lĩnh hội
+1191|领事馆|lãnh sự quán|lĩnh sự quán
+1192|领土|lãnh thổ|lĩnh thổ
+1193|领悟|hiểu ra; lĩnh ngộ; thấu hiểu|lĩnh ngộ
+1194|领先|dẫn đầu; đi đầu; vượt lên|lĩnh tiên
+1195|领袖|lãnh tụ; thủ lĩnh; người đứng đầu|lĩnh tụ
+1196|伶俐|lanh lợi; nhanh nhẹn; thông minh|linh lợi
+1197|溜|trượt; chuồn; lủi; đi dạo|lưu
+1198|流浪|lang thang; phiêu bạt; lưu lạc|lưu lãng
+1199|流露|bộc lộ; để lộ; thể hiện (cảm xúc)|lưu lộ
+1200|流氓|lưu manh; côn đồ; du côn|lưu manh
+1201|流通|lưu thông; lưu hành|lưu thông
+1202|留恋|lưu luyến; không nỡ rời|lưu luyến
+1203|留念|giữ làm kỷ niệm; lưu niệm|lưu niệm
+1204|留神|để ý; cẩn thận; chú ý|lưu thần
+1205|笼罩|bao trùm; bao phủ; phủ kín|lung tráo
+1206|聋哑|câm điếc|lung á
+1207|隆重|long trọng; trọng thể|long trọng
+1208|垄断|độc quyền; lũng đoạn|lũng đoạn
+1209|搂|ôm; ôm chặt; vơ vét|lâu
+1210|炉灶|bếp lò; bếp|lô táo
+1211|屡次|nhiều lần; nhiều bận; lặp đi lặp lại|lũ thứ
+1212|履行|thực hiện; thi hành (nghĩa vụ, hợp đồng)|lý hành
+1213|率领|dẫn đầu; chỉ huy; dẫn dắt|suất lĩnh
+1214|轮船|tàu thủy; tàu hơi nước|luân thuyền
+1215|轮廓|đường nét; đường viền; phác thảo; bóng dáng|luân khuếch
+1216|轮胎|lốp xe; vỏ xe|luân thai
+1217|论坛|diễn đàn|luận đàn
+1218|论证|luận chứng; chứng minh; lập luận|luận chứng
+1219|啰唆|lải nhải; dài dòng; lôi thôi (như 啰嗦)|la toa
+1220|螺丝钉|ốc vít; đinh vít|loa ti đinh
+1221|络绎不绝|nườm nượp; liên tục không dứt|lạc dịch bất tuyệt
+1222|落成|hoàn thành xây dựng; khánh thành|lạc thành
+1223|落实|thực hiện; thực thi; chắc chắn; làm cho cụ thể|lạc thực
+1224|麻痹|tê liệt; chủ quan; lơ là; liệt|ma tý
+1225|麻木|tê dại; tê cứng; vô cảm; thờ ơ|ma mộc
+1226|麻醉|gây mê; gây tê; làm tê liệt|ma túy
+1227|码头|bến tàu; bến cảng; cầu cảng|mã đầu
+1228|嘛|trợ từ nhấn mạnh điều hiển nhiên; mà|
+1229|埋伏|phục kích; mai phục; nằm chờ|mai phục
+1230|埋没|chôn vùi; vùi dập; bỏ phí (tài năng)|mai một
+1231|埋怨|oán trách; than phiền; trách móc|mai oán
+1232|埋葬|chôn cất; mai táng; chôn vùi|mai táng
+1233|迈|bước; sải bước; vượt (một bước)|mại
+1234|脉搏|mạch đập; mạch; nhịp đập|mạch bác
+1235|慢性|mãn tính; chậm; từ từ|mạn tính
+1236|漫画|truyện tranh; tranh biếm họa; manga|mạn họa
+1237|漫长|dài đằng đẵng; dài lê thê|mạn trường
+1238|蔓延|lan rộng; lan tràn; lan ra|mạn diên
+1239|忙碌|bận rộn; tất bật|mang lục
+1240|盲目|mù quáng; thiếu suy xét|manh mục
+1241|茫茫|mênh mông; bát ngát; mịt mù|mang mang
+1242|茫然|mơ hồ; ngơ ngác; bàng hoàng|mang nhiên
+1243|茂盛|tươi tốt; rậm rạp; um tùm|mậu thịnh
+1244|冒充|giả mạo; mạo nhận; giả danh|mạo sung
+1245|没辙|hết cách; hết nước; bó tay|một triệt
+1246|枚|chiếc; cái; đồng (lượng từ cho vật nhỏ: huy chương, tiền xu...)|mai
+1247|媒介|môi giới; phương tiện truyền thông; trung gian|môi giới
+1248|媒体|truyền thông; phương tiện truyền thông|môi thể
+1249|美观|đẹp mắt; mỹ quan|mỹ quan
+1250|美满|tốt đẹp; viên mãn; hạnh phúc|mỹ mãn
+1251|美妙|tuyệt vời; tuyệt diệu; đẹp đẽ|mỹ diệu
+1252|门诊|khám ngoại trú; phòng khám ngoại trú|môn chẩn
+1253|萌芽|nảy mầm; mới nhú; mầm mống; chồi|manh nha
+1254|蒙|che; phủ; lừa gạt; mông; mưa phùn|mông
+1255|猛烈|mạnh mẽ; dữ dội; kịch liệt|mãnh liệt
+1256|梦想|mơ ước; ước mơ; mơ tưởng|mộng tưởng
+1257|眯|nheo mắt; hí mắt; ngủ chợp|mê
+1258|弥补|bù đắp; bổ khuyết; khắc phục|di bổ
+1259|弥漫|tràn ngập; lan tỏa; mù mịt|di mạn
+1260|迷惑|làm mê hoặc; làm rối trí; mê muội; bối rối|mê hoặc
+1261|迷人|quyến rũ; mê hoặc; hấp dẫn|mê nhân
+1262|迷失|lạc mất; lạc lối; mất phương hướng|mê thất
+1263|迷信|mê tín|mê tín
+1264|密度|mật độ|mật độ
+1265|密封|bịt kín; niêm phong; hàn kín|mật phong
+1266|免得|để khỏi; kẻo; tránh để|miễn đắc
+1267|免疫|miễn dịch|miễn dịch
+1268|勉励|khuyến khích; khích lệ; động viên|miễn lệ
+1269|勉强|miễn cưỡng; gượng gạo; ép buộc; vừa đủ|miễn cưỡng
+1270|面貌|diện mạo; bộ mặt; bộ dạng|diện mạo
+1271|面子|thể diện; mặt mũi; bề mặt|diện tử
+1272|描绘|miêu tả; mô tả; khắc họa|miêu hội
+1273|渺小|nhỏ bé; bé nhỏ; không đáng kể|miểu tiểu
+1274|灭亡|diệt vong; bị tiêu diệt; tuyệt chủng|diệt vong
+1275|蔑视|khinh miệt; coi thường|miệt thị
+1276|民间|dân gian; trong dân|dân gian
+1277|民用|dân dụng; dùng cho dân sự|dân dụng
+1278|敏感|nhạy cảm; dễ bị ảnh hưởng|mẫn cảm
+1279|敏捷|nhanh nhẹn; lanh lẹ; nhạy bén|mẫn tiệp
+1280|敏锐|nhạy bén; sắc sảo; tinh tế|mẫn nhuệ
+1281|名次|thứ hạng; vị thứ|danh thứ
+1282|名额|chỉ tiêu; số lượng suất; số chỗ|danh ngạch
+1283|名副其实|danh xứng với thực; đúng như tên gọi|danh phó kỳ thực
+1284|名誉|danh dự; danh tiếng; thanh danh|danh dự
+1285|明明|rõ ràng; rành rành|minh minh
+1286|命名|đặt tên; đặt danh hiệu; mệnh danh|mệnh danh
+1287|摸索|mò mẫm; tìm tòi; thăm dò|mạc sách
+1288|模范|gương mẫu; mô phạm; tấm gương|mô phạm
+1289|模式|mô thức; mô hình; kiểu mẫu|mô thức
+1290|模型|mô hình; khuôn; mẫu|mô hình
+1291|模样|dáng vẻ; hình dáng; vẻ ngoài|mô dạng
+1292|膜|màng; lớp màng|mô
+1293|摩擦|ma sát; cọ xát; xích mích|ma sát
+1294|磨合|chạy rà; làm quen dần; điều chỉnh để ăn khớp|ma hợp
+1295|魔鬼|ma quỷ; quỷ dữ|ma quỷ
+1296|魔术|ảo thuật; trò ảo thuật; ma thuật|ma thuật
+1297|抹杀|xóa sổ; phủ nhận hoàn toàn; xóa nhòa|mạt sát
+1298|莫名其妙|khó hiểu; không đâu vào đâu; vô cớ|mạc danh kỳ diệu
+1299|墨水儿|mực; nước mực|mặc thủy nhi
+1300|默默|lặng lẽ; âm thầm; im lặng|mặc mặc
+1301|谋求|mưu cầu; tìm kiếm; mưu tìm|mưu cầu
+1302|母语|tiếng mẹ đẻ; ngôn ngữ mẹ đẻ|mẫu ngữ
+1303|目睹|tận mắt chứng kiến|mục đổ
+1304|目光|ánh mắt; tầm nhìn; cái nhìn|mục quang
+1305|沐浴|tắm; tắm gội; được thấm nhuần|mộc dục
+1306|嗯|ừ; ừm; hừm (thán từ)|
+1307|拿手|sở trường; giỏi; thành thạo|nã thủ
+1308|纳闷儿|buồn bực; thắc mắc; băn khoăn; khó hiểu|nạp muộn nhi
+1309|耐用|bền; dùng được lâu|nại dụng
+1310|难得|hiếm có; khó được; ít khi|nan đắc
+1311|难堪|khó xử; bẽ mặt; khó chịu đựng|nan kham
+1312|难免|khó tránh khỏi; khó tránh|nan miễn
+1313|难能可贵|đáng quý; hiếm có và đáng quý|nan năng khả quý
+1314|恼火|bực mình; tức giận; cáu|não hỏa
+1315|内涵|nội hàm; ý nghĩa sâu sắc; hàm ý; nội dung|nội hàm
+1316|内幕|nội tình; bí mật bên trong; hậu trường|nội mạc
+1317|内在|nội tại; bên trong|nội tại
+1318|能量|năng lượng; năng lực|năng lượng
+1319|拟定|soạn thảo; dự thảo; vạch ra; lập ra|nghĩ định
+1320|年度|niên độ; năm; hằng năm|niên độ
+1321|捏|nặn; nhéo; véo; bóp|niết
+1322|宁肯|thà; thà rằng; thà là|ninh khẳng
+1323|宁愿|thà; thà rằng; thà là|ninh nguyện
+1324|拧|vặn; xoắn; nhéo; cãi nhau; trái ngược|nịnh
+1325|凝固|đông đặc; đông cứng; ngưng kết|ngưng cố
+1326|凝聚|ngưng tụ; kết tụ; tụ lại|ngưng tụ
+1327|凝视|nhìn chằm chằm; nhìn đăm đăm; chăm chú nhìn|ngưng thị
+1328|扭转|xoay chuyển; đảo ngược; vặn|nữu chuyển
+1329|纽扣儿|cái cúc; nút áo; khuy áo|nữu khấu nhi
+1330|农历|âm lịch; nông lịch|nông lịch
+1331|浓厚|đậm đặc; nồng đậm; sâu đậm; dày đặc|nùng hậu
+1332|奴隶|nô lệ|nô lệ
+1333|虐待|ngược đãi; hành hạ|ngược đãi
+1334|挪|dịch chuyển; xê dịch; di chuyển|na
+1335|哦|ồ; ô; à (thán từ vỡ lẽ)|
+1336|欧洲|châu Âu|âu châu
+1337|殴打|đánh đập; hành hung|âu đả
+1338|呕吐|nôn; ói; nôn mửa|ẩu thổ
+1339|趴|nằm sấp; bò; áp người; phủ phục|ba
+1340|徘徊|bồi hồi; đi đi lại lại; lượn lờ; dao động|bồi hồi
+1341|排斥|bài xích; gạt ra; loại trừ|bài xích
+1342|排除|loại trừ; gạt bỏ; dẹp bỏ|bài trừ
+1343|排放|thải ra; xả ra; bài tiết|bài phóng
+1344|派别|phe phái; môn phái; bè phái|phái biệt
+1345|派遣|cử; phái cử; điều động|phái khiển
+1346|攀登|leo; trèo; leo lên|phàn đăng
+1347|盘旋|lượn vòng; xoáy vòng; quanh co|bàn toàn
+1348|判决|phán quyết; bản án; tuyên án|phán quyết
+1349|畔|bờ; ven; bên cạnh|bạn
+1350|庞大|to lớn; khổng lồ; đồ sộ|bàng đại
+1351|抛弃|vứt bỏ; từ bỏ; ruồng bỏ|phao khí
+1352|泡沫|bọt; bong bóng; bọt biển; bong bóng (kinh tế)|bào mạt
+1353|培训|đào tạo; bồi dưỡng; huấn luyện|bồi huấn
+1354|培育|nuôi dưỡng; ươm; vun trồng; đào tạo|bồi dục
+1355|配备|trang bị; bố trí; phân bổ|phối bị
+1356|配偶|vợ hoặc chồng; bạn đời|phối ngẫu
+1357|配套|đồng bộ; thành bộ; phối hợp đồng bộ|phối sáo
+1358|盆地|bồn địa; thung lũng; lòng chảo|bồn địa
+1359|烹饪|nấu nướng; ẩm thực|phanh nhẫm
+1360|捧|bưng; nâng bằng hai tay; tâng bốc; nâng đỡ|phủng
+1361|批发|bán buôn; bán sỉ|phê phát
+1362|批判|phê phán; chỉ trích|phê phán
+1363|劈|bổ; chẻ; bửa; nứt|phích
+1364|皮革|da thuộc; da|bì cách
+1365|疲惫|mệt mỏi rã rời; kiệt sức; mệt nhoài|bì bại
+1366|疲倦|mệt mỏi; uể oải; mệt|bì quyện
+1367|屁股|mông; đít; phần đuôi|thí cổ
+1368|譬如|ví dụ như; chẳng hạn; thí dụ|thí như
+1369|偏差|sai lệch; độ lệch; thiên lệch|thiên sai
+1370|偏见|thành kiến; định kiến|thiên kiến
+1371|偏僻|hẻo lánh; xa xôi; khuất nẻo|thiên tích
+1372|偏偏|cứ khăng khăng; cứ nhất định; lại cứ; thật trớ trêu|thiên thiên
+1373|片断|đoạn; mẩu; đoạn rời; phân đoạn|phiến đoạn
+1374|片刻|chốc lát; một lát; thoáng chốc|phiến khắc
+1375|飘扬|tung bay; bay phấp phới|phiêu dương
+1376|漂浮|nổi; trôi nổi; lênh đênh|phiêu phù
+1377|拼搏|chiến đấu quyết liệt; nỗ lực hết mình; tranh đấu|bính bác
+1378|拼命|liều mạng; hết sức; bán mạng|bính mệnh
+1379|贫乏|nghèo nàn; thiếu thốn; khan hiếm|bần phạp
+1380|贫困|nghèo khó; bần cùng; nghèo đói|bần khốn
+1381|频繁|thường xuyên; dồn dập; liên tục|tần phồn
+1382|频率|tần suất; tần số|tần suất
+1383|品尝|nếm thử; thưởng thức; nếm|phẩm thường
+1384|品德|phẩm đức; phẩm chất đạo đức|phẩm đức
+1385|品行|phẩm hạnh; đạo đức; cách cư xử|phẩm hạnh
+1386|品质|phẩm chất; chất lượng; tư cách|phẩm chất
+1387|平凡|bình thường; tầm thường; giản dị|bình phàm
+1388|平面|mặt phẳng; mặt bằng; bình diện; (báo) in|bình diện
+1389|平坦|bằng phẳng; phẳng lì|bình thản
+1390|平行|song song; ngang hàng; đồng thời|bình hành
+1391|平原|đồng bằng|bình nguyên
+1392|评估|đánh giá; ước lượng; thẩm định|bình cổ
+1393|评论|bình luận; nhận xét; lời bình|bình luận
+1394|屏障|bức chắn; chướng ngại; lá chắn|bình chướng
+1395|坡|dốc; sườn dốc; triền|pha
+1396|颇|khá; tương đối; rất|phả
+1397|迫不及待|không thể chờ đợi; nóng lòng; háo hức|bách bất cập đãi
+1398|迫害|ngược đãi; áp bức; bức hại|bách hại
+1399|破例|phá lệ; làm ngoại lệ|phá lệ
+1400|魄力|dũng khí; bản lĩnh; táo bạo; quyết đoán|phách lực
+1401|泼|hắt; tạt; vẩy; đanh đá|bát
+1402|扑|nhào tới; lao vào; vồ; dốc sức|phốc
+1403|朴实|giản dị; mộc mạc; chất phác|phác thực
+1404|普及|phổ cập; phổ biến; lan rộng|phổ cập
+1405|铺|trải; lát; cửa hàng; giường (kiểu giường gạch)|phô
+1406|瀑布|thác nước|bộc bố
+1407|曝光|phơi sáng; phơi bày; vạch trần|bộc quang
+1408|凄凉|thê lương; hiu quạnh; thảm đạm|thê lương
+1409|期望|kỳ vọng; mong đợi; hy vọng|kỳ vọng
+1410|期限|thời hạn; kỳ hạn|kỳ hạn
+1411|欺负|bắt nạt; ức hiếp|khi phụ
+1412|欺骗|lừa dối; lừa gạt|khi phiến
+1413|齐全|đầy đủ; đủ loại; hoàn chỉnh|tề toàn
+1414|齐心协力|đồng tâm hiệp lực; cùng nhau nỗ lực|tề tâm hiệp lực
+1415|奇妙|kỳ diệu; huyền diệu|kỳ diệu
+1416|歧视|phân biệt đối xử; kỳ thị|kỳ thị
+1417|旗袍|sườn xám|kỳ bào
+1418|旗帜|lá cờ; ngọn cờ; biểu tượng|kỳ xí
+1419|乞丐|ăn xin; người ăn mày|khất cái
+1420|岂有此理|vô lý quá; lẽ nào lại thế; ngang ngược|khởi hữu thử lý
+1421|启程|lên đường; khởi hành|khải trình
+1422|启示|gợi ý; gợi mở; khải thị; bài học|khải thị
+1423|启事|thông báo; cáo thị; yết thị|khải sự
+1424|起草|soạn thảo; thảo ra; phác thảo|khởi thảo
+1425|起初|lúc đầu; ban đầu; ban sơ|khởi sơ
+1426|起伏|thăng trầm; nhấp nhô; lên xuống|khởi phục
+1427|起哄|làm ồn; ồn ào gây rối; reo hò chế giễu|khởi hống
+1428|起码|ít nhất; tối thiểu; cơ bản nhất|khởi mã
+1429|起义|khởi nghĩa|khởi nghĩa
+1430|起源|khởi nguyên; nguồn gốc; bắt nguồn|khởi nguyên
+1431|气概|khí phách; khí khái|khí khái
+1432|气功|khí công|khí công
+1433|气魄|khí phách; khí thế; sự táo bạo|khí phách
+1434|气色|sắc mặt; khí sắc|khí sắc
+1435|气势|khí thế; thanh thế|khí thế
+1436|气味|mùi; hơi; mùi vị|khí vị
+1437|气象|khí tượng; cảnh tượng; bầu không khí|khí tượng
+1438|气压|khí áp; áp suất không khí|khí áp
+1439|迄今为止|cho đến nay; từ trước đến giờ|ngật kim vi chỉ
+1440|器材|thiết bị; dụng cụ; vật tư|khí tài
+1441|器官|cơ quan (trong cơ thể); khí quan|khí quan
+1442|掐|véo; bấm; bóp; hái|khiếp
+1443|恰当|thích đáng; thích hợp; phù hợp|kháp đáng
+1444|恰到好处|vừa đúng chỗ; vừa phải; hợp lý|kháp đáo hảo xứ
+1445|恰巧|vừa hay; tình cờ; đúng dịp|kháp xảo
+1446|洽谈|thương lượng; bàn bạc; đàm phán|hiệp đàm
+1447|千方百计|trăm phương nghìn kế; bằng mọi cách|thiên phương bách kế
+1448|迁就|nhân nhượng; chiều theo; nhượng bộ|thiên tựu
+1449|迁徙|di cư; di chuyển; dời chỗ|thiên tỉ
+1450|牵扯|liên quan; dính líu; lôi kéo vào|khiên xả
+1451|牵制|kiềm chế; cầm chân; ghìm lại|khiên chế
+1452|谦逊|khiêm tốn; nhún nhường|khiêm tốn
+1453|签订|ký kết (hiệp ước, hợp đồng)|thiêm đính
+1454|签署|ký (văn bản); ký tên|thiêm thự
+1455|前景|triển vọng; viễn cảnh; tiền cảnh|tiền cảnh
+1456|前提|tiền đề; điều kiện tiên quyết|tiền đề
+1457|潜力|tiềm lực; tiềm năng|tiềm lực
+1458|潜水|lặn; lặn dưới nước; (diễn đàn) im lặng đọc|tiềm thủy
+1459|潜移默化|thấm dần không hay biết; ảnh hưởng ngầm|tiềm di mặc hóa
+1460|谴责|lên án; khiển trách; chỉ trích|khiển trách
+1461|强迫|ép buộc; cưỡng ép|cưỡng bách
+1462|强制|cưỡng chế; bắt buộc|cưỡng chế
+1463|抢劫|cướp; cướp bóc; vụ cướp|thưởng kiếp
+1464|抢救|cấp cứu; cứu hộ; cứu vãn|thưởng cứu
+1465|桥梁|cầu; cây cầu; cầu nối|kiều lương
+1466|翘|vểnh lên; cong lên; ngẩng lên|kiều
+1467|切实|thiết thực; thực sự; thực tế|thiết thực
+1468|锲而不舍|bền bỉ không bỏ cuộc; kiên trì đến cùng|khiết nhi bất xả
+1469|亲热|thân mật; thân thiết; thắm thiết|thân nhiệt
+1470|亲身|đích thân; tự mình; chính bản thân|thân thân
+1471|侵犯|xâm phạm; xâm hại|xâm phạm
+1472|钦佩|khâm phục; ngưỡng mộ|khâm bội
+1473|勤俭|cần kiệm; chăm chỉ tiết kiệm|cần kiệm
+1474|勤恳|siêng năng; cần cù; chăm chỉ tận tụy|cần khẩn
+1475|氢|hydro; khinh khí|khinh
+1476|轻而易举|dễ như trở bàn tay; dễ dàng|khinh nhi dị cử
+1477|倾听|lắng nghe; chăm chú nghe|khuynh thính
+1478|倾向|khuynh hướng; xu hướng; nghiêng về|khuynh hướng
+1479|倾斜|nghiêng; xiêu vẹo; dốc|khuynh tà
+1480|清澈|trong vắt; trong suốt|thanh triệt
+1481|清晨|sáng sớm; buổi sớm mai|thanh thần
+1482|清除|dọn sạch; loại bỏ; quét sạch|thanh trừ
+1483|清洁|sạch sẽ; vệ sinh; làm sạch|thanh khiết
+1484|清理|dọn dẹp; thanh lý; sắp xếp|thanh lý
+1485|清晰|rõ ràng; rành mạch; sắc nét|thanh tích
+1486|清醒|tỉnh táo; tỉnh; sáng suốt|thanh tỉnh
+1487|清真|Hồi giáo; halal; thanh chân|thanh chân
+1488|情报|tình báo; thông tin; tin tức|tình báo
+1489|情节|tình tiết; cốt truyện|tình tiết
+1490|情理|tình lý; lẽ thường; lý lẽ|tình lý
+1491|情形|tình hình; tình huống; hoàn cảnh|tình hình
+1492|晴朗|trời quang đãng; nắng ráo|tình lãng
+1493|请柬|thiệp mời; giấy mời|thỉnh giản
+1494|请教|xin chỉ giáo; thỉnh giáo; hỏi ý kiến|thỉnh giáo
+1495|请示|xin chỉ thị; xin ý kiến|thỉnh thị
+1496|请帖|thiệp mời; giấy mời|thỉnh thiếp
+1497|丘陵|đồi núi; vùng đồi|khâu lăng
+1498|区分|phân biệt; phân chia; phân loại|khu phân
+1499|区域|khu vực; vùng|khu vực
+1500|曲折|quanh co; khúc khuỷu; trắc trở|khúc chiết
+1501|曲子|bản nhạc; làn điệu; giai điệu|khúc tử
+1502|驱逐|trục xuất; xua đuổi; đuổi đi|khu trục
+1503|屈服|khuất phục; đầu hàng|khuất phục
+1504|渠道|kênh mương; kênh; con đường; nguồn|cừ đạo
+1505|取缔|cấm; thủ tiêu; dẹp bỏ; xóa sổ|thủ đế
+1506|趣味|thú vị; hứng thú; sở thích; thú vị|thú vị
+1507|圈套|cạm bẫy; mưu mô; bẫy|khuyên sáo
+1508|全局|toàn cục; tình hình chung; đại cục|toàn cục
+1509|全力以赴|dốc toàn lực; hết sức mình|toàn lực dĩ phó
+1510|权衡|cân nhắc; đắn đo; cân đo|quyền hành
+1511|权威|quyền uy; uy tín; chuyên gia hàng đầu|quyền uy
+1512|权益|quyền lợi|quyền ích
+1513|拳头|nắm đấm; nắm tay; nổi bật (sản phẩm)|quyền đầu
+1514|犬|chó; con chó|khuyển
+1515|缺口|chỗ hở; chỗ mẻ; lỗ hổng; thiếu hụt|khuyết khẩu
+1516|缺席|vắng mặt; không có mặt|khuyết tịch
+1517|缺陷|khuyết điểm; thiếu sót; khiếm khuyết|khuyết hãm
+1518|瘸|què; khập khiễng|khoa
+1519|确保|đảm bảo; bảo đảm|xác bảo
+1520|确立|xác lập; thiết lập|xác lập
+1521|确切|chính xác; xác đáng; chắc chắn|xác thiết
+1522|确信|tin chắc; chắc chắn tin|xác tín
+1523|群众|quần chúng; nhân dân|quần chúng
+1524|染|nhuộm; nhiễm; lây; mắc|nhiễm
+1525|让步|nhượng bộ; nhường bước|nhượng bộ
+1526|饶恕|tha thứ; khoan dung; tha tội|nhiêu thứ
+1527|扰乱|quấy rối; làm rối loạn; phá rối|nhiễu loạn
+1528|惹祸|gây họa; gây rắc rối; rước họa|nhạ họa
+1529|热泪盈眶|nước mắt tuôn trào; rưng rưng nước mắt (vì xúc động)|nhiệt lệ doanh khuông
+1530|热门|hot; được ưa chuộng; thịnh hành|nhiệt môn
+1531|人道|nhân đạo; đạo làm người|nhân đạo
+1532|人格|nhân cách|nhân cách
+1533|人工|nhân tạo; sức người; thủ công; nhân công|nhân công
+1534|人家|nhà; gia đình; người ta; người khác|nhân gia
+1535|人间|nhân gian; cõi đời; thế gian|nhân gian
+1536|人士|nhân sĩ; người; nhân vật|nhân sĩ
+1537|人为|do con người gây ra; nhân tạo|nhân vi
+1538|人性|nhân tính; bản tính con người; nhân tính|nhân tính
+1539|人质|con tin|nhân chất
+1540|仁慈|nhân từ; nhân hậu; từ bi|nhân từ
+1541|忍耐|nhẫn nại; chịu đựng; kiên nhẫn|nhẫn nại
+1542|忍受|chịu đựng; nhẫn chịu|nhẫn thụ
+1543|认定|khẳng định; xác nhận; cho rằng; công nhận|nhận định
+1544|认可|chấp nhận; công nhận; phê chuẩn|nhận khả
+1545|任命|bổ nhiệm; chỉ định|nhiệm mệnh
+1546|任性|tùy hứng; bướng bỉnh; ương ngạnh|nhậm tính
+1547|任意|tùy ý; tùy tiện; bất kỳ|nhiệm ý
+1548|任重道远|đường xa gánh nặng; trách nhiệm nặng nề, con đường dài|nhiệm trọng đạo viễn
+1549|仍旧|vẫn; vẫn như cũ; y nguyên|nhưng cựu
+1550|日新月异|ngày một đổi mới; thay đổi từng ngày|nhật tân nguyệt dị
+1551|日益|ngày càng; càng ngày càng|nhật ích
+1552|容貌|dung mạo; diện mạo; nhan sắc|dung mạo
+1553|容纳|chứa; dung nạp; chứa đựng|dung nạp
+1554|容器|vật chứa; đồ đựng; thùng chứa|dung khí
+1555|容忍|khoan dung; dung thứ; chịu đựng|dung nhẫn
+1556|溶解|hòa tan; hòa tan trong nước; tan rã|dung giải
+1557|融洽|hòa hợp; hòa thuận; thân thiện|dung hợp
+1558|柔和|dịu dàng; nhẹ nhàng; mềm mại; êm dịu|nhu hòa
+1559|揉|xoa; nhào; vò; dụi; nhào nặn|nhu
+1560|若干|một số; vài; bao nhiêu|nhược can
+1561|弱点|điểm yếu; nhược điểm; chỗ yếu|nhược điểm
+1562|撒谎|nói dối; nói láo|tản hoang
+1563|腮|má; hai bên má|tai
+1564|三角|hình tam giác; tam giác; lượng giác|tam giác
+1565|散布|phân tán; phát tán; lan truyền; rải|tán bố
+1566|散发|tỏa ra; phát ra; phát (tờ rơi)|tán phát
+1567|散文|văn xuôi; tản văn|tản văn
+1568|丧失|đánh mất; mất đi; tước mất|táng thất
+1569|嫂子|chị dâu; chị (gọi vợ của anh)|tẩu tử
+1570|色彩|màu sắc; sắc thái; nét đặc trưng|sắc thái
+1571|刹车|phanh; thắng xe; dừng lại; tắt|sát xa
+1572|刹那|khoảnh khắc; thoáng chốc; sát na|sát na
+1573|啥|gì; cái gì (khẩu ngữ phương ngữ)|
+1574|筛选|sàng lọc; lọc; chọn lọc|sư tuyển
+1575|山脉|dãy núi; rặng núi|sơn mạch
+1576|闪烁|lấp lánh; nhấp nháy; chập chờn; lập lờ|thiểm thước
+1577|擅长|giỏi về; sở trường; thạo|thiện trường
+1578|擅自|tự ý; tự tiện; tự quyết|thiện tự
+1579|伤脑筋|đau đầu; nhức óc; rắc rối|thương não cân
+1580|商标|nhãn hiệu; thương hiệu; logo|thương tiêu
+1581|上级|cấp trên; cơ quan cấp trên|thượng cấp
+1582|上进心|tinh thần cầu tiến; chí tiến thủ|thượng tiến tâm
+1583|上任|nhậm chức; nhận chức; người tiền nhiệm|thượng nhậm
+1584|上瘾|nghiện; ghiền; thành thói quen|thượng ẩn
+1585|上游|thượng nguồn; đầu nguồn; thượng du|thượng du
+1586|捎|nhắn; chuyển giúp; mang giúp; gửi kèm|sao
+1587|梢|ngọn cây; đầu cành; đuôi|sao
+1588|哨|còi; trạm gác; lính gác; huýt sáo|tiếu
+1589|奢侈|xa xỉ; xa hoa; hoang phí|xa xỉ
+1590|设立|thiết lập; thành lập; lập ra|thiết lập
+1591|设想|hình dung; tưởng tượng; giả định; dự kiến|thiết tưởng
+1592|设置|thiết lập; bố trí; cài đặt; đặt ra|thiết trí
+1593|社区|cộng đồng; khu dân cư; tổ dân phố|xã khu
+1594|涉及|liên quan đến; đề cập đến; dính đến|thiệp cập
+1595|摄取|hấp thụ; thu nạp; thu; nạp vào|nhiếp thủ
+1596|摄氏度|độ C; độ Celsius|nhiếp thị độ
+1597|申报|khai báo; kê khai; báo cáo (với cơ quan)|thân báo
+1598|呻吟|rên rỉ; than van; rên|thân ngâm
+1599|绅士|quý ông; người lịch lãm; thân sĩ|thân sĩ
+1600|深奥|sâu sắc; uyên thâm; khó hiểu; thâm áo|thâm áo
+1601|深沉|sâu lắng; trầm lắng; thâm trầm; kín đáo|thâm trầm
+1602|深情厚谊|tình sâu nghĩa nặng; tình hữu nghị sâu sắc|thâm tình hậu nghị
+1603|神奇|thần kỳ; kỳ diệu; huyền diệu|thần kỳ
+1604|神气|thần khí; vẻ mặt; vẻ đắc ý; hùng dũng|thần khí
+1605|神情|thần sắc; vẻ mặt; thái độ|thần tình
+1606|神色|thần sắc; sắc mặt; vẻ mặt|thần sắc
+1607|神圣|thiêng liêng; thần thánh|thần thánh
+1608|神态|thần thái; dáng vẻ; thái độ|thần thái
+1609|神仙|thần tiên; tiên|thần tiên
+1610|审查|thẩm tra; kiểm duyệt; xét duyệt|thẩm tra
+1611|审理|xét xử; thẩm lý; xử án|thẩm lý
+1612|审美|thẩm mỹ|thẩm mỹ
+1613|审判|xét xử; thẩm phán; phiên tòa|thẩm phán
+1614|渗透|thấm; thâm nhập; thẩm thấu|thấm thấu
+1615|慎重|thận trọng; cẩn trọng|thận trọng
+1616|生存|sinh tồn; tồn tại; sống sót|sinh tồn
+1617|生机|sinh khí; sức sống; cơ hội sống|sinh cơ
+1618|生理|sinh lý|sinh lý
+1619|生疏|xa lạ; không quen; sơ sài; lạ lẫm|sinh sơ
+1620|生态|sinh thái|sinh thái
+1621|生物|sinh vật; sinh học|sinh vật
+1622|生效|có hiệu lực|sinh hiệu
+1623|生锈|gỉ; bị gỉ sét|sinh tú
+1624|生育|sinh đẻ; sinh sản; nuôi dưỡng|sinh dục
+1625|声明|tuyên bố; thanh minh; bản tuyên bố|thanh minh
+1626|声势|thanh thế; thế lực; khí thế|thanh thế
+1627|声誉|danh tiếng; thanh danh; tiếng tăm|thanh dự
+1628|牲畜|gia súc|sinh súc
+1629|省会|tỉnh lỵ; thủ phủ của tỉnh|tỉnh hội
+1630|胜负|thắng bại; thắng thua|thắng phụ
+1631|盛|thịnh; hưng thịnh; mạnh; chứa; múc|thịnh
+1632|盛产|sản xuất nhiều; giàu về; có nhiều|thịnh sản
+1633|盛开|nở rộ; nở đầy|thịnh khai
+1634|盛情|thịnh tình; tấm lòng hiếu khách|thịnh tình
+1635|盛行|thịnh hành; phổ biến; lưu hành|thịnh hành
+1636|尸体|xác chết; thi thể|thi thể
+1637|失误|sơ suất; sai sót; lỗi lầm|thất ngộ
+1638|失踪|mất tích; biến mất|thất tung
+1639|师范|sư phạm|sư phạm
+1640|施加|tác động; gây (áp lực, ảnh hưởng)|thi gia
+1641|施展|phát huy; thi triển; vận dụng hết|thi triển
+1642|十足|đầy đủ; mười phần; hoàn toàn; chính hiệu|thập túc
+1643|石油|dầu mỏ; dầu hỏa; dầu thô|thạch du
+1644|时差|chênh lệch múi giờ; lệch múi giờ; jet lag|thời sai
+1645|时常|thường xuyên; hay; luôn|thời thường
+1646|时而|thỉnh thoảng; lúc thì...lúc thì|thời nhi
+1647|时光|thời gian; thời giờ; năm tháng|thời quang
+1648|时机|thời cơ|thời cơ
+1649|时事|thời sự; tình hình hiện tại|thời sự
+1650|时装|thời trang; quần áo thời trang|thời trang
+1651|实惠|thực lợi; có lợi thiết thực; rẻ và chất lượng|thực huệ
+1652|实力|thực lực; sức mạnh thực tế|thực lực
+1653|实施|thực thi; thi hành; triển khai|thực thi
+1654|实事求是|thực sự cầu thị; làm đúng thực tế|thực sự cầu thị
+1655|实质|thực chất; bản chất|thực chất
+1656|使命|sứ mệnh; nhiệm vụ|sứ mệnh
+1657|世代|nhiều đời; đời đời; thế hệ|thế đại
+1658|世界观|thế giới quan|thế giới quan
+1659|示范|làm mẫu; thị phạm; gương mẫu; mô hình|thị phạm
+1660|示威|biểu tình; thị uy|thị uy
+1661|示意|ra hiệu; ra ý; ngụ ý|thị ý
+1662|事故|tai nạn; sự cố|sự cố
+1663|事迹|sự tích; thành tích; việc làm tiêu biểu|sự tích
+1664|事件|sự kiện; sự việc|sự kiện
+1665|事态|tình thế; tình hình; diễn biến sự việc|sự thái
+1666|事务|công việc; sự vụ; giao dịch|sự vụ
+1667|事项|hạng mục; mục; sự việc|sự hạng
+1668|事业|sự nghiệp; công trình; đại nghiệp|sự nghiệp
+1669|势必|nhất định sẽ; tất yếu sẽ; ắt hẳn|thế tất
+1670|势力|thế lực; sức mạnh; lực lượng|thế lực
+1671|视力|thị lực; sức nhìn|thị lực
+1672|视线|tầm nhìn; ánh nhìn; tầm mắt|thị tuyến
+1673|视野|tầm nhìn; tầm mắt; tầm hiểu biết; chân trời|thị dã
+1674|试图|toan; cố gắng; thử làm|thí đồ
+1675|试验|thí nghiệm; thử nghiệm; kiểm tra|thí nghiệm
+1676|是非|phải trái; đúng sai; tranh cãi|thị phi
+1677|适宜|thích hợp; thích đáng; phù hợp|thích nghi
+1678|逝世|qua đời; từ trần|thệ thế
+1679|释放|thả; phóng thích; giải phóng; tỏa ra|thích phóng
+1680|识别|nhận dạng; nhận biết; phân biệt|thức biệt
+1681|拾|nhặt; thu nhặt; mười (viết kiểu số tiền)|thập
+1682|收藏|sưu tầm; cất giữ; bộ sưu tầm; lưu trữ|thu tàng
+1683|收缩|co lại; thu hẹp; co rút|thu súc
+1684|收益|lợi nhuận; thu lợi; tiền lãi; thu hoạch|thu ích
+1685|收音机|máy thu thanh; đài radio|thu âm cơ
+1686|手法|thủ pháp; kỹ thuật; thủ đoạn; phương pháp|thủ pháp
+1687|手势|cử chỉ tay; điệu bộ; thủ thế|thủ thế
+1688|手艺|tay nghề; kỹ năng thủ công; nghề thủ công|thủ nghệ
+1689|守护|canh giữ; bảo vệ; gìn giữ; hộ vệ|thủ hộ
+1690|首要|hàng đầu; quan trọng nhất; chủ yếu nhất|thủ yếu
+1691|受罪|chịu khổ; chịu cực; chịu tội|thụ tội
+1692|授予|trao tặng; ban cho; phong|thụ dư
+1693|书法|thư pháp; chữ viết|thư pháp
+1694|书籍|sách; sách vở|thư tịch
+1695|书记|bí thư; thư ký; nhân viên ghi chép|thư ký
+1696|书面|bằng văn bản; thư diện|thư diện
+1697|疏忽|sơ suất; lơ là; bất cẩn|sơ hốt
+1698|舒畅|khoan khoái; thoải mái; dễ chịu; sảng khoái|thư sướng
+1699|束|bó; buộc; bó (hoa); ràng buộc|thúc
+1700|束缚|trói buộc; ràng buộc; gò bó|thúc phược
+1701|树立|xây dựng; thiết lập; dựng lên|thụ lập
+1702|竖|dựng đứng; chiều dọc; nét sổ|thụ
+1703|数|số; số lượng; vài; mấy|số
+1704|数额|số lượng; số tiền; mức|số ngạch
+1705|数目|số lượng; con số|số mục
+1706|耍|chơi đùa; giở trò; múa; vung|sái
+1707|衰老|già yếu; suy yếu vì tuổi già; già nua|suy lão
+1708|衰退|suy thoái; suy giảm; sa sút|suy thoái
+1709|涮|nhúng; lẩu nhúng; tráng; lừa|xoát
+1710|双胞胎|sinh đôi; cặp song sinh|song bào thai
+1711|爽快|sảng khoái; thoải mái; dứt khoát|sảng khoái
+1712|水利|thủy lợi|thủy lợi
+1713|水龙头|vòi nước|thủy long đầu
+1714|水泥|xi măng|thủy nê
+1715|司法|tư pháp|tư pháp
+1716|司令|tư lệnh; chỉ huy|tư lệnh
+1717|私自|tự ý; lén lút; riêng tư; không được phép|tư tự
+1718|思念|nhớ nhung; tưởng nhớ; thương nhớ|tư niệm
+1719|思索|suy nghĩ sâu; cân nhắc; ngẫm nghĩ|tư sách
+1720|思维|tư duy; suy nghĩ|tư duy
+1721|思绪|mạch suy nghĩ; tâm trạng; dòng suy nghĩ|tư tự
+1722|斯文|nho nhã; lịch sự; văn nhã|tư văn
+1723|死亡|tử vong; chết; cái chết|tử vong
+1724|四肢|tứ chi; chân tay|tứ chi
+1725|饲养|nuôi; chăn nuôi; chăm sóc (gia súc)|tự dưỡng
+1726|肆无忌惮|không kiêng nể gì; ngang nhiên; vô pháp vô thiên|tứ vô kỵ đạn
+1727|耸|dựng đứng; nhún; chọc cười; cao vút|tủng
+1728|搜索|tìm kiếm; lục soát; tra cứu|sưu sách
+1729|艘|chiếc (lượng từ cho tàu thuyền)|tao
+1730|苏醒|tỉnh lại; hồi tỉnh; hồi sinh|tô tỉnh
+1731|俗话|tục ngữ; thành ngữ dân gian; câu nói dân gian|tục thoại
+1732|素食|ăn chay; thức ăn chay; đồ chay|tố thực
+1733|素质|tố chất; phẩm chất; năng lực cơ bản|tố chất
+1734|塑造|nặn; tạc; khắc họa; xây dựng (nhân vật, hình ảnh)|tố tạo
+1735|诉讼|tố tụng; kiện tụng; vụ kiện|tố tụng
+1736|算了|thôi đi; bỏ đi; thôi vậy|toán liễu
+1737|算数|có giá trị; giữ lời; tính toán|toán số
+1738|随即|ngay sau đó; liền sau đó; lập tức|tùy tức
+1739|随身|mang theo người; mang bên mình|tùy thân
+1740|随手|tiện tay; thuận tay; tiện thể|tùy thủ
+1741|随意|tùy ý; tùy thích|tùy ý
+1742|岁月|năm tháng; thời gian; tuế nguyệt|tuế nguyệt
+1743|隧道|đường hầm; hầm|toại đạo
+1744|损坏|hư hỏng; hỏng; làm hỏng|tổn hoại
+1745|索赔|đòi bồi thường; yêu cầu bồi thường|sách bồi
+1746|索性|thà rằng; dứt khoát; cứ|sách tính
+1747|塌|sập; đổ; xẹp; lún|tháp
+1748|踏实|vững vàng; chắc chắn; yên tâm; thiết thực|đạp thực
+1749|台风|bão; phong thái trên sân khấu|đài phong
+1750|太空|không gian vũ trụ; vũ trụ|thái không
+1751|泰斗|bậc thầy; người có uy tín lớn; thái đẩu|thái đẩu
+1752|贪婪|tham lam; thèm khát|tham lam
+1753|贪污|tham ô; tham nhũng|tham ô
+1754|摊儿|sạp; quầy bán hàng; gian hàng|than nhi
+1755|瘫痪|liệt; tê liệt; đình trệ|than hoán
+1756|坦白|thẳng thắn; thú nhận; thành thật|thản bạch
+1757|叹气|thở dài|thán khí
+1758|探测|thăm dò; dò tìm; thám trắc|thám trắc
+1759|探索|tìm tòi; khám phá; thăm dò|thám sách
+1760|探讨|thảo luận; nghiên cứu sâu; bàn bạc|thám thảo
+1761|探望|thăm hỏi; đi thăm; ngó nhìn|thám vọng
+1762|糖葫芦|kẹo hồ lô; hồ lô ngào đường|đường hồ lô
+1763|倘若|nếu như; giả sử; nhỡ|thảng nhược
+1764|掏|móc; lấy ra; đào; moi|thao
+1765|滔滔不绝|nói không ngớt; nói liến thoắng; thao thao bất tuyệt|thao thao bất tuyệt
+1766|陶瓷|đồ gốm sứ; gốm sứ|đào từ
+1767|淘气|nghịch ngợm; tinh nghịch; phá phách|đào khí
+1768|淘汰|đào thải; loại bỏ; loại|đào thải
+1769|讨价还价|mặc cả; kỳ kèo giá; trả giá|thảo giá hoàn giá
+1770|特定|đặc định; nhất định; đặc biệt; riêng biệt|đặc định
+1771|特色|nét đặc sắc; đặc điểm riêng; màu sắc riêng|đặc sắc
+1772|特长|sở trường; năng khiếu; điểm mạnh|đặc trường
+1773|提拔|đề bạt; cất nhắc; thăng chức|đề bạt
+1774|提炼|chiết xuất; tinh luyện; lọc lấy tinh hoa|đề luyện
+1775|提示|nhắc nhở; gợi ý; lưu ý; thông báo|đề thị
+1776|提议|đề nghị; đề xuất|đề nghị
+1777|题材|đề tài; chủ đề|đề tài
+1778|体谅|thông cảm; cảm thông; thấu hiểu|thể lượng
+1779|体面|thể diện; đàng hoàng; vẻ vang; đẹp mặt|thể diện
+1780|体系|hệ thống; thể hệ|thể hệ
+1781|天才|thiên tài|thiên tài
+1782|天伦之乐|niềm vui sum họp gia đình; hạnh phúc đoàn viên|thiên luân chi lạc
+1783|天然气|khí thiên nhiên; khí đốt|thiên nhiên khí
+1784|天生|bẩm sinh; trời sinh|thiên sinh
+1785|天堂|thiên đường|thiên đường
+1786|天文|thiên văn|thiên văn
+1787|田径|điền kinh|điền kính
+1788|舔|liếm|thiểm
+1789|挑拨|xúi giục; kích động; gây chia rẽ|khiêu bát
+1790|挑剔|xoi mói; bới móc; kén chọn|khiêu dịch
+1791|挑衅|khiêu khích; gây hấn|khiêu hấn
+1792|条款|điều khoản|điều khoản
+1793|条理|mạch lạc; trật tự; có lớp lang|điều lý
+1794|条约|hiệp ước; điều ước|điều ước
+1795|跳跃|nhảy; nhảy vọt; nhảy cóc|khiêu dược
+1796|亭子|cái đình; nhà nghỉ chân|đình tử
+1797|停顿|dừng lại; ngừng; tạm dừng; ngắt|đình đốn
+1798|停泊|neo đậu; đỗ (tàu); bến đỗ|đình bạc
+1799|停滞|đình trệ; ngưng trệ|đình trệ
+1800|挺拔|thẳng tắp; cao vút; vươn thẳng|đĩnh bạt
+1801|通货|tiền tệ; tiền tệ lưu thông|thông hóa
+1802|通俗|phổ thông; dễ hiểu; bình dân; thông tục|thông tục
+1803|通用|thông dụng; dùng chung; phổ biến|thông dụng
+1804|同胞|đồng bào; anh chị em ruột|đồng bào
+1805|同志|đồng chí; người đồng tính|đồng chí
+1806|铜矿|mỏ đồng; quặng đồng|đồng khoáng
+1807|童话|truyện cổ tích; chuyện thiếu nhi|đồng thoại
+1808|统筹兼顾|thống nhất tính toán chu toàn; cân nhắc mọi mặt|thống trù kiêm cố
+1809|统计|thống kê; tính tổng|thống kê
+1810|统统|tất cả; hoàn toàn; toàn bộ|thống thống
+1811|投机|đầu cơ; hợp ý; ăn ý|đầu cơ
+1812|投降|đầu hàng|đầu hàng
+1813|投票|bỏ phiếu; bầu cử|đầu phiếu
+1814|投掷|ném; phóng; quăng|đầu trịch
+1815|秃|hói; trọc; cùn; trụi|ngốc
+1816|突破|đột phá; vượt qua; phá vỡ|đột phá
+1817|图案|họa tiết; hoa văn; mẫu thiết kế|đồ án
+1818|徒弟|học trò; đồ đệ; người học việc|đồ đệ
+1819|途径|con đường; cách thức; phương tiện|đồ kính
+1820|土壤|đất; thổ nhưỡng|thổ nhưỡng
+1821|涂抹|bôi; quệt; thoa; tô|đồ mạt
+1822|团结|đoàn kết|đoàn kết
+1823|团体|đoàn thể; tập thể; nhóm|đoàn thể
+1824|团圆|đoàn viên; sum họp|đoàn viên
+1825|推测|suy đoán; phỏng đoán; dự đoán|suy trắc
+1826|推翻|lật đổ; phủ nhận; bác bỏ|thôi phiên
+1827|推理|suy luận; suy diễn|suy lý
+1828|推论|suy luận; hệ quả; suy ra|suy luận
+1829|推销|tiếp thị; chào hàng; đẩy hàng|thôi tiêu
+1830|吞咽|nuốt; nuốt xuống|thôn yết
+1831|托运|gửi hàng; ký gửi (hành lý); vận chuyển|thác vận
+1832|拖延|trì hoãn; kéo dài; chần chừ|tha duyên
+1833|脱离|thoát ly; tách khỏi; rời bỏ; thoát khỏi|thoát ly
+1834|妥当|thỏa đáng; ổn thỏa; chu đáo|thỏa đáng
+1835|妥善|thỏa đáng; ổn thỏa; chu toàn|thỏa thiện
+1836|妥协|thỏa hiệp; nhượng bộ|thỏa hiệp
+1837|椭圆|hình bầu dục; hình elip|thỏa viên
+1838|唾沫|nước bọt; nước miếng|thóa mạt
+1839|挖掘|đào; khai quật; khai thác; phát hiện|oạt quật
+1840|娃娃|em bé; búp bê; trẻ con|oa oa
+1841|瓦解|tan rã; sụp đổ; làm tan rã|ngõa giải
+1842|哇|ồ; ôi; oa (thán từ; tiếng khóc trẻ con)|
+1843|歪曲|xuyên tạc; bóp méo|oai khúc
+1844|外表|bề ngoài; vẻ bề ngoài|ngoại biểu
+1845|外界|thế giới bên ngoài; ngoại giới|ngoại giới
+1846|外向|hướng ngoại; cởi mở|ngoại hướng
+1847|外行|người ngoại đạo; không chuyên; tay mơ|ngoại hành
+1848|丸|viên; hoàn; viên thuốc|hoàn
+1849|完备|đầy đủ; hoàn bị; hoàn chỉnh|hoàn bị
+1850|完毕|hoàn tất; xong; kết thúc|hoàn tất
+1851|玩弄|đùa bỡn; đùa giỡn; lợi dụng; vờn|ngoạn lộng
+1852|玩意儿|đồ chơi; món đồ; trò; thứ|ngoạn ý nhi
+1853|顽固|ngoan cố; bướng bỉnh; cứng đầu|ngoan cố
+1854|顽强|ngoan cường; kiên cường; bền bỉ|ngoan cường
+1855|挽回|vãn hồi; cứu vãn; lấy lại|vãn hồi
+1856|挽救|cứu vãn; cứu giúp; cứu chữa|vãn cứu
+1857|惋惜|tiếc nuối; thương tiếc; tiếc rẻ|uyển tích
+1858|万分|vô cùng; hết sức; cực kỳ|vạn phân
+1859|网络|mạng; mạng lưới; mạng máy tính|võng lạc
+1860|往常|thường ngày; mọi khi; trước đây|vãng thường
+1861|往事|chuyện cũ; quá khứ|vãng sự
+1862|妄想|vọng tưởng; ảo tưởng; mơ hão|vọng tưởng
+1863|危机|khủng hoảng; nguy cơ; cơn nguy|nguy cơ
+1864|威风|uy phong; oai phong; oai vệ|uy phong
+1865|威力|uy lực; sức mạnh; sức công phá|uy lực
+1866|威望|uy tín; uy vọng; danh vọng|uy vọng
+1867|威信|uy tín; thanh danh|uy tín
+1868|微不足道|nhỏ bé không đáng kể; chẳng đáng gì|vi bất túc đạo
+1869|微观|vi mô|vi quan
+1870|违背|vi phạm; làm trái; trái với|vi bội
+1871|唯独|riêng; chỉ riêng; duy chỉ|duy độc
+1872|维持|duy trì; giữ gìn; giữ vững|duy trì
+1873|维生素|vitamin; sinh tố|duy sinh tố
+1874|维修|bảo dưỡng; sửa chữa; bảo trì|duy tu
+1875|伪造|giả mạo; làm giả; ngụy tạo|ngụy tạo
+1876|委员|ủy viên|ủy viên
+1877|卫星|vệ tinh|vệ tinh
+1878|为难|làm khó; khó xử; gây khó khăn|vi nan
+1879|为期|trong thời hạn; kéo dài (bao lâu)|vi kỳ
+1880|为首|đứng đầu; do ... cầm đầu|vi thủ
+1881|未免|quả là; thật là; không khỏi; khó tránh|vị miễn
+1882|位于|nằm ở; tọa lạc ở; ở vào|vị vu
+1883|畏惧|sợ hãi; e sợ; kiêng nể|úy cụ
+1884|胃口|khẩu vị; sự thèm ăn; sở thích|vị khẩu
+1885|慰问|thăm hỏi; ủy lạo; an ủi|úy vấn
+1886|温带|ôn đới|ôn đới
+1887|温和|ôn hòa; ôn hậu; dịu nhẹ; ấm áp|ôn hòa
+1888|文凭|bằng cấp; văn bằng|văn bằng
+1889|文物|di vật văn hóa; cổ vật; văn vật|văn vật
+1890|文献|văn kiện; tài liệu; văn hiến|văn hiến
+1891|文雅|nho nhã; tao nhã; lịch sự|văn nhã
+1892|文艺|văn nghệ; văn học nghệ thuật|văn nghệ
+1893|问世|ra đời; xuất hiện; công bố|vấn thế
+1894|窝|tổ; ổ; hang; chỗ trũng; nhốt|oa
+1895|乌黑|đen nhánh; đen kịt; đen thui|ô hắc
+1896|污蔑|vu khống; bôi nhọ; nói xấu|ô miệt
+1897|诬陷|vu oan; vu cáo; hãm hại|vu hãm
+1898|无比|vô cùng; không gì sánh được|vô tỉ
+1899|无偿|miễn phí; không công; vô thường|vô thường
+1900|无耻|vô liêm sỉ; trơ trẽn; không biết xấu hổ|vô sỉ
+1901|无从|không có cách nào; không biết đâu mà|vô tòng
+1902|无动于衷|thờ ơ; dửng dưng; không hề lay động|vô động ư trung
+1903|无非|chẳng qua; chỉ là; chẳng có gì khác ngoài|vô phi
+1904|无精打采|ủ rũ; chán nản; uể oải; lờ đờ|vô tinh đả thải
+1905|无可奉告|không có gì để bình luận; không thể trả lời|vô khả phụng cáo
+1906|无可奈何|đành chịu; hết cách; bất lực|vô khả nại hà
+1907|无赖|lưu manh; vô lại; kẻ vô lại|vô lại
+1908|无理取闹|vô cớ gây sự; ăn vạ; quậy phá vô lý|vô lý thủ náo
+1909|无能为力|bất lực; không làm gì được; lực bất tòng tâm|vô năng vi lực
+1910|无穷无尽|vô tận; vô cùng vô tận; không bao giờ hết|vô cùng vô tận
+1911|无微不至|chu đáo từng li từng tí; tận tình|vô vi bất chí
+1912|无忧无虑|vô lo vô nghĩ; không lo âu|vô ưu vô lự
+1913|无知|ngu dốt; vô tri; thiếu hiểu biết|vô tri
+1914|武侠|võ hiệp; hiệp khách|võ hiệp
+1915|武装|vũ trang; trang bị|vũ trang
+1916|侮辱|lăng mạ; sỉ nhục; xúc phạm|vũ nhục
+1917|舞蹈|múa; nhảy múa; khiêu vũ|vũ đạo
+1918|勿|đừng; chớ; không được|vật
+1919|物美价廉|hàng tốt giá rẻ; ngon bổ rẻ|vật mỹ giá liêm
+1920|物资|vật tư; hàng hóa; vật chất|vật tư
+1921|误差|sai số; sai lệch|ngộ sai
+1922|误解|hiểu lầm; sự hiểu lầm|ngộ giải
+1923|务必|nhất thiết phải; bắt buộc phải; xin hãy|vụ tất
+1924|务实|thực tế; thiết thực; làm việc thiết thực|vụ thực
+1925|夕阳|nắng chiều; mặt trời lặn; tà dương|tịch dương
+1926|吸取|hấp thụ; tiếp thu; rút (kinh nghiệm)|hấp thủ
+1927|昔日|ngày xưa; xưa kia; trước đây|tích nhật
+1928|牺牲|hy sinh; vật hiến tế|hi sinh
+1929|溪|suối; khe suối|khê
+1930|熄灭|tắt; dập tắt; lụi tàn|tức diệt
+1931|膝盖|đầu gối|tất cái
+1932|习俗|phong tục; tập tục|tập tục
+1933|袭击|tập kích; đánh úp; tấn công bất ngờ|tập kích
+1934|媳妇|con dâu; vợ; nàng dâu|tức phụ
+1935|喜闻乐见|được yêu thích; đón nhận nồng nhiệt|hỉ văn lạc kiến
+1936|喜悦|vui mừng; hân hoan; niềm vui|hỉ duyệt
+1937|系列|hệ liệt; loạt; chuỗi; bộ|hệ liệt
+1938|细胞|tế bào|tế bào
+1939|细菌|vi khuẩn; khuẩn|tế khuẩn
+1940|细致|tỉ mỉ; cẩn thận; chu đáo; tinh tế|tế trí
+1941|峡谷|hẻm núi; vực sâu; thung lũng hẹp|hiệp cốc
+1942|狭隘|hẹp hòi; thiển cận; chật hẹp|hiệp ải
+1943|狭窄|chật hẹp; hẹp; eo hẹp|hiệp trách
+1944|霞|ráng; ráng chiều; ráng mây|hà
+1945|下属|cấp dưới; thuộc hạ; trực thuộc|hạ thuộc
+1946|夏令营|trại hè|hạ lệnh doanh
+1947|先进|tiên tiến; hiện đại; người tiên tiến|tiên tiến
+1948|先前|trước đây; hồi trước; ban đầu|tiên tiền
+1949|纤维|sợi; chất xơ; xơ|tiêm duy
+1950|掀起|dấy lên; vén lên; nổi lên; dâng lên|hiên khởi
+1951|鲜明|rõ ràng; tươi sáng; rõ nét|tiên minh
+1952|闲话|chuyện phiếm; lời đàm tiếu; lời xì xào|nhàn thoại
+1953|弦|dây đàn; dây cung; dây|huyền
+1954|贤惠|hiền thục; hiền hậu; đảm đang|hiền huệ
+1955|衔接|nối liền; liên kết; kết nối|hàm tiếp
+1956|嫌|ghét; chê; hiềm nghi|hiềm
+1957|嫌疑|nghi ngờ; tình nghi; hiềm nghi|hiềm nghi
+1958|显著|rõ rệt; nổi bật; đáng kể|hiển trứ
+1959|现场|hiện trường; tại chỗ; ngay tại đó|hiện trường
+1960|现成|có sẵn; sẵn có; làm sẵn|hiện thành
+1961|现状|hiện trạng; tình trạng hiện tại|hiện trạng
+1962|线索|manh mối; đầu mối; dấu vết|tuyến sách
+1963|宪法|hiến pháp|hiến pháp
+1964|陷害|hãm hại; vu hại|hãm hại
+1965|陷入|rơi vào; sa vào; lún sâu vào|hãm nhập
+1966|馅儿|nhân bánh; nhân|hãm nhi
+1967|乡镇|thị trấn nông thôn; xã; thị trấn|hương trấn
+1968|相差|chênh lệch; cách nhau; khác nhau|tương sai
+1969|相等|bằng nhau; ngang nhau; tương đương|tương đẳng
+1970|相辅相成|bổ sung cho nhau; hỗ trợ lẫn nhau|tương phụ tương thành
+1971|相应|tương ứng; thích hợp; cho phù hợp|tương ứng
+1972|镶嵌|khảm; nạm; gắn|tương khảm
+1973|响亮|vang dội; to và rõ; lanh lảnh|hưởng lượng
+1974|响应|hưởng ứng; đáp lại|hưởng ứng
+1975|想方设法|tìm mọi cách; nghĩ đủ mọi biện pháp|tưởng phương thiết pháp
+1976|向导|người dẫn đường; hướng dẫn viên|hướng đạo
+1977|向来|xưa nay; từ trước đến nay; luôn luôn|hướng lai
+1978|向往|hướng tới; khao khát; mơ ước|hướng vãng
+1979|巷|ngõ; hẻm; ngách|hạng
+1980|消除|loại bỏ; xóa bỏ; tiêu trừ|tiêu trừ
+1981|消毒|khử trùng; sát trùng|tiêu độc
+1982|消防|phòng cháy chữa cháy; cứu hỏa|tiêu phòng
+1983|消耗|tiêu hao; tiêu thụ; tốn|tiêu hao
+1984|消极|tiêu cực; thụ động; bi quan|tiêu cực
+1985|销毁|tiêu hủy; hủy diệt; thiêu hủy|tiêu hủy
+1986|小心翼翼|cẩn thận từng li từng tí; dè dặt; thận trọng|tiểu tâm dực dực
+1987|肖像|chân dung; ảnh chân dung; bức vẽ chân dung|tiếu tượng
+1988|效益|hiệu quả; lợi ích; hiệu suất|hiệu ích
+1989|协会|hiệp hội; hội|hiệp hội
+1990|协商|thương lượng; bàn bạc; hiệp thương|hiệp thương
+1991|协议|thỏa thuận; hiệp định; hiệp nghị|hiệp nghị
+1992|协助|hỗ trợ; trợ giúp; giúp đỡ|hiệp trợ
+1993|携带|mang theo; đem theo; dắt theo|huề đới
+1994|写作|viết; sáng tác; viết văn|tả tác
+1995|泄露|làm lộ; tiết lộ; rò rỉ|tiết lộ
+1996|泄气|nản lòng; xì hơi; nhụt chí|tiết khí
+1997|屑|mảnh vụn; vụn; vụn bã; đáng làm|tiết
+1998|谢绝|từ chối khéo; khước từ lịch sự|tạ tuyệt
+1999|心得|tâm đắc; kinh nghiệm thu được; cảm nhận|tâm đắc
+2000|心灵|tâm hồn; tâm linh; lanh lợi|tâm linh
+2001|心态|tâm thế; tâm trạng; thái độ tâm lý|tâm thái
+2002|心疼|xót xa; đau lòng; tiếc|tâm đông
+2003|心血|tâm huyết; công sức; tâm sức|tâm huyết
+2004|心眼儿|tâm địa; lòng dạ; suy nghĩ; tính toán|tâm nhãn nhi
+2005|辛勤|cần cù; chăm chỉ vất vả|tân cần
+2006|欣慰|vui mừng; an ủi; hài lòng|hân úy
+2007|欣欣向荣|hưng thịnh; phát triển thịnh vượng; hân hoan|hân hân hướng vinh
+2008|新陈代谢|trao đổi chất; cái mới thay thế cái cũ|tân trần đại tạ
+2009|新郎|chú rể; tân lang|tân lang
+2010|新娘|cô dâu; tân nương|tân nương
+2011|新颖|mới lạ; độc đáo; tân kỳ|tân dĩnh
+2012|薪水|tiền lương; lương bổng|tân thủy
+2013|信赖|tin cậy; tin tưởng; tín nhiệm|tín lại
+2014|信念|niềm tin; tín niệm|tín niệm
+2015|信仰|tín ngưỡng; niềm tin; tin theo|tín ngưỡng
+2016|信誉|uy tín; tín nhiệm; danh tiếng|tín dự
+2017|腥|tanh; mùi tanh; hôi tanh|tinh
+2018|刑事|hình sự|hình sự
+2019|行列|hàng ngũ; đội ngũ; hàng lối|hàng liệt
+2020|行政|hành chính|hành chính
+2021|形态|hình thái; dáng vẻ; hình dạng|hình thái
+2022|兴高采烈|hớn hở; vui mừng hớn hở; phấn khởi|hứng cao thái liệt
+2023|兴隆|hưng long; phát đạt; thịnh vượng|hưng long
+2024|兴旺|hưng thịnh; phát đạt; phồn vinh|hưng vượng
+2025|兴致勃勃|hào hứng; đầy hứng thú; hứng khởi|hứng trí bột bột
+2026|幸好|may mà; may thay; may ra|hạnh hảo
+2027|性感|gợi cảm; quyến rũ|tính cảm
+2028|性命|tính mạng; sinh mạng|tính mệnh
+2029|性能|tính năng; hiệu năng; chất lượng hoạt động|tính năng
+2030|性情|tính tình; tính nết; bản tính|tính tình
+2031|凶恶|hung ác; hung dữ; dữ tợn|hung ác
+2032|凶手|hung thủ; kẻ giết người|hung thủ
+2033|胸怀|tấm lòng; ngực; hoài bão|hung hoài
+2034|胸膛|lồng ngực; ngực|hung đường
+2035|雄厚|hùng hậu; dồi dào; vững mạnh|hùng hậu
+2036|休养|tĩnh dưỡng; nghỉ dưỡng; hồi sức|hưu dưỡng
+2037|修复|sửa chữa; khôi phục; phục hồi|tu phục
+2038|修建|xây dựng; xây; tu sửa|tu kiến
+2039|修理|sửa chữa; tu sửa; sửa; cắt tỉa|tu lý
+2040|羞耻|xấu hổ; nhục nhã; hổ thẹn|tu sỉ
+2041|绣|thêu; đồ thêu|tú
+2042|嗅觉|khứu giác|khứu giác
+2043|须知|điều cần biết; lưu ý; hướng dẫn cần biết|tu tri
+2044|虚假|giả dối; giả tạo; không thật|hư giả
+2045|虚荣|hư vinh|hư vinh
+2046|虚伪|giả dối; đạo đức giả; giả tạo|hư ngụy
+2047|需求|nhu cầu; yêu cầu; cầu (kinh tế)|nhu cầu
+2048|许可|cho phép; giấy phép; chấp thuận|hứa khả
+2049|序言|lời tựa; lời mở đầu; lời nói đầu|tự ngôn
+2050|酗酒|nghiện rượu; uống rượu quá độ; say sưa|hú tửu
+2051|宣誓|tuyên thệ; thề|tuyên thệ
+2052|宣扬|tuyên dương; tuyên truyền; rao truyền; quảng bá|tuyên dương
+2053|悬挂|treo; móc; treo lên; hệ thống treo (xe)|huyền quải
+2054|悬念|hồi hộp chờ đợi; sự lo lắng; yếu tố hồi hộp|huyền niệm
+2055|悬崖峭壁|vách đá dựng đứng; vách núi cheo leo|huyền nhai tiêu bích
+2056|旋律|giai điệu; âm điệu|toàn luật
+2057|旋转|xoay; quay; xoay tròn|toàn chuyển
+2058|选拔|tuyển chọn; lựa chọn; tuyển lựa|tuyển bạt
+2059|选手|tuyển thủ; vận động viên; thí sinh|tuyển thủ
+2060|削弱|làm suy yếu; làm yếu đi; giảm sút|tước nhược
+2061|学历|trình độ học vấn; bằng cấp|học lịch
+2062|学说|học thuyết; thuyết|học thuyết
+2063|学位|học vị|học vị
+2064|雪上加霜|họa vô đơn chí; tuyết lại thêm sương; tình hình tồi tệ thêm|tuyết thượng gia sương
+2065|血压|huyết áp|huyết áp
+2066|熏陶|thấm nhuần; hun đúc; ảnh hưởng dần dần|huân đào
+2067|寻觅|tìm kiếm; tìm tòi|tầm mịch
+2068|巡逻|tuần tra; đi tuần|tuần la
+2069|循环|tuần hoàn; lặp vòng; chu kỳ|tuần hoàn
+2070|循序渐进|tuần tự tiến lên; từng bước một|tuần tự tiệm tiến
+2071|压迫|áp bức; chèn ép; đè nén|áp bách
+2072|压岁钱|tiền mừng tuổi; tiền lì xì|áp tuế tiền
+2073|压缩|nén; rút gọn; cắt giảm|áp súc
+2074|压抑|kìm nén; đè nén; ngột ngạt|áp ức
+2075|压榨|ép; vắt; bóc lột; ép lấy (dầu)|áp trá
+2076|压制|đàn áp; kìm hãm; áp chế|áp chế
+2077|押金|tiền đặt cọc; tiền ký quỹ|áp kim
+2078|亚军|á quân; hạng nhì|á quân
+2079|烟花|pháo hoa|yên hoa
+2080|淹没|nhấn chìm; ngập; chôn vùi; che lấp|yêm một
+2081|延期|hoãn; kéo dài thời hạn; gia hạn|diên kỳ
+2082|延伸|kéo dài; trải dài; mở rộng|diên thân
+2083|延续|kéo dài; tiếp tục; tiếp nối|diên tục
+2084|严寒|giá rét; rét buốt; rét căm căm|nghiêm hàn
+2085|严禁|nghiêm cấm; cấm hẳn|nghiêm cấm
+2086|严峻|nghiêm trọng; nghiêm khắc; khắc nghiệt; gay go|nghiêm tuấn
+2087|严厉|nghiêm khắc; nghiêm nghị|nghiêm lệ
+2088|严密|chặt chẽ; kín kẽ; nghiêm ngặt|nghiêm mật
+2089|言论|lời nói; ngôn luận; phát ngôn|ngôn luận
+2090|岩石|đá; nham thạch|nham thạch
+2091|沿海|ven biển; duyên hải|duyên hải
+2092|炎热|nóng bức; oi bức; nóng nực|viêm nhiệt
+2093|掩盖|che đậy; che giấu; che phủ|yểm cái
+2094|掩护|yểm hộ; che chở; che chắn|yểm hộ
+2095|掩饰|che giấu; che đậy; ngụy trang|yểm sức
+2096|眼光|ánh mắt; tầm nhìn; nhãn quan|nhãn quang
+2097|眼色|ánh mắt ra hiệu; cái nháy mắt; liếc mắt|nhãn sắc
+2098|眼神|ánh mắt; thần thái trong mắt; cái nhìn|nhãn thần
+2099|眼下|hiện giờ; trước mắt; lúc này|nhãn hạ
+2100|演变|diễn biến; tiến triển; biến đổi dần|diễn biến
+2101|演讲|diễn thuyết; bài diễn thuyết; thuyết trình|diễn giảng
+2102|演习|diễn tập; tập trận|diễn tập
+2103|演绎|diễn dịch; diễn giải; thể hiện|diễn dịch
+2104|演奏|biểu diễn nhạc cụ; diễn tấu|diễn tấu
+2105|厌恶|chán ghét; ghê tởm; căm ghét|yếm ố
+2106|验收|nghiệm thu; kiểm tra và nhận|nghiệm thu
+2107|验证|kiểm chứng; xác minh; thẩm tra|nghiệm chứng
+2108|氧气|ôxy; khí ôxy|dưỡng khí
+2109|样品|hàng mẫu; mẫu; mẫu vật|dạng phẩm
+2110|谣言|tin đồn; lời đồn; tin vịt|dao ngôn
+2111|摇摆|lắc lư; đung đưa; dao động|dao bãi
+2112|摇滚|nhạc rock; rock and roll|dao cổn
+2113|摇晃|lắc lư; rung lắc; đung đưa|dao hoảng
+2114|遥控|điều khiển từ xa|dao khống
+2115|遥远|xa xôi; xa tít; xa xăm|dao viễn
+2116|咬牙切齿|nghiến răng nghiến lợi; căm tức|giảo nha thiết xỉ
+2117|要不然|nếu không thì; bằng không|yếu bất nhiên
+2118|要点|điểm chính; điểm mấu chốt; yếu điểm|yếu điểm
+2119|要命|chết người; cực kỳ; quá chừng; phiền chết|yếu mệnh
+2120|要素|yếu tố; nhân tố chủ yếu|yếu tố
+2121|耀眼|chói mắt; lóa mắt; rực rỡ|diệu nhãn
+2122|野蛮|dã man; man rợ; thô bạo|dã man
+2123|野心|tham vọng; dã tâm|dã tâm
+2124|一度|một thời; có lúc; một lần|nhất độ
+2125|一帆风顺|thuận buồm xuôi gió; suôn sẻ|nhất phàm phong thuận
+2126|一贯|nhất quán; trước sau như một; vẫn luôn|nhất quán
+2127|一举两得|một công đôi việc; một mũi tên trúng hai đích|nhất cử lưỡng đắc
+2128|一流|hạng nhất; hàng đầu; loại một|nhất lưu
+2129|一律|đồng loạt; như nhau; nhất loạt|nhất luật
+2130|一目了然|nhìn là hiểu ngay; rõ như ban ngày|nhất mục liễu nhiên
+2131|一如既往|như trước nay; như mọi khi; trước sau như một|nhất như ký vãng
+2132|一丝不苟|nghiêm túc tỉ mỉ; không sơ suất chút nào|nhất ti bất cẩu
+2133|一向|trước nay; từ trước đến giờ; dạo gần đây|nhất hướng
+2134|一再|nhiều lần; lặp đi lặp lại; hết lần này đến lần khác|nhất tái
+2135|衣裳|quần áo; y phục|y thường
+2136|依次|lần lượt; theo thứ tự|y thứ
+2137|依旧|vẫn như cũ; vẫn; như trước|y cựu
+2138|依据|dựa vào; căn cứ; cơ sở|y cứ
+2139|依靠|dựa vào; nương tựa; nhờ cậy|y kháo
+2140|依赖|dựa dẫm; phụ thuộc; ỷ lại|y lại
+2141|依托|dựa vào; nhờ vào; nương tựa|y thác
+2142|仪器|dụng cụ; thiết bị đo; máy móc|nghi khí
+2143|仪式|nghi thức; buổi lễ; nghi lễ|nghi thức
+2144|遗产|di sản; tài sản thừa kế|di sản
+2145|遗传|di truyền|di truyền
+2146|遗留|để lại; còn lại; tồn lại|di lưu
+2147|遗失|đánh mất; thất lạc; làm rơi|di thất
+2148|疑惑|nghi hoặc; ngờ vực; băn khoăn|nghi hoặc
+2149|以便|để; nhằm; để tiện|dĩ tiện
+2150|以免|để tránh; kẻo; khỏi phải|dĩ miễn
+2151|以往|trước đây; ngày trước; từ trước|dĩ vãng
+2152|以至|đến mức; thậm chí; cho đến|dĩ chí
+2153|以致|dẫn đến; khiến cho; đến nỗi|dĩ trí
+2154|亦|cũng; cũng là|diệc
+2155|异常|khác thường; bất thường; vô cùng|dị thường
+2156|抑制|kiềm chế; ức chế; kìm hãm|ức chế
+2157|意料|dự đoán; dự liệu; ngờ tới|ý liệu
+2158|意识|ý thức; nhận thức; nhận ra|ý thức
+2159|意图|ý đồ; ý định; dụng ý|ý đồ
+2160|意味着|có nghĩa là; ngụ ý; đồng nghĩa với|ý vị trước
+2161|意向|ý hướng; ý định; dự định|ý hướng
+2162|意志|ý chí|ý chí
+2163|毅力|nghị lực; sự kiên trì|nghị lực
+2164|毅然|kiên quyết; dứt khoát; không do dự|nghị nhiên
+2165|翼|cánh; cánh chim; giúp đỡ|dực
+2166|阴谋|âm mưu; mưu đồ|âm mưu
+2167|音响|âm thanh; dàn âm thanh; thiết bị âm thanh|âm hưởng
+2168|引导|dẫn dắt; hướng dẫn; dẫn đường|dẫn đạo
+2169|引擎|động cơ; máy; công cụ (phần mềm)|dẫn kình
+2170|引用|trích dẫn; viện dẫn; dẫn chứng|dẫn dụng
+2171|饮食|ăn uống; đồ ăn thức uống; chế độ ăn|ẩm thực
+2172|隐蔽|ẩn nấp; che giấu; kín đáo; ẩn|ẩn tế
+2173|隐患|mối họa ngầm; tiềm ẩn nguy cơ; nguy cơ tiềm tàng|ẩn hoạn
+2174|隐瞒|giấu giếm; che giấu; giấu|ẩn man
+2175|隐私|chuyện riêng tư; quyền riêng tư; bí mật cá nhân|ẩn tư
+2176|隐约|mờ mờ; thấp thoáng; lờ mờ|ẩn ước
+2177|印刷|in; in ấn|ấn loát
+2178|应酬|xã giao; tiếp đãi; bữa tiệc xã giao; giao tế|ứng thù
+2179|应邀|theo lời mời; nhận lời mời|ứng yêu
+2180|英明|sáng suốt; anh minh|anh minh
+2181|英勇|anh dũng; dũng cảm|anh dũng
+2182|婴儿|trẻ sơ sinh; em bé; trẻ nhỏ|anh nhi
+2183|迎面|ngay trước mặt; đối diện; đập vào mặt|nghênh diện
+2184|盈利|lợi nhuận; có lãi; sinh lời|doanh lợi
+2185|荧屏|màn hình; màn ảnh|huỳnh bình
+2186|拥护|ủng hộ; tán thành|ủng hộ
+2187|拥有|có; sở hữu; nắm giữ|ủng hữu
+2188|庸俗|tầm thường; thô tục; tục tĩu|dung tục
+2189|永恒|vĩnh hằng; vĩnh cửu; mãi mãi|vĩnh hằng
+2190|勇于|dám; mạnh dạn; dũng cảm (làm gì)|dũng vu
+2191|涌现|xuất hiện hàng loạt; nảy sinh; nổi lên|dũng hiện
+2192|踊跃|sôi nổi; hăng hái; hào hứng|dũng dược
+2193|用功|chăm chỉ học; chịu khó; siêng năng|dụng công
+2194|用户|người dùng; khách hàng; thuê bao|dụng hộ
+2195|优胜劣汰|ưu thắng liệt thải; kẻ mạnh thắng kẻ yếu bị đào thải|ưu thắng liệt thải
+2196|优先|ưu tiên; đứng trước|ưu tiên
+2197|优异|ưu tú; xuất sắc; vượt trội|ưu dị
+2198|优越|ưu việt; vượt trội; hơn hẳn|ưu việt
+2199|忧郁|u uất; u sầu; buồn rầu|ưu uất
+2200|犹如|giống như; như thể|do như
+2201|油腻|béo ngậy; nhiều dầu mỡ; ngấy; nhờn|du nị
+2202|油漆|sơn; quét sơn; sơn dầu|du tất
+2203|有条不紊|có trật tự; ngăn nắp; gọn gàng; có phương pháp|hữu điều bất vẫn
+2204|幼稚|ngây thơ; trẻ con; non nớt|ấu trĩ
+2205|诱惑|cám dỗ; quyến rũ; dụ dỗ|dụ hoặc
+2206|渔民|ngư dân; dân chài|ngư dân
+2207|愚蠢|ngu ngốc; ngu xuẩn|ngu xuẩn
+2208|愚昧|ngu muội; dốt nát; không có học|ngu muội
+2209|舆论|dư luận|dư luận
+2210|与日俱增|ngày một tăng; tăng lên từng ngày|dữ nhật câu tăng
+2211|予以|cho; đem lại; dành cho; áp dụng|dư dĩ
+2212|羽绒服|áo lông vũ; áo phao|vũ nhung phục
+2213|预料|dự đoán; dự liệu; đoán trước|dự liệu
+2214|预期|dự kiến; dự tính; mong đợi|dự kỳ
+2215|预赛|vòng loại; vòng sơ loại|dự trại
+2216|预算|ngân sách; dự toán|dự toán
+2217|预先|trước; sẵn; từ trước|dự tiên
+2218|预言|dự đoán; lời tiên đoán; tiên tri|dự ngôn
+2219|预兆|điềm báo; dấu hiệu báo trước; điềm|dự triệu
+2220|欲望|dục vọng; ham muốn; khát vọng|dục vọng
+2221|寓言|ngụ ngôn|ngụ ngôn
+2222|愈|càng (càng...); khỏi (bệnh); lành|dũ
+2223|冤枉|oan uổng; oan; làm oan; phí công|oan uổng
+2224|元首|nguyên thủ; nguyên thủ quốc gia|nguyên thủ
+2225|元素|nguyên tố; yếu tố; phần tử|nguyên tố
+2226|元宵节|Tết Nguyên Tiêu; Tết Thượng Nguyên|nguyên tiêu tiết
+2227|园林|vườn; công viên; vườn cảnh; viên lâm|viên lâm
+2228|原告|nguyên cáo; nguyên đơn|nguyên cáo
+2229|原理|nguyên lý; nguyên tắc|nguyên lý
+2230|原始|nguyên thủy; ban đầu; sơ khai|nguyên thủy
+2231|原先|ban đầu; trước kia; vốn dĩ|nguyên tiên
+2232|圆满|viên mãn; trọn vẹn; tốt đẹp; thỏa đáng|viên mãn
+2233|源泉|nguồn suối; nguồn gốc; nguồn|nguyên tuyền
+2234|约束|ràng buộc; kiềm chế; hạn chế|ước thúc
+2235|岳父|bố vợ; nhạc phụ|nhạc phụ
+2236|孕育|thai nghén; nuôi dưỡng; ấp ủ; mang thai|dựng dục
+2237|运算|phép tính; tính toán; vận toán|vận toán
+2238|运行|vận hành; chạy; hoạt động; quay|vận hành
+2239|酝酿|ủ; ủ men; nung nấu; chuẩn bị; thai nghén|uẩn nhưỡng
+2240|熨|là (ủi); bàn là|uất
+2241|蕴藏|chứa đựng; ẩn chứa; có trữ lượng|uẩn tàng
+2242|杂技|xiếc; nghệ thuật xiếc|tạp kỹ
+2243|杂交|lai tạo; lai giống; tạp giao|tạp giao
+2244|砸|đập; đập vỡ; đập nát; thất bại|tạp
+2245|咋|sao; làm sao (như 怎么, phương ngữ)|
+2246|灾难|tai nạn; thảm họa; tai ương|tai nạn
+2247|栽培|trồng; vun trồng; đào tạo; bồi dưỡng|tài bồi
+2248|宰|giết (gia súc); mổ; chặt chém; cai quản|tể
+2249|再接再厉|tiếp tục cố gắng; không ngừng nỗ lực|tái tiếp tái lệ
+2250|在乎|để ý; quan tâm; bận tâm; nằm ở|tại hồ
+2251|在意|để ý; để tâm; quan tâm|tại ý
+2252|攒|tích góp; dành dụm; gom lại|toản
+2253|暂且|tạm thời; tạm; trước mắt|tạm thả
+2254|赞叹|tán thán; khen ngợi; thán phục|tán thán
+2255|赞同|tán đồng; đồng tình; tán thành|tán đồng
+2256|赞扬|khen ngợi; tán dương; ca ngợi|tán dương
+2257|赞助|tài trợ; ủng hộ; tán trợ|tán trợ
+2258|遭受|gặp phải; chịu đựng; bị|tao thụ
+2259|遭殃|gặp tai ương; gặp họa; chịu tai họa|tao ương
+2260|遭遇|gặp phải; trải qua; cảnh ngộ; số phận|tao ngộ
+2261|糟蹋|phá hoại; lãng phí; hủy hoại; chà đạp|tao đạp
+2262|造反|làm phản; nổi loạn; tạo phản|tạo phản
+2263|造型|tạo hình; hình dáng; kiểu dáng; mẫu mã|tạo hình
+2264|噪音|tiếng ồn; tạp âm; nhiễu|táo âm
+2265|责怪|trách móc; oán trách; trách cứ|trách quái
+2266|贼|kẻ trộm; tên trộm; gian xảo; tặc|tặc
+2267|增添|thêm; bổ sung; tăng thêm|tăng thiêm
+2268|赠送|tặng; biếu; tặng quà|tặng tống
+2269|扎|đâm; chích; buộc; cắm; trát (cọc)|trát
+2270|扎实|chắc chắn; vững chắc; chắc nịch; thiết thực|trát thực
+2271|渣|cặn; bã; vụn; xỉ|tra
+2272|眨|chớp (mắt); nháy mắt|biếm
+2273|诈骗|lừa đảo; lừa gạt; gian lận|trá phiến
+2274|摘要|tóm tắt; bản tóm tắt; trích yếu|trích yếu
+2275|债券|trái phiếu|trái khoán
+2276|沾光|hưởng lây; nhờ vả; được thơm lây|triêm quang
+2277|瞻仰|chiêm ngưỡng; ngắm nhìn tôn kính|chiêm ngưỡng
+2278|斩钉截铁|dứt khoát; quả quyết; chắc như đinh đóng cột|trảm đinh tiệt thiết
+2279|展示|trưng bày; thể hiện; trình bày; cho thấy|triển thị
+2280|展望|triển vọng; nhìn về tương lai; dự báo|triển vọng
+2281|展现|hiện ra; mở ra; bày ra; thể hiện|triển hiện
+2282|崭新|mới tinh; hoàn toàn mới|tiệm tân
+2283|占据|chiếm; chiếm giữ; chiếm lĩnh|chiếm cứ
+2284|占领|chiếm lĩnh; chiếm đóng; chiếm|chiếm lĩnh
+2285|占有|chiếm hữu; có; nắm giữ|chiếm hữu
+2286|战斗|chiến đấu; đấu tranh; trận chiến|chiến đấu
+2287|战略|chiến lược|chiến lược
+2288|战术|chiến thuật|chiến thuật
+2289|战役|chiến dịch; trận đánh|chiến dịch
+2290|章程|điều lệ; quy chế; điều lệ hoạt động|chương trình
+2291|长辈|bề trên; bậc cha chú; người lớn tuổi|trưởng bối
+2292|帐篷|lều; lều trại|trướng bồng
+2293|障碍|chướng ngại; trở ngại; rào cản|chướng ngại
+2294|招收|tuyển sinh; tuyển dụng; thu nhận|chiêu thu
+2295|招投标|đấu thầu; mời thầu và dự thầu|chiêu đầu tiêu
+2296|沼泽|đầm lầy; vùng đầm lầy|chiểu trạch
+2297|照料|chăm sóc; trông nom; chăm nom|chiếu liệu
+2298|照样|như cũ; như thường; vẫn y như vậy; theo mẫu|chiếu dạng
+2299|照耀|chiếu sáng; rọi sáng; soi sáng|chiếu diệu
+2300|照应|chiếu cố; chăm sóc; ăn khớp; phối hợp|chiếu ứng
+2301|遮挡|che chắn; che; ngăn che|già đáng
+2302|折|gãy; bẻ; gập; giảm giá; chiết khấu|chiết
+2303|折磨|giày vò; hành hạ; dày vò|chiết ma
+2304|折腾|làm đi làm lại; hành hạ; trằn trọc; lăn qua lăn lại|chiết đằng
+2305|着迷|say mê; mê mẩn; bị cuốn hút|trước mê
+2306|着手|bắt tay vào; khởi sự; bắt đầu làm|trước thủ
+2307|着想|nghĩ cho; lo cho; xét đến|trước tưởng
+2308|着重|nhấn mạnh; chú trọng; coi trọng|trước trọng
+2309|著作|tác phẩm; sách; sáng tác|trứ tác
+2310|侦探|trinh thám; thám tử|trinh thám
+2311|珍贵|quý báu; quý giá; trân quý|trân quý
+2312|珍稀|quý hiếm; hiếm có|trân hi
+2313|珍珠|ngọc trai; trân châu|trân châu
+2314|真相|sự thật; chân tướng|chân tướng
+2315|真挚|chân thành; thật lòng; chân chất|chân chí
+2316|斟酌|cân nhắc; suy xét; châm chước|châm chước
+2317|阵地|trận địa; mặt trận; vị trí|trận địa
+2318|阵容|đội hình; lực lượng; đội ngũ; thế trận|trận dung
+2319|振奋|phấn chấn; hăng hái; cổ vũ|chấn phấn
+2320|振兴|chấn hưng; phục hưng; làm hưng thịnh|chấn hưng
+2321|镇定|bình tĩnh; điềm tĩnh; trấn tĩnh|trấn định
+2322|镇静|bình tĩnh; trấn tĩnh; an thần|trấn tĩnh
+2323|镇压|trấn áp; đàn áp; dẹp yên|trấn áp
+2324|震惊|chấn động; kinh ngạc; sửng sốt|chấn kinh
+2325|争端|tranh chấp; xung đột|tranh đoan
+2326|争夺|tranh giành; giành giật; tranh đoạt|tranh đoạt
+2327|争气|cố gắng vươn lên; làm rạng danh; có chí khí|tranh khí
+2328|争先恐后|tranh nhau; giành nhau lên trước; sợ bị tụt lại|tranh tiên khủng hậu
+2329|争议|tranh cãi; tranh luận; gây tranh cãi|tranh nghị
+2330|征服|chinh phục; khuất phục|chinh phục
+2331|征收|thu (thuế); trưng thu; trưng dụng|trưng thu
+2332|挣扎|giãy giụa; vùng vẫy; đấu tranh chống chọi|tránh trát
+2333|蒸发|bay hơi; bốc hơi; hóa hơi|chưng phát
+2334|整顿|chỉnh đốn; sắp xếp lại; củng cố|chỉnh đốn
+2335|正当|chính đáng; đúng lúc; đang lúc|chính đáng
+2336|正负|dương và âm; tích cực và tiêu cực; sai số cộng trừ|chính phụ
+2337|正规|chính quy; theo quy chuẩn; đúng tiêu chuẩn|chính quy
+2338|正经|nghiêm túc; đứng đắn; đàng hoàng; chính đáng|chính kinh
+2339|正气|chính khí; khí phách ngay thẳng; hạo nhiên chính khí|chính khí
+2340|正义|chính nghĩa; công lý; chính nghĩa|chính nghĩa
+2341|正月|tháng giêng; tháng Giêng âm lịch|chính nguyệt
+2342|证实|chứng thực; xác nhận; chứng minh|chứng thực
+2343|证书|giấy chứng nhận; chứng chỉ|chứng thư
+2344|郑重|trịnh trọng; nghiêm túc; long trọng|trịnh trọng
+2345|政权|chính quyền; quyền lực chính trị|chính quyền
+2346|症状|triệu chứng; chứng trạng|chứng trạng
+2347|支撑|chống đỡ; nâng đỡ; chống chọi; trụ vững|chi xanh
+2348|支出|chi tiêu; chi ra; khoản chi|chi xuất
+2349|支流|nhánh sông; chi lưu; mặt phụ|chi lưu
+2350|支配|chi phối; điều khiển; sắp xếp; phân phối|chi phối
+2351|支援|chi viện; hỗ trợ; giúp sức|chi viện
+2352|支柱|cột trụ; trụ cột; chỗ dựa|chi trụ
+2353|枝|cành; nhánh; cây (lượng từ cho bút, que)|chi
+2354|知觉|tri giác; cảm giác; ý thức|tri giác
+2355|知足常乐|biết đủ thì vui; tri túc thường lạc|tri túc thường lạc
+2356|脂肪|mỡ; chất béo|chi phương
+2357|直播|phát sóng trực tiếp; livestream; phát trực tiếp|trực bá
+2358|值班|trực; trực ban; làm ca|trị ban
+2359|职能|chức năng; vai trò|chức năng
+2360|职位|chức vị; vị trí công việc; chức vụ|chức vị
+2361|职务|chức vụ; nhiệm vụ|chức vụ
+2362|殖民地|thuộc địa|thực dân địa
+2363|指标|chỉ tiêu; chỉ số|chỉ tiêu
+2364|指定|chỉ định; ấn định; chỉ rõ|chỉ định
+2365|指甲|móng tay|chỉ giáp
+2366|指令|chỉ lệnh; mệnh lệnh; lệnh|chỉ lệnh
+2367|指南针|la bàn; kim chỉ nam|chỉ nam châm
+2368|指示|chỉ thị; chỉ ra; hướng dẫn|chỉ thị
+2369|指望|trông mong; hy vọng vào; dựa vào; hy vọng|chỉ vọng
+2370|指责|chỉ trích; khiển trách; phê phán|chỉ trách
+2371|志气|chí khí; hoài bão; khí phách|chí khí
+2372|制裁|trừng phạt; chế tài; trừng trị|chế tài
+2373|制订|soạn thảo; đặt ra; xây dựng (kế hoạch, luật)|chế đính
+2374|制服|chế ngự; khuất phục; đồng phục; quân phục|chế phục
+2375|制约|chế ước; ràng buộc; hạn chế; điều kiện ràng buộc|chế ước
+2376|制止|ngăn chặn; ngăn cản; can ngăn|chế chỉ
+2377|治安|trị an; an ninh trật tự|trị an
+2378|治理|quản lý; điều hành; xử lý; chỉnh trị|trị lý
+2379|致辞|phát biểu; đọc diễn văn; lời phát biểu|trí từ
+2380|致力于|dốc sức vào; tận tâm với; cống hiến cho|trí lực vu
+2381|致使|khiến cho; dẫn đến; làm cho|trí sử
+2382|智力|trí lực; trí tuệ; trí thông minh|trí lực
+2383|智能|thông minh; trí tuệ nhân tạo; thông minh (thiết bị)|trí năng
+2384|智商|chỉ số thông minh; IQ|trí thương
+2385|滞留|ứ đọng; ở lại; bị kẹt lại; tồn đọng|trệ lưu
+2386|中断|gián đoạn; ngắt quãng; đứt đoạn; ngưng|trung đoạn
+2387|中立|trung lập|trung lập
+2388|中央|trung ương; ở giữa; chính giữa|trung ương
+2389|忠诚|trung thành; lòng trung thành|trung thành
+2390|忠实|trung thực; trung thành; thành thật|trung thực
+2391|终点|điểm cuối; đích; vạch đích|chung điểm
+2392|终究|rốt cuộc; cuối cùng thì; suy cho cùng|chung cứu
+2393|终年|quanh năm; suốt năm; hưởng thọ (tuổi)|chung niên
+2394|终身|cả đời; suốt đời; trọn đời; chung thân|chung thân
+2395|终止|chấm dứt; dừng; kết thúc|chung chỉ
+2396|衷心|chân thành; tận đáy lòng; từ đáy lòng|trung tâm
+2397|肿瘤|khối u; u bướu|thũng lựu
+2398|种子|hạt giống; hạt; mầm giống|chủng tử
+2399|种族|chủng tộc|chủng tộc
+2400|众所周知|ai cũng biết; mọi người đều biết|chúng sở chu tri
+2401|重叠|chồng chất; chồng lên nhau; trùng lặp|trùng điệp
+2402|重心|trọng tâm; tâm trọng lực; phần quan trọng|trọng tâm
+2403|重阳节|Tết Trùng Dương; Tết Trùng Cửu|trùng dương tiết
+2404|州|châu; tỉnh (xưa); bang|châu
+2405|舟|thuyền; con thuyền|chu
+2406|周边|vùng xung quanh; ngoại vi; lân cận|chu biên
+2407|周密|chu đáo; kín kẽ; chặt chẽ; tỉ mỉ|chu mật
+2408|周年|chu niên; tròn một năm; kỷ niệm năm|chu niên
+2409|周期|chu kỳ|chu kỳ
+2410|周折|trắc trở; khó khăn; rắc rối; sóng gió|chu chiết
+2411|周转|quay vòng; luân chuyển; xoay xở (vốn)|chu chuyển
+2412|粥|cháo|chúc
+2413|昼夜|ngày đêm; suốt ngày đêm; 24 giờ|trú dạ
+2414|皱纹|nếp nhăn; vết nhăn|trứu văn
+2415|株|cây; gốc; cội; gốc cây; (lượng từ cho cây)|chu
+2416|诸位|các vị; quý vị; mọi người|chư vị
+2417|逐年|hàng năm; từng năm; năm này qua năm khác|trục niên
+2418|主办|chủ trì tổ chức; đứng ra tổ chức|chủ biện
+2419|主导|chủ đạo; dẫn đầu; chi phối|chủ đạo
+2420|主管|phụ trách; chủ quản; người phụ trách|chủ quản
+2421|主流|dòng chính; xu hướng chính; chủ lưu|chủ lưu
+2422|主权|chủ quyền|chủ quyền
+2423|主题|chủ đề; đề tài|chủ đề
+2424|拄|chống; tựa vào (gậy)|trụ
+2425|住宅|nhà ở; chỗ ở; nhà cửa|trú trạch
+2426|助理|trợ lý|trợ lý
+2427|助手|trợ thủ; người giúp việc; phụ tá|trợ thủ
+2428|注射|tiêm; chích|chú xạ
+2429|注视|nhìn chăm chú; chăm chú nhìn|chú thị
+2430|注释|chú thích; giải thích; chú giải|chú thích
+2431|注重|chú trọng; coi trọng|chú trọng
+2432|驻扎|đóng quân; đồn trú|trú trát
+2433|铸造|đúc; đúc (kim loại)|chú tạo
+2434|拽|kéo; lôi; giật|duệ
+2435|专程|chuyên chở; cất công; đặc biệt đi một chuyến|chuyên trình
+2436|专科|chuyên khoa; hệ cao đẳng; chuyên ngành|chuyên khoa
+2437|专利|bằng sáng chế; độc quyền; đặc quyền|chuyên lợi
+2438|专题|chuyên đề; đề tài chuyên biệt|chuyên đề
+2439|专长|sở trường; chuyên môn; sở trường chuyên môn|chuyên trường
+2440|砖瓦|gạch ngói|chuyên ngõa
+2441|转达|chuyển lời; truyền đạt lại|chuyển đạt
+2442|转让|chuyển nhượng|chuyển nhượng
+2443|转移|chuyển dịch; di chuyển; chuyển hướng; di căn|chuyển di
+2444|转折|bước ngoặt; chuyển biến; chuyển ngoặt|chuyển chiết
+2445|庄严|trang nghiêm|trang nghiêm
+2446|庄重|trang trọng; nghiêm trang; đứng đắn|trang trọng
+2447|装备|trang bị; thiết bị; bố trí trang bị|trang bị
+2448|装卸|bốc dỡ; lắp ráp và tháo; xếp dỡ hàng|trang tá
+2449|壮观|hùng vĩ; tráng lệ; cảnh tượng hoành tráng|tráng quan
+2450|壮丽|tráng lệ; hùng vĩ; lộng lẫy|tráng lệ
+2451|壮烈|oanh liệt; hào hùng; anh dũng|tráng liệt
+2452|追悼|truy điệu; tưởng niệm; tưởng nhớ|truy điệu
+2453|追究|truy cứu; điều tra rõ; tìm hiểu cặn kẽ|truy cứu
+2454|准则|chuẩn mực; nguyên tắc; tiêu chuẩn|chuẩn tắc
+2455|卓越|xuất sắc; ưu tú; kiệt xuất; trác việt|trác việt
+2456|姿态|tư thế; dáng điệu; thái độ; lập trường|tư thái
+2457|资本|vốn; tư bản; vốn liếng|tư bản
+2458|资产|tài sản; của cải|tư sản
+2459|资深|lâu năm; giàu kinh nghiệm; kỳ cựu|tư thâm
+2460|资助|tài trợ; giúp đỡ về tiền bạc|tư trợ
+2461|滋味|mùi vị; hương vị; cảm giác|tư vị
+2462|滋长|nảy sinh; phát triển; tăng trưởng; nảy nở|tư trưởng
+2463|字母|chữ cái; bảng chữ cái|tự mẫu
+2464|自卑|tự ti; mặc cảm|tự ti
+2465|自发|tự phát|tự phát
+2466|自力更生|tự lực cánh sinh; dựa vào sức mình|tự lực canh sinh
+2467|自满|tự mãn; kiêu ngạo|tự mãn
+2468|自主|tự chủ; độc lập; tự quyết|tự chủ
+2469|子弹|viên đạn; đạn|tử đạn
+2470|宗旨|tôn chỉ; mục đích; chủ trương|tông chỉ
+2471|棕色|màu nâu|tông sắc
+2472|踪迹|dấu vết; tung tích; vết tích|tung tích
+2473|总而言之|tóm lại; nói tóm lại; nói chung|tổng nhi ngôn chi
+2474|总和|tổng; tổng cộng; tổng số|tổng hòa
+2475|纵横|ngang dọc; tung hoành; chiều dài và chiều rộng; chằng chịt|tung hoành
+2476|走廊|hành lang; lối đi|tẩu lang
+2477|走漏|làm lộ; tiết lộ (bí mật); buôn lậu; hao hụt|tẩu lậu
+2478|走私|buôn lậu; hàng lậu; ngoại tình|tẩu tư
+2479|揍|đánh; đấm; nện|tấu
+2480|租赁|cho thuê; thuê; thuê mướn|tô lẫm
+2481|足以|đủ để; đủ sức|túc dĩ
+2482|阻碍|cản trở; trở ngại; ngăn cản|trở ngại
+2483|阻拦|ngăn cản; ngăn chặn; cản lại|trở lan
+2484|阻挠|ngăn trở; cản trở; phá bĩnh|trở nạo
+2485|组|nhóm; tổ; tổ chức; bộ; hình thành|tổ
+2486|祖父|ông nội; ông|tổ phụ
+2487|钻石|kim cương|toản thạch
+2488|钻研|nghiên cứu sâu; chuyên tâm tìm hiểu; đào sâu|toản nghiên
+2489|嘴唇|môi|chủy thần
+2490|尊严|tôn nghiêm; nhân phẩm; phẩm giá|tôn nghiêm
+2491|遵循|tuân theo; làm theo; noi theo|tuân tuần
+2492|琢磨|suy nghĩ; ngẫm nghĩ; mài giũa; trau chuốt|trác ma
+2493|左右|trái phải; khoảng; xấp xỉ; chi phối; hai bên|tả hữu
+2494|作弊|gian lận; quay cóp; gian lận thi cử|tác tệ
+2495|作废|hủy bỏ; vô hiệu; mất hiệu lực; bỏ đi|tác phế
+2496|作风|tác phong; phong cách làm việc; lối làm việc|tác phong
+2497|作息|làm việc và nghỉ ngơi; sinh hoạt; thời gian biểu|tác tức
+2498|座右铭|châm ngôn; phương châm sống; câu châm ngôn|tọa hữu minh
+2499|做东|làm chủ tiệc; mời khách; đãi khách|tố đông
+2500|做主|làm chủ; quyết định; tự quyết định|tố chủ

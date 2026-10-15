@@ -1,0 +1,139 @@
+## an-uong|Căng tin, ký túc xá
+
+# Đi ăn trưa
+A 现在十二点，我们去吃饭吧。|Bây giờ mười hai giờ, chúng ta đi ăn cơm nhé.
+B 好，你想吃什么？|Được, bạn muốn ăn gì?
+A 我想吃米饭和菜。|Tôi muốn ăn cơm và đồ ăn.
+B 我也是，我们走吧。|Tôi cũng vậy, đi thôi.
+
+# Ở căng tin
+A 请问，今天有什么菜？|Xin hỏi, hôm nay có món gì?
+B 有鸡肉、鱼和蔬菜。|Có thịt gà, cá và rau.
+A 我要鱼和米饭。|Tôi lấy cá và cơm.
+B 好，一共八块钱。|Được, tổng cộng tám tệ.
+
+# Uống nước
+A 我很渴，哪里有水？|Tôi khát lắm, ở đâu có nước?
+B 那边有热水，也有冷水。|Bên kia có nước nóng, cũng có nước lạnh.
+A 谢谢，我喝冷的。|Cảm ơn, tôi uống nước lạnh.
+B 天气热，要多喝水。|Trời nóng, phải uống nhiều nước.
+
+# Ăn xong chưa
+A 你吃饭了吗？|Bạn ăn cơm chưa?
+B 吃了，你呢？|Ăn rồi, còn bạn?
+A 我还没吃，我很饿。|Tôi chưa ăn, tôi đói lắm.
+B 快去吧，食堂还有饭。|Mau đi đi, căng tin vẫn còn cơm.
+
+# Món ăn có ngon không
+A 今天的饭好吃吗？|Cơm hôm nay có ngon không?
+B 很好吃，我吃了两碗。|Rất ngon, tôi ăn hai bát.
+A 这个菜叫什么名字？|Món này tên là gì?
+B 叫西红柿鸡蛋，我很喜欢。|Tên là cà chua trứng, tôi rất thích.
+
+# Đồ ăn hơi cay
+A 这个菜太辣了。|Món này cay quá.
+B 你不能吃辣吗？|Bạn không ăn được cay à?
+A 不能，我喜欢吃甜的。|Không, tôi thích ăn đồ ngọt.
+B 那你吃这个，不辣。|Vậy bạn ăn món này, không cay.
+
+# Ký túc xá mới
+A 你住在哪个房间？|Bạn ở phòng nào?
+B 我住三零五，在三楼。|Tôi ở phòng 305, tầng ba.
+A 几个人住一个房间？|Mấy người ở một phòng?
+B 四个人，都是我的同事。|Bốn người, đều là đồng nghiệp của tôi.
+
+# Hỏi chìa khóa
+A 请问，我的钥匙在哪儿？|Xin hỏi, chìa khóa của tôi ở đâu?
+B 你要去办公室拿。|Bạn phải đến văn phòng lấy.
+A 办公室几点开门？|Văn phòng mấy giờ mở cửa?
+B 早上八点，下午五点关门。|Tám giờ sáng, năm giờ chiều đóng cửa.
+
+# Điện nước trong phòng
+A 房间里的灯不亮了。|Đèn trong phòng không sáng nữa.
+B 你打电话给管理员吧。|Bạn gọi điện cho quản lý đi.
+A 管理员的电话是多少？|Số điện thoại của quản lý là bao nhiêu?
+B 写在门后面的纸上。|Viết trên tờ giấy phía sau cửa.
+
+# Giặt đồ
+A 洗衣机在哪里？|Máy giặt ở đâu?
+B 在一楼，要用卡才能用。|Ở tầng một, phải dùng thẻ mới dùng được.
+A 洗一次多少钱？|Giặt một lần bao nhiêu tiền?
+B 三块钱，很便宜。|Ba tệ, rất rẻ.
+
+# Nóng quá
+A 今天天气真热。|Hôm nay trời nóng thật.
+B 是啊，有三十五度。|Đúng vậy, có ba mươi lăm độ.
+A 房间里有空调吗？|Trong phòng có điều hòa không?
+B 有，但是晚上十一点以后就关了。|Có, nhưng sau mười một giờ đêm là tắt.
+
+# Ồn quá
+A 晚上太吵了，我睡不着。|Buổi tối ồn quá, tôi ngủ không được.
+B 你的室友在看电视吗？|Bạn cùng phòng của bạn đang xem ti vi à?
+A 是的，声音很大。|Đúng, tiếng rất lớn.
+B 你可以请他小声一点。|Bạn có thể nhờ anh ấy nhỏ tiếng chút.
+
+# Mời đồng nghiệp ăn tối
+A 今天晚上我请你吃饭。|Tối nay tôi mời bạn ăn cơm.
+B 太好了，在哪儿吃？|Tốt quá, ăn ở đâu?
+A 工厂旁边有一个饭店，不贵。|Cạnh nhà máy có một quán ăn, không đắt.
+B 好，下班以后我们一起去。|Được, tan ca xong chúng ta cùng đi.
+
+# Nấu ăn
+A 你会做饭吗？|Bạn biết nấu cơm không?
+B 会一点，我最会做中国菜。|Biết chút ít, tôi nấu giỏi nhất là món Trung Quốc.
+A 真的吗？我想学。|Thật à? Tôi muốn học.
+B 好啊，周末你来我这儿。|Được thôi, cuối tuần bạn đến chỗ tôi.
+
+# Mua đồ ăn sáng
+A 早上你吃什么？|Buổi sáng bạn ăn gì?
+B 我吃包子，喝牛奶。|Tôi ăn bánh bao, uống sữa.
+A 在哪儿买？|Mua ở đâu?
+B 食堂门口，一个包子一块钱。|Ở cổng căng tin, một cái bánh bao một tệ.
+
+# Hết giờ ăn
+A 现在还能吃饭吗？|Bây giờ còn ăn cơm được không?
+B 对不起，食堂一点关门。|Xin lỗi, căng tin một giờ đóng cửa.
+A 现在已经一点十分了。|Bây giờ đã một giờ mười phút rồi.
+B 你可以去外面的小店吃。|Bạn có thể ra tiệm nhỏ bên ngoài ăn.
+
+# Thẻ cơm hết tiền
+A 我的饭卡里没有钱了。|Thẻ cơm của tôi hết tiền rồi.
+B 你可以去那边充钱。|Bạn có thể đến bên kia nạp tiền.
+A 最少要充多少？|Nạp ít nhất bao nhiêu?
+B 最少五十块。|Ít nhất năm mươi tệ.
+
+# Rửa chén
+A 吃完饭，碗要放在哪里？|Ăn xong, bát để ở đâu?
+B 放在门口的桌子上。|Để lên cái bàn ở cửa.
+A 我们自己洗吗？|Chúng ta tự rửa à?
+B 不用，有人来洗。|Không cần, có người rửa.
+
+# Vệ sinh phòng
+A 房间要每天打扫吗？|Phòng có phải dọn mỗi ngày không?
+B 不用每天，但是要干净。|Không cần mỗi ngày, nhưng phải sạch sẽ.
+A 垃圾放在哪里？|Rác để ở đâu?
+B 放在楼下的大箱子里。|Để vào thùng lớn dưới lầu.
+
+# Thức khuya
+A 十一点了，你还不睡觉？|Mười một giờ rồi, bạn còn chưa ngủ?
+B 我还有一点事。|Tôi còn chút việc.
+A 明天要早起，快睡吧。|Mai phải dậy sớm, mau ngủ đi.
+B 好，我马上关灯。|Được, tôi tắt đèn ngay.
+
+# Khách đến ký túc xá
+A 我朋友想来我房间，可以吗？|Bạn tôi muốn đến phòng tôi, được không?
+B 要先在门口登记。|Phải đăng ký ở cửa trước.
+A 他可以住下吗？|Anh ấy ở lại được không?
+B 不可以，晚上十点以前要走。|Không được, trước mười giờ tối phải đi.
+
+# Quy định ký túc xá
+A 宿舍里不能做饭，你知道吗？|Trong ký túc xá không được nấu ăn, bạn biết không?
+B 我不知道，对不起。|Tôi không biết, xin lỗi.
+A 用电锅很危险，会着火。|Dùng nồi điện rất nguy hiểm, sẽ cháy.
+B 我明白了，以后不用了。|Tôi hiểu rồi, sau này không dùng nữa.
+
+# Chuyển phòng
+A 我想换一个房间，可以吗？|Tôi muốn đổi phòng, được không?
+B 你为什么想换？|Vì sao bạn muốn đổi?
+A 我现在的房间很热，也很吵。|Phòng hiện tại của tôi nóng và ồn.
+B 我看看有没有别的房间。|Tôi xem còn phòng khác không.

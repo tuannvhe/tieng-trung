@@ -1,0 +1,48 @@
+{
+  "name": "hoc-trung-it",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "vue-tsc --noEmit",
+    "validate": "tsx scripts/validate-data.ts",
+    "data": "tsx scripts/build-dialogues.ts && tsx scripts/build-grammar.ts && tsx scripts/validate-data.ts",
+    "audio": "tsx scripts/audio-pack.ts",
+    "audit": "tsx scripts/build-dialogues.ts --audit",
+    "server": "dotnet run --project server/src/HocTrungIt.Api",
+    "server:test": "dotnet test server",
+    "hsk30": "tsx scripts/fetch-hsk30.ts",
+    "hsk6": "tsx scripts/fetch-hsk6.ts",
+    "vi": "tsx scripts/merge-vi.ts"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "dexie": "^4.4.6",
+    "hanzi-writer": "^3.7.3",
+    "pinia": "^4.0.3",
+    "pinyin-pro": "^3.29.5",
+    "vue": "^3.5.44",
+    "vue-chartjs": "^5.3.4",
+    "vue-draggable-plus": "^0.6.1",
+    "vue-router": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@vitejs/plugin-vue": "^6.0.10",
+    "autoprefixer": "^10.6.1",
+    "fake-indexeddb": "^6.2.5",
+    "postcss": "^8.5.30",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^3.4.19",
+    "tsx": "^4.23.15",
+    "typescript": "5.9",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.4",
+    "vue-tsc": "^3.3.13"
+  }
+}

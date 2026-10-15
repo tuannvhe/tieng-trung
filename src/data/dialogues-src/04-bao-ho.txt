@@ -1,0 +1,121 @@
+## bao-ho|Đồ bảo hộ, dụng cụ
+
+# Lĩnh găng tay
+A 我想领一副手套。|Tôi muốn lĩnh một đôi găng tay.
+B 你的手多大？|Tay bạn cỡ nào?
+A 我用中号的。|Tôi dùng cỡ vừa.
+B 给你，请在本子上签名。|Đưa bạn đây, xin ký tên vào sổ.
+
+# Lĩnh khẩu trang
+A 请问，口罩在哪儿领？|Xin hỏi, khẩu trang lĩnh ở đâu?
+B 在二楼的办公室。|Ở văn phòng tầng hai.
+A 每天可以领几个？|Mỗi ngày được lĩnh mấy cái?
+B 每人每天两个。|Mỗi người mỗi ngày hai cái.
+
+# Quần áo công nhân
+A 这是你的工作服，请试试。|Đây là đồng phục của bạn, mời thử.
+B 有点大，有小一点的吗？|Hơi rộng, có cỡ nhỏ hơn không?
+A 有，我去给你拿一件。|Có, tôi đi lấy cho bạn một cái.
+B 谢谢，我穿这件正好。|Cảm ơn, cái này tôi mặc vừa vặn.
+
+# Mũ bảo hộ bị hỏng
+A 我的安全帽破了，要换一个。|Mũ bảo hộ của tôi bị nứt, phải đổi cái mới.
+B 怎么破的？|Nứt thế nào?
+A 昨天不小心掉在地上了。|Hôm qua tôi lỡ làm rơi xuống đất.
+B 好，旧的交给我，我给你新的。|Được, đưa cái cũ cho tôi, tôi đưa bạn cái mới.
+
+# Kính bảo hộ
+A 切割的时候必须戴护目镜。|Khi cắt bắt buộc phải đeo kính bảo hộ.
+B 我的眼镜可以代替吗？|Kính của tôi có thể thay thế không?
+A 不行，要用专门的护目镜。|Không được, phải dùng kính bảo hộ chuyên dụng.
+B 明白了，我去领一副。|Hiểu rồi, tôi đi lĩnh một cái.
+
+# Giày bảo hộ không vừa
+A 这双鞋太小了，我穿着脚疼。|Đôi giày này nhỏ quá, tôi đi bị đau chân.
+B 你穿多大的？|Bạn đi cỡ bao nhiêu?
+A 四十三码。|Cỡ bốn mươi ba.
+B 我去仓库看看有没有。|Tôi vào kho xem có không.
+
+# Trả lại đồ bảo hộ khi nghỉ việc
+A 我下个月离职，工作服要还吗？|Tháng sau tôi nghỉ việc, đồng phục có phải trả không?
+B 要，还有安全帽和工作牌。|Phải, còn cả mũ bảo hộ và thẻ nhân viên.
+A 什么时候还？|Khi nào trả?
+B 最后一天交给人事部就行。|Ngày cuối cùng nộp cho phòng nhân sự là được.
+
+# Dụng cụ mượn dùng
+A 请问，我可以借一把扳手吗？|Xin hỏi, tôi mượn một cái cờ lê được không?
+B 可以，请先登记。|Được, xin đăng ký trước.
+A 我用一个小时就还。|Tôi dùng một tiếng là trả.
+B 好，用完请放回原位。|Được, dùng xong xin để lại chỗ cũ.
+
+# Dụng cụ bị mất
+A 我找不到那把螺丝刀了。|Tôi không tìm thấy cái tua vít đó.
+B 你最后一次用是什么时候？|Lần cuối bạn dùng là khi nào?
+A 昨天下午，用完放在机器旁边。|Chiều qua, dùng xong để bên cạnh máy.
+B 我们一起去找找。|Chúng ta cùng đi tìm.
+
+# Găng tay chống cắt
+A 这种手套有什么特别的？|Loại găng tay này có gì đặc biệt?
+B 它能防割，比较安全。|Nó chống cắt, tương đối an toàn.
+A 价格是不是比较贵？|Giá có đắt hơn không?
+B 是贵一点，但是对工人很重要。|Đắt hơn một chút, nhưng rất quan trọng với công nhân.
+
+# Thẻ nhân viên bị mất
+A 我的工作牌丢了，怎么办？|Thẻ nhân viên của tôi bị mất, làm sao đây?
+B 你先去人事部报告。|Bạn đến phòng nhân sự báo trước.
+A 补办要多少钱？|Làm lại mất bao nhiêu tiền?
+B 二十元，三天以后就能领。|Hai mươi tệ, ba ngày sau là nhận được.
+
+# Tủ để đồ cá nhân
+A 我的柜子打不开了。|Tủ của tôi không mở được.
+B 钥匙带了吗？|Bạn mang chìa khóa không?
+A 带了，可能是锁坏了。|Mang rồi, có thể ổ khóa hỏng.
+B 我找人来修，你先用旁边的。|Tôi gọi người sửa, bạn dùng tạm cái bên cạnh.
+
+# Giặt đồng phục
+A 工作服多久洗一次？|Đồng phục bao lâu giặt một lần?
+B 公司每周洗一次，你不用自己洗。|Công ty giặt mỗi tuần một lần, bạn không cần tự giặt.
+A 那我多领一套换着穿，可以吗？|Vậy tôi lĩnh thêm một bộ để thay phiên, được không?
+B 可以，每人最多两套。|Được, mỗi người tối đa hai bộ.
+
+# Nút tai bị bẩn
+A 耳塞脏了还能用吗？|Nút tai bẩn rồi còn dùng được không?
+B 最好换新的，对耳朵更好。|Tốt nhất thay cái mới, tốt cho tai hơn.
+A 耳塞是一次性的吗？|Nút tai dùng một lần à?
+B 不是，但是脏了就要换。|Không phải, nhưng bẩn thì phải thay.
+
+# Mặt nạ phòng độc
+A 喷漆的时候要戴防毒面具。|Khi phun sơn phải đeo mặt nạ phòng độc.
+B 面具的过滤棉多久换一次？|Bông lọc của mặt nạ bao lâu thay một lần?
+A 一般一个星期，如果有味道就马上换。|Thường một tuần, nếu có mùi thì thay ngay.
+B 我记住了，谢谢您。|Tôi nhớ rồi, cảm ơn anh.
+
+# Kiểm kê dụng cụ cuối tháng
+A 月底要盘点一下工具和劳保用品。|Cuối tháng phải kiểm kê dụng cụ và đồ bảo hộ.
+B 需要我做什么？|Cần tôi làm gì?
+A 请你把各种东西的数量都记下来。|Bạn hãy ghi lại số lượng từng loại.
+B 好的，我做完以后发给您。|Vâng, làm xong tôi gửi anh.
+
+# Đề nghị mua thêm
+A 手套快用完了，需要再买一些。|Găng tay sắp hết, cần mua thêm.
+B 要买多少？|Cần mua bao nhiêu?
+A 先买一百副，够用一个月。|Mua trước một trăm đôi, đủ dùng một tháng.
+B 我现在填采购申请单。|Tôi điền phiếu đề nghị mua hàng ngay.
+
+# Dụng cụ không đạt chuẩn
+A 这把工具用起来不安全。|Dụng cụ này dùng không an toàn.
+B 哪里有问题？|Có vấn đề ở đâu?
+A 手柄松了，用力的时候容易滑。|Tay cầm bị lỏng, khi dùng lực dễ bị trượt.
+B 那就别用了，我马上换新的。|Vậy đừng dùng nữa, tôi đổi cái mới ngay.
+
+# Hướng dẫn cách đeo
+A 请教我怎么戴这个面罩。|Xin chỉ tôi cách đeo cái mặt nạ này.
+B 先把带子套在头上，再调整松紧。|Trước tiên đeo dây qua đầu, rồi chỉnh độ chặt.
+A 这样可以吗？|Như vậy được chưa?
+B 再紧一点，不要让空气漏进去。|Chặt thêm chút nữa, đừng để không khí lọt vào.
+
+# Phản hồi chất lượng đồ bảo hộ
+A 这批手套质量不太好，容易破。|Lô găng tay này chất lượng không tốt, dễ rách.
+B 破了多少副？|Rách bao nhiêu đôi?
+A 昨天一天就破了十几副。|Chỉ một ngày hôm qua đã rách mười mấy đôi.
+B 我会向采购部门反映，换一个供应商。|Tôi sẽ phản ánh với bộ phận thu mua để đổi nhà cung cấp.

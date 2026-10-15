@@ -1,0 +1,52 @@
+[
+  {
+    "id": "read-001", "title": "Thông báo lỗi kết nối", "kind": "error", "reviewed": false,
+    "tokens": [
+      {"t":"连接","py":"lián jiē","vi":"kết nối"}, {"t":"数据库","py":"shù jù kù","vi":"cơ sở dữ liệu"}, {"t":"失败","py":"shī bài","vi":"thất bại"}, {"t":"，"},
+      {"t":"请","py":"qǐng","vi":"xin / vui lòng"}, {"t":"检查","py":"jiǎn chá","vi":"kiểm tra"}, {"t":"网络","py":"wǎng luò","vi":"mạng"}, {"t":"或","py":"huò","vi":"hoặc"},
+      {"t":"联系","py":"lián xì","vi":"liên hệ"}, {"t":"管理员","py":"guǎn lǐ yuán","vi":"quản trị viên"}, {"t":"。"}
+    ],
+    "translation_vi": "Kết nối cơ sở dữ liệu thất bại, vui lòng kiểm tra mạng hoặc liên hệ quản trị viên."
+  },
+  {
+    "id": "read-002", "title": "Yêu cầu từ bộ phận sản xuất", "kind": "request", "reviewed": false,
+    "tokens": [
+      {"t":"请","py":"qǐng","vi":"xin / vui lòng"}, {"t":"在","py":"zài","vi":"vào lúc"}, {"t":"下班","py":"xià bān","vi":"tan ca"}, {"t":"前","py":"qián","vi":"trước"},
+      {"t":"把","py":"bǎ","vi":"(đưa tân ngữ lên trước động từ)"}, {"t":"二号线","py":"èr hào xiàn","vi":"chuyền số 2"}, {"t":"的","py":"de","vi":"của"},
+      {"t":"标签打印机","py":"biāo qiān dǎ yìn jī","vi":"máy in tem"}, {"t":"修好","py":"xiū hǎo","vi":"sửa xong"}, {"t":"，"},
+      {"t":"明天","py":"míng tiān","vi":"ngày mai"}, {"t":"早上","py":"zǎo shang","vi":"buổi sáng"}, {"t":"七点","py":"qī diǎn","vi":"7 giờ"},
+      {"t":"要","py":"yào","vi":"phải / sẽ"}, {"t":"开始","py":"kāi shǐ","vi":"bắt đầu"}, {"t":"生产","py":"shēng chǎn","vi":"sản xuất"}, {"t":"。"}
+    ],
+    "translation_vi": "Vui lòng sửa xong máy in tem của chuyền số 2 trước khi tan ca, 7 giờ sáng mai phải bắt đầu sản xuất."
+  },
+  {
+    "id": "read-003", "title": "Thông báo bảo trì hệ thống", "kind": "notice", "reviewed": false,
+    "tokens": [
+      {"t":"今晚","py":"jīn wǎn","vi":"tối nay"}, {"t":"十点","py":"shí diǎn","vi":"10 giờ"}, {"t":"到","py":"dào","vi":"đến"}, {"t":"十一点","py":"shí yī diǎn","vi":"11 giờ"}, {"t":"，"},
+      {"t":"MES","py":"MES","vi":"hệ thống điều hành sản xuất"}, {"t":"系统","py":"xì tǒng","vi":"hệ thống"}, {"t":"将","py":"jiāng","vi":"sẽ"},
+      {"t":"进行","py":"jìn xíng","vi":"tiến hành"}, {"t":"维护","py":"wéi hù","vi":"bảo trì"}, {"t":"，"},
+      {"t":"期间","py":"qī jiān","vi":"trong thời gian đó"}, {"t":"无法","py":"wú fǎ","vi":"không thể"}, {"t":"扫码","py":"sǎo mǎ","vi":"quét mã"},
+      {"t":"报工","py":"bào gōng","vi":"báo sản lượng"}, {"t":"。"}
+    ],
+    "translation_vi": "Từ 10 đến 11 giờ tối nay, hệ thống MES sẽ bảo trì; trong thời gian đó không thể quét mã báo sản lượng."
+  },
+  {
+    "id": "read-004", "title": "Xin mở quyền truy cập ERP", "kind": "request", "reviewed": false,
+    "tokens": [
+      {"t":"我","py":"wǒ","vi":"tôi"}, {"t":"没有","py":"méi yǒu","vi":"không có"}, {"t":"ERP","py":"ERP","vi":"hệ thống ERP"}, {"t":"的","py":"de","vi":"của"},
+      {"t":"库存","py":"kù cún","vi":"tồn kho"}, {"t":"查询","py":"chá xún","vi":"tra cứu"}, {"t":"权限","py":"quán xiàn","vi":"quyền hạn"}, {"t":"，"},
+      {"t":"麻烦","py":"má fan","vi":"phiền (nhờ vả lịch sự)"}, {"t":"您","py":"nín","vi":"ngài / anh chị (kính)"}, {"t":"帮","py":"bāng","vi":"giúp"}, {"t":"我","py":"wǒ","vi":"tôi"},
+      {"t":"开通","py":"kāi tōng","vi":"mở (quyền)"}, {"t":"。"}
+    ],
+    "translation_vi": "Tôi chưa có quyền tra cứu tồn kho trong ERP, phiền anh/chị mở quyền giúp tôi."
+  },
+  {
+    "id": "read-005", "title": "Báo cáo sự cố máy chủ", "kind": "report", "reviewed": false,
+    "tokens": [
+      {"t":"服务器","py":"fú wù qì","vi":"máy chủ"}, {"t":"昨晚","py":"zuó wǎn","vi":"tối qua"}, {"t":"死机","py":"sǐ jī","vi":"bị treo"}, {"t":"了","py":"le","vi":"rồi"}, {"t":"，"},
+      {"t":"重启","py":"chóng qǐ","vi":"khởi động lại"}, {"t":"后","py":"hòu","vi":"sau khi"}, {"t":"已经","py":"yǐ jīng","vi":"đã"}, {"t":"恢复","py":"huī fù","vi":"khôi phục"}, {"t":"，"},
+      {"t":"原因","py":"yuán yīn","vi":"nguyên nhân"}, {"t":"还","py":"hái","vi":"vẫn"}, {"t":"在","py":"zài","vi":"đang"}, {"t":"排查","py":"pái chá","vi":"rà soát"}, {"t":"。"}
+    ],
+    "translation_vi": "Máy chủ tối qua bị treo, sau khi khởi động lại đã khôi phục, nguyên nhân vẫn đang rà soát."
+  }
+]

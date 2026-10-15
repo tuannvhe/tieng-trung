@@ -1,0 +1,154 @@
+{
+  "initials": [
+    { "group": "Âm môi", "items": [
+      { "i": "b", "hanzi": "八", "py": "bā", "tip": "gần như \"p\" trong \"pa\" tiếng Việt, không bật hơi" },
+      { "i": "p", "hanzi": "怕", "py": "pà", "tip": "như b nhưng bật hơi mạnh, thổi vào tờ giấy thấy rung" },
+      { "i": "m", "hanzi": "妈", "py": "mā", "tip": "như \"m\" tiếng Việt" },
+      { "i": "f", "hanzi": "发", "py": "fā", "tip": "như \"ph\" tiếng Việt" } ] },
+    { "group": "Đầu lưỡi", "items": [
+      { "i": "d", "hanzi": "大", "py": "dà", "tip": "gần như \"t\" trong \"ta\", không bật hơi" },
+      { "i": "t", "hanzi": "他", "py": "tā", "tip": "như \"th\" tiếng Việt, bật hơi" },
+      { "i": "n", "hanzi": "那", "py": "nà", "tip": "như \"n\" tiếng Việt" },
+      { "i": "l", "hanzi": "来", "py": "lái", "tip": "như \"l\" tiếng Việt" } ] },
+    { "group": "Gốc lưỡi", "items": [
+      { "i": "g", "hanzi": "哥", "py": "gē", "tip": "gần như \"c/k\" trong \"cá\", không bật hơi" },
+      { "i": "k", "hanzi": "看", "py": "kàn", "tip": "như \"kh\" bật hơi mạnh" },
+      { "i": "h", "hanzi": "喝", "py": "hē", "tip": "như \"h\" nhưng ma sát ở cuống họng, gần \"kh\" nhẹ" } ] },
+    { "group": "Mặt lưỡi", "items": [
+      { "i": "j", "hanzi": "家", "py": "jiā", "tip": "gần như \"ch\" nhẹ, lưỡi phẳng, không bật hơi" },
+      { "i": "q", "hanzi": "七", "py": "qī", "tip": "như j nhưng bật hơi mạnh" },
+      { "i": "x", "hanzi": "西", "py": "xī", "tip": "gần như \"x\" nhẹ, lưỡi phẳng" } ] },
+    { "group": "Uốn lưỡi", "items": [
+      { "i": "zh", "hanzi": "这", "py": "zhè", "tip": "gần như \"tr\", cong đầu lưỡi lên, không bật hơi" },
+      { "i": "ch", "hanzi": "吃", "py": "chī", "tip": "như zh nhưng bật hơi mạnh" },
+      { "i": "sh", "hanzi": "是", "py": "shì", "tip": "như \"s\" với đầu lưỡi cong lên" },
+      { "i": "r", "hanzi": "热", "py": "rè", "tip": "giữa \"r\" và \"z\", đầu lưỡi cong" } ] },
+    { "group": "Đầu lưỡi phẳng", "items": [
+      { "i": "z", "hanzi": "做", "py": "zuò", "tip": "gần như \"ts/ch\" ngắn, không bật hơi" },
+      { "i": "c", "hanzi": "菜", "py": "cài", "tip": "như z nhưng bật hơi mạnh" },
+      { "i": "s", "hanzi": "三", "py": "sān", "tip": "như \"x/s\", lưỡi phẳng sau răng" } ] }
+  ],
+  "finals": [
+    { "group": "Vần đơn", "items": [
+      { "f": "a", "hanzi": "爸", "py": "bà" }, { "f": "o", "hanzi": "哦", "py": "ò" }, { "f": "e", "hanzi": "鹅", "py": "é", "tip": "miệng hé, lưỡi sau, gần \"ơ\" kéo ra phía sau" },
+      { "f": "i", "hanzi": "衣", "py": "yī", "tip": "như \"i\"; sau z, c, s, zh, ch, sh, r đọc gần \"ư\"" }, { "f": "u", "hanzi": "五", "py": "wǔ" },
+      { "f": "ü", "hanzi": "鱼", "py": "yú", "tip": "môi chu tròn như \"u\" nhưng phát âm \"i\"" }, { "f": "er", "hanzi": "二", "py": "èr", "tip": "cong lưỡi lên khi đọc \"a\"" } ] },
+    { "group": "Vần kép", "items": [
+      { "f": "ai", "hanzi": "爱", "py": "ài" }, { "f": "ei", "hanzi": "黑", "py": "hēi" }, { "f": "ao", "hanzi": "好", "py": "hǎo" }, { "f": "ou", "hanzi": "手", "py": "shǒu" },
+      { "f": "ia", "hanzi": "家", "py": "jiā" }, { "f": "ie", "hanzi": "写", "py": "xiě" }, { "f": "iao", "hanzi": "小", "py": "xiǎo" }, { "f": "iu", "hanzi": "六", "py": "liù", "tip": "viết iu nhưng đọc iou" },
+      { "f": "ua", "hanzi": "花", "py": "huā" }, { "f": "uo", "hanzi": "说", "py": "shuō" }, { "f": "uai", "hanzi": "快", "py": "kuài" }, { "f": "ui", "hanzi": "水", "py": "shuǐ", "tip": "viết ui nhưng đọc uei" },
+      { "f": "üe", "hanzi": "月", "py": "yuè" } ] },
+    { "group": "Vần mũi", "items": [
+      { "f": "an", "hanzi": "山", "py": "shān" }, { "f": "en", "hanzi": "门", "py": "mén" }, { "f": "ang", "hanzi": "忙", "py": "máng" }, { "f": "eng", "hanzi": "能", "py": "néng" }, { "f": "ong", "hanzi": "中", "py": "zhōng" },
+      { "f": "ian", "hanzi": "天", "py": "tiān", "tip": "đọc gần \"ien\"" }, { "f": "in", "hanzi": "心", "py": "xīn" }, { "f": "iang", "hanzi": "想", "py": "xiǎng" }, { "f": "ing", "hanzi": "星", "py": "xīng" }, { "f": "iong", "hanzi": "用", "py": "yòng" },
+      { "f": "uan", "hanzi": "玩", "py": "wán" }, { "f": "un", "hanzi": "春", "py": "chūn", "tip": "viết un nhưng đọc uen" }, { "f": "uang", "hanzi": "床", "py": "chuáng" },
+      { "f": "üan", "hanzi": "远", "py": "yuǎn" }, { "f": "ün", "hanzi": "云", "py": "yún" } ] }
+  ],
+  "tones": [
+    { "n": 1, "name": "Thanh 1", "shape": "cao, đều", "contour": [5, 5], "hanzi": "妈", "py": "mā", "vi": "mẹ" },
+    { "n": 2, "name": "Thanh 2", "shape": "đi lên", "contour": [3, 5], "hanzi": "麻", "py": "má", "vi": "tê, gai" },
+    { "n": 3, "name": "Thanh 3", "shape": "xuống rồi lên", "contour": [2, 1, 4], "hanzi": "马", "py": "mǎ", "vi": "ngựa" },
+    { "n": 4, "name": "Thanh 4", "shape": "rơi mạnh xuống", "contour": [5, 1], "hanzi": "骂", "py": "mà", "vi": "mắng" },
+    { "n": 5, "name": "Thanh nhẹ", "shape": "ngắn, nhẹ, theo sau", "contour": [3, 3], "hanzi": "吗", "py": "ma", "vi": "trợ từ hỏi" }
+  ],
+  "toneDrill": [
+    { "hanzi": "妈", "py": "mā" }, { "hanzi": "麻", "py": "má" }, { "hanzi": "马", "py": "mǎ" }, { "hanzi": "骂", "py": "mà" },
+    { "hanzi": "衣", "py": "yī" }, { "hanzi": "姨", "py": "yí" }, { "hanzi": "椅", "py": "yǐ" }, { "hanzi": "意", "py": "yì" },
+    { "hanzi": "诗", "py": "shī" }, { "hanzi": "十", "py": "shí" }, { "hanzi": "史", "py": "shǐ" }, { "hanzi": "是", "py": "shì" },
+    { "hanzi": "汤", "py": "tāng" }, { "hanzi": "糖", "py": "táng" }, { "hanzi": "躺", "py": "tǎng" }, { "hanzi": "烫", "py": "tàng" },
+    { "hanzi": "买", "py": "mǎi" }, { "hanzi": "卖", "py": "mài" }, { "hanzi": "问", "py": "wèn" }, { "hanzi": "闻", "py": "wén" },
+    { "hanzi": "水", "py": "shuǐ" }, { "hanzi": "睡", "py": "shuì" }
+  ],
+  "sandhi": [
+    { "rule": "Hai âm thanh 3 đứng liền nhau: âm đầu đọc thành thanh 2", "note": "Trong sách và từ điển vẫn viết dấu thanh 3 gốc; app này cũng viết dạng gốc.",
+      "examples": [ { "sc": "你好", "real": "ní hǎo", "written": "nǐ hǎo" }, { "sc": "很好", "real": "hén hǎo", "written": "hěn hǎo" }, { "sc": "可以", "real": "ké yǐ", "written": "kě yǐ" }, { "sc": "老板", "real": "láo bǎn", "written": "lǎo bǎn" } ] },
+    { "rule": "不 đọc bú khi đứng trước thanh 4, còn lại đọc bù", "note": "Pinyin trong app viết dạng biến điệu (bú shì); gõ bù hay bú đều được chấm đúng.",
+      "examples": [ { "sc": "不是", "real": "bú shì", "written": "bù shì" }, { "sc": "不对", "real": "bú duì", "written": "bù duì" }, { "sc": "不好", "real": "bù hǎo", "written": "bù hǎo" }, { "sc": "不行", "real": "bù xíng", "written": "bù xíng" } ] },
+    { "rule": "一 đọc yí trước thanh 4; đọc yì trước thanh 1, 2, 3", "note": "Khi đếm số hoặc đứng cuối câu, 一 vẫn đọc yī.",
+      "examples": [ { "sc": "一个", "real": "yí gè", "written": "yī gè" }, { "sc": "一定", "real": "yí dìng", "written": "yī dìng" }, { "sc": "一天", "real": "yì tiān", "written": "yī tiān" }, { "sc": "一起", "real": "yì qǐ", "written": "yī qǐ" } ] }
+  ],
+  "sandhiQuiz": [
+    { "sc": "你好", "right": "ní hǎo", "wrong": "nǐ hǎo" }, { "sc": "很好", "right": "hén hǎo", "wrong": "hěn hǎo" }, { "sc": "不是", "right": "bú shì", "wrong": "bù shì" },
+    { "sc": "不好", "right": "bù hǎo", "wrong": "bú hǎo" }, { "sc": "不对", "right": "bú duì", "wrong": "bù duì" }, { "sc": "一个", "right": "yí gè", "wrong": "yì gè" },
+    { "sc": "一定", "right": "yí dìng", "wrong": "yì dìng" }, { "sc": "一起", "right": "yì qǐ", "wrong": "yí qǐ" }, { "sc": "一天", "right": "yì tiān", "wrong": "yí tiān" },
+    { "sc": "可以", "right": "ké yǐ", "wrong": "kě yǐ" }
+  ],
+  "strokes": [
+    { "name": "横", "py": "héng", "vi": "ngang", "ex": "一", "tip": "kéo từ trái sang phải" },
+    { "name": "竖", "py": "shù", "vi": "sổ", "ex": "十", "tip": "kéo thẳng từ trên xuống" },
+    { "name": "撇", "py": "piě", "vi": "phẩy", "ex": "人", "tip": "kéo xiên từ trên phải xuống dưới trái" },
+    { "name": "捺", "py": "nà", "vi": "mác", "ex": "人", "tip": "kéo xiên từ trên trái xuống dưới phải, cuối nét hơi bè ra" },
+    { "name": "点", "py": "diǎn", "vi": "chấm", "ex": "六", "tip": "một chấm ngắn đi xuống" },
+    { "name": "提", "py": "tí", "vi": "hất", "ex": "我", "tip": "hất lên từ dưới trái lên trên phải" },
+    { "name": "折", "py": "zhé", "vi": "gập", "ex": "口", "tip": "đổi hướng gấp, thường từ ngang sang sổ" },
+    { "name": "钩", "py": "gōu", "vi": "móc", "ex": "小", "tip": "cuối nét sổ hoặc gập móc nhẹ lên" }
+  ],
+  "strokeRules": [
+    { "rule": "Ngang trước, sổ sau", "ex": "十" },
+    { "rule": "Phẩy trước, mác sau", "ex": "人" },
+    { "rule": "Trên trước, dưới sau", "ex": "三" },
+    { "rule": "Trái trước, phải sau", "ex": "休" },
+    { "rule": "Ngoài trước, trong sau", "ex": "同" },
+    { "rule": "Giữa trước, hai bên sau", "ex": "小" },
+    { "rule": "Vào nhà trước, đóng cửa sau (nét đáy của khung viết cuối)", "ex": "国" },
+    { "rule": "Chấm ở góc phải trên thường viết sau cùng", "ex": "太" }
+  ],
+  "radicals": [
+    { "r": "亻", "py": "rén", "hv": "nhân đứng", "meaning": "người", "hint": "Dạng rút gọn của 人, đứng bên trái. Chữ liên quan đến người." },
+    { "r": "口", "py": "kǒu", "hv": "khẩu", "meaning": "cái miệng", "hint": "Hình cái miệng. Liên quan ăn, uống, nói, kêu." },
+    { "r": "日", "py": "rì", "hv": "nhật", "meaning": "mặt trời, ngày", "hint": "Hình mặt trời. Liên quan thời gian và ánh sáng." },
+    { "r": "月", "py": "yuè", "hv": "nguyệt", "meaning": "mặt trăng, tháng", "hint": "Hình trăng khuyết. Khi đứng bên trái chữ thường mang nghĩa \"thịt, cơ thể\"." },
+    { "r": "木", "py": "mù", "hv": "mộc", "meaning": "cây, gỗ", "hint": "Hình cái cây có cành và rễ. Liên quan cây cối, đồ gỗ." },
+    { "r": "氵", "py": "shuǐ", "hv": "thủy (ba chấm)", "meaning": "nước", "hint": "Dạng rút gọn của 水, ở bên trái. Liên quan sông, nước, chất lỏng." },
+    { "r": "火", "py": "huǒ", "hv": "hỏa", "meaning": "lửa", "hint": "Hình ngọn lửa. Liên quan nhiệt, cháy." },
+    { "r": "土", "py": "tǔ", "hv": "thổ", "meaning": "đất", "hint": "Hình mầm cây nhô khỏi mặt đất. Liên quan đất, địa điểm." },
+    { "r": "钅", "py": "jīn", "hv": "kim", "meaning": "kim loại, vàng", "hint": "Dạng rút gọn của 金. Liên quan kim loại, tiền." },
+    { "r": "忄", "py": "xīn", "hv": "tâm đứng", "meaning": "trái tim", "hint": "Dạng rút gọn của 心 bên trái. Liên quan cảm xúc, tinh thần." },
+    { "r": "扌", "py": "shǒu", "hv": "thủ (tài gảy)", "meaning": "tay", "hint": "Dạng rút gọn của 手. Liên quan động tác của tay: đánh, tìm, cầm." },
+    { "r": "讠", "py": "yán", "hv": "ngôn", "meaning": "lời nói", "hint": "Dạng rút gọn của 言. Liên quan nói, ngôn ngữ, mời, hỏi." },
+    { "r": "女", "py": "nǚ", "hv": "nữ", "meaning": "phụ nữ", "hint": "Hình người phụ nữ ngồi. Liên quan phụ nữ, quan hệ gia đình." },
+    { "r": "门", "py": "mén", "hv": "môn", "meaning": "cái cửa", "hint": "Hình hai cánh cửa. Liên quan cửa, mở, hỏi." },
+    { "r": "宀", "py": "mián", "hv": "miên", "meaning": "mái nhà", "hint": "Hình mái nhà. Liên quan nhà cửa, nơi ở, an toàn." },
+    { "r": "辶", "py": "chuò", "hv": "sước", "meaning": "đi lại", "hint": "Liên quan di chuyển, đường đi: này, qua, vào, gần." },
+    { "r": "艹", "py": "cǎo", "hv": "thảo", "meaning": "cỏ, cây", "hint": "Dạng rút gọn của 草 ở phía trên. Liên quan thực vật, trà, rau." },
+    { "r": "山", "py": "shān", "hv": "sơn", "meaning": "núi", "hint": "Hình ba đỉnh núi. Liên quan núi, địa hình." },
+    { "r": "车", "py": "chē", "hv": "xa", "meaning": "xe", "hint": "Hình chiếc xe nhìn từ trên. Liên quan xe, vận chuyển." },
+    { "r": "刂", "py": "dāo", "hv": "đao đứng", "meaning": "dao", "hint": "Dạng rút gọn của 刀 bên phải. Liên quan cắt, chia, sắc bén." },
+    { "r": "大", "py": "dà", "hv": "đại", "meaning": "to lớn", "hint": "Hình người dang tay. Liên quan kích thước, người lớn." },
+    { "r": "目", "py": "mù", "hv": "mục", "meaning": "con mắt", "hint": "Hình con mắt dựng đứng. Liên quan nhìn, thấy, ngủ." },
+    { "r": "田", "py": "tián", "hv": "điền", "meaning": "ruộng", "hint": "Hình thửa ruộng chia ô. Liên quan ruộng, đất canh tác." },
+    { "r": "纟", "py": "sī", "hv": "mịch (sợi tơ)", "meaning": "sợi tơ", "hint": "Dạng rút gọn của 糸. Liên quan tơ, sợi, vải, màu sắc." },
+    { "r": "雨", "py": "yǔ", "hv": "vũ", "meaning": "mưa", "hint": "Hình mây và những giọt mưa. Liên quan thời tiết." },
+    { "r": "足", "py": "zú", "hv": "túc", "meaning": "bàn chân", "hint": "Hình bàn chân. Liên quan chân, đi, chạy, nhảy." },
+    { "r": "石", "py": "shí", "hv": "thạch", "meaning": "đá", "hint": "Hình vách đá và hòn đá. Liên quan đá, khoáng chất." },
+    { "r": "走", "py": "zǒu", "hv": "tẩu", "meaning": "đi bộ, chạy", "hint": "Hình người đang bước. Liên quan đi, khởi hành, vượt." },
+    { "r": "心", "py": "xīn", "hv": "tâm", "meaning": "trái tim", "hint": "Hình trái tim. Khi nằm ở dưới chữ liên quan suy nghĩ, ý muốn." },
+    { "r": "贝", "py": "bèi", "hv": "bối", "meaning": "vỏ sò, của cải", "hint": "Xưa dùng vỏ sò làm tiền. Liên quan tiền bạc, mua bán, giá trị." }
+  ],
+  "firstChars": [
+    { "lesson": "Bài 1: Số và hình đơn giản", "items": [
+      { "hanzi": "一", "py": "yī", "vi": "một", "hint": "một vạch ngang" }, { "hanzi": "二", "py": "èr", "vi": "hai", "hint": "hai vạch ngang" },
+      { "hanzi": "三", "py": "sān", "vi": "ba", "hint": "ba vạch ngang" }, { "hanzi": "十", "py": "shí", "vi": "mười", "hint": "dấu cộng" },
+      { "hanzi": "人", "py": "rén", "vi": "người", "hint": "hình người đang bước đi" } ] },
+    { "lesson": "Bài 2: Kích thước và thời gian", "items": [
+      { "hanzi": "大", "py": "dà", "vi": "to", "hint": "người dang rộng hai tay" }, { "hanzi": "小", "py": "xiǎo", "vi": "nhỏ", "hint": "ba hạt nhỏ li ti" },
+      { "hanzi": "口", "py": "kǒu", "vi": "miệng", "hint": "hình cái miệng" }, { "hanzi": "日", "py": "rì", "vi": "mặt trời, ngày", "hint": "hình mặt trời" },
+      { "hanzi": "月", "py": "yuè", "vi": "trăng, tháng", "hint": "trăng khuyết" } ] },
+    { "lesson": "Bài 3: Thiên nhiên và con người", "items": [
+      { "hanzi": "水", "py": "shuǐ", "vi": "nước", "hint": "dòng nước chảy" }, { "hanzi": "火", "py": "huǒ", "vi": "lửa", "hint": "ngọn lửa bốc lên" },
+      { "hanzi": "木", "py": "mù", "vi": "cây, gỗ", "hint": "thân, cành và rễ" }, { "hanzi": "山", "py": "shān", "vi": "núi", "hint": "ba đỉnh núi" },
+      { "hanzi": "女", "py": "nǚ", "vi": "nữ", "hint": "người phụ nữ ngồi quỳ" } ] },
+    { "lesson": "Bài 4: Xưng hô", "items": [
+      { "hanzi": "子", "py": "zǐ", "vi": "con", "hint": "đứa trẻ dang tay" }, { "hanzi": "中", "py": "zhōng", "vi": "giữa, trong", "hint": "mũi tên xuyên giữa đích" },
+      { "hanzi": "我", "py": "wǒ", "vi": "tôi", "hint": "tay cầm cây giáo, tự nhận mình" }, { "hanzi": "你", "py": "nǐ", "vi": "bạn", "hint": "bộ nhân đứng chỉ người, 尔 là âm" },
+      { "hanzi": "他", "py": "tā", "vi": "anh ấy", "hint": "bộ nhân đứng cùng 也" } ] },
+    { "lesson": "Bài 5: Câu đơn giản đầu tiên", "items": [
+      { "hanzi": "好", "py": "hǎo", "vi": "tốt", "hint": "女 (phụ nữ) và 子 (con): hạnh phúc" }, { "hanzi": "是", "py": "shì", "vi": "là", "hint": "chữ 日 ở trên và 正 biến thể ở dưới" },
+      { "hanzi": "不", "py": "bù", "vi": "không", "hint": "phủ định, đứng trước động từ" }, { "hanzi": "有", "py": "yǒu", "vi": "có", "hint": "bàn tay cầm miếng thịt: sở hữu" },
+      { "hanzi": "在", "py": "zài", "vi": "ở, tại", "hint": "土 (đất) chỉ nơi chốn" } ] },
+    { "lesson": "Bài 6: Chữ dùng ở nhà máy", "items": [
+      { "hanzi": "的", "py": "de", "vi": "của", "hint": "trợ từ sở hữu, rất hay gặp" }, { "hanzi": "天", "py": "tiān", "vi": "trời, ngày", "hint": "một vạch trên đầu người: bầu trời" },
+      { "hanzi": "工", "py": "gōng", "vi": "làm việc, công", "hint": "hình dụng cụ của thợ" }, { "hanzi": "车", "py": "chē", "vi": "xe", "hint": "chiếc xe nhìn từ trên xuống" },
+      { "hanzi": "电", "py": "diàn", "vi": "điện", "hint": "dạng giản thể của 電 (mưa và tia chớp)" } ] }
+  ]
+}

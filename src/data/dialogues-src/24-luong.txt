@@ -1,0 +1,121 @@
+## luong|Lương, phúc lợi
+
+# Khi nào phát lương
+A 我们什么时候发工资？|Khi nào chúng ta phát lương?
+B 每个月十五号。|Ngày mười lăm hằng tháng.
+A 今天是十四号，明天就发了。|Hôm nay là mười bốn, mai là phát rồi.
+B 太好了，我想给家里寄钱。|Tốt quá, tôi muốn gửi tiền về nhà.
+
+# Xem phiếu lương
+A 请问，工资条上这个数字是什么？|Xin hỏi, con số này trên phiếu lương là gì?
+B 是你的加班费。|Là tiền tăng ca của bạn.
+A 这个呢？|Còn cái này?
+B 是饭费，每个月扣两百块。|Là tiền cơm, mỗi tháng trừ hai trăm tệ.
+
+# Lương thấp hơn dự kiến
+A 我的工资比我想的少。|Lương của tôi ít hơn tôi nghĩ.
+B 你算一下，是不是少了加班费？|Bạn tính xem, có phải thiếu tiền tăng ca không?
+A 对，上个星期六的没有算。|Đúng, thứ Bảy tuần trước chưa được tính.
+B 我去人事部问一下。|Tôi đến phòng nhân sự hỏi.
+
+# Nhận lương qua thẻ
+A 工资是发现金还是打到卡上？|Lương phát tiền mặt hay chuyển vào thẻ?
+B 打到银行卡上。|Chuyển vào thẻ ngân hàng.
+A 我还没有银行卡。|Tôi vẫn chưa có thẻ ngân hàng.
+B 公司可以带你去办一张。|Công ty có thể dẫn bạn đi làm một cái.
+
+# Làm thẻ ngân hàng
+A 办卡需要什么？|Làm thẻ cần những gì?
+B 需要护照和工作证。|Cần hộ chiếu và thẻ nhân viên.
+A 要多长时间？|Mất bao lâu?
+B 当天就可以拿到。|Trong ngày là lấy được.
+
+# Tiền thưởng
+A 今年年底有奖金吗？|Cuối năm nay có tiền thưởng không?
+B 有，要看公司的情况。|Có, phải xem tình hình công ty.
+A 大概多少？|Khoảng bao nhiêu?
+B 一般是一个月的工资。|Thường là một tháng lương.
+
+# Thưởng chuyên cần
+A 这个月我没有迟到，有全勤奖吗？|Tháng này tôi không đi muộn, có thưởng chuyên cần không?
+B 有，一百块。|Có, một trăm tệ.
+A 请假也算吗？|Xin nghỉ có tính không?
+B 请假就没有了。|Xin nghỉ thì không có.
+
+# Bảo hiểm
+A 公司有没有给我们买保险？|Công ty có mua bảo hiểm cho chúng ta không?
+B 有，社保和医疗保险都有。|Có, cả bảo hiểm xã hội và bảo hiểm y tế đều có.
+A 看病的时候怎么用？|Khi đi khám dùng thế nào?
+B 带上社保卡，去医院就可以。|Mang thẻ bảo hiểm xã hội đến bệnh viện là được.
+
+# Chi phí ký túc xá
+A 住宿舍要交钱吗？|Ở ký túc xá có phải trả tiền không?
+B 房租是公司出的，水电自己出。|Tiền phòng do công ty trả, điện nước tự trả.
+A 一个月大概多少？|Một tháng khoảng bao nhiêu?
+B 水电一般五十块左右。|Điện nước thường khoảng năm mươi tệ.
+
+# Tiền phụ cấp
+A 我们有交通补贴吗？|Chúng ta có phụ cấp đi lại không?
+B 有，每个月一百块。|Có, mỗi tháng một trăm tệ.
+A 还有别的补贴吗？|Còn phụ cấp nào khác không?
+B 夜班有夜班补贴。|Ca đêm có phụ cấp ca đêm.
+
+# Tăng lương
+A 经理，我来公司一年了，可以加工资吗？|Quản lý, tôi đến công ty được một năm, có thể tăng lương không?
+B 你的工作做得不错。|Bạn làm việc không tệ.
+A 谢谢，我会继续努力。|Cảm ơn, tôi sẽ tiếp tục cố gắng.
+B 下个月开始，每月加三百。|Từ tháng sau, mỗi tháng thêm ba trăm.
+
+# Trừ tiền do đi muộn
+A 这个月为什么扣了我的钱？|Tháng này vì sao trừ tiền của tôi?
+B 你迟到了三次。|Bạn đi muộn ba lần.
+A 每次扣多少？|Mỗi lần trừ bao nhiêu?
+B 每次扣二十块。|Mỗi lần trừ hai mươi tệ.
+
+# Thuế thu nhập
+A 工资里为什么还要交税？|Trong lương vì sao còn phải đóng thuế?
+B 工资超过五千要交个人所得税。|Lương vượt năm nghìn phải đóng thuế thu nhập cá nhân.
+A 我的工资有一点超过。|Lương của tôi vượt một chút.
+B 所以才扣了一点税。|Vì vậy mới bị trừ một ít thuế.
+
+# Tạm ứng lương
+A 我家里有急事，能不能先借点钱？|Nhà tôi có việc gấp, có thể ứng trước chút tiền không?
+B 你需要多少？|Bạn cần bao nhiêu?
+A 两千块，下个月从工资里扣。|Hai nghìn tệ, tháng sau trừ vào lương.
+B 我问一下财务部。|Tôi hỏi phòng tài chính.
+
+# Hỏi hợp đồng
+A 我的合同什么时候到期？|Hợp đồng của tôi khi nào hết hạn?
+B 明年三月三十一号。|Ngày ba mươi mốt tháng Ba năm sau.
+A 到期以后还可以续吗？|Hết hạn có thể gia hạn không?
+B 可以，到时候公司会通知你。|Được, đến lúc đó công ty sẽ thông báo bạn.
+
+# Nghỉ việc
+A 我想辞职，要怎么办手续？|Tôi muốn nghỉ việc, làm thủ tục thế nào?
+B 要提前一个月写辞职信。|Phải viết đơn xin nghỉ trước một tháng.
+A 最后的工资什么时候发？|Lương cuối cùng khi nào phát?
+B 办完手续以后，一个星期内发。|Sau khi làm xong thủ tục, trong vòng một tuần phát.
+
+# Chứng nhận thu nhập
+A 我需要一份收入证明。|Tôi cần một giấy chứng nhận thu nhập.
+B 您要拿去做什么？|Anh cần dùng làm gì?
+A 去银行办贷款。|Đến ngân hàng làm khoản vay.
+B 好，两天以后来拿。|Được, hai ngày sau đến lấy.
+
+# Phát phúc lợi dịp lễ
+A 中秋节公司发什么？|Trung thu công ty phát gì?
+B 发月饼和一箱水果。|Phát bánh trung thu và một thùng trái cây.
+A 什么时候领？|Khi nào lĩnh?
+B 下个星期一，在人事部。|Thứ Hai tuần sau, ở phòng nhân sự.
+
+# Kiểm tra bảng lương
+A 请你检查一下这个月的工资表。|Hãy kiểm tra bảng lương tháng này.
+B 我发现两个人的加班时间不对。|Tôi phát hiện thời gian tăng ca của hai người không đúng.
+A 谁的？|Của ai?
+B 小王和小刘，我再核对一下。|Của Tiểu Vương và Tiểu Lưu, tôi đối chiếu lại.
+
+# Học cách tiết kiệm
+A 你每个月能存多少钱？|Mỗi tháng bạn tiết kiệm được bao nhiêu?
+B 大概一半，我在宿舍吃饭，花得少。|Khoảng một nửa, tôi ăn ở ký túc xá nên tiêu ít.
+A 你真会省钱。|Bạn thật biết tiết kiệm.
+B 我想明年回家开一个小店。|Tôi muốn năm sau về nhà mở một tiệm nhỏ.

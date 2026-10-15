@@ -1,0 +1,91 @@
+## may-tinh|Máy tính, hệ thống
+
+# Máy tính không bật
+A 我的电脑打不开了。|Máy tính của tôi không bật được.
+B 电源线插好了吗？|Dây nguồn đã cắm chắc chưa?
+A 插好了，灯也不亮。|Cắm chắc rồi, đèn cũng không sáng.
+B 我来看看，可能是电源坏了。|Để tôi xem, có thể nguồn bị hỏng.
+
+# Máy tính chạy chậm
+A 这台电脑太慢了。|Máy tính này chậm quá.
+B 开了很多程序吗？|Bạn mở nhiều chương trình lắm à?
+A 没有，只开了一个。|Không, chỉ mở một cái.
+B 那可能是硬盘满了，我清理一下。|Vậy có thể ổ cứng đầy, tôi dọn dẹp thử.
+
+# Quên mật khẩu
+A 我忘了登录密码。|Tôi quên mật khẩu đăng nhập.
+B 你要重新设置，请出示工作证。|Bạn phải đặt lại, xin cho xem thẻ nhân viên.
+A 好，这是我的工作证。|Vâng, đây là thẻ nhân viên của tôi.
+B 新密码要有八位，包括数字。|Mật khẩu mới phải có tám ký tự, gồm cả số.
+
+# Tài khoản bị khóa
+A 我的账号被锁了，进不去系统。|Tài khoản của tôi bị khóa, không vào được hệ thống.
+B 你是不是输错了几次密码？|Có phải bạn nhập sai mật khẩu mấy lần?
+A 是的，输了五次。|Đúng, nhập năm lần.
+B 我帮你解锁，请你马上改密码。|Tôi mở khóa cho bạn, hãy đổi mật khẩu ngay.
+
+# Xin quyền hệ thống
+A 我需要库存系统的权限。|Tôi cần quyền hệ thống tồn kho.
+B 你需要先写申请，让主管签字。|Bạn cần viết đề nghị trước, để tổ trưởng ký.
+A 申请表在哪里拿？|Phiếu đề nghị lấy ở đâu?
+B 在公司的内部网站上下载。|Tải trên trang web nội bộ của công ty.
+
+# Cài phần mềm
+A 我想在电脑上装一个软件。|Tôi muốn cài một phần mềm lên máy tính.
+B 不能随便装，要经过批准。|Không được cài tùy tiện, phải được phê duyệt.
+A 这个软件是工作需要的。|Phần mềm này cần cho công việc.
+B 那你写申请，说明用途。|Vậy bạn viết đề nghị, nêu rõ mục đích.
+
+# Mất dữ liệu
+A 我的文件不见了，怎么办？|File của tôi biến mất rồi, làm sao đây?
+B 你最后保存在哪里？|Lần cuối bạn lưu ở đâu?
+A 保存在桌面，现在找不到。|Lưu ở màn hình nền, bây giờ không tìm thấy.
+B 先别关机，我看看能不能恢复。|Đừng tắt máy vội, tôi xem có khôi phục được không.
+
+# Sao lưu dữ liệu
+A 重要的文件要经常备份。|File quan trọng phải thường xuyên sao lưu.
+B 备份到哪里比较安全？|Sao lưu ở đâu thì an toàn hơn?
+A 放在公司的服务器上。|Để trên máy chủ của công ty.
+B 好，我每天下班以前备份。|Vâng, mỗi ngày trước khi tan ca tôi sao lưu.
+
+# Máy tính bị virus
+A 电脑好像有病毒，经常弹出广告。|Máy tính có vẻ bị virus, thường xuyên hiện quảng cáo.
+B 你有没有点过奇怪的链接？|Bạn có bấm vào đường link lạ nào không?
+A 可能点过一个邮件里的链接。|Có thể đã bấm một link trong email.
+B 先断网，我来杀毒。|Ngắt mạng trước, tôi diệt virus.
+
+# Cập nhật hệ thống
+A 电脑一直提示要更新。|Máy tính cứ nhắc phải cập nhật.
+B 现在不要更新，下班以后再说。|Bây giờ đừng cập nhật, tan ca rồi tính.
+A 更新要多长时间？|Cập nhật mất bao lâu?
+B 大概半个小时，会重新启动。|Khoảng nửa tiếng, sẽ khởi động lại.
+
+# Màn hình bị đen
+A 我的显示器黑屏了。|Màn hình của tôi bị đen.
+B 主机是开着的吗？|Máy chủ (case) có đang bật không?
+A 开着，但是屏幕没有画面。|Đang bật, nhưng màn hình không có hình.
+B 检查一下数据线有没有松。|Kiểm tra dây tín hiệu có lỏng không.
+
+# Phần mềm sản xuất không mở
+A 生产系统打不开，一直转圈。|Hệ thống sản xuất không mở được, cứ xoay vòng mãi.
+B 你先重启一下电脑。|Bạn khởi động lại máy tính trước.
+A 重启了，还是不行。|Khởi động lại rồi, vẫn không được.
+B 我通知IT部门，让他们来看。|Tôi báo bộ phận IT, bảo họ đến xem.
+
+# Tìm file chia sẻ
+A 共享文件夹怎么打开？|Thư mục chia sẻ mở thế nào?
+B 点“网络”，找到服务器的名字。|Bấm “Mạng”, tìm tên máy chủ.
+A 要输入账号和密码吗？|Có phải nhập tài khoản và mật khẩu không?
+B 要，用你的工号登录。|Phải, đăng nhập bằng mã nhân viên của bạn.
+
+# In từ máy tính mới
+A 新电脑连不上打印机。|Máy tính mới không kết nối được máy in.
+B 驱动程序装了吗？|Đã cài driver chưa?
+A 还没装，在哪里下载？|Chưa cài, tải ở đâu?
+B 我发给你，装好以后再试。|Tôi gửi bạn, cài xong rồi thử lại.
+
+# Báo cáo tình trạng máy
+A 请你检查一下车间的所有电脑。|Hãy kiểm tra tất cả máy tính trong xưởng.
+B 要检查哪些方面？|Phải kiểm tra những mặt nào?
+A 看系统、杀毒软件和硬盘空间。|Xem hệ thống, phần mềm diệt virus và dung lượng ổ cứng.
+B 好，我做个表，检查完交给您。|Vâng, tôi lập bảng, kiểm tra xong nộp anh.

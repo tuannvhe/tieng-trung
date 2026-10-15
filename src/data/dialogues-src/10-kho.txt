@@ -1,0 +1,127 @@
+## kho|Kho, nhập xuất
+
+# Hỏi vị trí hàng
+A 请问，这种螺丝放在哪里？|Xin hỏi, loại ốc vít này để ở đâu?
+B 在第三排的架子上。|Ở trên kệ hàng thứ ba.
+A 有多少个？|Có bao nhiêu cái?
+B 大概一千个，我帮你看看。|Khoảng một nghìn cái, để tôi xem giúp bạn.
+
+# Lĩnh vật tư
+A 我要领五百个零件。|Tôi muốn lĩnh năm trăm linh kiện.
+B 有领料单吗？|Có phiếu lĩnh vật tư không?
+A 有，请看。|Có, mời xem.
+B 好，请在这里签字。|Được, xin ký tên ở đây.
+
+# Nhập kho
+A 这批货要入库。|Lô hàng này phải nhập kho.
+B 先让我检查一下数量。|Để tôi kiểm tra số lượng trước.
+A 单子上写的是八百件。|Trên phiếu ghi là tám trăm cái.
+B 数量对，请放在A区。|Số lượng đúng, xin để ở khu A.
+
+# Xuất kho
+A 明天早上客户要提货。|Sáng mai khách đến lấy hàng.
+B 货准备好了吗？|Hàng chuẩn bị xong chưa?
+A 还差一百件，下午能做好。|Còn thiếu một trăm cái, chiều làm xong.
+B 好，做好以后马上出库。|Được, làm xong thì xuất kho ngay.
+
+# Số lượng không khớp
+A 仓库的数量和系统里不一样。|Số lượng trong kho khác với trong hệ thống.
+B 差了多少？|Lệch bao nhiêu?
+A 系统里有五百，实际只有四百八十。|Trong hệ thống có năm trăm, thực tế chỉ có bốn trăm tám mươi.
+B 我们重新盘点一下。|Chúng ta kiểm kê lại một lần.
+
+# Kiểm kê cuối tháng
+A 月底要盘点所有的库存。|Cuối tháng phải kiểm kê toàn bộ tồn kho.
+B 要停止出入库吗？|Có phải dừng xuất nhập kho không?
+A 盘点的那一天要停，大概半天。|Ngày kiểm kê phải dừng, khoảng nửa ngày.
+B 我提前通知生产部门。|Tôi báo trước cho bộ phận sản xuất.
+
+# Xếp hàng lên kệ
+A 重的东西放在下面。|Đồ nặng để ở bên dưới.
+B 轻的放上面，对吗？|Đồ nhẹ để ở trên, đúng không?
+A 对，这样不容易倒。|Đúng, như vậy không dễ đổ.
+B 明白了，我重新放一下。|Hiểu rồi, tôi xếp lại.
+
+# Dùng xe nâng
+A 谁会开叉车？|Ai biết lái xe nâng?
+B 我会，我有操作证。|Tôi biết, tôi có chứng chỉ vận hành.
+A 请把那几箱货搬到门口。|Hãy chuyển mấy thùng hàng đó ra cửa.
+B 好，请大家让一让。|Vâng, xin mọi người tránh ra một chút.
+
+# Tìm theo mã
+A 这个零件的编号是多少？|Mã số của linh kiện này là bao nhiêu?
+B 你看标签上的条码。|Bạn xem mã vạch trên tem.
+A 扫一下就可以查到吗？|Quét một cái là tra được à?
+B 对，系统里有库存和位置。|Đúng, trong hệ thống có tồn kho và vị trí.
+
+# Hết hàng
+A 这个零件没有库存了。|Linh kiện này hết tồn kho rồi.
+B 什么时候可以到货？|Khi nào có hàng về?
+A 供应商说下个星期二。|Nhà cung cấp nói thứ Ba tuần sau.
+B 那要通知生产部门调整计划。|Vậy phải báo bộ phận sản xuất điều chỉnh kế hoạch.
+
+# Kiểm tra hạn sử dụng
+A 这些材料的保质期快到了。|Những vật liệu này sắp hết hạn.
+B 还有多长时间？|Còn bao lâu?
+A 只剩一个月，要尽快使用。|Chỉ còn một tháng, phải dùng sớm.
+B 先出库，遵守先进先出的原则。|Xuất kho trước, tuân thủ nguyên tắc nhập trước xuất trước.
+
+# Bảo quản hàng
+A 这种材料怕潮湿，要放在干燥的地方。|Loại vật liệu này sợ ẩm, phải để nơi khô ráo.
+B 仓库的湿度是多少？|Độ ẩm của kho là bao nhiêu?
+A 现在是百分之六十，有点高。|Bây giờ là sáu mươi phần trăm, hơi cao.
+B 我去开除湿机。|Tôi đi bật máy hút ẩm.
+
+# Giao nhận với nhà cung cấp
+A 供应商的货车到门口了。|Xe hàng của nhà cung cấp đến cửa rồi.
+B 先登记车牌号码。|Đăng ký biển số xe trước.
+A 然后让他们到五号门卸货。|Sau đó cho họ đến cửa số năm dỡ hàng.
+B 好，我去开门。|Vâng, tôi đi mở cửa.
+
+# Phát hiện hàng bị hỏng khi nhận
+A 这个箱子被压坏了。|Cái thùng này bị đè hỏng rồi.
+B 里面的东西有没有问题？|Đồ bên trong có sao không?
+A 打开看看，有几个也坏了。|Mở ra xem, có mấy cái cũng bị hỏng.
+B 拍照留证据，然后通知供应商。|Chụp ảnh lưu bằng chứng, sau đó báo nhà cung cấp.
+
+# Phiếu nhập kho
+A 入库单要几份？|Phiếu nhập kho cần mấy bản?
+B 一式三份，仓库、财务和采购各一份。|Một bộ ba bản, kho, tài chính và thu mua mỗi bên một bản.
+A 我已经打印好了。|Tôi đã in xong rồi.
+B 请签字以后再给我。|Xin ký tên rồi đưa lại cho tôi.
+
+# Hàng trả về kho
+A 产线用不完的材料可以退回来。|Vật liệu chuyền dùng không hết có thể trả về.
+B 要办什么手续？|Phải làm thủ tục gì?
+A 填一张退料单就行。|Điền một phiếu trả vật tư là được.
+B 好，我现在就填。|Vâng, tôi điền ngay.
+
+# Quản lý lô
+A 不同批次的材料不能混在一起。|Vật liệu khác lô không được để lẫn.
+B 为什么不能混？|Vì sao không được để lẫn?
+A 出了问题就没法追溯了。|Có vấn đề sẽ không truy xuất được.
+B 明白，我会分开放。|Hiểu rồi, tôi sẽ để riêng.
+
+# Đặt hàng bổ sung
+A 库存低于安全数量了。|Tồn kho thấp hơn mức an toàn rồi.
+B 系统有没有提醒？|Hệ thống có nhắc không?
+A 有，系统提示要补货。|Có, hệ thống báo phải bổ sung hàng.
+B 我现在给采购部发邮件。|Tôi gửi email cho bộ phận thu mua ngay.
+
+# An toàn khi xếp hàng
+A 货架不能放得太高。|Kệ hàng không được xếp quá cao.
+B 最高可以放几层？|Tối đa xếp được mấy tầng?
+A 最多四层，再高会有危险。|Tối đa bốn tầng, cao hơn sẽ nguy hiểm.
+B 好，我提醒大家。|Vâng, tôi nhắc mọi người.
+
+# Kiểm tra camera kho
+A 昨天晚上仓库少了一箱东西。|Tối qua kho thiếu một thùng đồ.
+B 我们可以看一下监控。|Chúng ta có thể xem camera.
+A 摄像头只拍到门口。|Camera chỉ quay được cửa ra vào.
+B 那先查一下出入的记录。|Vậy kiểm tra ghi chép ra vào trước.
+
+# Cuối ngày chốt kho
+A 今天的出入库记录都录入系统了吗？|Ghi chép nhập xuất kho hôm nay đã nhập vào hệ thống chưa?
+B 还差两张单子。|Còn thiếu hai phiếu.
+A 下班以前要全部录完。|Trước khi tan ca phải nhập xong tất cả.
+B 好，我马上处理。|Vâng, tôi xử lý ngay.

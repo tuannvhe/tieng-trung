@@ -1,0 +1,121 @@
+## tang-ca|Tăng ca
+
+# Hỏi tăng ca
+A 今天晚上要加班吗？|Tối nay có phải tăng ca không?
+B 要，大家工作到八点。|Có, mọi người làm đến tám giờ.
+A 有饭吃吗？|Có cơm ăn không?
+B 有，公司给大家准备了晚饭。|Có, công ty chuẩn bị cơm tối cho mọi người.
+
+# Thông báo tăng ca
+A 这个星期六要上班。|Thứ Bảy này phải đi làm.
+B 为什么？|Vì sao?
+A 订单太多，工作做不完。|Đơn hàng nhiều quá, làm không xong.
+B 好，几点到几点？|Được, từ mấy giờ đến mấy giờ?
+
+# Không muốn tăng ca
+A 我今天不想加班，可以吗？|Hôm nay tôi không muốn tăng ca, được không?
+B 你有事吗？|Bạn có việc à?
+A 我要去学汉语。|Tôi phải đi học tiếng Trung.
+B 好，你去吧，明天再做。|Được, bạn đi đi, mai làm tiếp.
+
+# Tiền tăng ca
+A 加班有加班费吗？|Tăng ca có tiền tăng ca không?
+B 有，一个小时二十块。|Có, một tiếng hai mươi tệ.
+A 星期六和星期天呢？|Còn thứ Bảy và Chủ nhật?
+B 星期六星期天更多。|Thứ Bảy Chủ nhật nhiều hơn.
+
+# Tăng ca đến mấy giờ
+A 我们要加班到几点？|Chúng ta phải tăng ca đến mấy giờ?
+B 大概十点，看工作多不多。|Khoảng mười giờ, xem công việc nhiều hay không.
+A 回宿舍有车吗？|Về ký túc xá có xe không?
+B 有，十点十分有车。|Có, mười giờ mười phút có xe.
+
+# Mệt vì tăng ca
+A 最近每天都加班，我很累。|Dạo này ngày nào cũng tăng ca, tôi rất mệt.
+B 我也是，但是订单快做完了。|Tôi cũng vậy, nhưng đơn hàng sắp làm xong rồi.
+A 什么时候不用加班？|Khi nào không phải tăng ca?
+B 下个星期就好了。|Tuần sau là ổn.
+
+# Đăng ký tăng ca
+A 想加班的人，请在这儿写名字。|Ai muốn tăng ca xin ghi tên ở đây.
+B 我想加班，多赚一点钱。|Tôi muốn tăng ca, kiếm thêm chút tiền.
+A 你可以加几天？|Bạn có thể tăng mấy ngày?
+B 这个星期每天都可以。|Tuần này ngày nào cũng được.
+
+# Giới hạn tăng ca
+A 一个月最多可以加班多少小时？|Một tháng tối đa được tăng ca bao nhiêu giờ?
+B 公司规定不能超过三十六小时。|Công ty quy định không được quá ba mươi sáu giờ.
+A 我这个月已经加了三十个小时。|Tháng này tôi đã tăng ba mươi giờ.
+B 那你只能再加六个小时。|Vậy bạn chỉ còn tăng thêm sáu giờ.
+
+# Tăng ca đột xuất
+A 经理，客户突然要提前交货。|Quản lý, khách đột nhiên muốn giao hàng sớm.
+B 提前几天？|Sớm mấy ngày?
+A 提前三天，我们必须加班。|Sớm ba ngày, chúng ta bắt buộc phải tăng ca.
+B 好，我现在通知大家。|Được, tôi thông báo mọi người ngay.
+
+# Hỏi về xe đưa đón
+A 加班以后怎么回家？|Tăng ca xong về nhà thế nào?
+B 公司有班车，送大家回宿舍。|Công ty có xe đưa đón, chở mọi người về ký túc xá.
+A 班车几点开？|Xe mấy giờ chạy?
+B 九点半和十点各一班。|Chín giờ rưỡi và mười giờ mỗi giờ một chuyến.
+
+# Bữa tối khi tăng ca
+A 加班的时候能吃晚饭吗？|Khi tăng ca có thể ăn tối không?
+B 可以，六点到七点休息吃饭。|Được, sáu giờ đến bảy giờ nghỉ ăn cơm.
+A 食堂有什么吃的？|Căng tin có gì ăn?
+B 有面条和饺子，随便选。|Có mì và sủi cảo, chọn tùy ý.
+
+# Tăng ca đêm
+A 今天晚上有夜班，你去吗？|Tối nay có ca đêm, bạn đi không?
+B 去，夜班工资高一点。|Đi, ca đêm lương cao hơn một chút.
+A 晚上要多穿一件衣服，有点冷。|Buổi tối phải mặc thêm áo, hơi lạnh.
+B 好，我会带外套。|Vâng, tôi sẽ mang áo khoác.
+
+# Thống kê giờ tăng ca
+A 请把这个月的加班时间记录好。|Xin ghi lại cẩn thận thời gian tăng ca tháng này.
+B 要交给谁？|Phải nộp cho ai?
+A 交给人事部，他们要算工资。|Nộp cho phòng nhân sự, họ phải tính lương.
+B 好，月底以前我交。|Vâng, trước cuối tháng tôi nộp.
+
+# Phàn nàn về tăng ca
+A 最近加班太多了，大家有意见。|Dạo này tăng ca quá nhiều, mọi người có ý kiến.
+B 我也知道，但是订单不能晚。|Tôi cũng biết, nhưng đơn hàng không thể trễ.
+A 能不能多招几个人？|Có thể tuyển thêm vài người không?
+B 我向经理反映，看看能不能解决。|Tôi sẽ phản ánh với quản lý xem có giải quyết được không.
+
+# Nghỉ bù sau tăng ca
+A 加了这么多班，能不能多休息两天？|Tăng ca nhiều như vậy, có thể nghỉ thêm hai ngày không?
+B 订单做完以后可以。|Làm xong đơn hàng là được.
+A 太好了，我想回家看看。|Tốt quá, tôi muốn về nhà thăm.
+B 到时候请提前说一声。|Đến lúc đó xin báo trước một tiếng.
+
+# Cảm ơn mọi người
+A 谢谢大家这几天加班。|Cảm ơn mọi người mấy ngày nay đã tăng ca.
+B 没关系，这是我们应该做的。|Không sao, đây là việc chúng tôi nên làm.
+A 订单今天终于完成了。|Đơn hàng hôm nay cuối cùng đã hoàn thành.
+B 太好了，明天可以好好休息。|Tốt quá, mai có thể nghỉ ngơi cho tốt.
+
+# Cẩn thận khi mệt
+A 加班的时候要特别小心。|Khi tăng ca phải đặc biệt cẩn thận.
+B 为什么？|Vì sao?
+A 人累了，容易出安全事故。|Người mệt rồi dễ xảy ra tai nạn.
+B 您说得对，我们会互相提醒。|Anh nói đúng, chúng tôi sẽ nhắc nhau.
+
+# Tăng ca cuối tuần
+A 这个周末不休息，要加班两天。|Cuối tuần này không nghỉ, phải tăng ca hai ngày.
+B 两天都是八个小时吗？|Cả hai ngày đều tám tiếng à?
+A 对，周日可以早点下班。|Đúng, Chủ nhật có thể tan sớm hơn.
+B 好，我先和家里人说一声。|Được, tôi nói với người nhà một tiếng trước.
+
+# Hỏi xin tăng ca để kiếm thêm
+A 经理，我想多加一点班。|Quản lý, tôi muốn tăng ca thêm chút.
+B 你需要钱吗？|Bạn cần tiền à?
+A 对，我要给家里寄钱。|Đúng, tôi phải gửi tiền về nhà.
+B 可以，但是要注意身体。|Được, nhưng phải chú ý sức khỏe.
+
+# Hết đơn hàng
+A 今天不用加班了。|Hôm nay không phải tăng ca nữa.
+B 太好了，我们早点回家休息。|Tốt quá, chúng ta về nhà nghỉ sớm.
+A 明天也要正常上班。|Mai cũng đi làm bình thường.
+B 好，明天见。|Vâng, mai gặp.

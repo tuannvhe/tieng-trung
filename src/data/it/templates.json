@@ -1,0 +1,84 @@
+[
+  {
+    "id": "tpl-001", "title": "Báo sự cố", "channel": "wechat", "reviewed": false,
+    "when": "Khi hệ thống hoặc thiết bị vừa gặp sự cố và cần báo cho quản lý, sản xuất.",
+    "vars": [
+      { "key": "system", "label": "Hệ thống / thiết bị", "options": [{"sc":"MES系统","vi":"hệ thống MES"},{"sc":"ERP系统","vi":"hệ thống ERP"},{"sc":"标签打印机","vi":"máy in tem"},{"sc":"RFID读卡器","vi":"đầu đọc RFID"},{"sc":"数据库","vi":"cơ sở dữ liệu"}] },
+      { "key": "time", "label": "Thời điểm", "options": [{"sc":"今天上午","vi":"sáng nay"},{"sc":"今天下午","vi":"chiều nay"},{"sc":"昨晚","vi":"tối qua"}] },
+      { "key": "cause", "label": "Nguyên nhân", "options": [{"sc":"网络中断","vi":"mất mạng"},{"sc":"数据库死锁","vi":"deadlock cơ sở dữ liệu"},{"sc":"设备故障","vi":"thiết bị hỏng"},{"sc":"正在排查","vi":"đang rà soát"}] },
+      { "key": "impact", "label": "Ảnh hưởng", "options": [{"sc":"两条产线","vi":"hai chuyền sản xuất"},{"sc":"仓库出货","vi":"việc xuất hàng của kho"},{"sc":"报工","vi":"việc báo sản lượng"}] }
+    ],
+    "sc": "【故障通知】{{system}}在{{time}}出现故障，原因：{{cause}}，目前影响{{impact}}。我们正在处理，请耐心等待。",
+    "vi": "[Thông báo sự cố] {{system}} gặp sự cố vào {{time}}, nguyên nhân: {{cause}}, hiện ảnh hưởng {{impact}}. Chúng tôi đang xử lý, xin chờ."
+  },
+  {
+    "id": "tpl-002", "title": "Báo đã khắc phục", "channel": "wechat", "reviewed": false,
+    "when": "Khi sự cố đã được xử lý xong và hệ thống chạy lại bình thường.",
+    "vars": [
+      { "key": "system", "label": "Hệ thống / thiết bị", "options": [{"sc":"MES系统","vi":"hệ thống MES"},{"sc":"ERP系统","vi":"hệ thống ERP"},{"sc":"标签打印机","vi":"máy in tem"},{"sc":"网络","vi":"mạng"}] },
+      { "key": "time", "label": "Thời điểm khôi phục", "options": [{"sc":"今天上午十点","vi":"10 giờ sáng nay"},{"sc":"今天下午三点","vi":"3 giờ chiều nay"},{"sc":"昨晚十一点","vi":"11 giờ tối qua"}] },
+      { "key": "cause", "label": "Nguyên nhân", "options": [{"sc":"网线接触不良","vi":"dây mạng tiếp xúc kém"},{"sc":"服务器重启","vi":"máy chủ khởi động lại"},{"sc":"更换了设备","vi":"đã thay thiết bị"}] }
+    ],
+    "sc": "【故障恢复】{{system}}已于{{time}}恢复正常，原因：{{cause}}。如果还有问题，请随时联系我。",
+    "vi": "[Đã khắc phục] {{system}} đã hoạt động bình thường lúc {{time}}, nguyên nhân: {{cause}}. Nếu còn vấn đề xin liên hệ tôi bất cứ lúc nào."
+  },
+  {
+    "id": "tpl-003", "title": "Xin phê duyệt bảo trì", "channel": "email", "reviewed": false,
+    "when": "Khi cần quản lý duyệt việc bảo trì hoặc nâng cấp ngoài giờ sản xuất.",
+    "vars": [
+      { "key": "manager", "label": "Người duyệt", "options": [{"sc":"李经理","vi":"quản lý Lý"},{"sc":"王主管","vi":"tổ trưởng Vương"}] },
+      { "key": "time", "label": "Thời gian", "options": [{"sc":"今晚下班后","vi":"tối nay sau khi tan ca"},{"sc":"周日夜班","vi":"ca đêm Chủ nhật"}] },
+      { "key": "system", "label": "Đối tượng", "options": [{"sc":"数据库","vi":"cơ sở dữ liệu"},{"sc":"MES服务器","vi":"máy chủ MES"},{"sc":"核心交换机","vi":"switch lõi"}] },
+      { "key": "work", "label": "Công việc", "options": [{"sc":"备份和索引优化","vi":"sao lưu và tối ưu chỉ mục"},{"sc":"版本升级","vi":"nâng cấp phiên bản"},{"sc":"更换设备","vi":"thay thiết bị"}] },
+      { "key": "duration", "label": "Thời lượng", "options": [{"sc":"一个小时","vi":"một tiếng"},{"sc":"两个小时","vi":"hai tiếng"},{"sc":"半小时","vi":"nửa tiếng"}] }
+    ],
+    "sc": "{{manager}}，您好：\n我申请在{{time}}对{{system}}进行{{work}}，预计耗时{{duration}}，已经做好备份和回滚方案。烦请审批，谢谢！",
+    "vi": "Chào {{manager}},\nTôi xin phép thực hiện {{work}} cho {{system}} vào {{time}}, dự kiến mất {{duration}}, đã chuẩn bị sao lưu và phương án rollback. Mong anh duyệt, cảm ơn!"
+  },
+  {
+    "id": "tpl-004", "title": "Thông báo bảo trì", "channel": "wechat", "reviewed": false,
+    "when": "Khi báo trước cho người dùng về thời gian hệ thống không dùng được.",
+    "vars": [
+      { "key": "system", "label": "Hệ thống", "options": [{"sc":"MES系统","vi":"hệ thống MES"},{"sc":"ERP系统","vi":"hệ thống ERP"},{"sc":"公司邮箱","vi":"email công ty"}] },
+      { "key": "time", "label": "Thời gian", "options": [{"sc":"今晚22:00","vi":"22:00 tối nay"},{"sc":"明天上午9点","vi":"9 giờ sáng mai"},{"sc":"周六晚上","vi":"tối thứ Bảy"}] },
+      { "key": "duration", "label": "Thời lượng", "options": [{"sc":"约十分钟","vi":"khoảng 10 phút"},{"sc":"约一个小时","vi":"khoảng một tiếng"},{"sc":"约两个小时","vi":"khoảng hai tiếng"}] }
+    ],
+    "sc": "【维护通知】{{system}}将于{{time}}进行维护，{{duration}}，期间无法使用。请提前保存好数据，给您带来不便，敬请谅解。",
+    "vi": "[Thông báo bảo trì] {{system}} sẽ bảo trì vào {{time}}, {{duration}}, trong thời gian đó không dùng được. Xin lưu dữ liệu trước, thành thật xin lỗi vì sự bất tiện."
+  },
+  {
+    "id": "tpl-005", "title": "Xin cấp quyền truy cập", "channel": "wechat", "reviewed": false,
+    "when": "Khi bạn hoặc đồng nghiệp thiếu quyền trong ERP, MES, PDA.",
+    "vars": [
+      { "key": "system", "label": "Hệ thống", "options": [{"sc":"ERP","vi":"ERP"},{"sc":"MES","vi":"MES"},{"sc":"WMS","vi":"WMS"}] },
+      { "key": "permission", "label": "Quyền cần", "options": [{"sc":"库存查询","vi":"tra cứu tồn kho"},{"sc":"工单查看","vi":"xem lệnh sản xuất"},{"sc":"报表导出","vi":"xuất báo cáo"}] },
+      { "key": "purpose", "label": "Mục đích", "options": [{"sc":"核对库存差异","vi":"đối chiếu chênh lệch tồn kho"},{"sc":"排查数据问题","vi":"điều tra vấn đề dữ liệu"},{"sc":"制作日报","vi":"làm báo cáo ngày"}] }
+    ],
+    "sc": "您好，我需要{{system}}的{{permission}}权限，用途：{{purpose}}。麻烦您帮忙开通，谢谢！",
+    "vi": "Chào anh/chị, tôi cần quyền {{permission}} trong {{system}}, mục đích: {{purpose}}. Phiền anh/chị mở giúp, cảm ơn!"
+  },
+  {
+    "id": "tpl-006", "title": "Báo cáo tiến độ", "channel": "email", "reviewed": false,
+    "when": "Khi cập nhật tiến độ dự án cho quản lý.",
+    "vars": [
+      { "key": "project", "label": "Dự án", "options": [{"sc":"MES升级项目","vi":"dự án nâng cấp MES"},{"sc":"标签系统改造","vi":"dự án cải tạo hệ thống tem"},{"sc":"报表开发","vi":"phát triển báo cáo"}] },
+      { "key": "percent", "label": "Tiến độ", "options": [{"sc":"百分之三十","vi":"30%"},{"sc":"百分之五十","vi":"50%"},{"sc":"百分之八十","vi":"80%"}] },
+      { "key": "date", "label": "Ngày hoàn thành", "options": [{"sc":"下周三","vi":"thứ Tư tuần sau"},{"sc":"本月底","vi":"cuối tháng này"},{"sc":"下个月初","vi":"đầu tháng sau"}] },
+      { "key": "risk", "label": "Rủi ro", "options": [{"sc":"目前没有明显风险。","vi":"Hiện chưa có rủi ro đáng kể."},{"sc":"测试环境不稳定，可能会延期。","vi":"Môi trường test chưa ổn định, có thể bị trễ."}] }
+    ],
+    "sc": "{{project}}目前进度{{percent}}，预计{{date}}完成。{{risk}}",
+    "vi": "{{project}} hiện đạt {{percent}}, dự kiến hoàn thành {{date}}. {{risk}}"
+  },
+  {
+    "id": "tpl-007", "title": "Nhờ bổ sung vật tư thiết bị", "channel": "wechat", "reviewed": false,
+    "when": "Khi máy in hết giấy hoặc ruy băng mực và cần người ở xưởng bổ sung.",
+    "vars": [
+      { "key": "line", "label": "Chuyền", "options": [{"sc":"一号线","vi":"chuyền số 1"},{"sc":"二号线","vi":"chuyền số 2"},{"sc":"三号线","vi":"chuyền số 3"}] },
+      { "key": "device", "label": "Thiết bị", "options": [{"sc":"标签打印机","vi":"máy in tem"},{"sc":"条码枪","vi":"súng quét mã vạch"}] },
+      { "key": "problem", "label": "Tình trạng", "options": [{"sc":"缺纸了","vi":"hết giấy"},{"sc":"碳带用完了","vi":"hết ruy băng mực"},{"sc":"没电了","vi":"hết pin"}] },
+      { "key": "item", "label": "Vật tư cần", "options": [{"sc":"标签纸","vi":"giấy tem"},{"sc":"碳带","vi":"ruy băng mực"},{"sc":"电池","vi":"pin"}] }
+    ],
+    "sc": "{{line}}的{{device}}{{problem}}，麻烦安排人员补充{{item}}，谢谢。",
+    "vi": "{{device}} của {{line}} {{problem}}, phiền sắp xếp người bổ sung {{item}}, cảm ơn."
+  }
+]

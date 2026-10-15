@@ -1,0 +1,187 @@
+## hang-ngay|Trò chuyện hằng ngày
+
+# Chào hỏi
+A 你好！|Xin chào!
+B 你好！你叫什么名字？|Xin chào! Bạn tên là gì?
+A 我叫王明，你呢？|Tôi tên Vương Minh, còn bạn?
+B 我叫李红，认识你很高兴。|Tôi tên Lý Hồng, rất vui được làm quen.
+
+# Bạn là người nước nào
+A 你是哪国人？|Bạn là người nước nào?
+B 我是越南人，你呢？|Tôi là người Việt Nam, còn bạn?
+A 我是中国人。|Tôi là người Trung Quốc.
+B 你的汉语很好。|Tiếng Trung của bạn rất tốt.
+
+# Hỏi tuổi
+A 你今年多大？|Năm nay bạn bao nhiêu tuổi?
+B 我二十五岁，你呢？|Tôi hai mươi lăm tuổi, còn bạn?
+A 我三十岁。|Tôi ba mươi tuổi.
+B 你比我大五岁。|Bạn lớn hơn tôi năm tuổi.
+
+# Gia đình
+A 你家有几口人？|Nhà bạn có mấy người?
+B 五口人，爸爸、妈妈、哥哥、妹妹和我。|Năm người, bố, mẹ, anh trai, em gái và tôi.
+A 他们都在越南吗？|Họ đều ở Việt Nam à?
+B 是的，只有我在中国工作。|Đúng, chỉ có mình tôi làm việc ở Trung Quốc.
+
+# Nơi ở
+A 你住在哪儿？|Bạn ở đâu?
+B 我住在工厂的宿舍。|Tôi ở ký túc xá của nhà máy.
+A 离工厂近吗？|Có gần nhà máy không?
+B 很近，走路五分钟。|Rất gần, đi bộ năm phút.
+
+# Hỏi thăm sức khỏe
+A 你最近身体好吗？|Dạo này sức khỏe bạn tốt không?
+B 很好，谢谢，你呢？|Rất tốt, cảm ơn, còn bạn?
+A 我也很好，就是有点累。|Tôi cũng khỏe, chỉ là hơi mệt.
+B 你要多休息。|Bạn phải nghỉ ngơi nhiều.
+
+# Thời tiết
+A 今天天气怎么样？|Hôm nay thời tiết thế nào?
+B 很热，有三十度。|Rất nóng, có ba mươi độ.
+A 明天呢？|Còn ngày mai?
+B 明天下雨，会冷一点。|Ngày mai có mưa, sẽ mát hơn một chút.
+
+# Trời mưa
+A 外面下雨了，你带伞了吗？|Bên ngoài mưa rồi, bạn mang dù chưa?
+B 没有，你有吗？|Chưa, bạn có không?
+A 我有，我们一起走吧。|Tôi có, chúng ta cùng đi nhé.
+B 谢谢你。|Cảm ơn bạn.
+
+# Hỏi số điện thoại
+A 你的电话号码是多少？|Số điện thoại của bạn là bao nhiêu?
+B 一三八，零零五六，七八九零。|Một ba tám, không không năm sáu, bảy tám chín không.
+A 我写下来了，对吗？|Tôi viết xuống rồi, đúng không?
+B 对，有事给我打电话。|Đúng, có việc gọi điện cho tôi.
+
+# Hôm nay ngày mấy
+A 今天几月几号？|Hôm nay là ngày mấy tháng mấy?
+B 今天五月十号。|Hôm nay là ngày mười tháng Năm.
+A 星期几？|Thứ mấy?
+B 星期五，明天休息。|Thứ Sáu, mai nghỉ.
+
+# Cuối tuần làm gì
+A 这个周末你做什么？|Cuối tuần này bạn làm gì?
+B 我想去商店买东西。|Tôi muốn đi cửa hàng mua đồ.
+A 我也想去，我们一起吧。|Tôi cũng muốn đi, chúng ta đi cùng nhé.
+B 好，星期六上午九点见。|Được, chín giờ sáng thứ Bảy gặp.
+
+# Sở thích
+A 你喜欢做什么？|Bạn thích làm gì?
+B 我喜欢看电影，你呢？|Tôi thích xem phim, còn bạn?
+A 我喜欢听音乐。|Tôi thích nghe nhạc.
+B 我们都喜欢休息的时候玩。|Chúng ta đều thích chơi lúc nghỉ ngơi.
+
+# Học tiếng Trung
+A 你为什么学汉语？|Vì sao bạn học tiếng Trung?
+B 因为我在中国工作。|Vì tôi làm việc ở Trung Quốc.
+A 汉语难吗？|Tiếng Trung có khó không?
+B 有点难，但是很有意思。|Hơi khó, nhưng rất thú vị.
+
+# Nhờ nói chậm
+A 对不起，请你再说一遍。|Xin lỗi, xin bạn nói lại một lần.
+B 好，我说慢一点。|Được, tôi nói chậm một chút.
+A 谢谢，现在我听懂了。|Cảm ơn, bây giờ tôi nghe hiểu rồi.
+B 不客气。|Không có gì.
+
+# Hỏi nghĩa từ
+A 这个字怎么读？|Chữ này đọc thế nào?
+B 读“工”，工作的“工”。|Đọc là “gōng”, chữ “gōng” trong công việc.
+A 是什么意思？|Nghĩa là gì?
+B 意思是“工作”。|Nghĩa là “làm việc”.
+
+# Cảm ơn
+A 谢谢你帮我。|Cảm ơn bạn đã giúp tôi.
+B 不客气，这是应该的。|Không có gì, đó là việc nên làm.
+A 下次我请你喝茶。|Lần sau tôi mời bạn uống trà.
+B 好啊，我很喜欢喝茶。|Được thôi, tôi rất thích uống trà.
+
+# Xin lỗi
+A 对不起，我来晚了。|Xin lỗi, tôi đến muộn rồi.
+B 没关系，我也刚到。|Không sao, tôi cũng vừa đến.
+A 路上人很多。|Trên đường rất đông người.
+B 快坐吧，我们开始。|Mau ngồi đi, chúng ta bắt đầu.
+
+# Hỏi giờ
+A 请问现在几点？|Xin hỏi bây giờ mấy giờ?
+B 现在两点一刻。|Bây giờ hai giờ mười lăm.
+A 谢谢，我要去工作了。|Cảm ơn, tôi phải đi làm rồi.
+B 再见，下班见。|Tạm biệt, tan ca gặp.
+
+# Mệt mỏi
+A 你看起来很累。|Trông bạn có vẻ rất mệt.
+B 是的，昨天睡得很晚。|Đúng vậy, hôm qua tôi ngủ rất muộn.
+A 为什么睡得晚？|Vì sao ngủ muộn?
+B 我在看书，看到十二点。|Tôi đọc sách, đọc đến mười hai giờ.
+
+# Khen ngợi
+A 你今天穿得很漂亮。|Hôm nay bạn mặc rất đẹp.
+B 谢谢，这是我新买的衣服。|Cảm ơn, đây là quần áo tôi mới mua.
+A 在哪儿买的？|Mua ở đâu vậy?
+B 在商店买的，不贵。|Mua ở cửa hàng, không đắt.
+
+# Hẹn gặp
+A 明天下午你有时间吗？|Chiều mai bạn có thời gian không?
+B 有，有什么事吗？|Có, có việc gì vậy?
+A 我想请你吃饭。|Tôi muốn mời bạn ăn cơm.
+B 好啊，几点？在哪儿？|Được thôi, mấy giờ? Ở đâu?
+
+# Gọi điện
+A 喂，你好，请找小李。|A lô, xin chào, cho tôi gặp Tiểu Lý.
+B 他不在，你是哪位？|Anh ấy không có đây, bạn là ai?
+A 我是他的同事小王。|Tôi là đồng nghiệp của anh ấy, Tiểu Vương.
+B 好，我告诉他给你回电话。|Được, tôi sẽ bảo anh ấy gọi lại cho bạn.
+
+# Nhớ nhà
+A 你想家吗？|Bạn có nhớ nhà không?
+B 想，我每天给妈妈打电话。|Nhớ, ngày nào tôi cũng gọi điện cho mẹ.
+A 你们说什么？|Hai người nói gì?
+B 说我的工作，还有吃饭。|Nói về công việc của tôi và chuyện ăn uống.
+
+# Chúc mừng sinh nhật
+A 今天是我的生日。|Hôm nay là sinh nhật của tôi.
+B 生日快乐！这是给你的。|Chúc mừng sinh nhật! Cái này tặng bạn.
+A 谢谢，是什么？|Cảm ơn, là gì vậy?
+B 打开看看吧，我想你会喜欢。|Mở ra xem đi, tôi nghĩ bạn sẽ thích.
+
+# Tết đến
+A 春节你回家吗？|Tết bạn có về nhà không?
+B 回，我已经买好飞机票了。|Về, tôi đã mua vé máy bay rồi.
+A 你什么时候走？|Bao giờ bạn đi?
+B 二月一号走，十号回来。|Mùng một tháng Hai đi, ngày mười về.
+
+# Đi khám
+A 你的脸色不好，是不是生病了？|Sắc mặt bạn không tốt, có phải bị bệnh không?
+B 可能是感冒了，一直咳嗽。|Có thể bị cảm, ho suốt.
+A 快去看医生吧。|Mau đi khám bác sĩ đi.
+B 我下班就去医院。|Tan ca tôi sẽ đi bệnh viện.
+
+# Hỏi đường đến nhà thuốc
+A 请问，药店在哪儿？|Xin hỏi, hiệu thuốc ở đâu?
+B 在前面，你一直走就看到了。|Ở phía trước, bạn đi thẳng là thấy.
+A 远吗？|Có xa không?
+B 不远，走五分钟就到。|Không xa, đi năm phút là đến.
+
+# Ngày mai gặp
+A 今天谢谢你，明天见。|Hôm nay cảm ơn bạn, mai gặp.
+B 明天见，早点休息。|Mai gặp, nghỉ ngơi sớm nhé.
+A 你也是，晚安。|Bạn cũng vậy, chúc ngủ ngon.
+B 晚安，再见。|Chúc ngủ ngon, tạm biệt.
+
+# Khen đồng nghiệp
+A 你工作做得真好。|Bạn làm việc thật tốt.
+B 谢谢，我还要多学习。|Cảm ơn, tôi còn phải học thêm.
+A 你汉语也进步很快。|Tiếng Trung của bạn cũng tiến bộ nhanh.
+B 是老师和同事帮助我。|Là nhờ thầy cô và đồng nghiệp giúp tôi.
+
+# Sắp đến Tết Trung thu
+A 中秋节你们公司放假吗？|Trung thu công ty các bạn có nghỉ không?
+B 放一天，还发月饼。|Nghỉ một ngày, còn phát bánh trung thu.
+A 你喜欢吃月饼吗？|Bạn có thích ăn bánh trung thu không?
+B 喜欢，特别是有蛋黄的。|Thích, nhất là loại có trứng muối.
+
+# Hỏi thăm gia đình
+A 你家人最近怎么样？|Gia đình bạn dạo này thế nào?
+B 都很好，谢谢你关心。|Đều rất tốt, cảm ơn bạn quan tâm.
+A 你的孩子几岁了？|Con bạn mấy tuổi rồi?
+B 三岁了，很可爱。|Ba tuổi rồi, rất đáng yêu.

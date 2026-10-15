@@ -1,0 +1,121 @@
+## chat-luong|Kiểm tra chất lượng
+
+# Kiểm tra đầu vào
+A 这批材料到了，要先检查质量。|Lô vật liệu này đến rồi, phải kiểm tra chất lượng trước.
+B 检查哪些项目？|Kiểm tra những hạng mục nào?
+A 看外观、尺寸，还要看有没有证明。|Xem ngoại quan, kích thước, còn phải xem có giấy chứng nhận không.
+B 好，我现在就开始。|Vâng, tôi bắt đầu ngay.
+
+# Lấy mẫu
+A 我们从每一箱里拿几个检查？|Chúng ta lấy mấy cái trong mỗi thùng để kiểm tra?
+B 按标准，每箱拿五个。|Theo tiêu chuẩn, mỗi thùng lấy năm cái.
+A 如果有一个不合格呢？|Nếu có một cái không đạt thì sao?
+B 那要把整箱都检查一遍。|Vậy phải kiểm tra lại cả thùng.
+
+# Dùng dụng cụ đo
+A 请用卡尺量一下这个零件。|Hãy dùng thước kẹp đo linh kiện này.
+B 长度是五十点二毫米。|Chiều dài là 50,2 milimet.
+A 标准是多少？|Tiêu chuẩn là bao nhiêu?
+B 五十毫米，允许差零点五。|Năm mươi milimet, sai số cho phép 0,5.
+
+# Kiểm tra ngoại quan
+A 产品表面不能有划痕和污点。|Bề mặt sản phẩm không được có vết xước và vết bẩn.
+B 这个有一道很小的划痕。|Cái này có một vết xước rất nhỏ.
+A 小也不行，放到不良品的箱子里。|Nhỏ cũng không được, để vào thùng hàng lỗi.
+B 好，我记下来。|Vâng, tôi ghi lại.
+
+# Kiểm tra cuối chuyền
+A 最后一道检查很重要。|Công đoạn kiểm tra cuối rất quan trọng.
+B 是的，不合格的产品不能出厂。|Đúng, sản phẩm không đạt không được xuất xưởng.
+A 今天的合格率怎么样？|Tỷ lệ đạt hôm nay thế nào?
+B 百分之九十七，比昨天高。|Chín mươi bảy phần trăm, cao hơn hôm qua.
+
+# Máy đo bị sai
+A 这台测量仪的数据好像不准。|Số liệu của máy đo này có vẻ không chuẩn.
+B 你怎么发现的？|Sao bạn phát hiện ra?
+A 同一个零件，量了三次，结果都不一样。|Cùng một linh kiện đo ba lần, kết quả đều khác nhau.
+B 那要先校准仪器再检查。|Vậy phải hiệu chuẩn dụng cụ rồi mới kiểm tra.
+
+# Báo cáo kiểm tra
+A 今天的检验报告写好了吗？|Báo cáo kiểm nghiệm hôm nay viết xong chưa?
+B 还没有，我正在整理数据。|Chưa, tôi đang tổng hợp số liệu.
+A 请在下午三点以前交给我。|Hãy nộp cho tôi trước ba giờ chiều.
+B 好的，没问题。|Vâng, không vấn đề.
+
+# Lô hàng bị trả lại
+A 客户退回了一批货，说质量有问题。|Khách trả lại một lô hàng, nói chất lượng có vấn đề.
+B 具体是什么问题？|Cụ thể là vấn đề gì?
+A 他们说颜色和样品不一样。|Họ nói màu sắc khác với mẫu.
+B 我们要马上调查原因。|Chúng ta phải điều tra nguyên nhân ngay.
+
+# Kiểm tra độ cứng
+A 这个产品的硬度要测试。|Độ cứng của sản phẩm này phải kiểm tra.
+B 用哪台机器测试？|Dùng máy nào để kiểm tra?
+A 实验室里那台，请你送过去。|Cái máy trong phòng thí nghiệm, nhờ bạn mang sang.
+B 好，结果出来以后我通知您。|Được, có kết quả tôi sẽ báo anh.
+
+# Quy trình kiểm tra
+A 检查要按照标准的流程做。|Kiểm tra phải làm theo quy trình tiêu chuẩn.
+B 第一步是什么？|Bước đầu tiên là gì?
+A 先核对产品的型号和批号。|Trước tiên đối chiếu mã sản phẩm và số lô.
+B 然后再检查外观和尺寸，对吗？|Sau đó kiểm tra ngoại quan và kích thước, đúng không?
+
+# Dán nhãn đã kiểm
+A 检查合格的产品要贴合格标签。|Sản phẩm kiểm đạt phải dán tem đạt.
+B 标签贴在什么位置？|Tem dán ở vị trí nào?
+A 贴在盒子的右上角。|Dán ở góc trên bên phải của hộp.
+B 好，贴好以后请你再确认一遍。|Vâng, dán xong xin bạn xác nhận lại một lần.
+
+# Sai số vượt mức
+A 这批产品的误差超过了标准。|Sai số của lô sản phẩm này vượt quá tiêu chuẩn.
+B 超了多少？|Vượt bao nhiêu?
+A 超了零点三毫米，不能放行。|Vượt 0,3 milimet, không thể cho qua.
+B 那就先隔离，等主管决定。|Vậy cách ly trước, chờ tổ trưởng quyết định.
+
+# Truy xuất nguồn gốc
+A 客户问这批货是哪天生产的。|Khách hỏi lô hàng này sản xuất ngày nào.
+B 看批号就能查出来。|Xem số lô là tra ra được.
+A 批号的前六位是日期。|Sáu số đầu của số lô là ngày tháng.
+B 这个批号是上个月十五号生产的。|Số lô này sản xuất ngày mười lăm tháng trước.
+
+# Kiểm tra 100%
+A 这种产品要全部检查，不能抽检。|Loại sản phẩm này phải kiểm tra toàn bộ, không được lấy mẫu.
+B 为什么？|Vì sao?
+A 因为客户对质量的要求特别高。|Vì khách hàng yêu cầu chất lượng đặc biệt cao.
+B 明白，我们增加两个检验员。|Hiểu rồi, chúng ta thêm hai nhân viên kiểm nghiệm.
+
+# Nguyên nhân sản phẩm kém
+A 为什么这几天不良品变多了？|Vì sao mấy ngày nay hàng lỗi tăng lên?
+B 可能和新来的原料有关系。|Có thể liên quan đến nguyên liệu mới về.
+A 你能做个对比试验吗？|Bạn làm một thí nghiệm so sánh được không?
+B 可以，用新旧两种原料各做一批。|Được, dùng nguyên liệu cũ và mới mỗi loại làm một lô.
+
+# Họp chất lượng
+A 明天下午开质量会议，请你准备资料。|Chiều mai họp chất lượng, nhờ bạn chuẩn bị tài liệu.
+B 需要准备哪些资料？|Cần chuẩn bị những tài liệu nào?
+A 这个星期的不良品统计和分析。|Thống kê và phân tích hàng lỗi tuần này.
+B 好，我今天就开始整理。|Vâng, hôm nay tôi bắt đầu tổng hợp.
+
+# Kiểm tra mẫu đầu tiên
+A 开始生产以前先做首件检查。|Trước khi sản xuất phải kiểm tra sản phẩm đầu tiên.
+B 首件合格才能继续做吗？|Sản phẩm đầu đạt mới được làm tiếp à?
+A 对，不合格就要重新调整机器。|Đúng, không đạt phải điều chỉnh lại máy.
+B 我现在送去给质检员。|Tôi mang sang cho nhân viên QC ngay.
+
+# Sai khác màu sắc
+A 这个颜色看起来有点深。|Màu này nhìn có vẻ hơi đậm.
+B 我们拿样品对比一下。|Chúng ta lấy mẫu ra so sánh.
+A 在灯下面看，差别更明显。|Nhìn dưới đèn, sự khác biệt rõ hơn.
+B 确实不一样，要通知生产部门。|Quả thật khác, phải báo bộ phận sản xuất.
+
+# Phản hồi từ khách
+A 客户对我们的质量很满意。|Khách hàng rất hài lòng với chất lượng của chúng ta.
+B 太好了，这是大家努力的结果。|Tốt quá, đây là kết quả nỗ lực của mọi người.
+A 他们还想增加订单。|Họ còn muốn tăng đơn hàng.
+B 那我们要保持这个水平。|Vậy chúng ta phải giữ vững mức này.
+
+# Cải tiến chất lượng
+A 我有一个提高质量的建议。|Tôi có một đề xuất để nâng cao chất lượng.
+B 请说说看。|Xin nói xem.
+A 在中间加一道检查，可以早点发现问题。|Thêm một công đoạn kiểm tra ở giữa, có thể phát hiện vấn đề sớm hơn.
+B 这个办法不错，我们试试。|Cách này không tệ, chúng ta thử xem.

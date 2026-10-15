@@ -1,0 +1,150 @@
+0001|的|của; trợ từ nối định ngữ với danh từ|đích
+0002|了|trợ từ chỉ hành động đã hoàn thành hoặc trạng thái thay đổi|
+0003|我|tôi; tớ; của tôi|ngã
+0004|是|là; đúng; phải|thị
+0005|你|bạn; anh; chị; cậu|nhĩ
+0006|在|ở; tại; đang (làm gì)|tại
+0007|不|không; chẳng|bất
+0008|有|có; sở hữu|hữu
+0009|他|anh ấy; ông ấy; hắn|tha
+0010|这|này; đây|giá
+0011|个|cái; con; người (lượng từ dùng chung)|cá
+0012|和|và; với; cùng|hòa
+0013|人|người|nhân
+0014|我们|chúng tôi; chúng ta|ngã môn
+0015|好|tốt; hay; khỏe|hảo
+0016|一|một|nhất
+0017|会|biết (làm gì); sẽ; có thể; họp|hội
+0018|都|đều; cũng đều|đô
+0019|上|trên; lên; tuần trước, tháng trước|thượng
+0020|来|đến; tới|lai
+0021|很|rất; lắm|ngận
+0022|去|đi; đến (một nơi)|khứ
+0023|她|cô ấy; chị ấy; bà ấy|tha
+0024|想|muốn; nghĩ; nhớ|tưởng
+0025|能|có thể; có khả năng|năng
+0026|那|kia; đó; ấy|na
+0027|看|xem; nhìn; đọc; thăm bệnh|khán
+0028|做|làm; chế tạo|tố
+0029|什么|cái gì; gì|thập ma
+0030|点|giờ (thời gian); chấm; điểm; chút|điểm
+0031|没|không có; chưa|một
+0032|大|to; lớn; nhiều tuổi hơn|đại
+0033|下|dưới; xuống; tuần sau, tháng sau|hạ
+0034|里|trong; bên trong|lý
+0035|现在|bây giờ; hiện nay|hiện tại
+0036|年|năm|niên
+0037|多|nhiều; hơn (đứng sau số từ); bao nhiêu|đa
+0038|吗|trợ từ nghi vấn cuối câu hỏi có hay không|
+0039|太|quá; rất|thái
+0040|呢|trợ từ hỏi tiếp, hỏi nơi chốn hoặc nhấn mạnh|
+0041|小|nhỏ; bé; ít tuổi|tiểu
+0042|时候|lúc; khi; thời gian|thời hậu
+0043|工作|làm việc; công việc|công tác
+0044|家|nhà; gia đình|gia
+0045|怎么|thế nào; làm sao; tại sao|chẩm ma
+0046|爱|yêu; thích; tình yêu|ái
+0047|喜欢|thích; yêu thích|hỉ hoan
+0048|吃|ăn|ngật
+0049|谁|ai|thùy
+0050|今天|hôm nay|kim thiên
+0051|月|tháng; mặt trăng|nguyệt
+0052|几|mấy; bao nhiêu (số lượng nhỏ)|kỷ
+0053|听|nghe|thính
+0054|开|mở; bật; lái (xe); mở (cửa, máy)|khai
+0055|叫|gọi; tên là; kêu|khiếu
+0056|请|mời; xin; làm ơn|thỉnh
+0057|钱|tiền|tiền
+0058|本|quyển (lượng từ cho sách); gốc|bản
+0059|回|về; trở về; lần|hồi
+0060|东西|đồ vật; đồ đạc; thứ|đông tây
+0061|三|ba|tam
+0062|买|mua|mãi
+0063|岁|tuổi|tuế
+0064|朋友|bạn bè; người bạn|bằng hữu
+0065|住|ở; sống; trọ|trú
+0066|水|nước|thủy
+0067|写|viết|tả
+0068|日|ngày; mặt trời|nhật
+0069|喝|uống|hát
+0070|学校|trường học|học hiệu
+0071|坐|ngồi; đi (xe, tàu)|tọa
+0072|认识|quen biết; nhận ra|nhận thức
+0073|分钟|phút|phân chung
+0074|明天|ngày mai|minh thiên
+0075|四|bốn|tứ
+0076|块|đồng (tiền); miếng; cục|khối
+0077|谢谢|cảm ơn|tạ tạ
+0078|多少|bao nhiêu|đa thiểu
+0079|妈妈|mẹ; má|
+0080|少|ít; thiếu|thiểu
+0081|电影|phim; điện ảnh|điện ảnh
+0082|哪|nào; đâu|na
+0083|昨天|hôm qua|tạc thiên
+0084|书|sách|thư
+0085|五|năm|ngũ
+0086|先生|ông; ngài; thầy; chồng|tiên sinh
+0087|医院|bệnh viện|y viện
+0088|些|một ít; vài; những|ta
+0089|狗|chó|cẩu
+0090|学生|học sinh; sinh viên|học sinh
+0091|二|hai|nhị
+0092|儿子|con trai|nhi tử
+0093|中国|Trung Quốc|trung quốc
+0094|电视|ti vi; truyền hình|điện thị
+0095|下午|buổi chiều|hạ ngọ
+0096|学习|học; học tập|học tập
+0097|老师|thầy giáo; cô giáo; giáo viên|lão sư
+0098|六|sáu|lục
+0099|医生|bác sĩ|y sinh
+0100|名字|tên|danh tự
+0101|十|mười|thập
+0102|看见|nhìn thấy; trông thấy|khán kiến
+0103|女儿|con gái|nữ nhi
+0104|说话|nói; nói chuyện|thuyết thoại
+0105|爸爸|bố; ba; cha|
+0106|字|chữ; ký tự|tự
+0107|漂亮|đẹp; xinh|phiêu lượng
+0108|高兴|vui; vui mừng; sẵn lòng|cao hứng
+0109|热|nóng; nhiệt|nhiệt
+0110|睡觉|ngủ|thụy giác
+0111|电脑|máy tính; vi tính|điện não
+0112|读|đọc; học (ở trường)|độc
+0113|冷|lạnh|lãnh
+0114|飞机|máy bay|phi cơ
+0115|猫|mèo|miêu
+0116|打电话|gọi điện thoại|đả điện thoại
+0117|后面|phía sau; đằng sau|hậu diện
+0118|喂|alô; này (gọi người)|úy
+0119|八|tám|bát
+0120|怎么样|thế nào; ra sao|chẩm ma dạng
+0121|七|bảy|thất
+0122|菜|món ăn; rau; thức ăn|thái
+0123|衣服|quần áo|y phục
+0124|小姐|cô; tiểu thư|tiểu thư
+0125|对不起|xin lỗi|đối bất khởi
+0126|天气|thời tiết|thiên khí
+0127|前面|phía trước; đằng trước|tiền diện
+0128|同学|bạn học; bạn cùng lớp|đồng học
+0129|茶|trà; chè|trà
+0130|星期|tuần; thứ (trong tuần)|tinh kỳ
+0131|九|chín|cửu
+0132|上午|buổi sáng|thượng ngọ
+0133|再见|tạm biệt; hẹn gặp lại|tái kiến
+0134|苹果|quả táo|bình quả
+0135|中午|buổi trưa|trung ngọ
+0136|出租车|taxi; xe cho thuê|xuất tô xa
+0137|水果|hoa quả; trái cây|thủy quả
+0138|商店|cửa hàng; cửa tiệm|thương điếm
+0139|没关系|không sao; không có gì|một quan hệ
+0140|零|không; số 0|linh
+0141|桌子|cái bàn|trác tử
+0142|椅子|cái ghế|ỷ tử
+0143|北京|Bắc Kinh|bắc kinh
+0144|下雨|mưa; trời mưa|hạ vũ
+0145|杯子|cái cốc; cái ly|bôi tử
+0146|火车站|ga tàu hỏa|hỏa xa trạm
+0147|米饭|cơm|mễ phạn
+0148|汉语|tiếng Hán; tiếng Trung|hán ngữ
+0149|饭馆|quán ăn; nhà hàng|phạn quán
+0150|不客气|đừng khách sáo; không có chi|bất khách khí

@@ -1,0 +1,1663 @@
+{
+  "title": "Giáo trình HSK1 (Khóa Đi Làm)",
+  "note": "Danh sách bài và từ mới được tách từ các file PDF trong thư mục giáo trình của bạn (bài 1 đến 15). Thư mục không có tài liệu bài 6, 7, 8. Nghĩa tiếng Việt lấy từ tài liệu khi rõ ràng, còn lại lấy từ bộ từ HSK của ứng dụng.",
+  "lessons": [
+    {
+      "n": 1,
+      "zh": "你好",
+      "vi": "Xin chào",
+      "days": "1–2",
+      "vocab": [
+        {
+          "h": "你",
+          "py": "nǐ"
+        },
+        {
+          "h": "好",
+          "py": "hǎo"
+        },
+        {
+          "h": "你好",
+          "py": "nǐ hǎo",
+          "vi": "xin chào"
+        },
+        {
+          "h": "一",
+          "py": "yī"
+        },
+        {
+          "h": "五",
+          "py": "wǔ"
+        },
+        {
+          "h": "八",
+          "py": "bā"
+        },
+        {
+          "h": "大",
+          "py": "dà"
+        },
+        {
+          "h": "不",
+          "py": "bù"
+        },
+        {
+          "h": "口",
+          "py": "kǒu"
+        },
+        {
+          "h": "白",
+          "py": "bái"
+        },
+        {
+          "h": "女",
+          "py": "nǚ"
+        },
+        {
+          "h": "马",
+          "py": "mǎ"
+        },
+        {
+          "h": "是",
+          "py": "shì"
+        },
+        {
+          "h": "老师",
+          "py": "lǎoshī"
+        },
+        {
+          "h": "吗",
+          "py": "ma"
+        },
+        {
+          "h": "什么",
+          "py": "shénme"
+        },
+        {
+          "h": "叫",
+          "py": "jiào"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập củng cố từ vựng, ngày 1+2"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập ngày 1"
+        },
+        {
+          "k": "video",
+          "t": "Giáo trình HSK1 bài 1, phần 2"
+        },
+        {
+          "k": "video",
+          "t": "Phát âm, có đáp án"
+        },
+        {
+          "k": "video",
+          "t": "Bài giảng số đếm"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "zh": "汉语不太难",
+      "vi": "Tiếng Hán không khó lắm",
+      "days": "5–6",
+      "vocab": [
+        {
+          "h": "忙",
+          "py": "máng"
+        },
+        {
+          "h": "吗",
+          "py": "ma"
+        },
+        {
+          "h": "很",
+          "py": "hěn"
+        },
+        {
+          "h": "汉语",
+          "py": "Hànyǔ"
+        },
+        {
+          "h": "难",
+          "py": "nán"
+        },
+        {
+          "h": "太",
+          "py": "tài"
+        },
+        {
+          "h": "爸爸",
+          "py": "bàba"
+        },
+        {
+          "h": "妈妈",
+          "py": "māma"
+        },
+        {
+          "h": "他",
+          "py": "tā"
+        },
+        {
+          "h": "她",
+          "py": "tā"
+        },
+        {
+          "h": "男",
+          "py": "nán"
+        },
+        {
+          "h": "哥哥",
+          "py": "gēge"
+        },
+        {
+          "h": "弟弟",
+          "py": "dìdi"
+        },
+        {
+          "h": "妹妹",
+          "py": "mèimei"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập ngày 5+6"
+        },
+        {
+          "k": "video",
+          "t": "Bài 2, phần 2"
+        },
+        {
+          "k": "video",
+          "t": "Đáp án phần nghe, ngày 5+6"
+        },
+        {
+          "k": "video",
+          "t": "Bài giảng 10 từ vựng HSK1"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "zh": "明天见",
+      "vi": "Ngày mai gặp lại",
+      "days": "8–10",
+      "vocab": [
+        {
+          "h": "学",
+          "py": "xué"
+        },
+        {
+          "h": "英语",
+          "py": "Yīngyǔ"
+        },
+        {
+          "h": "阿拉伯语",
+          "py": "Ālābóyǔ"
+        },
+        {
+          "h": "德语",
+          "py": "Déyǔ"
+        },
+        {
+          "h": "俄语",
+          "py": "Éyǔ"
+        },
+        {
+          "h": "法语",
+          "py": "Fǎyǔ"
+        },
+        {
+          "h": "韩国语",
+          "py": "Hánguóyǔ"
+        },
+        {
+          "h": "日语",
+          "py": "Rìyǔ"
+        },
+        {
+          "h": "西班牙语",
+          "py": "Xībānyáyǔ"
+        },
+        {
+          "h": "对",
+          "py": "duì"
+        },
+        {
+          "h": "明天",
+          "py": "míngtiān"
+        },
+        {
+          "h": "见",
+          "py": "jiàn"
+        },
+        {
+          "h": "去",
+          "py": "qù"
+        },
+        {
+          "h": "邮局",
+          "py": "yóujú"
+        },
+        {
+          "h": "寄",
+          "py": "jì"
+        },
+        {
+          "h": "信",
+          "py": "xìn"
+        },
+        {
+          "h": "银行",
+          "py": "yínháng"
+        },
+        {
+          "h": "取",
+          "py": "qǔ"
+        },
+        {
+          "h": "钱",
+          "py": "qián"
+        },
+        {
+          "h": "六",
+          "py": "liù"
+        },
+        {
+          "h": "七",
+          "py": "qī"
+        },
+        {
+          "h": "九",
+          "py": "jiǔ"
+        },
+        {
+          "h": "北京",
+          "py": "Běijīng"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập ngày 8+9"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập trắc nghiệm, ngày 8+9"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập ngày 10 và đáp án"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài khóa giới thiệu bản thân"
+        },
+        {
+          "k": "video",
+          "t": "Giáo trình HSK1 bài 3, phần 1 và 2"
+        },
+        {
+          "k": "video",
+          "t": "Luyện nghe hội thoại"
+        },
+        {
+          "k": "video",
+          "t": "Trật tự dùng từ trong câu"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "zh": "你去哪儿",
+      "vi": "Bạn đi đâu đấy",
+      "days": "13–14",
+      "vocab": [
+        {
+          "h": "星期一",
+          "py": "xīngqīyī"
+        },
+        {
+          "h": "星期二",
+          "py": "xīngqīèr"
+        },
+        {
+          "h": "星期三",
+          "py": "xīngqīsān"
+        },
+        {
+          "h": "星期四",
+          "py": "xīngqīsì"
+        },
+        {
+          "h": "星期五",
+          "py": "xīngqīwǔ"
+        },
+        {
+          "h": "星期六",
+          "py": "xīngqīliù"
+        },
+        {
+          "h": "星期天",
+          "py": "xīngqītiān"
+        },
+        {
+          "h": "几",
+          "py": "jǐ"
+        },
+        {
+          "h": "二",
+          "py": "èr"
+        },
+        {
+          "h": "三",
+          "py": "sān"
+        },
+        {
+          "h": "四",
+          "py": "sì"
+        },
+        {
+          "h": "哪儿",
+          "py": "nǎr"
+        },
+        {
+          "h": "那儿",
+          "py": "nàr"
+        },
+        {
+          "h": "我",
+          "py": "wǒ"
+        },
+        {
+          "h": "回",
+          "py": "huí"
+        },
+        {
+          "h": "学校",
+          "py": "xuéxiào"
+        },
+        {
+          "h": "再见",
+          "py": "zàijiàn"
+        },
+        {
+          "h": "对不起",
+          "py": "duìbuqǐ"
+        },
+        {
+          "h": "没关系",
+          "py": "méiguānxi"
+        },
+        {
+          "h": "天安门",
+          "py": "Tiān'ānmén"
+        },
+        {
+          "h": "今天",
+          "py": "jīntiān"
+        },
+        {
+          "h": "天",
+          "py": "tiān"
+        },
+        {
+          "h": "昨天",
+          "py": "zuótiān"
+        },
+        {
+          "h": "星期",
+          "py": "xīngqī"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành, ngày 13+14"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập trắc nghiệm, ngày 13+14"
+        },
+        {
+          "k": "video",
+          "t": "Giáo trình HSK1 bài 4, phần 1 và 2"
+        },
+        {
+          "k": "video",
+          "t": "Ngữ pháp cơ bản 1"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "zh": "这是王老师",
+      "vi": "Đây là thầy giáo Vương",
+      "days": "15–17",
+      "vocab": [
+        {
+          "h": "这",
+          "py": "zhè"
+        },
+        {
+          "h": "是",
+          "py": "shì"
+        },
+        {
+          "h": "老师",
+          "py": "lǎoshī"
+        },
+        {
+          "h": "您",
+          "py": "nín"
+        },
+        {
+          "h": "什么",
+          "py": "shénme"
+        },
+        {
+          "h": "书",
+          "py": "shū"
+        },
+        {
+          "h": "谁",
+          "py": "shéi"
+        },
+        {
+          "h": "请",
+          "py": "qǐng"
+        },
+        {
+          "h": "进",
+          "py": "jìn"
+        },
+        {
+          "h": "坐",
+          "py": "zuò"
+        },
+        {
+          "h": "喝",
+          "py": "hē"
+        },
+        {
+          "h": "茶",
+          "py": "chá"
+        },
+        {
+          "h": "谢谢",
+          "py": "xièxie"
+        },
+        {
+          "h": "不客气",
+          "py": "bú kèqi"
+        },
+        {
+          "h": "客气",
+          "py": "kèqi"
+        },
+        {
+          "h": "工作",
+          "py": "gōngzuò"
+        },
+        {
+          "h": "身体",
+          "py": "shēntǐ"
+        },
+        {
+          "h": "十",
+          "py": "shí"
+        },
+        {
+          "h": "日",
+          "py": "rì"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập tự luận, ngày 15 (có đáp án)"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành, ngày 16+17"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập trắc nghiệm bài 5"
+        },
+        {
+          "k": "video",
+          "t": "Giáo trình HSK1 bài 5, phần 1 và 2"
+        },
+        {
+          "k": "video",
+          "t": "Luyện nghe dịch hội thoại"
+        },
+        {
+          "k": "video",
+          "t": "Ngữ pháp cơ bản, phần 2"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "zh": "",
+      "vi": "",
+      "days": "",
+      "missing": true,
+      "vocab": [],
+      "files": []
+    },
+    {
+      "n": 7,
+      "zh": "",
+      "vi": "",
+      "days": "",
+      "missing": true,
+      "vocab": [],
+      "files": []
+    },
+    {
+      "n": 8,
+      "zh": "",
+      "vi": "",
+      "days": "",
+      "missing": true,
+      "vocab": [],
+      "files": []
+    },
+    {
+      "n": 9,
+      "zh": "我换人民币",
+      "vi": "Tôi đổi tiền Nhân Dân Tệ",
+      "days": "28–29",
+      "vocab": [
+        {
+          "h": "下午",
+          "py": "xiàwǔ"
+        },
+        {
+          "h": "上午",
+          "py": "shàngwǔ"
+        },
+        {
+          "h": "图书馆",
+          "py": "túshūguǎn"
+        },
+        {
+          "h": "要",
+          "py": "yào"
+        },
+        {
+          "h": "换",
+          "py": "huàn"
+        },
+        {
+          "h": "小姐",
+          "py": "xiǎojiě"
+        },
+        {
+          "h": "营业员",
+          "py": "yíngyèyuán"
+        },
+        {
+          "h": "人民币",
+          "py": "rénmínbì"
+        },
+        {
+          "h": "人民",
+          "py": "rénmín"
+        },
+        {
+          "h": "百",
+          "py": "bǎi"
+        },
+        {
+          "h": "千",
+          "py": "qiān"
+        },
+        {
+          "h": "万",
+          "py": "wàn"
+        },
+        {
+          "h": "美元",
+          "py": "měiyuán"
+        },
+        {
+          "h": "港币",
+          "py": "gǎngbì"
+        },
+        {
+          "h": "日元",
+          "py": "rìyuán"
+        },
+        {
+          "h": "欧元",
+          "py": "ōuyuán"
+        },
+        {
+          "h": "等",
+          "py": "děng"
+        },
+        {
+          "h": "一会儿",
+          "py": "yíhuìr"
+        },
+        {
+          "h": "先生",
+          "py": "xiānsheng"
+        },
+        {
+          "h": "数",
+          "py": "shǔ"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập trắc nghiệm, ngày 28+29"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "zh": "他住哪儿",
+      "vi": "Ông ấy sống ở đâu",
+      "days": "31–32",
+      "vocab": [
+        {
+          "h": "办公室",
+          "py": "bàngōngshì",
+          "vi": "văn phòng"
+        },
+        {
+          "h": "办公",
+          "py": "bàngōng",
+          "vi": "làm việc, xử lý công việc"
+        },
+        {
+          "h": "职员",
+          "py": "zhíyuán",
+          "vi": "nhân viên"
+        },
+        {
+          "h": "找",
+          "py": "zhǎo",
+          "vi": "tìm, tìm kiếm"
+        },
+        {
+          "h": "在",
+          "py": "zài",
+          "vi": "ở, tại"
+        },
+        {
+          "h": "家",
+          "py": "jiā",
+          "vi": "nhà"
+        },
+        {
+          "h": "呢",
+          "py": "ne",
+          "vi": "trợ từ ngữ khí"
+        },
+        {
+          "h": "住",
+          "py": "zhù",
+          "vi": "ở, nơi ở, trọ"
+        },
+        {
+          "h": "楼",
+          "py": "lóu",
+          "vi": "tầng, tòa nhà"
+        },
+        {
+          "h": "门",
+          "py": "mén",
+          "vi": "cổng, cửa"
+        },
+        {
+          "h": "房间",
+          "py": "fángjiān",
+          "vi": "phòng, căn phòng"
+        },
+        {
+          "h": "号",
+          "py": "hào",
+          "vi": "số (nhà), số (điện thoại)"
+        },
+        {
+          "h": "知道",
+          "py": "zhīdào",
+          "vi": "biết"
+        },
+        {
+          "h": "电话",
+          "py": "diànhuà",
+          "vi": "điện thoại"
+        },
+        {
+          "h": "电",
+          "py": "diàn",
+          "vi": "điện"
+        },
+        {
+          "h": "话",
+          "py": "huà",
+          "vi": "lời, lời nói"
+        },
+        {
+          "h": "号码",
+          "py": "hàomǎ",
+          "vi": "số"
+        },
+        {
+          "h": "零",
+          "py": "líng",
+          "vi": "số 0"
+        },
+        {
+          "h": "手机",
+          "py": "shǒujī",
+          "vi": "điện thoại di động"
+        },
+        {
+          "h": "手",
+          "py": "shǒu",
+          "vi": "tay"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập ôn lại kiến thức, ngày 31+32"
+        },
+        {
+          "k": "pdf",
+          "t": "Thực hành luyện tập dịch"
+        }
+      ],
+      "grammar": [
+        {
+          "t": "Hỏi nơi ở: 住, 在, 住在",
+          "rule": "住 nói về nơi sống lâu dài, 在 nói về đang có mặt ở đâu. Hỏi nhà ở đâu dùng 家在哪儿, hỏi địa chỉ dùng 地址是什么.",
+          "ex": [
+            {
+              "zh": "他住哪儿？",
+              "vi": "Anh ấy sống ở đâu?"
+            },
+            {
+              "zh": "你家在哪儿？",
+              "vi": "Nhà bạn ở đâu?"
+            },
+            {
+              "zh": "你住在哪儿？",
+              "vi": "Bạn sống ở đâu?"
+            }
+          ]
+        },
+        {
+          "t": "Hỏi ai đó có mặt không: 在吗",
+          "rule": "Tên người hoặc đại từ + 在吗. Trả lời có mặt là 在, không có mặt là 不在.",
+          "ex": [
+            {
+              "zh": "你哥在吗？",
+              "vi": "Anh bạn có nhà không?"
+            },
+            {
+              "zh": "他不在，他去玩儿了。",
+              "vi": "Anh ấy không có nhà, đi chơi rồi."
+            }
+          ]
+        },
+        {
+          "t": "Đọc địa chỉ",
+          "rule": "Đọc từ lớn đến nhỏ, ngược với tiếng Việt: tỉnh thành, quận huyện, phường xã, đường, số nhà, tầng, phòng.",
+          "ex": [
+            {
+              "zh": "你住几号？",
+              "vi": "Bạn ở số mấy?"
+            },
+            {
+              "zh": "我住在四百四十号。",
+              "vi": "Tôi ở số 440."
+            }
+          ]
+        },
+        {
+          "t": "Đọc số 1 trong dãy số: yāo",
+          "rule": "Khi đọc số nhà, số điện thoại, số khẩn cấp, số 1 đọc là yāo để khỏi nhầm với 七 (qī).",
+          "ex": [
+            {
+              "zh": "一一零",
+              "vi": "yāo yāo líng (110, gọi công an)"
+            },
+            {
+              "zh": "一零七",
+              "vi": "yāo líng qī (107)"
+            }
+          ]
+        },
+        {
+          "t": "Hỏi số điện thoại",
+          "rule": "你的手机号码是多少 hoặc 是什么. Trả lời: 我的手机号码是 + dãy số.",
+          "ex": [
+            {
+              "zh": "你的手机号码是多少？",
+              "vi": "Số điện thoại của bạn là bao nhiêu?"
+            },
+            {
+              "zh": "你妹妹的电话号码是什么？",
+              "vi": "Số điện thoại của em gái bạn là gì?"
+            }
+          ]
+        },
+        {
+          "t": "Trợ từ ngữ khí 呢",
+          "rule": "Đặt cuối câu. Ở câu hỏi làm giọng mềm hơn (nhỉ, vậy). Ở câu kể mang ý nhấn nhẹ, báo cho người nghe (đấy, đâu nhé).",
+          "ex": [
+            {
+              "zh": "他住哪儿呢？",
+              "vi": "Anh ấy ở đâu nhỉ?"
+            },
+            {
+              "zh": "外面有人叫你呢。",
+              "vi": "Bên ngoài có người gọi bạn đấy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "zh": "我们都是留学生",
+      "vi": "Chúng tôi đều là lưu học sinh",
+      "days": "",
+      "vocab": [
+        {
+          "h": "先",
+          "py": "xiān",
+          "vi": "đầu tiên, trước tiên"
+        },
+        {
+          "h": "介绍",
+          "py": "jièshào",
+          "vi": "giới thiệu"
+        },
+        {
+          "h": "一下儿",
+          "py": "yíxiàr",
+          "vi": "một chút"
+        },
+        {
+          "h": "位",
+          "py": "wèi",
+          "vi": "vị (lượng từ chỉ người)"
+        },
+        {
+          "h": "教授",
+          "py": "jiàoshòu",
+          "vi": "giáo sư"
+        },
+        {
+          "h": "留学生",
+          "py": "liúxuéshēng",
+          "vi": "lưu học sinh, du học sinh"
+        },
+        {
+          "h": "也",
+          "py": "yě",
+          "vi": "cũng"
+        },
+        {
+          "h": "都",
+          "py": "dōu",
+          "vi": "đều"
+        },
+        {
+          "h": "和",
+          "py": "hé",
+          "vi": "và"
+        },
+        {
+          "h": "俩",
+          "py": "liǎ",
+          "vi": "hai (người)"
+        },
+        {
+          "h": "没什么",
+          "py": "méishénme",
+          "vi": "không có gì"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành bài 11"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập ôn tập kiến thức 11"
+        }
+      ],
+      "grammar": [
+        {
+          "t": "Trạng ngữ",
+          "rule": "Từ chỉ thời gian hoặc nơi chốn đặt trước vị ngữ: sau chủ ngữ hoặc đầu câu. Không đặt sau động từ như tiếng Việt.",
+          "ex": [
+            {
+              "zh": "我们明天去银行。",
+              "vi": "Ngày mai chúng tôi đi ngân hàng."
+            },
+            {
+              "zh": "他在学校学习汉语。",
+              "vi": "Anh ấy học tiếng Hán ở trường."
+            }
+          ]
+        },
+        {
+          "t": "Phó từ 也 và 都",
+          "rule": "也 (cũng) và 都 (đều) đứng sau chủ ngữ, trước động từ hoặc tính từ. Dùng cả hai thì 也 đứng trước 都. 都不 là tất cả đều không, 不都 là không phải tất cả đều.",
+          "ex": [
+            {
+              "zh": "他也是老师。",
+              "vi": "Anh ấy cũng là giáo viên."
+            },
+            {
+              "zh": "我们都是留学生。",
+              "vi": "Chúng tôi đều là lưu học sinh."
+            },
+            {
+              "zh": "我们也都是学生。",
+              "vi": "Chúng tôi cũng đều là học sinh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "zh": "你在哪儿学习汉语",
+      "vi": "Bạn học tiếng Hán ở đâu",
+      "days": "37–38",
+      "vocab": [
+        {
+          "h": "语言",
+          "py": "yǔyán",
+          "vi": "ngôn ngữ"
+        },
+        {
+          "h": "大学",
+          "py": "dàxué",
+          "vi": "đại học"
+        },
+        {
+          "h": "怎么样",
+          "py": "zěnmeyàng",
+          "vi": "như thế nào"
+        },
+        {
+          "h": "觉得",
+          "py": "juéde",
+          "vi": "cảm thấy"
+        },
+        {
+          "h": "语法",
+          "py": "yǔfǎ",
+          "vi": "ngữ pháp"
+        },
+        {
+          "h": "听",
+          "py": "tīng",
+          "vi": "nghe"
+        },
+        {
+          "h": "和",
+          "py": "hé",
+          "vi": "và"
+        },
+        {
+          "h": "比较",
+          "py": "bǐjiào",
+          "vi": "tương đối"
+        },
+        {
+          "h": "容易",
+          "py": "róngyì",
+          "vi": "dễ dàng"
+        },
+        {
+          "h": "读",
+          "py": "dú",
+          "vi": "đọc, học"
+        },
+        {
+          "h": "写",
+          "py": "xiě",
+          "vi": "viết"
+        },
+        {
+          "h": "但是",
+          "py": "dànshì",
+          "vi": "nhưng mà"
+        },
+        {
+          "h": "给",
+          "py": "gěi",
+          "vi": "cho"
+        },
+        {
+          "h": "新",
+          "py": "xīn",
+          "vi": "mới"
+        },
+        {
+          "h": "同学",
+          "py": "tóngxué",
+          "vi": "bạn học"
+        },
+        {
+          "h": "同屋",
+          "py": "tóngwū",
+          "vi": "bạn cùng phòng"
+        },
+        {
+          "h": "班",
+          "py": "bān",
+          "vi": "lớp"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành, ngày 37-38"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập trắc nghiệm, ngày 37-38"
+        }
+      ],
+      "grammar": [
+        {
+          "t": "Đại từ nghi vấn: 谁, 哪儿, 哪, 什么, 怎么",
+          "rule": "谁 hỏi người, 哪儿 hỏi nơi chốn, 哪 + lượng từ hỏi chọn cái nào, 什么 hỏi sự vật, 怎么 hỏi cách thức. Từ nghi vấn đứng đúng vị trí của phần được hỏi, không đảo lên đầu câu.",
+          "ex": [
+            {
+              "zh": "你是谁？",
+              "vi": "Bạn là ai?"
+            },
+            {
+              "zh": "你在哪儿学习汉语？",
+              "vi": "Bạn học tiếng Hán ở đâu?"
+            },
+            {
+              "zh": "这个字怎么读？",
+              "vi": "Chữ này đọc thế nào?"
+            }
+          ]
+        },
+        {
+          "t": "Trợ từ 的",
+          "rule": "Định ngữ + 的 + từ trung tâm (danh từ). Định ngữ có thể là tính từ, danh từ chỉ sở hữu hoặc cả một câu. Khi danh từ đã rõ nghĩa thì lược đi: 这是我的.",
+          "ex": [
+            {
+              "zh": "白色的杯子",
+              "vi": "Cái cốc màu trắng"
+            },
+            {
+              "zh": "我妈妈的书",
+              "vi": "Sách của mẹ tôi"
+            },
+            {
+              "zh": "这个东西是我的。",
+              "vi": "Đồ này là của tôi."
+            }
+          ]
+        },
+        {
+          "t": "Ôn 在 và 给",
+          "rule": "在 + nơi chốn + động từ: làm gì ở đâu. 在 + động từ: đang làm gì. 给 + người + động từ: làm gì cho ai.",
+          "ex": [
+            {
+              "zh": "她在家休息。",
+              "vi": "Cô ấy nghỉ ngơi ở nhà."
+            },
+            {
+              "zh": "他在看书。",
+              "vi": "Anh ấy đang đọc sách."
+            },
+            {
+              "zh": "我给你介绍一下。",
+              "vi": "Tôi giới thiệu cho bạn một chút."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "zh": "这是不是中药",
+      "vi": "Đây có phải thuốc bắc không",
+      "days": "",
+      "vocab": [
+        {
+          "h": "箱子",
+          "py": "xiāngzi",
+          "vi": "vali"
+        },
+        {
+          "h": "没(有)",
+          "py": "méi(yǒu)",
+          "vi": "không có"
+        },
+        {
+          "h": "重",
+          "py": "zhòng",
+          "vi": "nặng"
+        },
+        {
+          "h": "轻",
+          "py": "qīng",
+          "vi": "nhẹ"
+        },
+        {
+          "h": "黑",
+          "py": "hēi",
+          "vi": "đen"
+        },
+        {
+          "h": "红",
+          "py": "hóng",
+          "vi": "đỏ"
+        },
+        {
+          "h": "旧",
+          "py": "jiù",
+          "vi": "cũ"
+        },
+        {
+          "h": "老",
+          "py": "lǎo",
+          "vi": "già, cũ"
+        },
+        {
+          "h": "药",
+          "py": "yào",
+          "vi": "thuốc"
+        },
+        {
+          "h": "中药",
+          "py": "zhōngyào",
+          "vi": "thuốc đông y"
+        },
+        {
+          "h": "西药",
+          "py": "xīyào",
+          "vi": "thuốc tây y"
+        },
+        {
+          "h": "茶叶",
+          "py": "cháyè",
+          "vi": "lá trà"
+        },
+        {
+          "h": "里",
+          "py": "lǐ",
+          "vi": "bên trong"
+        },
+        {
+          "h": "日用品",
+          "py": "rìyòngpǐn",
+          "vi": "đồ dùng hằng ngày"
+        },
+        {
+          "h": "件",
+          "py": "jiàn",
+          "vi": "cái (lượng từ của quần áo)"
+        },
+        {
+          "h": "衣服",
+          "py": "yīfu",
+          "vi": "quần áo"
+        },
+        {
+          "h": "把",
+          "py": "bǎ",
+          "vi": "lượng từ của đồ vật có tay cầm"
+        },
+        {
+          "h": "雨伞",
+          "py": "yǔsǎn",
+          "vi": "ô, dù"
+        },
+        {
+          "h": "瓶",
+          "py": "píng",
+          "vi": "bình, chai, lọ"
+        },
+        {
+          "h": "香水",
+          "py": "xiāngshuǐ",
+          "vi": "nước hoa"
+        },
+        {
+          "h": "词典",
+          "py": "cídiǎn",
+          "vi": "từ điển"
+        },
+        {
+          "h": "张",
+          "py": "zhāng",
+          "vi": "tấm, tờ (lượng từ)"
+        },
+        {
+          "h": "光盘",
+          "py": "guāngpán",
+          "vi": "đĩa CD"
+        },
+        {
+          "h": "支",
+          "py": "zhī",
+          "vi": "lượng từ của vật có cán dài"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành bài 13"
+        },
+        {
+          "k": "pdf",
+          "t": "Bài tập củng cố kiến thức bài 13"
+        }
+      ],
+      "grammar": [
+        {
+          "t": "Câu hỏi chính phản: A不A",
+          "rule": "Lặp động từ hoặc tính từ ở dạng khẳng định rồi phủ định để hỏi có hay không. Với 有 thì dùng 有没有.",
+          "ex": [
+            {
+              "zh": "你去不去？",
+              "vi": "Bạn có đi không?"
+            },
+            {
+              "zh": "你要不要茶？",
+              "vi": "Bạn có muốn trà không?"
+            },
+            {
+              "zh": "你有没有手机？",
+              "vi": "Bạn có điện thoại không?"
+            }
+          ]
+        },
+        {
+          "t": "Số lượng không xác định: 一些, 些",
+          "rule": "一些 + danh từ nghĩa là một vài, một ít. Chỉ đi với 一, không đi với số khác. Có thể đứng cuối câu sau tính từ hoặc động từ để chỉ mức độ nhẹ.",
+          "ex": [
+            {
+              "zh": "有一些事",
+              "vi": "Có một số việc"
+            },
+            {
+              "zh": "好了一些。",
+              "vi": "Khá hơn một chút rồi."
+            }
+          ]
+        },
+        {
+          "t": "Câu vị ngữ tính từ",
+          "rule": "Chủ ngữ + (很, 比较, 非常...) + tính từ. Không đặt 是 giữa chủ ngữ và tính từ. Phủ định thêm 不 trước tính từ. Hỏi bằng 吗 hoặc tính từ + 不 + tính từ.",
+          "ex": [
+            {
+              "zh": "我的学校很漂亮。",
+              "vi": "Trường tôi rất đẹp."
+            },
+            {
+              "zh": "学校热闹不热闹？",
+              "vi": "Trường có náo nhiệt không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "zh": "你的车是新的还是旧的",
+      "vi": "Xe của bạn là mới hay cũ",
+      "days": "",
+      "vocab": [
+        {
+          "h": "经理",
+          "py": "jīnglǐ"
+        },
+        {
+          "h": "好久",
+          "py": "hǎojiǔ"
+        },
+        {
+          "h": "马马虎虎",
+          "py": "mǎmahūhū"
+        },
+        {
+          "h": "最近",
+          "py": "zuìjìn"
+        },
+        {
+          "h": "刚",
+          "py": "gāng"
+        },
+        {
+          "h": "开学",
+          "py": "kāixué",
+          "vi": "khai giảng"
+        },
+        {
+          "h": "开",
+          "py": "kāi"
+        },
+        {
+          "h": "点儿",
+          "py": "diǎnr"
+        },
+        {
+          "h": "还是",
+          "py": "háishì"
+        },
+        {
+          "h": "车",
+          "py": "chē",
+          "vi": "xe"
+        },
+        {
+          "h": "自行车",
+          "py": "zìxíngchē"
+        },
+        {
+          "h": "摩托车",
+          "py": "mótuōchē"
+        },
+        {
+          "h": "出租车",
+          "py": "chūzūchē"
+        },
+        {
+          "h": "颜色",
+          "py": "yánsè"
+        },
+        {
+          "h": "辆",
+          "py": "liàng"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập ôn lại kiến thức bài 14"
+        },
+        {
+          "k": "video",
+          "t": "Bài tập nghe HSK1 bài 14"
+        },
+        {
+          "k": "video",
+          "t": "Video bài 14"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "zh": "你们的公司有多少职员",
+      "vi": "Công ty các bạn có bao nhiêu nhân viên",
+      "days": "",
+      "vocab": [
+        {
+          "h": "全",
+          "py": "quán",
+          "vi": "toàn, toàn bộ"
+        },
+        {
+          "h": "照片",
+          "py": "zhàopiàn",
+          "vi": "ảnh"
+        },
+        {
+          "h": "看",
+          "py": "kàn",
+          "vi": "xem, nhìn, gặp"
+        },
+        {
+          "h": "只",
+          "py": "zhǐ",
+          "vi": "chỉ (có)"
+        },
+        {
+          "h": "做",
+          "py": "zuò",
+          "vi": "làm"
+        },
+        {
+          "h": "大夫",
+          "py": "dàifu",
+          "vi": "bác sĩ"
+        },
+        {
+          "h": "医院",
+          "py": "yīyuàn",
+          "vi": "bệnh viện"
+        },
+        {
+          "h": "公司",
+          "py": "gōngsī",
+          "vi": "công ty"
+        },
+        {
+          "h": "商店",
+          "py": "shāngdiàn",
+          "vi": "cửa hàng"
+        },
+        {
+          "h": "外贸",
+          "py": "wàimào",
+          "vi": "ngoại thương"
+        },
+        {
+          "h": "大概",
+          "py": "dàgài",
+          "vi": "đại khái, khoảng"
+        },
+        {
+          "h": "外国",
+          "py": "wàiguó",
+          "vi": "nước ngoài"
+        },
+        {
+          "h": "工资",
+          "py": "gōngzī",
+          "vi": "tiền lương"
+        },
+        {
+          "h": "薪水",
+          "py": "xīnshuǐ",
+          "vi": "tiền lương"
+        },
+        {
+          "h": "涨",
+          "py": "zhǎng",
+          "vi": "tăng lên"
+        },
+        {
+          "h": "企业",
+          "py": "qǐyè",
+          "vi": "doanh nghiệp"
+        },
+        {
+          "h": "创业",
+          "py": "chuàngyè",
+          "vi": "lập nghiệp"
+        },
+        {
+          "h": "就业",
+          "py": "jiùyè",
+          "vi": "có việc làm"
+        },
+        {
+          "h": "员工",
+          "py": "yuángōng",
+          "vi": "nhân viên"
+        }
+      ],
+      "files": [
+        {
+          "k": "pdf",
+          "t": "Bài tập cần hoàn thành bài 15"
+        },
+        {
+          "k": "video",
+          "t": "Giáo trình bài 15, quyển 1, phần 1 và 2"
+        }
+      ],
+      "grammar": [
+        {
+          "t": "Hỏi số người trong nhà: 几口人, 几个人",
+          "rule": "口 là lượng từ cho thành viên trong gia đình, 个 dùng rộng hơn cho mọi người. Cả hai cách hỏi đều đúng.",
+          "ex": [
+            {
+              "zh": "你家有几口人？",
+              "vi": "Nhà bạn có mấy người?"
+            },
+            {
+              "zh": "我家有四口人。",
+              "vi": "Nhà tôi có bốn người."
+            }
+          ]
+        },
+        {
+          "t": "Phân biệt 二 và 两",
+          "rule": "两 đứng trước lượng từ và trước trăm, nghìn, vạn. 二 dùng khi đếm số, số thứ tự, tháng, tầng.",
+          "ex": [
+            {
+              "zh": "两个人",
+              "vi": "Hai người"
+            },
+            {
+              "zh": "二月, 二楼, 第二",
+              "vi": "Tháng hai, tầng hai, thứ hai"
+            },
+            {
+              "zh": "两百",
+              "vi": "Hai trăm"
+            }
+          ]
+        },
+        {
+          "t": "Hơn: 多",
+          "rule": "Đặt sau số tròn để chỉ hơn con số đó.",
+          "ex": [
+            {
+              "zh": "一百多个",
+              "vi": "Hơn một trăm cái"
+            },
+            {
+              "zh": "十多个人",
+              "vi": "Hơn mười người"
+            }
+          ]
+        },
+        {
+          "t": "Câu có 有 và 没有",
+          "rule": "Có: A + 有 + B. Không có: A + 没有 + B (không dùng 不有). Hỏi: 有没有.",
+          "ex": [
+            {
+              "zh": "他有车。",
+              "vi": "Anh ấy có xe."
+            },
+            {
+              "zh": "我没有钱。",
+              "vi": "Tôi không có tiền."
+            },
+            {
+              "zh": "你有没有词典？",
+              "vi": "Bạn có từ điển không?"
+            }
+          ]
+        },
+        {
+          "t": "几 và 多少",
+          "rule": "几 hỏi số lượng nhỏ (dưới khoảng mười) và phải có lượng từ. 多少 hỏi số lượng lớn hoặc chưa biết, lượng từ không bắt buộc.",
+          "ex": [
+            {
+              "zh": "你有几本书？",
+              "vi": "Bạn có mấy quyển sách?"
+            },
+            {
+              "zh": "你们公司有多少职员？",
+              "vi": "Công ty các bạn có bao nhiêu nhân viên?"
+            }
+          ]
+        },
+        {
+          "t": "Lượng từ",
+          "rule": "Thứ tự: số từ + lượng từ + danh từ. Lượng từ thường gặp: 个 (chung), 位 (người, lịch sự), 本 (sách), 辆 (xe), 张 (tờ, tấm), 支 (bút), 把 (vật có cán), 家 (công ty), 杯 (cốc), 碗 (bát), 斤 (cân).",
+          "ex": [
+            {
+              "zh": "三本书",
+              "vi": "Ba quyển sách"
+            },
+            {
+              "zh": "四辆汽车",
+              "vi": "Bốn chiếc ô tô"
+            },
+            {
+              "zh": "九家公司",
+              "vi": "Chín công ty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "review": [
+    {
+      "k": "pdf",
+      "t": "Bài khóa ôn tập 5 bài đầu HSK1 (ngày 18) và đáp án"
+    },
+    {
+      "k": "pdf",
+      "t": "Tổng hợp kiến thức HSK1 (bài tập nâng cao)"
+    },
+    {
+      "k": "pdf",
+      "t": "Tổng hợp ngữ pháp HSK1"
+    },
+    {
+      "k": "pdf",
+      "t": "Bài tập đọc hiểu HSK1"
+    },
+    {
+      "k": "pdf",
+      "t": "Thực hành luyện tập dịch, bài 1 đến 10"
+    },
+    {
+      "k": "video",
+      "t": "Ôn tập tổng hợp, chữa bài tập quyển 1, phần 1 và 2"
+    },
+    {
+      "k": "video",
+      "t": "Bài tập nghe dịch"
+    },
+    {
+      "k": "video",
+      "t": "Bài test HSK1, cấp 1"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+## bao-tri|Bảo trì, bảo dưỡng
+
+# Lịch bảo dưỡng
+A 这个月的保养计划做好了吗？|Kế hoạch bảo dưỡng tháng này làm xong chưa?
+B 做好了，每台机器都有安排。|Xong rồi, mỗi máy đều có lịch.
+A 保养要在什么时候做？|Bảo dưỡng làm vào lúc nào?
+B 安排在星期天，不影响生产。|Xếp vào Chủ nhật, không ảnh hưởng sản xuất.
+
+# Bảo dưỡng hàng tuần
+A 每个星期要检查哪些地方？|Mỗi tuần phải kiểm tra những chỗ nào?
+B 要检查皮带、螺丝和润滑油。|Phải kiểm tra dây curoa, ốc vít và dầu bôi trơn.
+A 检查的结果要记录吗？|Kết quả kiểm tra có phải ghi lại không?
+B 要，填在保养记录表上。|Có, điền vào bảng ghi chép bảo dưỡng.
+
+# Thay dầu
+A 这台机器的油该换了。|Dầu của máy này đến lúc thay rồi.
+B 上次是什么时候换的？|Lần trước thay khi nào?
+A 三个月以前。|Ba tháng trước.
+B 好，我去准备新油和工具。|Được, tôi đi chuẩn bị dầu mới và dụng cụ.
+
+# Thay lọc
+A 空气过滤器脏了，要换新的。|Bộ lọc không khí bẩn rồi, phải thay cái mới.
+B 换新的以后效果会好吗？|Thay mới rồi hiệu quả có tốt hơn không?
+A 会的，机器的寿命也会更长。|Có, tuổi thọ máy cũng dài hơn.
+B 那我们尽快安排时间。|Vậy chúng ta sắp xếp thời gian sớm.
+
+# Xin dừng máy bảo dưỡng
+A 我想申请明天上午停机保养。|Tôi muốn xin sáng mai dừng máy bảo dưỡng.
+B 要停多长时间？|Phải dừng bao lâu?
+A 大概三个小时。|Khoảng ba tiếng.
+B 好，我和生产部门商量一下。|Được, tôi bàn với bộ phận sản xuất.
+
+# Nhắc bảo dưỡng định kỳ
+A 提醒一下，三号机该保养了。|Nhắc một chút, máy số 3 đến lúc bảo dưỡng rồi.
+B 我看了一下，还差两天。|Tôi xem rồi, còn hai ngày nữa.
+A 还是提前做吧，免得出问题。|Vẫn nên làm sớm, kẻo xảy ra sự cố.
+B 好，我下午就去检查。|Được, chiều nay tôi đi kiểm tra.
+
+# Siết ốc
+A 这些螺丝都有点松了。|Những ốc vít này đều hơi lỏng.
+B 机器一直在震动，难免会松。|Máy rung liên tục nên khó tránh khỏi bị lỏng.
+A 我们要重新拧紧。|Chúng ta phải siết chặt lại.
+B 用扭矩扳手，不能太紧。|Dùng cờ lê lực, không được siết quá chặt.
+
+# Kiểm tra điện
+A 电路每半年要检查一次。|Mạch điện mỗi nửa năm phải kiểm tra một lần.
+B 检查的时候要断电吗？|Khi kiểm tra có phải ngắt điện không?
+A 当然要，而且要挂上警示牌。|Đương nhiên, và phải treo biển cảnh báo.
+B 好，我会按规定做。|Vâng, tôi sẽ làm theo quy định.
+
+# Phụ tùng thay thế
+A 常用的零件仓库里有多少？|Linh kiện thường dùng trong kho còn bao nhiêu?
+B 皮带还有五条，轴承只剩两个。|Dây curoa còn năm sợi, vòng bi chỉ còn hai cái.
+A 轴承要多订一些。|Vòng bi phải đặt thêm.
+B 我现在就写采购申请。|Tôi viết đề nghị mua hàng ngay.
+
+# Bảo trì dự phòng
+A 与其等坏了再修，不如提前保养。|Thay vì chờ hỏng rồi sửa, chi bằng bảo dưỡng trước.
+B 您说得对，这样成本更低。|Anh nói đúng, như vậy chi phí thấp hơn.
+A 那我们增加检查的次数吧。|Vậy chúng ta tăng số lần kiểm tra nhé.
+B 好，我重新制订计划。|Vâng, tôi lập lại kế hoạch.
+
+# Ghi nhận sau bảo dưỡng
+A 保养完了，机器可以用了。|Bảo dưỡng xong, máy dùng được rồi.
+B 更换了哪些零件？|Đã thay những linh kiện nào?
+A 换了皮带和两个过滤器。|Thay dây curoa và hai bộ lọc.
+B 请把这些写在保养记录上。|Hãy ghi những việc này vào sổ bảo dưỡng.
+
+# Bảo trì khi chạy thử
+A 保养以后要先试运行。|Sau bảo dưỡng phải chạy thử trước.
+B 试多久比较合适？|Chạy thử bao lâu là thích hợp?
+A 至少三十分钟，没问题再正式生产。|Ít nhất ba mươi phút, không có vấn đề mới sản xuất chính thức.
+B 好的，我来负责观察。|Vâng, tôi phụ trách theo dõi.
+
+# Chi phí bảo trì
+A 这个月的维修费用是多少？|Chi phí sửa chữa tháng này là bao nhiêu?
+B 一共两万三千元，比上个月多。|Tổng cộng hai mươi ba nghìn tệ, nhiều hơn tháng trước.
+A 为什么增加了？|Vì sao tăng lên?
+B 因为换了一台电机。|Vì đã thay một động cơ.
+
+# Đào tạo kỹ thuật viên
+A 新的师傅需要学习保养方法。|Thợ mới cần học cách bảo dưỡng.
+B 我可以教他，先从简单的开始。|Tôi có thể dạy anh ấy, bắt đầu từ việc đơn giản.
+A 要学多长时间？|Phải học bao lâu?
+B 一个月就可以独立操作。|Một tháng là có thể tự làm.
+
+# Bảo trì phần mềm điều khiển
+A 控制软件要升级到新版本。|Phần mềm điều khiển phải nâng cấp lên phiên bản mới.
+B 升级以后需要重新设置吗？|Nâng cấp xong có phải cài đặt lại không?
+A 参数会保留，但要检查一遍。|Thông số sẽ được giữ lại nhưng phải kiểm tra một lượt.
+B 好，升级前先备份。|Được, nâng cấp trước phải sao lưu.
+
+# Bôi mỡ
+A 轴承需要加黄油。|Vòng bi cần bôi mỡ.
+B 每次加多少？|Mỗi lần bôi bao nhiêu?
+A 不要太多，三分之一就够了。|Đừng nhiều quá, một phần ba là đủ.
+B 太多反而会发热，对吧？|Nhiều quá ngược lại sẽ sinh nhiệt, đúng không?
+
+# Vệ sinh sâu
+A 这个星期六大扫除，所有机器都要清洁。|Thứ Bảy này tổng vệ sinh, tất cả máy đều phải làm sạch.
+B 需要多少人？|Cần bao nhiêu người?
+A 每条线四个人，一共二十个。|Mỗi chuyền bốn người, tổng cộng hai mươi.
+B 好，我现在就统计名单。|Được, tôi thống kê danh sách ngay.
+
+# Kiểm tra độ chính xác
+A 这台机器的精度需要检查一下。|Độ chính xác của máy này cần kiểm tra.
+B 用什么工具检查？|Dùng dụng cụ gì để kiểm tra?
+A 用千分尺测量产品的尺寸。|Dùng panme đo kích thước sản phẩm.
+B 如果超出范围就要调整。|Nếu vượt quá phạm vi thì phải điều chỉnh.
+
+# Thay linh kiện hao mòn
+A 这个零件磨损得很厉害。|Linh kiện này mòn rất nặng.
+B 能再用多久？|Còn dùng được bao lâu?
+A 最多一个星期，最好现在就换。|Tối đa một tuần, tốt nhất thay ngay bây giờ.
+B 那我今晚安排人换。|Vậy tối nay tôi sắp xếp người thay.
+
+# Tổng kết bảo trì
+A 本月的保养全部完成了。|Bảo dưỡng tháng này đã hoàn thành toàn bộ.
+B 有没有发现什么隐患？|Có phát hiện nguy cơ tiềm ẩn nào không?
+A 发现一台机器的轴承有点松。|Phát hiện vòng bi của một máy hơi lỏng.
+B 下个月要重点跟进这个问题。|Tháng sau phải theo dõi kỹ vấn đề này.

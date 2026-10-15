@@ -1,0 +1,121 @@
+## hang-loi|Xử lý hàng lỗi
+
+# Phát hiện hàng lỗi
+A 这个产品有问题，不能用。|Sản phẩm này có vấn đề, không dùng được.
+B 放到红色的箱子里。|Để vào thùng màu đỏ.
+A 红色的箱子是做什么的？|Thùng màu đỏ dùng làm gì?
+B 是放不良品的。|Là để hàng lỗi.
+
+# Ghi chép hàng lỗi
+A 不良品要登记，你知道吗？|Hàng lỗi phải đăng ký, bạn biết không?
+B 不知道，要写什么？|Không biết, phải ghi gì?
+A 写产品名称、数量和原因。|Ghi tên sản phẩm, số lượng và nguyên nhân.
+B 好的，我马上填。|Vâng, tôi điền ngay.
+
+# Phân loại lỗi
+A 这些不良品都是一样的问题吗？|Những hàng lỗi này đều cùng một vấn đề à?
+B 不是，有的是尺寸，有的是表面。|Không phải, có cái lỗi kích thước, có cái lỗi bề mặt.
+A 那要分开放，方便统计。|Vậy phải để riêng, tiện thống kê.
+B 明白，我去分类。|Hiểu rồi, tôi đi phân loại.
+
+# Có thể sửa lại không
+A 这批产品能返工吗？|Lô sản phẩm này làm lại được không?
+B 可以，只是表面需要重新处理。|Được, chỉ là bề mặt cần xử lý lại.
+A 返工要多长时间？|Làm lại mất bao lâu?
+B 大概两天，成本也不高。|Khoảng hai ngày, chi phí cũng không cao.
+
+# Phải hủy bỏ
+A 这些东西没办法修，只能报废。|Những thứ này không sửa được, chỉ có thể hủy.
+B 一共有多少？|Tổng cộng có bao nhiêu?
+A 三百多个，损失大概五千元。|Hơn ba trăm cái, thiệt hại khoảng năm nghìn tệ.
+B 报废需要经理签字吗？|Hủy bỏ có cần quản lý ký không?
+
+# Tỷ lệ lỗi
+A 今天的不良率是多少？|Tỷ lệ lỗi hôm nay là bao nhiêu?
+B 百分之三，比平时高。|Ba phần trăm, cao hơn bình thường.
+A 平时是多少？|Bình thường là bao nhiêu?
+B 一般是百分之一。|Thường là một phần trăm.
+
+# Tìm nguyên nhân lỗi
+A 为什么这个工序的不良品最多？|Vì sao công đoạn này nhiều hàng lỗi nhất?
+B 我觉得是工人还不熟练。|Tôi thấy là do công nhân chưa thành thạo.
+A 也可能是模具磨损了。|Cũng có thể khuôn bị mòn.
+B 我们两个方面都检查一下。|Chúng ta kiểm tra cả hai mặt.
+
+# Cách ly hàng nghi ngờ
+A 这批货有可能有问题，先隔离。|Lô hàng này có khả năng có vấn đề, cách ly trước.
+B 放在哪里比较合适？|Để ở đâu thì thích hợp?
+A 放在仓库的黄色区域。|Để ở khu vực màu vàng của kho.
+B 好，我挂上“待检”的牌子。|Vâng, tôi treo biển “chờ kiểm”.
+
+# Báo cáo không phù hợp
+A 请填一份不合格品报告。|Hãy điền một báo cáo sản phẩm không phù hợp.
+B 报告交给谁？|Báo cáo nộp cho ai?
+A 交给质量部的李经理。|Nộp cho quản lý Lý của bộ phận chất lượng.
+B 好的，我今天下班前交。|Vâng, trước khi tan ca hôm nay tôi nộp.
+
+# Biện pháp khắc phục
+A 针对这个问题，我们要采取措施。|Đối với vấn đề này, chúng ta phải có biện pháp.
+B 您觉得先做什么？|Anh thấy nên làm gì trước?
+A 先暂停生产，找出原因。|Dừng sản xuất tạm thời, tìm ra nguyên nhân.
+B 明白，我马上通知生产线。|Hiểu rồi, tôi báo chuyền sản xuất ngay.
+
+# Phòng ngừa lỗi lặp lại
+A 怎么避免同样的问题再发生？|Làm sao tránh vấn đề tương tự xảy ra lần nữa?
+B 我们可以增加一个检查步骤。|Chúng ta có thể thêm một bước kiểm tra.
+A 还要对工人进行培训。|Còn phải đào tạo công nhân.
+B 好，我来制订培训计划。|Được, tôi lập kế hoạch đào tạo.
+
+# Hàng lỗi do nguyên liệu
+A 这些不良品是原料的问题。|Những hàng lỗi này là do vấn đề nguyên liệu.
+B 你怎么确定？|Sao bạn chắc chắn?
+A 同一批原料做的产品，问题都一样。|Sản phẩm làm từ cùng lô nguyên liệu, vấn đề đều giống nhau.
+B 那要联系供应商，要求赔偿。|Vậy phải liên hệ nhà cung cấp, yêu cầu bồi thường.
+
+# Đổi trả cho nhà cung cấp
+A 这批不合格的材料要退给供应商。|Lô vật liệu không đạt này phải trả lại nhà cung cấp.
+B 我们要写退货单吗？|Chúng ta có phải viết phiếu trả hàng không?
+A 要，还要附上检验报告。|Phải, còn phải đính kèm báo cáo kiểm nghiệm.
+B 好的，我马上准备。|Vâng, tôi chuẩn bị ngay.
+
+# Mức độ nghiêm trọng
+A 这个缺陷严重吗？|Khuyết tật này có nghiêm trọng không?
+B 不严重，只是外观问题。|Không nghiêm trọng, chỉ là vấn đề ngoại quan.
+A 不影响使用吗？|Không ảnh hưởng đến sử dụng à?
+B 不影响，但是客户可能不接受。|Không ảnh hưởng, nhưng khách có thể không chấp nhận.
+
+# Đồng ý nhận có điều kiện
+A 客户同意让步接收这批货。|Khách đồng ý nhận lô hàng này theo diện nhượng bộ.
+B 价格要降低吗？|Giá có phải giảm không?
+A 要，降低百分之十。|Phải, giảm mười phần trăm.
+B 这个结果可以接受。|Kết quả này có thể chấp nhận được.
+
+# Làm lại hàng lỗi
+A 返工的产品要重新检验。|Sản phẩm làm lại phải kiểm nghiệm lại.
+B 要全部检验还是抽检？|Phải kiểm tra toàn bộ hay lấy mẫu?
+A 全部检验，不能有漏的。|Kiểm tra toàn bộ, không được bỏ sót.
+B 明白，我安排两个人负责。|Hiểu rồi, tôi sắp xếp hai người phụ trách.
+
+# Thống kê hàng lỗi hàng tuần
+A 这个星期的不良品统计出来了吗？|Thống kê hàng lỗi tuần này có chưa?
+B 出来了，一共四百二十个。|Có rồi, tổng cộng bốn trăm hai mươi cái.
+A 哪种缺陷最多？|Loại khuyết tật nào nhiều nhất?
+B 划痕最多，占百分之四十。|Vết xước nhiều nhất, chiếm bốn mươi phần trăm.
+
+# Ai chịu trách nhiệm
+A 这次的损失谁来负责？|Thiệt hại lần này ai chịu trách nhiệm?
+B 现在还不能确定，要先调查。|Bây giờ chưa xác định được, phải điều tra trước.
+A 我们不是要追究个人，而是找原因。|Chúng ta không phải truy cứu cá nhân mà là tìm nguyên nhân.
+B 对，这样大家才愿意说实话。|Đúng, như vậy mọi người mới sẵn lòng nói thật.
+
+# Ghi hình làm bằng chứng
+A 不良品要拍照留下证据。|Hàng lỗi phải chụp ảnh lưu bằng chứng.
+B 照片发到哪里？|Ảnh gửi đến đâu?
+A 发到质量部的邮箱。|Gửi vào hộp thư của bộ phận chất lượng.
+B 好，我拍完马上发。|Vâng, chụp xong tôi gửi ngay.
+
+# Kết thúc xử lý lỗi
+A 这个问题已经解决了，可以关闭了。|Vấn đề này đã giải quyết xong, có thể đóng.
+B 我们总结一下经验吧。|Chúng ta tổng kết kinh nghiệm nhé.
+A 以后发现问题要马上上报。|Sau này phát hiện vấn đề phải báo ngay.
+B 好，我写进工作手册里。|Được, tôi ghi vào sổ tay công việc.

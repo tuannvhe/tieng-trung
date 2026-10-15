@@ -1,0 +1,121 @@
+## hsk2-xuong|HSK 2 trong xưởng
+
+# Hôm nay làm gì
+A 今天我们要做什么？|Hôm nay chúng ta phải làm gì?
+B 先打扫房间，再做工作。|Dọn phòng trước, rồi làm việc.
+A 老师什么时候来？|Khi nào thầy đến?
+B 他九点来，请你准备好。|Chín giờ thầy đến, xin bạn chuẩn bị xong.
+
+# Mang thứ gì
+A 你带了你的东西吗？|Bạn mang đồ của bạn chưa?
+B 带了，书和电脑都在这儿。|Mang rồi, sách và máy tính đều ở đây.
+A 你的手机呢？|Còn điện thoại của bạn?
+B 在我的包里。|Ở trong túi của tôi.
+
+# Hôm qua làm việc
+A 昨天你工作到几点？|Hôm qua bạn làm việc đến mấy giờ?
+B 我工作到晚上七点。|Tôi làm đến bảy giờ tối.
+A 你累不累？|Bạn có mệt không?
+B 有一点儿累，但是很高兴。|Hơi mệt một chút, nhưng rất vui.
+
+# Việc nào làm trước
+A 这些东西先做哪一个？|Những việc này làm cái nào trước?
+B 先做这个，因为它最重要。|Làm cái này trước, vì nó quan trọng nhất.
+A 那个可以明天做吗？|Cái kia làm ngày mai được không?
+B 可以，不着急。|Được, không vội.
+
+# Đi lại bằng xe đạp
+A 你每天怎么去工作？|Mỗi ngày bạn đi làm bằng gì?
+B 我骑自行车去。|Tôi đạp xe đi.
+A 要多长时间？|Mất bao lâu?
+B 十五分钟，很快。|Mười lăm phút, rất nhanh.
+
+# Hỏi đường trong khu
+A 请问，办公室在哪个房间？|Xin hỏi, văn phòng ở phòng nào?
+B 在楼上，右边的第二个门。|Ở trên lầu, cánh cửa thứ hai bên phải.
+A 谢谢，我先上去看看。|Cảm ơn, tôi lên xem trước.
+B 不客气，欢迎你来。|Không có gì, hoan nghênh bạn đến.
+
+# Việc nhà và việc làm
+A 你下班以后做什么？|Tan ca xong bạn làm gì?
+B 我先回家，然后做饭。|Tôi về nhà trước, rồi nấu cơm.
+A 吃完饭呢？|Ăn cơm xong thì sao?
+B 看看电视，晚上十点睡觉。|Xem ti vi, mười giờ tối đi ngủ.
+
+# So sánh hai máy
+A 这台比那台新，对吗？|Cái này mới hơn cái kia, đúng không?
+B 对，这台新，那台旧。|Đúng, cái này mới, cái kia cũ.
+A 新的快还是旧的快？|Cái mới nhanh hay cái cũ nhanh?
+B 当然新的快一点。|Đương nhiên cái mới nhanh hơn một chút.
+
+# Hỏi ai giỏi nhất
+A 我们这里谁的汉语最好？|Ở đây ai giỏi tiếng Trung nhất?
+B 小王的汉语最好，他学了三年。|Tiểu Vương giỏi nhất, anh ấy học ba năm.
+A 他住在哪儿？|Anh ấy ở đâu?
+B 他住在公司旁边。|Anh ấy ở bên cạnh công ty.
+
+# Hỏi giá rẻ hơn
+A 这个很贵，有没有便宜的？|Cái này rất đắt, có cái nào rẻ không?
+B 有，这个便宜一点。|Có, cái này rẻ hơn chút.
+A 它们有什么不一样？|Chúng có gì khác nhau?
+B 这个大，那个小，别的都一样。|Cái này to, cái kia nhỏ, còn lại đều giống nhau.
+
+# Đang làm gì
+A 你在做什么？|Bạn đang làm gì?
+B 我在写一个东西。|Tôi đang viết một thứ.
+A 写完了吗？|Viết xong chưa?
+B 还没有，快写完了。|Chưa, sắp viết xong rồi.
+
+# Mệt rồi nghỉ
+A 我们工作了三个小时，休息一下吧。|Chúng ta làm ba tiếng rồi, nghỉ một chút đi.
+B 好，我想喝点水。|Được, tôi muốn uống chút nước.
+A 你想吃东西吗？|Bạn muốn ăn gì không?
+B 不想，我只想坐一会儿。|Không muốn, tôi chỉ muốn ngồi một lát.
+
+# Quên mất
+A 我忘了带钥匙，怎么办？|Tôi quên mang chìa khóa, làm sao đây?
+B 你给小李打电话吧。|Bạn gọi điện cho Tiểu Lý đi.
+A 他有我的钥匙吗？|Anh ấy có chìa khóa của tôi không?
+B 有，他在房间里。|Có, anh ấy đang ở trong phòng.
+
+# Chờ một lát
+A 请等一会儿，我马上来。|Xin chờ một lát, tôi đến ngay.
+B 好，我在这儿等你。|Được, tôi chờ bạn ở đây.
+A 对不起，让你等了很久。|Xin lỗi, để bạn chờ lâu.
+B 没事，我也在看书。|Không sao, tôi cũng đang đọc sách.
+
+# Hỏi ý kiến
+A 你觉得这个怎么样？|Bạn thấy cái này thế nào?
+B 我觉得很好，但是有点贵。|Tôi thấy rất tốt, nhưng hơi đắt.
+A 那我们再看看别的。|Vậy chúng ta xem thêm cái khác.
+B 好，不要着急。|Được, đừng vội.
+
+# Nhắc việc
+A 别忘了明天早上八点开会。|Đừng quên sáng mai tám giờ họp.
+B 在哪儿开会？|Họp ở đâu?
+A 在二楼的大房间。|Ở phòng lớn tầng hai.
+B 好的，我会准时到。|Vâng, tôi sẽ đến đúng giờ.
+
+# Học từ đồng nghiệp
+A 你的汉语进步得真快。|Tiếng Trung của bạn tiến bộ thật nhanh.
+B 我每天都跟同事说汉语。|Mỗi ngày tôi đều nói tiếng Trung với đồng nghiệp.
+A 这个办法很好。|Cách này rất tốt.
+B 你也可以试试。|Bạn cũng có thể thử.
+
+# Hẹn ăn tối
+A 今天晚上你有时间吗？|Tối nay bạn có thời gian không?
+B 有，你有什么事？|Có, bạn có việc gì?
+A 我想请你去饭店吃饭。|Tôi muốn mời bạn đến quán ăn.
+B 太好了，几点见面？|Tốt quá, mấy giờ gặp?
+
+# Sức khỏe
+A 你今天看起来不太舒服。|Hôm nay trông bạn không được khỏe.
+B 对，我头疼，也有点发烧。|Đúng, tôi đau đầu, cũng hơi sốt.
+A 你应该去医院看看。|Bạn nên đến bệnh viện xem.
+B 我下午去，现在先吃药。|Chiều tôi đi, bây giờ uống thuốc trước.
+
+# Chuẩn bị về quê
+A 你为什么买这么多东西？|Vì sao bạn mua nhiều đồ vậy?
+B 下个星期我要回国，给家人带礼物。|Tuần sau tôi về nước, mang quà cho người nhà.
+A 你买了什么？|Bạn mua gì rồi?
+B 茶和衣服，还有给孩子的玩具。|Trà và quần áo, còn có đồ chơi cho các cháu.

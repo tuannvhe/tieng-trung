@@ -1,0 +1,115 @@
+## thieu-vat-tu|Thiếu vật tư
+
+# Hết nguyên liệu
+A 原料用完了，没有了。|Nguyên liệu dùng hết rồi, không còn nữa.
+B 仓库里还有吗？|Trong kho còn không?
+A 我去看看。|Để tôi đi xem.
+B 快一点，机器在等。|Nhanh lên, máy đang chờ.
+
+# Không có linh kiện
+A 这个零件我们没有。|Linh kiện này chúng ta không có.
+B 那怎么办？|Vậy làm sao?
+A 我打电话问一下供应商。|Tôi gọi điện hỏi nhà cung cấp.
+B 好，你问什么时候能到。|Được, bạn hỏi khi nào hàng đến.
+
+# Vật tư chưa về
+A 今天的材料怎么还没到？|Vật liệu hôm nay sao vẫn chưa đến?
+B 货车在路上，大概两点到。|Xe hàng đang trên đường, khoảng hai giờ đến.
+A 现在才十点，生产怎么办？|Bây giờ mới mười giờ, sản xuất làm sao?
+B 先做别的订单吧。|Làm đơn khác trước đi.
+
+# Báo thiếu hàng cho kế hoạch
+A 计划部门，我们缺五号零件。|Bộ phận kế hoạch, chúng tôi thiếu linh kiện số 5.
+B 缺多少？|Thiếu bao nhiêu?
+A 缺两千个，最迟明天要。|Thiếu hai nghìn cái, chậm nhất mai phải có.
+B 我马上催采购。|Tôi giục bộ phận thu mua ngay.
+
+# Dùng vật tư thay thế
+A 原来的材料没有了，能用别的吗？|Vật liệu cũ hết rồi, dùng loại khác được không?
+B 要问工程师，不能随便换。|Phải hỏi kỹ sư, không được tùy tiện đổi.
+A 我去找他。|Tôi đi tìm anh ấy.
+B 如果他同意，要写一份记录。|Nếu anh ấy đồng ý thì phải viết một bản ghi chép.
+
+# Mượn từ chuyền khác
+A 你们线有多余的螺丝吗？|Chuyền các bạn có ốc vít thừa không?
+B 有一些，你们要多少？|Có một ít, các bạn cần bao nhiêu?
+A 先借两百个，明天还你。|Mượn trước hai trăm cái, mai trả bạn.
+B 好，请写在借用单上。|Được, xin ghi vào phiếu mượn.
+
+# Vật tư bị giao thiếu
+A 供应商送来的货比单子上少。|Hàng nhà cung cấp gửi đến ít hơn trên phiếu.
+B 少了多少？|Thiếu bao nhiêu?
+A 单子上写一千，实际只有九百。|Trên phiếu ghi một nghìn, thực tế chỉ có chín trăm.
+B 请他们尽快补发。|Yêu cầu họ gửi bù sớm.
+
+# Tiến độ giao hàng của nhà cung cấp
+A 请问我们订的货什么时候发？|Xin hỏi hàng chúng tôi đặt khi nào gửi?
+B 对不起，现在原料紧张。|Xin lỗi, bây giờ nguyên liệu đang khan hiếm.
+A 这样会影响我们的生产。|Như vậy sẽ ảnh hưởng đến sản xuất của chúng tôi.
+B 我们会尽量先给你们安排。|Chúng tôi sẽ cố gắng ưu tiên sắp xếp cho các bạn.
+
+# Thiếu hộp đóng gói
+A 包装盒不够用了。|Hộp đóng gói không đủ dùng nữa.
+B 还差多少？|Còn thiếu bao nhiêu?
+A 差三百个，下午就会用完。|Thiếu ba trăm cái, chiều nay sẽ dùng hết.
+B 我联系仓库，让他们送一些来。|Tôi liên hệ kho, bảo họ mang đến một ít.
+
+# Hết nhãn
+A 标签纸只剩一卷了。|Giấy tem chỉ còn một cuộn.
+B 今天要打印多少标签？|Hôm nay phải in bao nhiêu tem?
+A 大概三千个，一卷不够。|Khoảng ba nghìn cái, một cuộn không đủ.
+B 去办公室再领两卷。|Đến văn phòng lĩnh thêm hai cuộn.
+
+# Đặt hàng gấp
+A 这个材料很急，能不能加急？|Vật liệu này rất gấp, có thể làm gấp không?
+B 加急要多付钱，您同意吗？|Làm gấp phải trả thêm tiền, anh đồng ý không?
+A 可以，只要明天能到。|Được, miễn là mai đến nơi.
+B 好，我们安排专车送货。|Vâng, chúng tôi sắp xếp xe chuyên chở giao hàng.
+
+# Vật tư sai quy cách
+A 这批螺丝的规格不对。|Lô ốc vít này quy cách không đúng.
+B 我们要的是M6，这是M8。|Chúng ta cần M6, đây là M8.
+A 是供应商发错了。|Là nhà cung cấp gửi nhầm.
+B 先别用，通知采购部换货。|Đừng dùng vội, báo bộ phận thu mua đổi hàng.
+
+# Hàng chậm vì kẹt hải quan
+A 进口的零件还没有放行。|Linh kiện nhập khẩu vẫn chưa được thông quan.
+B 海关说要补充文件。|Hải quan nói phải bổ sung hồ sơ.
+A 我们要的时间已经不多了。|Thời gian chúng ta cần không còn nhiều.
+B 我再联系报关公司催一下。|Tôi liên hệ công ty khai báo hải quan giục thêm.
+
+# Tính toán lượng cần
+A 下个月的订单需要多少原料？|Đơn hàng tháng sau cần bao nhiêu nguyên liệu?
+B 我算了一下，大概需要五吨。|Tôi tính rồi, khoảng cần năm tấn.
+A 库存还有多少？|Tồn kho còn bao nhiêu?
+B 只有两吨，所以要再订三吨。|Chỉ có hai tấn, nên phải đặt thêm ba tấn.
+
+# Lập đề nghị mua hàng
+A 请填采购申请单，写清楚数量。|Xin điền phiếu đề nghị mua hàng, ghi rõ số lượng.
+B 还要写原因吗？|Còn phải ghi nguyên nhân à?
+A 要，写“库存不足”就可以。|Phải, ghi “tồn kho không đủ” là được.
+B 好，写完交给您签字。|Vâng, viết xong nộp anh ký.
+
+# Hàng tồn quá nhiều
+A 这种材料库存太多了。|Loại vật liệu này tồn kho quá nhiều.
+B 为什么买这么多？|Vì sao mua nhiều thế?
+A 因为客户取消了订单。|Vì khách hàng đã hủy đơn.
+B 那先别再买，想想怎么用掉。|Vậy đừng mua thêm, nghĩ cách dùng hết đã.
+
+# Đề phòng thiếu hàng
+A 为了不缺料，要多备一点库存。|Để không thiếu liệu, phải dự trữ thêm một ít.
+B 备多少合适？|Dự trữ bao nhiêu là hợp lý?
+A 至少够用两个星期。|Ít nhất đủ dùng hai tuần.
+B 好，我把安全库存调高。|Được, tôi nâng mức tồn kho an toàn lên.
+
+# Báo cáo ảnh hưởng của việc thiếu liệu
+A 因为缺料，今天少做了五百件。|Vì thiếu liệu, hôm nay làm ít đi năm trăm sản phẩm.
+B 能补回来吗？|Có thể bù lại không?
+A 明天加班的话可以。|Mai tăng ca thì được.
+B 那请你写一份报告给经理。|Vậy bạn viết báo cáo gửi quản lý.
+
+# Nhà cung cấp thay thế
+A 现在的供应商不太稳定。|Nhà cung cấp hiện tại không ổn định lắm.
+B 我们要找一个新的备选。|Chúng ta phải tìm một nhà cung cấp dự phòng mới.
+A 价格和质量都要比较。|Giá cả và chất lượng đều phải so sánh.
+B 我先联系三家，请他们报价。|Tôi liên hệ trước ba nhà, nhờ họ báo giá.

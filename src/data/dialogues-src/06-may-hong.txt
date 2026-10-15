@@ -1,0 +1,121 @@
+## may-hong|Máy hỏng, sự cố
+
+# Máy không chạy
+A 这台机器不动了。|Cái máy này không chạy nữa.
+B 电源开了吗？|Đã bật nguồn chưa?
+A 开了，可是没有反应。|Bật rồi, nhưng không có phản ứng.
+B 我去叫维修的师傅。|Tôi đi gọi thợ sửa chữa.
+
+# Mất điện
+A 突然停电了，机器都停了。|Đột nhiên mất điện, máy đều dừng.
+B 别着急，先把开关都关掉。|Đừng vội, tắt hết các công tắc trước.
+A 为什么要关？|Vì sao phải tắt?
+B 来电的时候会烧坏设备。|Khi có điện lại sẽ làm cháy thiết bị.
+
+# Máy có tiếng lạ
+A 机器有奇怪的声音，你听听。|Máy có tiếng lạ, bạn nghe thử.
+B 是的，声音是从里面来的。|Đúng rồi, tiếng phát ra từ bên trong.
+A 要不要马上停机？|Có nên dừng máy ngay không?
+B 要，继续用可能会坏得更厉害。|Nên, tiếp tục dùng có thể hỏng nặng hơn.
+
+# Bốc khói
+A 快看，机器冒烟了！|Mau nhìn, máy bốc khói rồi!
+B 马上按紧急停止按钮！|Bấm nút dừng khẩn cấp ngay!
+A 已经按了，要不要报警？|Bấm rồi, có cần báo cháy không?
+B 先叫消防员，再通知经理。|Gọi nhân viên phòng cháy trước, rồi báo quản lý.
+
+# Kẹt vật liệu
+A 材料卡在里面出不来。|Vật liệu bị kẹt bên trong không ra được.
+B 先停机，不要用手去拿。|Dừng máy trước, đừng dùng tay lấy.
+A 用什么工具拿出来？|Dùng dụng cụ gì để lấy ra?
+B 用长一点的钳子。|Dùng kìm dài một chút.
+
+# Cảm biến lỗi
+A 传感器好像坏了，一直报警。|Cảm biến có vẻ hỏng, cứ báo động mãi.
+B 你怎么知道是传感器？|Sao bạn biết là cảm biến?
+A 屏幕上的提示是“传感器故障”。|Thông báo trên màn hình là “lỗi cảm biến”.
+B 那我们需要换一个新的。|Vậy chúng ta cần thay một cái mới.
+
+# Dây curoa đứt
+A 皮带断了，传送带不转了。|Dây curoa đứt, băng chuyền không quay.
+B 仓库里有备用的皮带吗？|Trong kho có dây curoa dự phòng không?
+A 有，我去拿，大概十分钟。|Có, tôi đi lấy, khoảng mười phút.
+B 好，我先把旧的拆下来。|Được, tôi tháo cái cũ ra trước.
+
+# Rò dầu
+A 机器下面有油，你看到了吗？|Dưới máy có dầu, bạn thấy chưa?
+B 看到了，应该是漏油了。|Thấy rồi, chắc là bị rò dầu.
+A 先放一个盆在下面接着。|Đặt một cái chậu bên dưới hứng trước.
+B 好，我马上通知维修部。|Được, tôi báo bộ phận bảo trì ngay.
+
+# Quá nhiệt
+A 这台机器温度越来越高。|Máy này nhiệt độ ngày càng cao.
+B 风扇转吗？|Quạt có quay không?
+A 不转，应该是风扇坏了。|Không quay, chắc là quạt hỏng.
+B 先关机降温，然后换风扇。|Tắt máy hạ nhiệt trước, sau đó thay quạt.
+
+# Áp suất không đủ
+A 压力不够，产品做不出来。|Áp suất không đủ, không làm ra được sản phẩm.
+B 空气压缩机开着吗？|Máy nén khí có đang bật không?
+A 开着，但是压力表只有四。|Đang bật, nhưng đồng hồ áp suất chỉ có bốn.
+B 可能管子漏气了，去检查一下。|Có thể ống bị rò khí, đi kiểm tra xem.
+
+# Báo hỏng cho bảo trì
+A 喂，是维修部吗？三号机坏了。|A lô, bên bảo trì phải không? Máy số 3 hỏng rồi.
+B 什么问题？|Vấn đề gì?
+A 开机以后一直报错，没法生产。|Bật máy lên cứ báo lỗi, không sản xuất được.
+B 好，我们马上过去。|Được, chúng tôi sang ngay.
+
+# Thợ sửa đến nơi
+A 师傅，您来了，机器在这边。|Thầy ơi, anh đến rồi, máy ở bên này.
+B 什么时候开始出问题的？|Bắt đầu có vấn đề từ lúc nào?
+A 大概一个小时以前。|Khoảng một tiếng trước.
+B 我先检查一下，你先别开机。|Tôi kiểm tra trước, bạn đừng bật máy vội.
+
+# Cần thay phụ tùng
+A 师傅，问题找到了吗？|Thầy ơi, tìm ra vấn đề chưa?
+B 找到了，需要换一个零件。|Tìm ra rồi, cần thay một linh kiện.
+A 零件有现货吗？|Linh kiện có sẵn không?
+B 仓库里没有，要订货，三天才能到。|Trong kho không có, phải đặt hàng, ba ngày mới đến.
+
+# Ảnh hưởng đến sản xuất
+A 机器坏了会影响今天的生产吗？|Máy hỏng có ảnh hưởng sản xuất hôm nay không?
+B 会，这条线只能停下来。|Có, chuyền này chỉ có thể dừng lại.
+A 那我们把人安排到别的线去。|Vậy chúng ta sắp xếp người sang chuyền khác.
+B 好，这样不会浪费时间。|Được, như vậy không lãng phí thời gian.
+
+# Tìm nguyên nhân
+A 这个问题以前有没有发生过？|Vấn đề này trước đây có xảy ra chưa?
+B 上个月发生过一次，原因是灰尘太多。|Tháng trước từng xảy ra một lần, nguyên nhân là nhiều bụi quá.
+A 那这次也可能是这个原因。|Vậy lần này cũng có thể là nguyên nhân đó.
+B 对，我们先清理一下再试。|Đúng, chúng ta dọn sạch rồi thử.
+
+# Sửa xong
+A 修好了，你可以试试了。|Sửa xong rồi, bạn có thể thử.
+B 太好了，现在运转正常。|Tốt quá, bây giờ chạy bình thường.
+A 以后要定期检查这个地方。|Sau này phải kiểm tra chỗ này định kỳ.
+B 我会记在保养计划里。|Tôi sẽ ghi vào kế hoạch bảo dưỡng.
+
+# Máy chạy chập chờn
+A 这台机器有时候好，有时候坏。|Máy này lúc tốt lúc hỏng.
+B 这种问题最麻烦，不容易找原因。|Loại vấn đề này phiền nhất, khó tìm nguyên nhân.
+A 我想可能是接触不良。|Tôi nghĩ có thể do tiếp xúc kém.
+B 我们把线路重新检查一遍。|Chúng ta kiểm tra lại đường dây một lượt.
+
+# Báo cáo sự cố
+A 请把这次故障写成报告。|Hãy viết sự cố lần này thành báo cáo.
+B 要写哪些内容？|Phải viết những nội dung gì?
+A 时间、原因、处理的方法和损失。|Thời gian, nguyên nhân, cách xử lý và thiệt hại.
+B 好，下班前交给您。|Vâng, trước khi tan ca nộp cho anh.
+
+# Máy dự phòng
+A 这台机器要修三天，怎么办？|Máy này phải sửa ba ngày, làm sao đây?
+B 我们有一台备用机，可以先用。|Chúng ta có một máy dự phòng, có thể dùng tạm.
+A 备用机的性能一样吗？|Máy dự phòng hiệu năng có giống không?
+B 差不多，只是速度慢一点。|Gần giống, chỉ là tốc độ chậm hơn một chút.
+
+# Mất khả năng kết nối với máy
+A 电脑连接不上这台设备。|Máy tính không kết nối được với thiết bị này.
+B 数据线插好了吗？|Dây dữ liệu đã cắm chắc chưa?
+A 插好了，换一根线也不行。|Cắm chắc rồi, đổi dây khác cũng không được.
+B 那可能是接口坏了，让技术员来看。|Vậy có thể cổng bị hỏng, để kỹ thuật viên xem.

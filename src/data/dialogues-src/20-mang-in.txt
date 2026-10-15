@@ -1,0 +1,73 @@
+## mang-in|Mạng, máy in
+
+# Mất kết nối mạng
+A 我的电脑上不了网。|Máy tính của tôi không lên mạng được.
+B 网线插好了吗？|Dây mạng cắm chắc chưa?
+A 插好了，网络图标上有红叉。|Cắm chắc rồi, biểu tượng mạng có dấu X đỏ.
+B 我去检查交换机。|Tôi đi kiểm tra switch.
+
+# Wi-Fi yếu
+A 车间里的无线网络信号很弱。|Sóng Wi-Fi trong xưởng rất yếu.
+B 在哪个位置最差？|Ở vị trí nào kém nhất?
+A 在最里面的角落，几乎没有信号。|Ở góc trong cùng, gần như không có sóng.
+B 我们要在那里加一个无线接入点。|Chúng ta phải lắp thêm một điểm phát Wi-Fi ở đó.
+
+# Mạng chậm
+A 今天网络特别慢，打开网页要很久。|Hôm nay mạng đặc biệt chậm, mở trang web mất rất lâu.
+B 是不是很多人在下载东西？|Có phải nhiều người đang tải đồ không?
+A 有可能，我去看看流量。|Có thể, tôi đi xem lưu lượng.
+B 如果是，要限制一下速度。|Nếu đúng vậy thì phải giới hạn tốc độ.
+
+# Địa chỉ IP xung đột
+A 电脑提示IP地址冲突。|Máy tính báo địa chỉ IP bị xung đột.
+B 有人用了同一个IP吗？|Có người dùng cùng một IP à?
+A 应该是，我的地址是手动设置的。|Chắc vậy, địa chỉ của tôi cài thủ công.
+B 改成自动获取，再试一次。|Đổi sang tự động nhận, thử lại một lần.
+
+# Máy in không in
+A 打印机不工作了，文件打不出来。|Máy in không hoạt động, file in không ra.
+B 打印机的灯亮着吗？|Đèn máy in có sáng không?
+A 亮着，但是一直显示错误。|Sáng, nhưng cứ hiển thị lỗi.
+B 看看是不是缺纸或者卡纸了。|Xem có phải hết giấy hoặc kẹt giấy không.
+
+# Kẹt giấy
+A 打印机卡纸了，怎么办？|Máy in kẹt giấy rồi, làm sao đây?
+B 先关机，然后打开盖子。|Tắt máy trước, sau đó mở nắp.
+A 看到纸了，可以直接拉出来吗？|Thấy giấy rồi, có kéo thẳng ra được không?
+B 要慢慢拉，不要把纸撕破。|Phải kéo từ từ, đừng làm rách giấy.
+
+# Thay mực
+A 打印出来的字很淡，是不是没墨了？|Chữ in ra rất nhạt, có phải hết mực không?
+B 是的，要换新的墨盒。|Đúng, phải thay hộp mực mới.
+A 墨盒在哪儿领？|Hộp mực lĩnh ở đâu?
+B 在办公室，找小王领。|Ở văn phòng, tìm Tiểu Vương lĩnh.
+
+# Máy in tem lỗi
+A 标签打印机打出来的条码扫不了。|Mã vạch máy in tem in ra quét không được.
+B 打印的颜色太浅了吗？|Màu in quá nhạt à?
+A 对，可能碳带该换了。|Đúng, có thể đến lúc thay ruy băng mực.
+B 换完以后要重新校准。|Thay xong phải hiệu chuẩn lại.
+
+# Chia sẻ máy in
+A 我怎么用办公室的打印机？|Làm sao tôi dùng máy in của văn phòng?
+B 你要先添加打印机。|Bạn phải thêm máy in trước.
+A 在哪里添加？|Thêm ở đâu?
+B 在设置里，选择“打印机和扫描仪”。|Trong cài đặt, chọn “Máy in và máy quét”.
+
+# Dây mạng bị đứt
+A 这根网线被压断了。|Sợi dây mạng này bị đè đứt.
+B 要重新拉一根吗？|Phải kéo lại một sợi à?
+A 是的，我需要两米长的。|Đúng, tôi cần loại dài hai mét.
+B 仓库里有，我去拿。|Trong kho có, tôi đi lấy.
+
+# Switch hỏng
+A 车间的几台电脑同时断网了。|Mấy máy tính ở xưởng đồng thời mất mạng.
+B 很可能是交换机坏了。|Rất có thể switch hỏng rồi.
+A 我们有备用的吗？|Chúng ta có cái dự phòng không?
+B 有，我马上去换。|Có, tôi đi thay ngay.
+
+# Quản lý quyền truy cập mạng
+A 为什么我的电脑上不了外网？|Vì sao máy tôi không lên mạng ngoài được?
+B 生产电脑只能用公司内网。|Máy sản xuất chỉ được dùng mạng nội bộ công ty.
+A 可是我想查一个资料。|Nhưng tôi muốn tra một tài liệu.
+B 请用办公室的电脑查，或者找我帮忙。|Xin dùng máy văn phòng để tra, hoặc nhờ tôi giúp.

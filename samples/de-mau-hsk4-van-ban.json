@@ -1,0 +1,15 @@
+{
+  "title": "Đề mẫu HSK 4 – bài đọc ngắn (tự soạn)",
+  "level": 4,
+  "source": "tự soạn cho ứng dụng, dùng tự do",
+  "sections": [
+    {
+      "skill": "reading",
+      "minutes": 10,
+      "questions": [
+        { "kind": "read-passage", "text": "公司决定下个月开始使用新的管理系统。以前，大家都用表格记录每天的生产数据，不但慢，而且容易出错。新系统可以自动把数据存起来，还能生成图表。不过，刚开始用的时候，同事们需要花几天时间练习。", "ask": "Đọc đoạn văn và chọn câu đúng.", "options": ["Hệ thống mới tự lưu dữ liệu và tạo biểu đồ.", "Công ty vẫn dùng bảng tính như trước.", "Nhân viên không cần luyện tập."], "answer": 0 },
+        { "kind": "read-passage", "text": "很多人觉得学汉语最难的是声调，但我觉得是汉字。每次看到新字，我都要写好几遍才能记住。后来，我发现把字拆开来记很有用，比如“休”就是一个人靠在树旁边休息。", "ask": "Chọn ý đúng theo đoạn văn.", "options": ["Người viết thấy chữ Hán khó hơn thanh điệu.", "Người viết thấy thanh điệu khó nhất.", "Người viết không còn viết chữ Hán nữa."], "answer": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+## mua-sam|Mua sắm, đi lại
+
+# Mua nước
+A 这个水多少钱？|Chai nước này bao nhiêu tiền?
+B 两块钱一瓶。|Hai tệ một chai.
+A 我要三瓶。|Tôi lấy ba chai.
+B 一共六块钱。|Tổng cộng sáu tệ.
+
+# Mua táo
+A 苹果怎么卖？|Táo bán thế nào?
+B 五块钱一斤。|Năm tệ một cân.
+A 太贵了，便宜一点吧。|Đắt quá, rẻ chút đi.
+B 好，四块五，你要几斤？|Được, bốn tệ rưỡi, bạn lấy mấy cân?
+
+# Mua quần áo
+A 这件衣服我可以试试吗？|Cái áo này tôi mặc thử được không?
+B 可以，试衣间在那边。|Được, phòng thử đồ ở bên kia.
+A 有点小，有大一点的吗？|Hơi nhỏ, có cỡ lớn hơn không?
+B 有，这件正合适你。|Có, cái này vừa với bạn.
+
+# Mua điện thoại
+A 我想买一个手机。|Tôi muốn mua một cái điện thoại.
+B 您想买多少钱的？|Anh muốn mua loại bao nhiêu tiền?
+A 一千块左右，要用得久的。|Khoảng một nghìn tệ, phải dùng bền.
+B 这个怎么样？很多人喜欢。|Cái này thế nào? Nhiều người thích.
+
+# Mua thẻ SIM
+A 你好，我要办一张电话卡。|Xin chào, tôi muốn làm một thẻ điện thoại.
+B 请给我看一下你的护照。|Xin cho tôi xem hộ chiếu của bạn.
+A 在这儿，每个月多少钱？|Đây, mỗi tháng bao nhiêu tiền?
+B 五十块，有二十个流量。|Năm mươi tệ, có hai mươi giga dữ liệu.
+
+# Đi taxi
+A 师傅，去火车站多少钱？|Bác tài, đi ga tàu bao nhiêu tiền?
+B 大概三十块，二十分钟到。|Khoảng ba mươi tệ, hai mươi phút là đến.
+A 好，请开快一点。|Được, xin chạy nhanh một chút.
+B 没问题，请系好安全带。|Không vấn đề, xin thắt dây an toàn.
+
+# Đi xe buýt
+A 请问，去市中心坐几路车？|Xin hỏi, đi trung tâm thành phố đi xe tuyến số mấy?
+B 坐三十二路，在对面上车。|Đi tuyến ba mươi hai, lên xe phía đối diện.
+A 要坐几站？|Phải đi mấy trạm?
+B 坐八站，到人民路下车。|Đi tám trạm, xuống ở đường Nhân Dân.
+
+# Hỏi đường
+A 请问，银行怎么走？|Xin hỏi, ngân hàng đi thế nào?
+B 往前走，到红绿灯向左转。|Đi thẳng, đến đèn giao thông rẽ trái.
+A 远吗？|Có xa không?
+B 不远，大概三百米。|Không xa, khoảng ba trăm mét.
+
+# Ở ngân hàng
+A 我想换钱，一百美元换多少人民币？|Tôi muốn đổi tiền, một trăm đô la đổi được bao nhiêu nhân dân tệ?
+B 今天是七百一十块。|Hôm nay là bảy trăm mười tệ.
+A 好，我换两百美元。|Được, tôi đổi hai trăm đô la.
+B 请填一下这张表。|Xin điền vào tờ phiếu này.
+
+# Chuyển tiền về nhà
+A 我想给家里寄钱。|Tôi muốn gửi tiền về nhà.
+B 您寄到哪个国家？|Anh gửi đến nước nào?
+A 越南，要多长时间？|Việt Nam, mất bao lâu?
+B 一般两天，要收手续费。|Thường hai ngày, phải thu phí thủ tục.
+
+# Ở bệnh viện
+A 医生，我肚子疼。|Bác sĩ, tôi đau bụng.
+B 从什么时候开始疼？|Đau từ khi nào?
+A 昨天晚上，吃了冷的东西。|Tối qua, ăn đồ lạnh.
+B 别担心，吃点药就好了。|Đừng lo, uống chút thuốc là khỏi.
+
+# Mua thuốc
+A 你好，我想买感冒药。|Xin chào, tôi muốn mua thuốc cảm.
+B 你发烧吗？|Bạn có sốt không?
+A 有一点，还咳嗽。|Có một chút, còn ho.
+B 这个药一天吃三次。|Thuốc này mỗi ngày uống ba lần.
+
+# Ở siêu thị
+A 超市里有牙膏吗？|Siêu thị có kem đánh răng không?
+B 有，在第二排的架子上。|Có, ở trên kệ hàng thứ hai.
+A 我找到了，多少钱？|Tôi tìm thấy rồi, bao nhiêu tiền?
+B 十二块，在前面付钱。|Mười hai tệ, trả tiền ở phía trước.
+
+# Thanh toán
+A 请问可以用手机付钱吗？|Xin hỏi có thể trả tiền bằng điện thoại không?
+B 可以，扫这个二维码。|Được, quét mã QR này.
+A 好了，付完了。|Xong rồi, trả xong rồi.
+B 谢谢，欢迎下次再来。|Cảm ơn, hoan nghênh lần sau quay lại.
+
+# Mua vé tàu
+A 我要买一张去上海的火车票。|Tôi muốn mua một vé tàu đi Thượng Hải.
+B 您想坐哪天的？|Anh muốn đi ngày nào?
+A 星期六上午，要靠窗的座位。|Sáng thứ Bảy, muốn ghế cạnh cửa sổ.
+B 好，一共二百三十块。|Được, tổng cộng hai trăm ba mươi tệ.
+
+# Gửi hàng
+A 我要寄一个包裹到越南。|Tôi muốn gửi một bưu kiện về Việt Nam.
+B 里面是什么东西？|Bên trong là đồ gì?
+A 是衣服和一些茶叶。|Là quần áo và một ít trà.
+B 请填一下地址和电话。|Xin điền địa chỉ và số điện thoại.
+
+# Cắt tóc
+A 你好，我想剪头发。|Xin chào, tôi muốn cắt tóc.
+B 您想剪短一点，还是只修一下？|Anh muốn cắt ngắn hay chỉ tỉa một chút?
+A 剪短一点，天气太热了。|Cắt ngắn một chút, trời nóng quá.
+B 好，请坐，我马上开始。|Được, mời ngồi, tôi bắt đầu ngay.
+
+# Hỏi giá
+A 这个多少钱？|Cái này bao nhiêu tiền?
+B 八十块。|Tám mươi tệ.
+A 能便宜一点吗？|Có thể rẻ hơn chút không?
+B 七十块，不能再少了。|Bảy mươi tệ, không thể bớt nữa.
+
+# Trả hàng
+A 这个东西坏了，我想退。|Cái này hỏng rồi, tôi muốn trả lại.
+B 你有发票吗？|Bạn có hóa đơn không?
+A 有，在这儿。|Có, đây.
+B 好，我给你退钱。|Được, tôi hoàn tiền cho bạn.
+
+# Đổi giày
+A 这双鞋有点大，能换吗？|Đôi giày này hơi rộng, đổi được không?
+B 可以，你穿多大的？|Được, bạn đi cỡ bao nhiêu?
+A 我穿四十二号。|Tôi đi cỡ bốn mươi hai.
+B 请等一下，我去拿。|Xin chờ một chút, tôi đi lấy.
+
+# Hỏi giờ đóng cửa
+A 请问，你们几点关门？|Xin hỏi, mấy giờ các bạn đóng cửa?
+B 晚上九点。|Chín giờ tối.
+A 星期天开门吗？|Chủ nhật có mở cửa không?
+B 开，早上九点到晚上八点。|Có, từ chín giờ sáng đến tám giờ tối.
+
+# Đi chợ cuối tuần
+A 周末我想去市场买菜。|Cuối tuần tôi muốn đi chợ mua rau.
+B 市场在哪里？|Chợ ở đâu?
+A 在工厂西边，走路十分钟。|Ở phía tây nhà máy, đi bộ mười phút.
+B 我也去，我们一起走。|Tôi cũng đi, chúng ta cùng đi.
+
+# Mua pin
+A 请问，有电池吗？|Xin hỏi, có pin không?
+B 有，你要几号的？|Có, bạn cần cỡ nào?
+A 五号的，要四个。|Cỡ số năm, cần bốn cái.
+B 这个牌子的比较好用。|Nhãn hiệu này dùng tốt hơn.
+
+# Mua vé xem phim
+A 今天晚上有什么电影？|Tối nay có phim gì?
+B 有三部，你看这个。|Có ba phim, bạn xem phim này.
+A 几点开始？|Mấy giờ bắt đầu?
+B 七点半，两个小时左右。|Bảy giờ rưỡi, khoảng hai tiếng.
+
+# Hỏi nơi gửi xe
+A 请问，自行车可以放在这里吗？|Xin hỏi, xe đạp có thể để ở đây không?
+B 不可以，要放在旁边的停车场。|Không được, phải để ở bãi đỗ xe bên cạnh.
+A 要收钱吗？|Có thu tiền không?
+B 不收钱，请放整齐一点。|Không thu tiền, xin để gọn gàng một chút.

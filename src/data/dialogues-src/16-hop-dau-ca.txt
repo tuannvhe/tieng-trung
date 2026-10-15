@@ -1,0 +1,91 @@
+## hop-dau-ca|Họp đầu ca
+
+# Bắt đầu họp
+A 大家好，现在开始开会。|Chào mọi người, bây giờ bắt đầu họp.
+B 今天开会有多长时间？|Hôm nay họp bao lâu?
+A 大概十分钟，不会很长。|Khoảng mười phút, sẽ không dài.
+B 好，请讲。|Vâng, xin mời nói.
+
+# Nhiệm vụ hôm nay
+A 今天的任务是做两千个产品。|Nhiệm vụ hôm nay là làm hai nghìn sản phẩm.
+B 下午四点以前要做完吗？|Trước bốn giờ chiều phải làm xong à?
+A 对，因为客户明天要货。|Đúng, vì khách mai cần hàng.
+B 明白，我们会努力。|Hiểu rồi, chúng tôi sẽ cố gắng.
+
+# Nhắc về an toàn
+A 开始工作以前，我先讲一下安全。|Trước khi bắt đầu làm việc, tôi nói về an toàn trước.
+B 好的，我们在听。|Vâng, chúng tôi đang nghe.
+A 一定要戴好安全帽和手套。|Nhất định phải đội mũ bảo hộ và đeo găng tay.
+B 知道了，不会忘的。|Biết rồi, sẽ không quên.
+
+# Thông báo thay đổi
+A 今天有一个变化，三号线要换产品。|Hôm nay có một thay đổi, chuyền số 3 phải đổi sản phẩm.
+B 什么时候换？|Khi nào đổi?
+A 十点以后，要先停机十五分钟。|Sau mười giờ, phải dừng máy mười lăm phút trước.
+B 好，我们提前准备材料。|Vâng, chúng tôi chuẩn bị vật liệu trước.
+
+# Nhắc về chất lượng
+A 昨天有五十个不良品，大家要注意。|Hôm qua có năm mươi hàng lỗi, mọi người phải chú ý.
+B 主要是什么问题？|Chủ yếu là vấn đề gì?
+A 表面有划痕，操作的时候要小心。|Bề mặt có vết xước, khi thao tác phải cẩn thận.
+B 我们会更仔细。|Chúng tôi sẽ cẩn thận hơn.
+
+# Biểu dương
+A 昨天二号线的产量最高，要表扬。|Hôm qua sản lượng chuyền số 2 cao nhất, phải biểu dương.
+B 谢谢，大家都很努力。|Cảm ơn, mọi người đều rất cố gắng.
+A 希望今天继续保持。|Hy vọng hôm nay tiếp tục duy trì.
+B 没问题，我们有信心。|Không vấn đề, chúng tôi có niềm tin.
+
+# Phân công
+A 我来安排今天的工作，小王做包装。|Tôi sắp xếp công việc hôm nay, Tiểu Vương làm đóng gói.
+B 好的，需要几个人帮我？|Vâng, cần mấy người giúp tôi?
+A 两个人，小李和小陈。|Hai người, Tiểu Lý và Tiểu Trần.
+B 明白，我们马上开始。|Hiểu rồi, chúng tôi bắt đầu ngay.
+
+# Hỏi ý kiến
+A 大家还有什么问题吗？|Mọi người còn vấn đề gì không?
+B 我有一个问题，材料够用吗？|Tôi có một câu hỏi, vật liệu có đủ dùng không?
+A 够用，仓库已经送来了。|Đủ dùng, kho đã mang đến rồi.
+B 好，我没有问题了。|Vâng, tôi không còn vấn đề gì.
+
+# Phản ánh khó khăn
+A 我想说一下，这台机器最近有点慢。|Tôi muốn nói, máy này dạo này hơi chậm.
+B 有没有告诉维修部门？|Đã báo bộ phận bảo trì chưa?
+A 告诉了，他们说下午来看。|Báo rồi, họ nói chiều đến xem.
+B 好，我们先用别的机器。|Được, chúng ta dùng máy khác trước.
+
+# Họp ngắn khi có vấn đề
+A 大家先停一下，我们开一个短会。|Mọi người dừng lại một chút, chúng ta họp ngắn.
+B 出什么事了？|Có chuyện gì vậy?
+A 客户说有一批货颜色不对。|Khách nói có một lô hàng màu không đúng.
+B 我们马上检查这批产品。|Chúng ta kiểm tra lô sản phẩm này ngay.
+
+# Công bố mục tiêu tuần
+A 这个星期的目标是一万件。|Mục tiêu tuần này là mười nghìn sản phẩm.
+B 平均每天要做多少？|Trung bình mỗi ngày phải làm bao nhiêu?
+A 每天两千，星期六休息。|Mỗi ngày hai nghìn, thứ Bảy nghỉ.
+B 我们可以完成。|Chúng tôi có thể hoàn thành.
+
+# Họp tổng kết cuối ca
+A 今天的工作都完成了，谢谢大家。|Công việc hôm nay đều hoàn thành, cảm ơn mọi người.
+B 今天一共做了多少？|Hôm nay tổng cộng làm được bao nhiêu?
+A 两千一百个，比目标多一百个。|Hai nghìn một trăm cái, nhiều hơn mục tiêu một trăm.
+B 太好了，明天继续努力。|Tốt quá, mai tiếp tục cố gắng.
+
+# Thông báo từ cấp trên
+A 经理说下个月要来一批新机器。|Quản lý nói tháng sau sẽ có một lô máy mới.
+B 新机器会让工作更快吗？|Máy mới sẽ làm việc nhanh hơn à?
+A 是的，但是大家要重新学习。|Đúng, nhưng mọi người phải học lại.
+B 没问题，我们愿意学习。|Không vấn đề, chúng tôi sẵn lòng học.
+
+# Nhắc về giờ giấc
+A 最近有人迟到，请大家准时上班。|Dạo này có người đi muộn, xin mọi người đi làm đúng giờ.
+B 迟到有什么影响？|Đi muộn có ảnh hưởng gì?
+A 影响整条线的工作。|Ảnh hưởng công việc của cả chuyền.
+B 对，我们要互相提醒。|Đúng, chúng ta phải nhắc nhau.
+
+# Học kinh nghiệm
+A 小张昨天发现了一个问题，请他说一说。|Hôm qua Tiểu Trương phát hiện một vấn đề, mời anh ấy nói.
+B 我发现材料有时候放得不对。|Tôi phát hiện đôi khi vật liệu để không đúng.
+A 所以会影响生产的速度，对吗？|Vì vậy sẽ ảnh hưởng tốc độ sản xuất, đúng không?
+B 对，应该按顺序放好。|Đúng, nên xếp đúng thứ tự.

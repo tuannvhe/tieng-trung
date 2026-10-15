@@ -1,0 +1,127 @@
+## xin-nghi|Xin nghỉ, nghỉ phép
+
+# Xin nghỉ một ngày
+A 老师，我明天不能来工作。|Thầy ơi, ngày mai tôi không thể đến làm việc.
+B 为什么？|Vì sao?
+A 我有点不好，想去医院。|Tôi không khỏe, muốn đi bệnh viện.
+B 好，你好好休息。|Được, bạn nghỉ ngơi cho tốt.
+
+# Con ốm
+A 对不起，我今天不能来。|Xin lỗi, hôm nay tôi không thể đến.
+B 怎么了？|Có chuyện gì vậy?
+A 我儿子病了，我在家。|Con trai tôi ốm, tôi ở nhà.
+B 没关系，希望他快点好。|Không sao, mong cháu mau khỏi.
+
+# Gọi điện xin nghỉ
+A 喂，你好，我是小王。|A lô, xin chào, tôi là Tiểu Vương.
+B 小王，你今天怎么没来？|Tiểu Vương, hôm nay sao bạn không đến?
+A 我不太好，头很疼。|Tôi không khỏe lắm, đau đầu lắm.
+B 好，你今天休息吧。|Được, hôm nay bạn nghỉ đi.
+
+# Hỏi nghỉ mấy ngày
+A 我想请三天假，可以吗？|Tôi muốn xin nghỉ ba ngày, được không?
+B 你有什么事？|Bạn có việc gì?
+A 我妈妈来看我。|Mẹ tôi đến thăm tôi.
+B 可以，请写一下请假条。|Được, xin viết đơn xin nghỉ.
+
+# Viết đơn xin nghỉ
+A 请假条怎么写？|Đơn xin nghỉ viết thế nào?
+B 写你的名字、日期和原因。|Ghi tên bạn, ngày tháng và lý do.
+A 我写好了，请看看。|Tôi viết xong rồi, xin xem.
+B 很好，我签字了。|Tốt lắm, tôi ký rồi.
+
+# Nghỉ vì việc nhà
+A 我家里有事，想回去几天。|Nhà tôi có việc, muốn về mấy ngày.
+B 你家在哪儿？|Nhà bạn ở đâu?
+A 在越南，坐飞机三个小时。|Ở Việt Nam, đi máy bay ba tiếng.
+B 好，路上小心。|Được, đi đường cẩn thận.
+
+# Nghỉ lễ
+A 下个星期放假吗？|Tuần sau có nghỉ không?
+B 放，星期一到星期三。|Có, từ thứ Hai đến thứ Tư.
+A 太好了，我想去北京玩。|Tốt quá, tôi muốn đi Bắc Kinh chơi.
+B 玩得高兴。|Chúc bạn chơi vui.
+
+# Hết ngày nghỉ
+A 假期过得怎么样？|Kỳ nghỉ của bạn thế nào?
+B 很好，我去了很多地方。|Rất tốt, tôi đã đến nhiều nơi.
+A 今天开始工作了。|Hôm nay bắt đầu làm việc rồi.
+B 对，我们都休息好了。|Đúng, chúng ta đều nghỉ ngơi đủ rồi.
+
+# Xin nghỉ nửa ngày
+A 我下午想请半天假。|Chiều tôi muốn xin nghỉ nửa ngày.
+B 你去做什么？|Bạn đi làm gì?
+A 我要去银行。|Tôi phải đi ngân hàng.
+B 可以，早点回来。|Được, về sớm nhé.
+
+# Bác sĩ cho nghỉ
+A 医生说我要休息两天。|Bác sĩ nói tôi phải nghỉ hai ngày.
+B 你有医生写的证明吗？|Bạn có giấy xác nhận bác sĩ viết không?
+A 有，我明天拿给你。|Có, mai tôi đưa bạn.
+B 好，你安心休息。|Được, bạn yên tâm nghỉ ngơi.
+
+# Không được duyệt
+A 这个星期很忙，不能请假。|Tuần này rất bận, không thể xin nghỉ.
+B 可是我有急事。|Nhưng tôi có việc gấp.
+A 下个星期可以吗？|Tuần sau được không?
+B 好吧，我下个星期再请。|Thôi được, tuần sau tôi xin lại.
+
+# Nhờ người làm thay
+A 明天我要去医院，能帮我吗？|Mai tôi phải đi bệnh viện, bạn giúp tôi được không?
+B 帮什么？|Giúp gì?
+A 你帮我做一天工作，可以吗？|Bạn làm việc thay tôi một ngày, được không?
+B 可以，下次我请假你也帮我。|Được, lần sau tôi xin nghỉ bạn cũng giúp tôi.
+
+# Hỏi còn bao nhiêu ngày phép
+A 我今年还有几天假？|Năm nay tôi còn mấy ngày phép?
+B 我看一下，还有五天。|Để tôi xem, còn năm ngày.
+A 可以一起休息吗？|Có thể nghỉ liền một lượt không?
+B 可以，要提前告诉我。|Được, phải báo trước cho tôi.
+
+# Nghỉ cưới
+A 老师，我下个月结婚。|Thầy ơi, tháng sau tôi cưới.
+B 恭喜你！你想请几天假？|Chúc mừng bạn! Bạn muốn xin nghỉ mấy ngày?
+A 请一个星期，可以吗？|Xin nghỉ một tuần, được không?
+B 没问题，祝你们幸福。|Không vấn đề, chúc hai bạn hạnh phúc.
+
+# Nghỉ vì mưa lớn
+A 今天雨很大，路上很堵。|Hôm nay mưa to quá, trên đường rất kẹt.
+B 你到哪儿了？|Bạn đến đâu rồi?
+A 还在路上，可能要晚一个小时。|Vẫn đang trên đường, có thể muộn một tiếng.
+B 没关系，你慢点开车。|Không sao, bạn lái xe chậm thôi.
+
+# Muốn về sớm
+A 我想早点下班，可以吗？|Tôi muốn tan ca sớm, được không?
+B 你不舒服吗？|Bạn không thoải mái à?
+A 对，我有点发烧。|Đúng, tôi hơi bị sốt.
+B 快回家休息，明天再来。|Mau về nhà nghỉ ngơi, mai đến lại.
+
+# Xin nghỉ không lương
+A 我想请一个月假，不要工资。|Tôi muốn xin nghỉ một tháng, không lấy lương.
+B 为什么要请这么长时间？|Vì sao muốn xin lâu thế?
+A 我的家人身体不好，需要照顾。|Người nhà tôi sức khỏe không tốt, cần chăm sóc.
+B 我要问一下经理，再告诉你。|Tôi phải hỏi quản lý rồi báo lại bạn.
+
+# Quay lại làm việc
+A 你好了吗？可以上班了吗？|Bạn khỏe chưa? Đi làm được chưa?
+B 好了，谢谢你们关心。|Khỏe rồi, cảm ơn mọi người đã quan tâm.
+A 这几天我们都很忙。|Mấy ngày nay chúng tôi đều rất bận.
+B 我来帮忙，请告诉我做什么。|Tôi đến giúp, xin cho tôi biết làm gì.
+
+# Báo cáo người vắng
+A 今天谁没有来？|Hôm nay ai không đến?
+B 小张和小李请假了。|Tiểu Trương và Tiểu Lý xin nghỉ.
+A 还有别人吗？|Còn ai khác không?
+B 没有了，其他人都来了。|Không còn, những người khác đều đến rồi.
+
+# Nghỉ bù
+A 上个星期六我加班了。|Thứ Bảy tuần trước tôi đã tăng ca.
+B 你想调休吗？|Bạn muốn nghỉ bù không?
+A 想，下个星期一可以休息吗？|Muốn, thứ Hai tuần sau nghỉ được không?
+B 可以，我给你安排。|Được, tôi sắp xếp cho bạn.
+
+# Nghỉ vì việc đột xuất
+A 经理，家里突然有急事。|Quản lý, nhà đột nhiên có việc gấp.
+B 严重吗？需要我帮忙吗？|Nghiêm trọng không? Cần tôi giúp gì không?
+A 我要马上回去，可能要请几天假。|Tôi phải về ngay, có thể phải xin nghỉ vài ngày.
+B 你先走，手续以后再补。|Bạn đi trước, thủ tục bổ sung sau.

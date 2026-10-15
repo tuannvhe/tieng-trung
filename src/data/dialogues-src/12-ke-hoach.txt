@@ -1,0 +1,103 @@
+## ke-hoach|Kế hoạch sản xuất
+
+# Nhận đơn mới
+A 我们接了一个新订单。|Chúng ta nhận một đơn hàng mới.
+B 要做多少？|Phải làm bao nhiêu?
+A 五万个，一个月以内交货。|Năm vạn cái, giao hàng trong vòng một tháng.
+B 时间有点紧，我先排计划。|Thời gian hơi gấp, tôi lập kế hoạch trước.
+
+# Sắp xếp theo chuyền
+A 这个订单安排在哪条线做？|Đơn này sắp xếp làm ở chuyền nào?
+B 安排在二号线和三号线。|Sắp xếp ở chuyền số 2 và số 3.
+A 每条线每天能做多少？|Mỗi chuyền mỗi ngày làm được bao nhiêu?
+B 每条线两千个，两条线四千个。|Mỗi chuyền hai nghìn cái, hai chuyền bốn nghìn cái.
+
+# Tính ngày hoàn thành
+A 五万个要做多少天？|Năm vạn cái phải làm mấy ngày?
+B 每天四千，大约十三天。|Mỗi ngày bốn nghìn, khoảng mười ba ngày.
+A 那么能按时交货吗？|Vậy có giao hàng đúng hạn được không?
+B 可以，还有几天的余量。|Được, còn dư mấy ngày.
+
+# Thay đổi ưu tiên
+A 另一个客户要求加急。|Một khách hàng khác yêu cầu gấp.
+B 那这个订单要提前吗？|Vậy đơn này phải đẩy lên trước à?
+A 对，先做加急的订单。|Đúng, làm đơn gấp trước.
+B 好，我重新调整计划。|Được, tôi điều chỉnh lại kế hoạch.
+
+# Cân đối nhân lực
+A 下个星期订单多，人手够吗？|Tuần sau đơn nhiều, nhân lực có đủ không?
+B 不太够，还缺十个人。|Không đủ lắm, còn thiếu mười người.
+A 能不能从别的车间调人？|Có thể điều người từ xưởng khác không?
+B 我问一下，应该可以。|Tôi hỏi thử, chắc là được.
+
+# Kiểm tra vật tư trước khi lên kế hoạch
+A 排产以前，先确认材料。|Trước khi lên lịch sản xuất, xác nhận vật liệu trước.
+B 材料都齐了吗？|Vật liệu đã đủ cả chưa?
+A 还差一种，下周三才能到。|Còn thiếu một loại, thứ Tư tuần sau mới đến.
+B 那这个订单要从周四开始做。|Vậy đơn này phải bắt đầu làm từ thứ Năm.
+
+# Đánh giá công suất
+A 公司现在的产能是多少？|Công suất hiện tại của công ty là bao nhiêu?
+B 每个月大概十五万个。|Mỗi tháng khoảng mười lăm vạn cái.
+A 订单已经超过了吗？|Đơn hàng đã vượt quá chưa?
+B 有一点超，需要外包一部分。|Hơi vượt một chút, cần gia công ngoài một phần.
+
+# Họp kế hoạch hằng tuần
+A 每个星期一都要开计划会。|Mỗi thứ Hai đều phải họp kế hoạch.
+B 要带什么资料？|Phải mang tài liệu gì?
+A 带上这个星期的完成情况。|Mang theo tình hình hoàn thành tuần này.
+B 好，我现在去整理。|Vâng, tôi đi tổng hợp ngay.
+
+# Điều chỉnh do máy hỏng
+A 因为机器坏了，这个星期的计划要改。|Vì máy hỏng nên kế hoạch tuần này phải đổi.
+B 少做多少？|Làm ít đi bao nhiêu?
+A 少两千个，要在周末补上。|Ít đi hai nghìn cái, phải bù vào cuối tuần.
+B 那周末需要加班。|Vậy cuối tuần phải tăng ca.
+
+# Dự báo nhu cầu
+A 下个季度的订单预计会增加。|Đơn hàng quý sau dự kiến sẽ tăng.
+B 增加多少？|Tăng bao nhiêu?
+A 大概百分之二十，要提前准备。|Khoảng hai mươi phần trăm, phải chuẩn bị trước.
+B 我们需要多买原料，也要多招工人。|Chúng ta cần mua thêm nguyên liệu và tuyển thêm công nhân.
+
+# Lịch giao hàng
+A 客户要求每个星期发一次货。|Khách yêu cầu mỗi tuần giao hàng một lần.
+B 每次发多少？|Mỗi lần giao bao nhiêu?
+A 一万个，一共五次。|Một vạn cái, tổng cộng năm lần.
+B 好，我按这个安排生产。|Được, tôi sắp xếp sản xuất theo đó.
+
+# Rút ngắn thời gian
+A 能不能把交货时间提前一周？|Có thể đẩy sớm thời gian giao hàng một tuần không?
+B 要看生产线能不能提高速度。|Phải xem chuyền sản xuất có thể tăng tốc không.
+A 如果增加一个班次呢？|Nếu thêm một ca thì sao?
+B 那应该可以，但是成本会高一点。|Vậy chắc được, nhưng chi phí sẽ cao hơn.
+
+# Kế hoạch bảo trì chen vào
+A 下星期三要给一号机保养。|Thứ Tư tuần sau phải bảo dưỡng máy số 1.
+B 那天不是订单最多的时候吗？|Ngày đó chẳng phải lúc đơn nhiều nhất sao?
+A 是，所以我们要把保养放到晚上。|Đúng, nên chúng ta phải để bảo dưỡng vào buổi tối.
+B 好，这样不影响白天生产。|Được, như vậy không ảnh hưởng sản xuất ban ngày.
+
+# Tiến độ so với kế hoạch
+A 现在的进度比计划慢了一天。|Tiến độ hiện tại chậm hơn kế hoạch một ngày.
+B 为什么会慢？|Vì sao chậm?
+A 前天停电，影响了半天。|Hôm kia mất điện, ảnh hưởng nửa ngày.
+B 我们加一个晚班就能补回来。|Chúng ta thêm một ca tối là bù lại được.
+
+# Báo cáo khách hàng
+A 客户问我们的订单做到哪里了。|Khách hỏi đơn hàng của chúng ta làm đến đâu rồi.
+B 已经完成百分之六十。|Đã hoàn thành sáu mươi phần trăm.
+A 能保证按时交货吗？|Có đảm bảo giao hàng đúng hạn không?
+B 可以，我们会每天更新进度。|Được, chúng tôi sẽ cập nhật tiến độ mỗi ngày.
+
+# Đơn hàng bị hủy
+A 客户取消了下个月的订单。|Khách hủy đơn hàng tháng sau.
+B 那我们的计划要大改。|Vậy kế hoạch của chúng ta phải sửa lớn.
+A 已经买的原料怎么办？|Nguyên liệu đã mua thì làm sao?
+B 先放在仓库，找别的订单用。|Để vào kho trước, tìm đơn khác để dùng.
+
+# Lập kế hoạch năm
+A 明年的生产计划要在十二月完成。|Kế hoạch sản xuất năm sau phải hoàn thành vào tháng Mười Hai.
+B 需要参考今年的数据吗？|Có cần tham khảo số liệu năm nay không?
+A 需要，还要看市场的变化。|Cần, còn phải xem biến động thị trường.
+B 好，我先把今年的数据整理出来。|Vâng, tôi tổng hợp số liệu năm nay trước.
